@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chon Buri",
+               "short_name" : "จ.ชลบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chon Buri, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5893563,
+                  "lng" : 101.7168862
+               },
+               "southwest" : {
+                  "lat" : 12.5086232,
+                  "lng" : 100.6470747
+               }
+            },
+            "location" : {
+               "lat" : 13.3611431,
+               "lng" : 100.9846717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5893563,
+                  "lng" : 101.7168862
+               },
+               "southwest" : {
+                  "lat" : 12.5086232,
+                  "lng" : 100.6470747
+               }
+            }
+         },
+         "place_id" : "ChIJPxDrgxewAjERH_3dUV-RDik",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

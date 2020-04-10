@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shropshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shropshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9983945,
+                  "lng" : -2.2328985
+               },
+               "southwest" : {
+                  "lat" : 52.3062678,
+                  "lng" : -3.2355653
+               }
+            },
+            "location" : {
+               "lat" : 52.7063657,
+               "lng" : -2.7417849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9983945,
+                  "lng" : -2.2328985
+               },
+               "southwest" : {
+                  "lat" : 52.3062678,
+                  "lng" : -3.2355653
+               }
+            }
+         },
+         "place_id" : "ChIJLx3o1zdNZUgRIvHNaPOeniE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

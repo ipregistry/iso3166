@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancashire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2395574,
+                  "lng" : -2.0450727
+               },
+               "southwest" : {
+                  "lat" : 53.48276569999999,
+                  "lng" : -3.084548
+               }
+            },
+            "location" : {
+               "lat" : 53.7632254,
+               "lng" : -2.7044052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2395574,
+                  "lng" : -2.0450727
+               },
+               "southwest" : {
+                  "lat" : 53.48276569999999,
+                  "lng" : -3.084548
+               }
+            }
+         },
+         "place_id" : "ChIJ2_UmUkxNekgRZRtGDNF9SbU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

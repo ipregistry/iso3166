@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chuvashia Republic",
+               "short_name" : "Chuvashia Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chuvashia Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.328697,
+                  "lng" : 48.421495
+               },
+               "southwest" : {
+                  "lat" : 54.629717,
+                  "lng" : 45.9113349
+               }
+            },
+            "location" : {
+               "lat" : 55.55959920000001,
+               "lng" : 46.9283535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.328697,
+                  "lng" : 48.421495
+               },
+               "southwest" : {
+                  "lat" : 54.629717,
+                  "lng" : 45.9113349
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_2UGAxQNW0ERYJXxg6WjAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

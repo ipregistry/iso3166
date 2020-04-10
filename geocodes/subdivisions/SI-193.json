@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Žužemberk",
+               "short_name" : "Žužemberk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Žužemberk",
+               "short_name" : "Žužemberk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Novo Mesto",
+               "short_name" : "Novo Mesto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8360",
+               "short_name" : "8360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8360 Žužemberk, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8477587,
+                  "lng" : 14.9495254
+               },
+               "southwest" : {
+                  "lat" : 45.8019543,
+                  "lng" : 14.9077541
+               }
+            },
+            "location" : {
+               "lat" : 45.830669,
+               "lng" : 14.9298228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8477587,
+                  "lng" : 14.9495254
+               },
+               "southwest" : {
+                  "lat" : 45.8019543,
+                  "lng" : 14.9077541
+               }
+            }
+         },
+         "place_id" : "ChIJ41vasubiZEcRUPc_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

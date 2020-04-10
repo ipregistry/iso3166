@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jurbarkas",
+               "short_name" : "Jurbarkas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jurbarkas District Municipality",
+               "short_name" : "Jurbarkas District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tauragė County",
+               "short_name" : "Tauragė County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jurbarkas, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1006551,
+                  "lng" : 22.782589
+               },
+               "southwest" : {
+                  "lat" : 55.0595651,
+                  "lng" : 22.700938
+               }
+            },
+            "location" : {
+               "lat" : 55.077407,
+               "lng" : 22.7419569
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1006551,
+                  "lng" : 22.782589
+               },
+               "southwest" : {
+                  "lat" : 55.0595651,
+                  "lng" : 22.700938
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7V9wT22h5kYRiu8XA-WGJgY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

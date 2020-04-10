@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kavango Region",
+               "short_name" : "Kavango Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kavango Region, Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.393156,
+                  "lng" : 22.522122
+               },
+               "southwest" : {
+                  "lat" : -19.1762981,
+                  "lng" : 17.995449
+               }
+            },
+            "location" : {
+               "lat" : -18.271048,
+               "lng" : 18.4276047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.393156,
+                  "lng" : 22.522122
+               },
+               "southwest" : {
+                  "lat" : -19.1762981,
+                  "lng" : 17.995449
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5feJ_97X5BsRT38D25eYAiE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bishkek",
+               "short_name" : "Bishkek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chuy Province",
+               "short_name" : "Chuy Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bishkek, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9506032,
+                  "lng" : 74.7188189
+               },
+               "southwest" : {
+                  "lat" : 42.8031469,
+                  "lng" : 74.46490299999999
+               }
+            },
+            "location" : {
+               "lat" : 42.8746212,
+               "lng" : 74.5697617
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9506032,
+                  "lng" : 74.7188189
+               },
+               "southwest" : {
+                  "lat" : 42.8031469,
+                  "lng" : 74.46490299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgcizkdy3njgRfeLefPW6Lkk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selenge",
+               "short_name" : "Selenge",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Selenge, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4797081,
+                  "lng" : 108.5558982
+               },
+               "southwest" : {
+                  "lat" : 48.49716799999999,
+                  "lng" : 104.3557853
+               }
+            },
+            "location" : {
+               "lat" : 50.0059273,
+               "lng" : 106.4434108
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4797081,
+                  "lng" : 108.5558982
+               },
+               "southwest" : {
+                  "lat" : 48.49716799999999,
+                  "lng" : 104.3557853
+               }
+            }
+         },
+         "place_id" : "ChIJv_OOguZfvV0RfIlhj1oX-ew",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

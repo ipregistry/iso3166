@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.2955,
+                  "lng" : -75.1887938
+               },
+               "southwest" : {
+                  "lat" : -5.0143509,
+                  "lng" : -92.60379999999999
+               }
+            },
+            "location" : {
+               "lat" : -1.831239,
+               "lng" : -78.18340599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.2955,
+                  "lng" : -75.1887938
+               },
+               "southwest" : {
+                  "lat" : -5.0143509,
+                  "lng" : -92.60379999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1UuaqN2HI5ARAjecEQSvdp0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

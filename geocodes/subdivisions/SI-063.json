@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ljutomer",
+               "short_name" : "Ljutomer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ljutomer",
+               "short_name" : "Ljutomer",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ljutomer",
+               "short_name" : "Ljutomer",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9240",
+               "short_name" : "9240",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9240 Ljutomer, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5448579,
+                  "lng" : 16.2174697
+               },
+               "southwest" : {
+                  "lat" : 46.5052073,
+                  "lng" : 16.167963
+               }
+            },
+            "location" : {
+               "lat" : 46.5193583,
+               "lng" : 16.197814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5448579,
+                  "lng" : 16.2174697
+               },
+               "southwest" : {
+                  "lat" : 46.5052073,
+                  "lng" : 16.167963
+               }
+            }
+         },
+         "place_id" : "ChIJz8jvYddFb0cRVWUyQxhaPak",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riau Archipelago",
+               "short_name" : "Riau Archipelago",
+               "types" : [ "archipelago", "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riau Archipelago, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.2580857,
+                  "lng" : 109.1880047
+               },
+               "southwest" : {
+                  "lat" : -0.6930141,
+                  "lng" : 103.2663479
+               }
+            },
+            "location" : {
+               "lat" : 1.7825358,
+               "lng" : 106.2271763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.4827912,
+                  "lng" : 105.0531182
+               },
+               "southwest" : {
+                  "lat" : 0.4722091,
+                  "lng" : 103.4365847
+               }
+            }
+         },
+         "place_id" : "ChIJZ06DCgB07DERAT7HmShoASA",
+         "types" : [ "archipelago", "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

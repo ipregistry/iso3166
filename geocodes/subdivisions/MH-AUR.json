@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aur Atoll",
+               "short_name" : "Aur Atoll",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Aur Atoll",
+               "short_name" : "Aur Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aur Atoll, RMI",
+         "geometry" : {
+            "location" : {
+               "lat" : 8.199999999999999,
+               "lng" : 171.1
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.211043799999999,
+                  "lng" : 171.1160074
+               },
+               "southwest" : {
+                  "lat" : 8.1889559,
+                  "lng" : 171.0839926
+               }
+            }
+         },
+         "place_id" : "ChIJhWRa1yLGBWURjlpTh0HdFsg",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

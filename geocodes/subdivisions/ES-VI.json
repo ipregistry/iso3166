@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Álava",
+               "short_name" : "Álava",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Basque Country",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Álava, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.216969,
+                  "lng" : -2.2326871
+               },
+               "southwest" : {
+                  "lat" : 42.4722552,
+                  "lng" : -3.2867669
+               }
+            },
+            "location" : {
+               "lat" : 42.9099989,
+               "lng" : -2.6983868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.216969,
+                  "lng" : -2.2326871
+               },
+               "southwest" : {
+                  "lat" : 42.4722552,
+                  "lng" : -3.2867669
+               }
+            }
+         },
+         "place_id" : "ChIJMzKUYhbATw0RQMnJc4L1BAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hail",
+               "short_name" : "Hail",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hail",
+               "short_name" : "Hail",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hail Province",
+               "short_name" : "Hail Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hail Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6987282,
+                  "lng" : 41.8434906
+               },
+               "southwest" : {
+                  "lat" : 27.3530152,
+                  "lng" : 41.5061761
+               }
+            },
+            "location" : {
+               "lat" : 27.5114102,
+               "lng" : 41.7208243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6987282,
+                  "lng" : 41.8434906
+               },
+               "southwest" : {
+                  "lat" : 27.3530152,
+                  "lng" : 41.5061761
+               }
+            }
+         },
+         "place_id" : "ChIJo_rQluZGdhURgIiKJ4aiI6g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

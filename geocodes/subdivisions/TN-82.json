@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medinine",
+               "short_name" : "Medinine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Medenine North",
+               "short_name" : "Medenine North",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Medenine",
+               "short_name" : "Medenine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medinine, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.3705348,
+                  "lng" : 10.5216409
+               },
+               "southwest" : {
+                  "lat" : 33.3227112,
+                  "lng" : 10.4608726
+               }
+            },
+            "location" : {
+               "lat" : 33.3399221,
+               "lng" : 10.4958678
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.3705348,
+                  "lng" : 10.5216409
+               },
+               "southwest" : {
+                  "lat" : 33.3227112,
+                  "lng" : 10.4608726
+               }
+            }
+         },
+         "place_id" : "ChIJR1FzZijWVBIRQDx4XiHfhfA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

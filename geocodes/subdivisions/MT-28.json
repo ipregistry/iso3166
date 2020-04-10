@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marsaxlokk",
+               "short_name" : "Marsaxlokk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marsaxlokk, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8477721,
+                  "lng" : 14.5724385
+               },
+               "southwest" : {
+                  "lat" : 35.8192414,
+                  "lng" : 14.526355
+               }
+            },
+            "location" : {
+               "lat" : 35.8411699,
+               "lng" : 14.5393097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8477721,
+                  "lng" : 14.5724385
+               },
+               "southwest" : {
+                  "lat" : 35.8192414,
+                  "lng" : 14.526355
+               }
+            }
+         },
+         "place_id" : "ChIJ5-yEpZ5bDhMRqx_47sj3AO4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Železniki",
+               "short_name" : "Železniki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Železniki",
+               "short_name" : "Železniki",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Škofja Loka",
+               "short_name" : "Škofja Loka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4228",
+               "short_name" : "4228",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4228 Železniki, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2399012,
+                  "lng" : 14.1769495
+               },
+               "southwest" : {
+                  "lat" : 46.19893709999999,
+                  "lng" : 14.0979763
+               }
+            },
+            "location" : {
+               "lat" : 46.22544,
+               "lng" : 14.1692478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2399012,
+                  "lng" : 14.1769495
+               },
+               "southwest" : {
+                  "lat" : 46.19893709999999,
+                  "lng" : 14.0979763
+               }
+            }
+         },
+         "place_id" : "ChIJ0Zu4J4DqekcRszasn_GnJj4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

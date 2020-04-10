@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.558743,
+                  "lng" : 20.352926
+               },
+               "southwest" : {
+                  "lat" : 41.8297,
+                  "lng" : 18.4337921
+               }
+            },
+            "location" : {
+               "lat" : 42.708678,
+               "lng" : 19.37439
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.558743,
+                  "lng" : 20.352926
+               },
+               "southwest" : {
+                  "lat" : 41.8297,
+                  "lng" : 18.4337921
+               }
+            }
+         },
+         "place_id" : "ChIJyx8sJBcyTBMRRtP_boadTDg",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

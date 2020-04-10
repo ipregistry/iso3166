@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bukidnon",
+               "short_name" : "Bukidnon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Mindanao",
+               "short_name" : "Northern Mindanao",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bukidnon, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.5942308,
+                  "lng" : 125.4435841
+               },
+               "southwest" : {
+                  "lat" : 7.402983000000001,
+                  "lng" : 124.500796
+               }
+            },
+            "location" : {
+               "lat" : 8.0515054,
+               "lng" : 124.9229946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.5942308,
+                  "lng" : 125.4435841
+               },
+               "southwest" : {
+                  "lat" : 7.402983000000001,
+                  "lng" : 124.500796
+               }
+            }
+         },
+         "place_id" : "ChIJ9U7g1g0O_zIRzXKKfOveMiU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

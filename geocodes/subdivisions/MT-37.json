@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nadur",
+               "short_name" : "Nadur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nadur, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0657716,
+                  "lng" : 14.3228352
+               },
+               "southwest" : {
+                  "lat" : 36.0334661,
+                  "lng" : 14.2772483
+               }
+            },
+            "location" : {
+               "lat" : 36.0447019,
+               "lng" : 14.2919273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0657716,
+                  "lng" : 14.3228352
+               },
+               "southwest" : {
+                  "lat" : 36.0334661,
+                  "lng" : 14.2772483
+               }
+            }
+         },
+         "place_id" : "ChIJr5r0LilLDhMRcPX59Pt0smc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

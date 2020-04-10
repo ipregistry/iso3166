@@ -1,0 +1,56 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wotho Atoll",
+               "short_name" : "Wotho Atoll",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Wotho Atoll",
+               "short_name" : "Wotho Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wotho Atoll, RMI",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.1,
+               "lng" : 165.9833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.1109849,
+                  "lng" : 165.9993407
+               },
+               "southwest" : {
+                  "lat" : 10.0890147,
+                  "lng" : 165.9673259
+               }
+            }
+         },
+         "place_id" : "ChIJxXeCUtDFsmUR6CwRxhyOVSs",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}
+              "southwest" : {
+                  "lat" : 10.0144328,
+                  "lng" : 165.9193897
+               }
+            }
+         },
+         "place_id" : "ChIJ9eKwKMnFsmURoBsGn8KtUpU",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sahel Region",
+               "short_name" : "Sahel Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sahel Region, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.0825929,
+                  "lng" : 1.282974
+               },
+               "southwest" : {
+                  "lat" : 12.9720259,
+                  "lng" : -2.091236
+               }
+            },
+            "location" : {
+               "lat" : 14.1000865,
+               "lng" : -0.1494988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.0825929,
+                  "lng" : 1.282974
+               },
+               "southwest" : {
+                  "lat" : 12.9720259,
+                  "lng" : -2.091236
+               }
+            }
+         },
+         "place_id" : "ChIJKWVx8qOwJw4RcfAWtXuf_vk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

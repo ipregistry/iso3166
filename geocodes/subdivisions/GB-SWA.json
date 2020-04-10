@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swansea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6391493,
+                  "lng" : -3.9289927
+               },
+               "southwest" : {
+                  "lat" : 51.6118816,
+                  "lng" : -3.967001
+               }
+            },
+            "location" : {
+               "lat" : 51.62144,
+               "lng" : -3.943645999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6391493,
+                  "lng" : -3.9289927
+               },
+               "southwest" : {
+                  "lat" : 51.6118816,
+                  "lng" : -3.967001
+               }
+            }
+         },
+         "place_id" : "ChIJsZdOWlVFbkgRdMvnL44Sdz0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

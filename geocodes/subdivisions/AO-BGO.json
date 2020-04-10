@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bengo River",
+               "short_name" : "Bengo River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Angola",
+               "short_name" : "AO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bengo River, Angola",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.724853599999999,
+                  "lng" : 13.7984428
+               },
+               "southwest" : {
+                  "lat" : -8.9850934,
+                  "lng" : 13.3818345
+               }
+            },
+            "location" : {
+               "lat" : -8.866806799999999,
+               "lng" : 13.6044332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.724853599999999,
+                  "lng" : 13.7984428
+               },
+               "southwest" : {
+                  "lat" : -8.9850934,
+                  "lng" : 13.3818345
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcWkLDngBThoR3ZevfwxC9r8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

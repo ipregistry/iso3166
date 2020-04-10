@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oplotnica",
+               "short_name" : "Oplotnica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oplotnica",
+               "short_name" : "Oplotnica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Slovenska Bistrica",
+               "short_name" : "Slovenska Bistrica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2317",
+               "short_name" : "2317",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2317 Oplotnica, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3960908,
+                  "lng" : 15.4692903
+               },
+               "southwest" : {
+                  "lat" : 46.3707474,
+                  "lng" : 15.4334869
+               }
+            },
+            "location" : {
+               "lat" : 46.387163,
+               "lng" : 15.4458131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3960908,
+                  "lng" : 15.4692903
+               },
+               "southwest" : {
+                  "lat" : 46.3707474,
+                  "lng" : 15.4334869
+               }
+            }
+         },
+         "place_id" : "ChIJnRjyP8x_ZUcRt7duhxdDpo0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

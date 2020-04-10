@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vukovar-Srijem County",
+               "short_name" : "Vukovar-Srijem County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vukovar-Srijem County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4856329,
+                  "lng" : 19.4480523
+               },
+               "southwest" : {
+                  "lat" : 44.8497502,
+                  "lng" : 18.4948404
+               }
+            },
+            "location" : {
+               "lat" : 45.1773552,
+               "lng" : 18.8053527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4856329,
+                  "lng" : 19.4480523
+               },
+               "southwest" : {
+                  "lat" : 44.8497502,
+                  "lng" : 18.4948404
+               }
+            }
+         },
+         "place_id" : "ChIJCXUtzGB8XEcRELUrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

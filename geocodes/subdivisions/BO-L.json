@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Paz",
+               "short_name" : "La Paz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pedro Domingo Murillo Province",
+               "short_name" : "Pedro Domingo Murillo Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "La Paz Department",
+               "short_name" : "La Paz Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bolivia",
+               "short_name" : "BO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Paz, Bolivia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.4245596,
+                  "lng" : -68.01129329999999
+               },
+               "southwest" : {
+                  "lat" : -16.6168651,
+                  "lng" : -68.23686169999999
+               }
+            },
+            "location" : {
+               "lat" : -16.489689,
+               "lng" : -68.11929359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.4245596,
+                  "lng" : -68.01129329999999
+               },
+               "southwest" : {
+                  "lat" : -16.6168651,
+                  "lng" : -68.23686169999999
+               }
+            }
+         },
+         "place_id" : "ChIJD6T1BArfXpERs4pFtHb821c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

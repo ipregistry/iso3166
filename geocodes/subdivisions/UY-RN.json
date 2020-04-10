@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rio Negro",
+               "short_name" : "Rio Negro",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rio Negro, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.9620219,
+                  "lng" : -57.10131879999999
+               },
+               "southwest" : {
+                  "lat" : -33.43076120000001,
+                  "lng" : -58.44587359999999
+               }
+            },
+            "location" : {
+               "lat" : -33.0565975,
+               "lng" : -57.78261430000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.9620219,
+                  "lng" : -57.10131879999999
+               },
+               "southwest" : {
+                  "lat" : -33.43076120000001,
+                  "lng" : -58.44587359999999
+               }
+            }
+         },
+         "place_id" : "ChIJu4y9q1kxpZURKElYIhua58w",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

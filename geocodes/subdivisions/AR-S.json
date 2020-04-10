@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Santa Fe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Capital Department",
+               "short_name" : "La Capital Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santa Fe Province",
+               "short_name" : "Santa Fe Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Fe, Santa Fe Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.5632813,
+                  "lng" : -60.66418849999999
+               },
+               "southwest" : {
+                  "lat" : -31.6730041,
+                  "lng" : -60.74832569999999
+               }
+            },
+            "location" : {
+               "lat" : -31.6106578,
+               "lng" : -60.697294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.5632813,
+                  "lng" : -60.66418849999999
+               },
+               "southwest" : {
+                  "lat" : -31.6730041,
+                  "lng" : -60.74832569999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4YgIxK2ptZURSoACjR5299w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

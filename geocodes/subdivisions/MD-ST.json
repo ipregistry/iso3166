@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Straseni",
+               "short_name" : "Straseni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Strășeni District",
+               "short_name" : "Strășeni District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Straseni, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1640127,
+                  "lng" : 28.6591243
+               },
+               "southwest" : {
+                  "lat" : 47.1285493,
+                  "lng" : 28.5884428
+               }
+            },
+            "location" : {
+               "lat" : 47.1450267,
+               "lng" : 28.6136736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1640127,
+                  "lng" : 28.6591243
+               },
+               "southwest" : {
+                  "lat" : 47.1285493,
+                  "lng" : 28.5884428
+               }
+            }
+         },
+         "place_id" : "ChIJPZqb2wTQy0ARpkLUY8HgOho",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

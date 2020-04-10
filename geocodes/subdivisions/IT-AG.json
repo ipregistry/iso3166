@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agrigento",
+               "short_name" : "Agrigento",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agrigento",
+               "short_name" : "Agrigento",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Agrigento",
+               "short_name" : "AG",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicily",
+               "short_name" : "Sicily",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92100",
+               "short_name" : "92100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "92100 Agrigento, AG, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3402724,
+                  "lng" : 13.6034021
+               },
+               "southwest" : {
+                  "lat" : 37.2960119,
+                  "lng" : 13.5689481
+               }
+            },
+            "location" : {
+               "lat" : 37.3088512,
+               "lng" : 13.5857528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3402724,
+                  "lng" : 13.6034021
+               },
+               "southwest" : {
+                  "lat" : 37.2960119,
+                  "lng" : 13.5689481
+               }
+            }
+         },
+         "place_id" : "ChIJh4ezdlWCEBMRs0GTCBLA8To",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

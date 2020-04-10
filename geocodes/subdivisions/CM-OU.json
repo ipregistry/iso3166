@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West",
+               "short_name" : "West",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West, Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.2716239,
+                  "lng" : 11.3210561
+               },
+               "southwest" : {
+                  "lat" : 4.897807999999999,
+                  "lng" : 9.881679
+               }
+            },
+            "location" : {
+               "lat" : 5.4638158,
+               "lng" : 10.8000051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.2716239,
+                  "lng" : 11.3210561
+               },
+               "southwest" : {
+                  "lat" : 4.897807999999999,
+                  "lng" : 9.881679
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPWy600KZ9RAR9lifxK0sABs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

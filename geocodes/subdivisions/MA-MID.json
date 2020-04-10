@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midelt",
+               "short_name" : "Midelt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khenifra Province",
+               "short_name" : "Khenifra Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Drâa-Tafilalet",
+               "short_name" : "Drâa-Tafilalet",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Midelt, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7062057,
+                  "lng" : -4.7188855
+               },
+               "southwest" : {
+                  "lat" : 32.6648126,
+                  "lng" : -4.7464371
+               }
+            },
+            "location" : {
+               "lat" : 32.6799423,
+               "lng" : -4.7329268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7062057,
+                  "lng" : -4.7188855
+               },
+               "southwest" : {
+                  "lat" : 32.6648126,
+                  "lng" : -4.7464371
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnx5E6EK_mA0RNrXbqKacJog",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

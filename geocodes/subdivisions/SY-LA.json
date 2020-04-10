@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Latakia",
+               "short_name" : "Latakia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Latakia District",
+               "short_name" : "Latakia District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latakia Governorate",
+               "short_name" : "Latakia Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Latakia, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.59417630000001,
+                  "lng" : 35.8675675
+               },
+               "southwest" : {
+                  "lat" : 35.492916,
+                  "lng" : 35.7164647
+               }
+            },
+            "location" : {
+               "lat" : 35.5407103,
+               "lng" : 35.7952667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.59417630000001,
+                  "lng" : 35.8675675
+               },
+               "southwest" : {
+                  "lat" : 35.492916,
+                  "lng" : 35.7164647
+               }
+            }
+         },
+         "place_id" : "ChIJfWDUYS2sJhUR3pVBofhbMo4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,57 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Apurimac",
+               "short_name" : "Apurimac",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Apurimac, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.170715,
+                  "lng" : -72.05120289999999
+               },
+               "southwest" : {
+                  "lat" : -14.84273,
+                  "lng" : -73.84744599999999
+               }
+            },
+            "location" : {
+               "lat" : -14.0504533,
+               "lng" : -73.087749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.170715,
+                  "lng" : -72.05120289999999
+               },
+               "southwest" : {
+                  "lat" : -14.84273,
+                  "lng" : -73.84744599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnV41gX-QbJER6Rtf-x0YMTU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+  },
+         "place_id" : "ChIJjz8bhUb5bJERwL4QHo1caPY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

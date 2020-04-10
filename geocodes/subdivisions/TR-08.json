@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Artvin",
+               "short_name" : "Artvin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Artvin Merkez",
+               "short_name" : "Artvin Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Artvin",
+               "short_name" : "Artvin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Artvin, Artvin Merkez/Artvin, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.191183,
+                  "lng" : 41.8369381
+               },
+               "southwest" : {
+                  "lat" : 41.168135,
+                  "lng" : 41.79922200000001
+               }
+            },
+            "location" : {
+               "lat" : 41.180937,
+               "lng" : 41.820819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.191183,
+                  "lng" : 41.8369381
+               },
+               "southwest" : {
+                  "lat" : 41.168135,
+                  "lng" : 41.79922200000001
+               }
+            }
+         },
+         "place_id" : "ChIJJfuChi12aEARTAYe3vE_DiU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krong Kracheh",
+               "short_name" : "Krong Kracheh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kracheh",
+               "short_name" : "Kracheh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kratié Province",
+               "short_name" : "Kratié Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krong Kracheh, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.5385824,
+                  "lng" : 106.0914732
+               },
+               "southwest" : {
+                  "lat" : 12.4263088,
+                  "lng" : 105.9821463
+               }
+            },
+            "location" : {
+               "lat" : 12.4896877,
+               "lng" : 106.0287512
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.5385824,
+                  "lng" : 106.0914732
+               },
+               "southwest" : {
+                  "lat" : 12.4263088,
+                  "lng" : 105.9821463
+               }
+            }
+         },
+         "place_id" : "ChIJe8oZP1oaDTERec-hALICFNQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

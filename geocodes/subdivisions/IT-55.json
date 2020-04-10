@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Umbria",
+               "short_name" : "Umbria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Umbria, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.61734610000001,
+                  "lng" : 13.2641691
+               },
+               "southwest" : {
+                  "lat" : 42.3644512,
+                  "lng" : 11.8918927
+               }
+            },
+            "location" : {
+               "lat" : 42.938004,
+               "lng" : 12.6216211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61734610000001,
+                  "lng" : 13.2641691
+               },
+               "southwest" : {
+                  "lat" : 42.3644512,
+                  "lng" : 11.8918927
+               }
+            }
+         },
+         "place_id" : "ChIJff2Ab86ZLhMRgmK_suBHCJw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

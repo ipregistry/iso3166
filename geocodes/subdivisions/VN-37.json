@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tây Ninh",
+               "short_name" : "Tây Ninh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tây Ninh Province",
+               "short_name" : "Tây Ninh Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tây Ninh, Tây Ninh Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.4384371,
+                  "lng" : 106.1880131
+               },
+               "southwest" : {
+                  "lat" : 11.293289,
+                  "lng" : 106.0712941
+               }
+            },
+            "location" : {
+               "lat" : 11.3351554,
+               "lng" : 106.1098854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.4384371,
+                  "lng" : 106.1880131
+               },
+               "southwest" : {
+                  "lat" : 11.293289,
+                  "lng" : 106.0712941
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxT8NuepqCzERFd8IQCHRWaA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cavan",
+               "short_name" : "Cavan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Cavan",
+               "short_name" : "County Cavan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cavan, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.00315670000001,
+                  "lng" : -7.3168015
+               },
+               "southwest" : {
+                  "lat" : 53.9700812,
+                  "lng" : -7.394294299999999
+               }
+            },
+            "location" : {
+               "lat" : 53.9897186,
+               "lng" : -7.3633319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.00315670000001,
+                  "lng" : -7.3168015
+               },
+               "southwest" : {
+                  "lat" : 53.9700812,
+                  "lng" : -7.394294299999999
+               }
+            }
+         },
+         "place_id" : "ChIJ6y6RYi0MXkgRcHIxl6nHAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

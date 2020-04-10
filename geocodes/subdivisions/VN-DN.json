@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Da Nang",
+               "short_name" : "Da Nang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hải Châu District",
+               "short_name" : "Hải Châu District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Da Nang",
+               "short_name" : "Da Nang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Da Nang, Hải Châu District, Da Nang, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.0951345,
+                  "lng" : 108.2354165
+               },
+               "southwest" : {
+                  "lat" : 15.999203,
+                  "lng" : 108.1779956
+               }
+            },
+            "location" : {
+               "lat" : 16.0544068,
+               "lng" : 108.2021667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.0951345,
+                  "lng" : 108.2354165
+               },
+               "southwest" : {
+                  "lat" : 15.999203,
+                  "lng" : 108.1779956
+               }
+            }
+         },
+         "place_id" : "ChIJEyolkscZQjERh2RDRKDjFPw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

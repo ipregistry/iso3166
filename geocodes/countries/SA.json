@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.154284,
+                  "lng" : 55.6666999
+               },
+               "southwest" : {
+                  "lat" : 16.0036,
+                  "lng" : 34.4815001
+               }
+            },
+            "location" : {
+               "lat" : 23.885942,
+               "lng" : 45.079162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.154284,
+                  "lng" : 55.6666999
+               },
+               "southwest" : {
+                  "lat" : 16.0036,
+                  "lng" : 34.4815001
+               }
+            }
+         },
+         "place_id" : "ChIJQSqV5z-z5xURm7YawktQYFk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

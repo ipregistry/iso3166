@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pak Phriao",
+               "short_name" : "Pak Phriao",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Saraburi District",
+               "short_name" : "Mueang Saraburi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saraburi",
+               "short_name" : "จ.สระบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18000",
+               "short_name" : "18000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pak Phriao, Mueang Saraburi District, Saraburi 18000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.5553679,
+                  "lng" : 100.9507695
+               },
+               "southwest" : {
+                  "lat" : 14.4974204,
+                  "lng" : 100.8867494
+               }
+            },
+            "location" : {
+               "lat" : 14.5270426,
+               "lng" : 100.9130244
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.5553679,
+                  "lng" : 100.9507695
+               },
+               "southwest" : {
+                  "lat" : 14.4974204,
+                  "lng" : 100.8867494
+               }
+            }
+         },
+         "place_id" : "ChIJ_3aqhRHpHTER8LoMRTeSAQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

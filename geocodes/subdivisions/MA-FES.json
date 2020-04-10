@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fes",
+               "short_name" : "Fes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilaya de Fes",
+               "short_name" : "Wilaya de Fes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Fez-Meknès",
+               "short_name" : "Fez-Meknès",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fes, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.075377,
+                  "lng" : -4.927883
+               },
+               "southwest" : {
+                  "lat" : 33.9725487,
+                  "lng" : -5.0755978
+               }
+            },
+            "location" : {
+               "lat" : 34.0181246,
+               "lng" : -5.0078451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.075377,
+                  "lng" : -4.927883
+               },
+               "southwest" : {
+                  "lat" : 33.9725487,
+                  "lng" : -5.0755978
+               }
+            }
+         },
+         "place_id" : "ChIJd1dETUiLnw0R7wLY7a6q5hA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Division",
+               "short_name" : "Northern Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Division, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.7137239,
+                  "lng" : -179.1472779
+               },
+               "southwest" : {
+                  "lat" : -17.1145919,
+                  "lng" : 178.2716609
+               }
+            },
+            "location" : {
+               "lat" : -16.6268225,
+               "lng" : 179.0179332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.7137239,
+                  "lng" : -179.1472779
+               },
+               "southwest" : {
+                  "lat" : -17.1145919,
+                  "lng" : 178.2716609
+               }
+            }
+         },
+         "place_id" : "ChIJSR068wAnIG4R2XN9HyLzMGk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

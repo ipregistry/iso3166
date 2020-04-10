@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Semily",
+               "short_name" : "Semily",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Semily District",
+               "short_name" : "Semily District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Liberec Region",
+               "short_name" : "Liberec Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "513 01",
+               "short_name" : "513 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "513 01 Semily, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6386514,
+                  "lng" : 15.3634447
+               },
+               "southwest" : {
+                  "lat" : 50.5869521,
+                  "lng" : 15.2996288
+               }
+            },
+            "location" : {
+               "lat" : 50.6051576,
+               "lng" : 15.3281409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6386514,
+                  "lng" : 15.3634447
+               },
+               "southwest" : {
+                  "lat" : 50.5869521,
+                  "lng" : 15.2996288
+               }
+            }
+         },
+         "place_id" : "ChIJP-7SbmS3DkcR4NQVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

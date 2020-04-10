@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ulaanbaatar",
+               "short_name" : "Ulaanbaatar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khan-Uul",
+               "short_name" : "Khan-Uul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ulaanbaatar",
+               "short_name" : "Ulaanbaatar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ulaanbaatar, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.9591229,
+                  "lng" : 107.1043
+               },
+               "southwest" : {
+                  "lat" : 47.8241773,
+                  "lng" : 106.6994427
+               }
+            },
+            "location" : {
+               "lat" : 47.88639879999999,
+               "lng" : 106.9057439
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9591229,
+                  "lng" : 107.1043
+               },
+               "southwest" : {
+                  "lat" : 47.8241773,
+                  "lng" : 106.6994427
+               }
+            }
+         },
+         "place_id" : "ChIJq4qx4luSll0Rf4ShZHiSBuY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

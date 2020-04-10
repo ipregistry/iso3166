@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Konya",
+               "short_name" : "Konya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Konya",
+               "short_name" : "Konya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Konya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.034311,
+                  "lng" : 32.647959
+               },
+               "southwest" : {
+                  "lat" : 37.722702,
+                  "lng" : 32.3650061
+               }
+            },
+            "location" : {
+               "lat" : 37.8746429,
+               "lng" : 32.4931554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.034311,
+                  "lng" : 32.647959
+               },
+               "southwest" : {
+                  "lat" : 37.722702,
+                  "lng" : 32.3650061
+               }
+            }
+         },
+         "place_id" : "ChIJRfcV1miF0BQRZwkGCPzQDSQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

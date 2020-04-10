@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arima",
+               "short_name" : "Arima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arima Borough Corporation",
+               "short_name" : "Arima Borough Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arima, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.6558633,
+                  "lng" : -61.2634134
+               },
+               "southwest" : {
+                  "lat" : 10.6070415,
+                  "lng" : -61.2983895
+               }
+            },
+            "location" : {
+               "lat" : 10.6319414,
+               "lng" : -61.2845409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.6558633,
+                  "lng" : -61.2634134
+               },
+               "southwest" : {
+                  "lat" : 10.6070415,
+                  "lng" : -61.2983895
+               }
+            }
+         },
+         "place_id" : "ChIJv9OEwXX_SYwRmrPSDByq8OM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

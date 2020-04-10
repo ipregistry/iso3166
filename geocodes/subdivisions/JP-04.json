@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miyagi District",
+               "short_name" : "Miyagi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Miyagi",
+               "short_name" : "Miyagi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Miyagi District, Miyagi, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.4497579,
+                  "lng" : 141.1272013
+               },
+               "southwest" : {
+                  "lat" : 38.260645,
+                  "lng" : 140.933563
+               }
+            },
+            "location" : {
+               "lat" : 38.3703309,
+               "lng" : 141.0431673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4497579,
+                  "lng" : 141.1272013
+               },
+               "southwest" : {
+                  "lat" : 38.260645,
+                  "lng" : 140.933563
+               }
+            }
+         },
+         "place_id" : "ChIJtZADdEObiV8RaWXq5emFHtI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

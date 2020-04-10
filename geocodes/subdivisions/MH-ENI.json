@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enewetak Atoll",
+               "short_name" : "Enewetak Atoll",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Enewetak Atoll",
+               "short_name" : "Enewetak Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Enewetak Atoll, RMI",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.6900739,
+                  "lng" : 162.4015061
+               },
+               "southwest" : {
+                  "lat" : 11.3274978,
+                  "lng" : 162.038789
+               }
+            },
+            "location" : {
+               "lat" : 11.4653625,
+               "lng" : 162.189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.6900739,
+                  "lng" : 162.4015061
+               },
+               "southwest" : {
+                  "lat" : 11.3274978,
+                  "lng" : 162.038789
+               }
+            }
+         },
+         "place_id" : "ChIJz2V3mfEdNGQR4fZ_5_3l0Bg",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

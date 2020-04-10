@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingswood",
+               "short_name" : "Kingswood",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Gloucestershire",
+               "short_name" : "South Gloucestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kingswood, Bristol, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.463017,
+                  "lng" : -2.4991192
+               },
+               "southwest" : {
+                  "lat" : 51.4514982,
+                  "lng" : -2.5192147
+               }
+            },
+            "location" : {
+               "lat" : 51.4576114,
+               "lng" : -2.507493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.463017,
+                  "lng" : -2.4991192
+               },
+               "southwest" : {
+                  "lat" : 51.4514982,
+                  "lng" : -2.5192147
+               }
+            }
+         },
+         "place_id" : "ChIJ91W1VkOFcUgRHZUVZFvblOs",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

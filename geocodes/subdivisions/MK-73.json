@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strumica",
+               "short_name" : "Strumica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Strumitsa",
+               "short_name" : "Municipality of Strumitsa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Strumica, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.45609169999999,
+                  "lng" : 22.6640654
+               },
+               "southwest" : {
+                  "lat" : 41.4220055,
+                  "lng" : 22.6253986
+               }
+            },
+            "location" : {
+               "lat" : 41.4378004,
+               "lng" : 22.6427428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.45609169999999,
+                  "lng" : 22.6640654
+               },
+               "southwest" : {
+                  "lat" : 41.4220055,
+                  "lng" : 22.6253986
+               }
+            }
+         },
+         "place_id" : "ChIJN2qTHMD9qRQR4ETGU_QGAQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

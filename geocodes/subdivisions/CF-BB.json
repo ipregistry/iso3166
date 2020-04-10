@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bamingui-Bangoran",
+               "short_name" : "Bamingui-Bangoran",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Central African Republic",
+               "short_name" : "CF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bamingui-Bangoran, Central African Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.794469999999999,
+                  "lng" : 22.399819
+               },
+               "southwest" : {
+                  "lat" : 7.021317,
+                  "lng" : 18.8627225
+               }
+            },
+            "location" : {
+               "lat" : 8.2733455,
+               "lng" : 20.7122465
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.794469999999999,
+                  "lng" : 22.399819
+               },
+               "southwest" : {
+                  "lat" : 7.021317,
+                  "lng" : 18.8627225
+               }
+            }
+         },
+         "place_id" : "ChIJIzvoQKU50RAREGwdBcheKKo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+   }
+   ],
+   "status" : "OK"
+}

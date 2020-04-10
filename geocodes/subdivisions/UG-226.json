@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buyende",
+               "short_name" : "Buyende",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamuli",
+               "short_name" : "Kamuli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buyende, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.1481035,
+                  "lng" : 33.1623065
+               },
+               "southwest" : {
+                  "lat" : 1.1441132,
+                  "lng" : 33.1591415
+               }
+            },
+            "location" : {
+               "lat" : 1.1462969,
+               "lng" : 33.1611582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.1481035,
+                  "lng" : 33.1623065
+               },
+               "southwest" : {
+                  "lat" : 1.1441132,
+                  "lng" : 33.1591415
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4T49w59ZeRcRcl3wx2hqF-8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

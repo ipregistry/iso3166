@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viļaka Municipality",
+               "short_name" : "Viļaka Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Viļaka Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.370503,
+                  "lng" : 27.8689238
+               },
+               "southwest" : {
+                  "lat" : 57.0009099,
+                  "lng" : 27.416464
+               }
+            },
+            "location" : {
+               "lat" : 57.1722263,
+               "lng" : 27.6673188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.370503,
+                  "lng" : 27.8689238
+               },
+               "southwest" : {
+                  "lat" : 57.0009099,
+                  "lng" : 27.416464
+               }
+            }
+         },
+         "place_id" : "ChIJuxC1TEjcwUYRYP3yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

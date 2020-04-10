@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lara",
+               "short_name" : "Lara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lara, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.745313,
+                  "lng" : -68.874792
+               },
+               "southwest" : {
+                  "lat" : 9.3991601,
+                  "lng" : -70.88253499999999
+               }
+            },
+            "location" : {
+               "lat" : 10.1537842,
+               "lng" : -69.85974059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.745313,
+                  "lng" : -68.874792
+               },
+               "southwest" : {
+                  "lat" : 9.3991601,
+                  "lng" : -70.88253499999999
+               }
+            }
+         },
+         "place_id" : "ChIJcYY-eB1nh44R0sugz0kmKT8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yala",
+               "short_name" : "Yala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sateng",
+               "short_name" : "ต.สะเตง",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mueang Yala District",
+               "short_name" : "อ.เมืองยะลา",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yala",
+               "short_name" : "จ.ยะลา",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95000",
+               "short_name" : "95000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yala, Sateng, Mueang Yala District, Yala 95000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.5848254,
+                  "lng" : 101.3040489
+               },
+               "southwest" : {
+                  "lat" : 6.5138012,
+                  "lng" : 101.2494638
+               }
+            },
+            "location" : {
+               "lat" : 6.5411018,
+               "lng" : 101.2804075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.5848254,
+                  "lng" : 101.3040489
+               },
+               "southwest" : {
+                  "lat" : 6.5138012,
+                  "lng" : 101.2494638
+               }
+            }
+         },
+         "place_id" : "ChIJJz8eSSF0szERBFTyFL0jAiY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

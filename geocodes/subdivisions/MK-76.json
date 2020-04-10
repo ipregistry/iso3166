@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tetovo",
+               "short_name" : "Tetovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Tetovo",
+               "short_name" : "Municipality of Tetovo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tetovo, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0259693,
+                  "lng" : 20.9893371
+               },
+               "southwest" : {
+                  "lat" : 41.9892736,
+                  "lng" : 20.9485246
+               }
+            },
+            "location" : {
+               "lat" : 42.0069115,
+               "lng" : 20.9715269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0259693,
+                  "lng" : 20.9893371
+               },
+               "southwest" : {
+                  "lat" : 41.9892736,
+                  "lng" : 20.9485246
+               }
+            }
+         },
+         "place_id" : "ChIJ2-hQKujwUxMRTNPKRkvjh1U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Postojna",
+               "short_name" : "Postojna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Postojna",
+               "short_name" : "Postojna",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Postojna",
+               "short_name" : "Postojna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6230",
+               "short_name" : "6230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6230 Postojna, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8089095,
+                  "lng" : 14.326014
+               },
+               "southwest" : {
+                  "lat" : 45.7388591,
+                  "lng" : 14.1801071
+               }
+            },
+            "location" : {
+               "lat" : 45.7749704,
+               "lng" : 14.2133245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8089095,
+                  "lng" : 14.326014
+               },
+               "southwest" : {
+                  "lat" : 45.7388591,
+                  "lng" : 14.1801071
+               }
+            }
+         },
+         "place_id" : "ChIJuxV0EHUye0cRgLf0vmUYksE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

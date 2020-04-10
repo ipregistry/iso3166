@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gombe",
+               "short_name" : "Gombe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gombe",
+               "short_name" : "GM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gombe, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.3128497,
+                  "lng" : 11.2147019
+               },
+               "southwest" : {
+                  "lat" : 10.264117,
+                  "lng" : 11.1424112
+               }
+            },
+            "location" : {
+               "lat" : 10.279142,
+               "lng" : 11.1730615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.3128497,
+                  "lng" : 11.2147019
+               },
+               "southwest" : {
+                  "lat" : 10.264117,
+                  "lng" : 11.1424112
+               }
+            }
+         },
+         "place_id" : "ChIJD7p65mTQ_xAR74mSKefZckw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

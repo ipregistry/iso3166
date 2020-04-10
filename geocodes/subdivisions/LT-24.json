@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lazdijai",
+               "short_name" : "Lazdijai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lazdijai District Municipality",
+               "short_name" : "Lazdijai District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alytus County",
+               "short_name" : "Alytus County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lazdijai, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2531039,
+                  "lng" : 23.5418198
+               },
+               "southwest" : {
+                  "lat" : 54.20741899999999,
+                  "lng" : 23.4837821
+               }
+            },
+            "location" : {
+               "lat" : 54.2343267,
+               "lng" : 23.5156505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2531039,
+                  "lng" : 23.5418198
+               },
+               "southwest" : {
+                  "lat" : 54.20741899999999,
+                  "lng" : 23.4837821
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF52dDOjp4EYRG7U7B2iJvX0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

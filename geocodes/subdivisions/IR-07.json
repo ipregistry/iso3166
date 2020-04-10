@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran, Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8345498,
+                  "lng" : 51.6062163
+               },
+               "southwest" : {
+                  "lat" : 35.5590784,
+                  "lng" : 51.0934209
+               }
+            },
+            "location" : {
+               "lat" : 35.6891975,
+               "lng" : 51.3889736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8345498,
+                  "lng" : 51.6062163
+               },
+               "southwest" : {
+                  "lat" : 35.5590784,
+                  "lng" : 51.0934209
+               }
+            }
+         },
+         "place_id" : "ChIJ2dzzH0kAjj8RvCRwVnxps_A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

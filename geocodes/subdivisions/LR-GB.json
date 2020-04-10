@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Bassa",
+               "short_name" : "Grand Bassa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Bassa, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.7131769,
+                  "lng" : -9.0244939
+               },
+               "southwest" : {
+                  "lat" : 5.571676999999999,
+                  "lng" : -10.3774
+               }
+            },
+            "location" : {
+               "lat" : 6.2308452,
+               "lng" : -9.8124935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.7131769,
+                  "lng" : -9.0244939
+               },
+               "southwest" : {
+                  "lat" : 5.571676999999999,
+                  "lng" : -10.3774
+               }
+            }
+         },
+         "place_id" : "ChIJn2JB0QYWoQ8RpirTSZs-uYA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

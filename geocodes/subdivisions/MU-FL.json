@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flacq District",
+               "short_name" : "Flacq District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritius",
+               "short_name" : "MU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Flacq District, Mauritius",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.107483,
+                  "lng" : 57.80692570000001
+               },
+               "southwest" : {
+                  "lat" : -20.3324041,
+                  "lng" : 57.61632109999999
+               }
+            },
+            "location" : {
+               "lat" : -20.2257836,
+               "lng" : 57.7119274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.107483,
+                  "lng" : 57.80692570000001
+               },
+               "southwest" : {
+                  "lat" : -20.3324041,
+                  "lng" : 57.61632109999999
+               }
+            }
+         },
+         "place_id" : "ChIJC5jTde75fCERv5DDjvRAC94",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

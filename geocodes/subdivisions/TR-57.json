@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sinop",
+               "short_name" : "Sinop",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sinop Merkez",
+               "short_name" : "Sinop Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sinop",
+               "short_name" : "Sinop",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sinop, Sinop Merkez/Sinop, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.034432,
+                  "lng" : 35.192284
+               },
+               "southwest" : {
+                  "lat" : 41.993839,
+                  "lng" : 35.067527
+               }
+            },
+            "location" : {
+               "lat" : 42.02797400000001,
+               "lng" : 35.151725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.034432,
+                  "lng" : 35.192284
+               },
+               "southwest" : {
+                  "lat" : 41.993839,
+                  "lng" : 35.067527
+               }
+            }
+         },
+         "place_id" : "ChIJjXOGa94Sj0AR-0DG790uoc8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

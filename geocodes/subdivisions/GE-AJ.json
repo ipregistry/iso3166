@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adjara",
+               "short_name" : "Adjara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adjara, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.911625,
+                  "lng" : 42.602322
+               },
+               "southwest" : {
+                  "lat" : 41.4344289,
+                  "lng" : 41.5471797
+               }
+            },
+            "location" : {
+               "lat" : 41.6005626,
+               "lng" : 42.0688383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.911625,
+                  "lng" : 42.602322
+               },
+               "southwest" : {
+                  "lat" : 41.4344289,
+                  "lng" : 41.5471797
+               }
+            }
+         },
+         "place_id" : "ChIJe0KIU-FcXUAR5aT_l5NpHv0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

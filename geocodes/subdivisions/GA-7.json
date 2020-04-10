@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mont Saki",
+               "short_name" : "Mont Saki",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Lombo-Bouenguidi Department",
+               "short_name" : "Lombo-Bouenguidi Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ogooué-Lolo",
+               "short_name" : "Ogooué-Lolo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Gabon",
+               "short_name" : "GA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mont Saki, Gabon",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2833333,
+               "lng" : 12.5333333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.2721781,
+                  "lng" : 12.5493407
+               },
+               "southwest" : {
+                  "lat" : -1.2944885,
+                  "lng" : 12.5173259
+               }
+            }
+         },
+         "place_id" : "ChIJb5zvDYnbexoRy_9lwEwx1-g",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hahake",
+               "short_name" : "Hahake",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wallis",
+               "short_name" : "Wallis",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Wallis and Futuna",
+               "short_name" : "WF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hahake, Wallis and Futuna",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.2656774,
+                  "lng" : -176.1649132
+               },
+               "southwest" : {
+                  "lat" : -13.306901,
+                  "lng" : -176.2504863
+               }
+            },
+            "location" : {
+               "lat" : -13.2900721,
+               "lng" : -176.2006008
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.2656774,
+                  "lng" : -176.1649132
+               },
+               "southwest" : {
+                  "lat" : -13.306901,
+                  "lng" : -176.2504863
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ81_G5VKyyHERxqL-fNrlgyw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Somogy County",
+               "short_name" : "Somogy County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Somogy County, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9972831,
+                  "lng" : 18.2128418
+               },
+               "southwest" : {
+                  "lat" : 45.848009,
+                  "lng" : 16.8751449
+               }
+            },
+            "location" : {
+               "lat" : 46.554859,
+               "lng" : 17.5866732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9972831,
+                  "lng" : 18.2128418
+               },
+               "southwest" : {
+                  "lat" : 45.848009,
+                  "lng" : 16.8751449
+               }
+            }
+         },
+         "place_id" : "ChIJM-StpoZCaEcRABEeDCnEAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

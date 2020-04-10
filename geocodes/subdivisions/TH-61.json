@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uthai Thani",
+               "short_name" : "Uthai Thani",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uthai Thani, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.7979235,
+                  "lng" : 100.1065625
+               },
+               "southwest" : {
+                  "lat" : 14.9418877,
+                  "lng" : 98.98343009999999
+               }
+            },
+            "location" : {
+               "lat" : 15.3835001,
+               "lng" : 100.0245527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.7979235,
+                  "lng" : 100.1065625
+               },
+               "southwest" : {
+                  "lat" : 14.9418877,
+                  "lng" : 98.98343009999999
+               }
+            }
+         },
+         "place_id" : "ChIJrXXdW3g84TARsH4qR-18t3Y",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

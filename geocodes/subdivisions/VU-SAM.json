@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sanma Province",
+               "short_name" : "Sanma Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vanuatu",
+               "short_name" : "VU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sanma Province, Vanuatu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.633399,
+                  "lng" : 167.2989491
+               },
+               "southwest" : {
+                  "lat" : -15.75106,
+                  "lng" : 166.532941
+               }
+            },
+            "location" : {
+               "lat" : -15.4840017,
+               "lng" : 166.9182097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.633399,
+                  "lng" : 167.2989491
+               },
+               "southwest" : {
+                  "lat" : -15.75106,
+                  "lng" : 166.532941
+               }
+            }
+         },
+         "place_id" : "ChIJGw36omf68m4R8xy1Pm9aeRw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

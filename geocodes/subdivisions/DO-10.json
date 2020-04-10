@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Independencia Province",
+               "short_name" : "Independencia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Independencia Province, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.6965481,
+                  "lng" : -71.2074061
+               },
+               "southwest" : {
+                  "lat" : 18.167527,
+                  "lng" : -72.00348699999999
+               }
+            },
+            "location" : {
+               "lat" : 18.3785651,
+               "lng" : -71.5232874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.6965481,
+                  "lng" : -71.2074061
+               },
+               "southwest" : {
+                  "lat" : 18.167527,
+                  "lng" : -72.00348699999999
+               }
+            }
+         },
+         "place_id" : "ChIJK7C4Z_MSuo4RQRLcQfOH2xY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

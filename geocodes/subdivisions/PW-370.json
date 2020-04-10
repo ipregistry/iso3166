@@ -1,0 +1,95 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonsorol Island",
+               "short_name" : "Sonsorol Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sonsorol Island, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.3372417,
+                  "lng" : 132.2289562
+               },
+               "southwest" : {
+                  "lat" : 5.3152143,
+                  "lng" : 132.2169827
+               }
+            },
+            "location" : {
+               "lat" : 5.3268119,
+               "lng" : 132.2239117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.3372417,
+                  "lng" : 132.2289562
+               },
+               "southwest" : {
+                  "lat" : 5.3152143,
+                  "lng" : 132.2169827
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlefNFlkLxTIRPevJRZ6aw80",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonsorol",
+               "short_name" : "Sonsorol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sonsorol, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.6604059,
+                  "lng" : 132.3166651
+               },
+               "southwest" : {
+                  "lat" : 4.3053282,
+                  "lng" : 131.9466885
+               }
+            },
+            "location" : {
+               "lat" : 4.319971799999999,
+               "lng" : 132.3126369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.6604059,
+                  "lng" : 132.3166651
+               },
+               "southwest" : {
+                  "lat" : 4.3053282,
+                  "lng" : 131.9466885
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe9zljc7bxTIR7ahdjeKBONI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acklins",
+               "short_name" : "Acklins",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Acklins",
+               "short_name" : "Acklins",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Acklins, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.737803,
+                  "lng" : -73.8396839
+               },
+               "southwest" : {
+                  "lat" : 22.1636359,
+                  "lng" : -74.2917999
+               }
+            },
+            "location" : {
+               "lat" : 22.3657708,
+               "lng" : -74.05351259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.737803,
+                  "lng" : -73.8396839
+               },
+               "southwest" : {
+                  "lat" : 22.1636359,
+                  "lng" : -74.2917999
+               }
+            }
+         },
+         "place_id" : "ChIJD-Z9LMkINYkRtQaVPzyKDZ4",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

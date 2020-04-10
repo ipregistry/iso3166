@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kunene Region",
+               "short_name" : "Kunene Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kunene Region, Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.959894,
+                  "lng" : 16.72092
+               },
+               "southwest" : {
+                  "lat" : -21.188345,
+                  "lng" : 11.71563
+               }
+            },
+            "location" : {
+               "lat" : -19.4086317,
+               "lng" : 13.914399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.959894,
+                  "lng" : 16.72092
+               },
+               "southwest" : {
+                  "lat" : -21.188345,
+                  "lng" : 11.71563
+               }
+            }
+         },
+         "place_id" : "ChIJy6ZNZrxdmhsRK8rm7hk7sZI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kandahar",
+               "short_name" : "Kandahar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kandahar",
+               "short_name" : "Kandahar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kandahar",
+               "short_name" : "Kandahar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kandahar, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6725218,
+                  "lng" : 65.8307648
+               },
+               "southwest" : {
+                  "lat" : 31.5973985,
+                  "lng" : 65.6695744
+               }
+            },
+            "location" : {
+               "lat" : 31.628871,
+               "lng" : 65.7371749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6725218,
+                  "lng" : 65.8307648
+               },
+               "southwest" : {
+                  "lat" : 31.5973985,
+                  "lng" : 65.6695744
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN4jioLpx1j4RdapCkByyWSc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stockport",
+               "short_name" : "Stockport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stockport, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4548791,
+                  "lng" : -2.0825958
+               },
+               "southwest" : {
+                  "lat" : 53.3801502,
+                  "lng" : -2.2155281
+               }
+            },
+            "location" : {
+               "lat" : 53.41063159999999,
+               "lng" : -2.1575332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4548791,
+                  "lng" : -2.0825958
+               },
+               "southwest" : {
+                  "lat" : 53.3801502,
+                  "lng" : -2.2155281
+               }
+            }
+         },
+         "place_id" : "ChIJJ8QzyhU1ekgRSP4-gnv2GPQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

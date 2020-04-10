@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muş",
+               "short_name" : "Muş",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muş Merkez",
+               "short_name" : "Muş Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Muş",
+               "short_name" : "Muş",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muş, Muş Merkez/Muş, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.783503,
+                  "lng" : 41.5406251
+               },
+               "southwest" : {
+                  "lat" : 38.7182249,
+                  "lng" : 41.472306
+               }
+            },
+            "location" : {
+               "lat" : 38.734561,
+               "lng" : 41.491038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.783503,
+                  "lng" : 41.5406251
+               },
+               "southwest" : {
+                  "lat" : 38.7182249,
+                  "lng" : 41.472306
+               }
+            }
+         },
+         "place_id" : "ChIJ4d1wRPHlckARD2YJambJJLE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

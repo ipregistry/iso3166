@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sennar",
+               "short_name" : "Sennar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sennar",
+               "short_name" : "Sennar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sennar",
+               "short_name" : "Sennar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sudan",
+               "short_name" : "SD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sennar, Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5839232,
+                  "lng" : 33.5792828
+               },
+               "southwest" : {
+                  "lat" : 13.5523013,
+                  "lng" : 33.5470104
+               }
+            },
+            "location" : {
+               "lat" : 13.567469,
+               "lng" : 33.5672045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5839232,
+                  "lng" : 33.5792828
+               },
+               "southwest" : {
+                  "lat" : 13.5523013,
+                  "lng" : 33.5470104
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ33XS_G3o9BYRdU0kp8AdRBM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

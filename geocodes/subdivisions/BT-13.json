@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ha",
+               "short_name" : "Ha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haa",
+               "short_name" : "Haa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ha, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3958125,
+                  "lng" : 89.28674699999999
+               },
+               "southwest" : {
+                  "lat" : 27.3812945,
+                  "lng" : 89.2716836
+               }
+            },
+            "location" : {
+               "lat" : 27.386227,
+               "lng" : 89.27760169999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3958125,
+                  "lng" : 89.28674699999999
+               },
+               "southwest" : {
+                  "lat" : 27.3812945,
+                  "lng" : 89.2716836
+               }
+            }
+         },
+         "place_id" : "ChIJLTXp6EVw4TkRG8xKd7navfE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

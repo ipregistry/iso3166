@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torba Province",
+               "short_name" : "Torba Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vanuatu",
+               "short_name" : "VU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Torba Province, Vanuatu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.0716731,
+                  "lng" : 168.068302
+               },
+               "southwest" : {
+                  "lat" : -14.465699,
+                  "lng" : 166.543505
+               }
+            },
+            "location" : {
+               "lat" : -14.28096,
+               "lng" : 167.5160788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.0716731,
+                  "lng" : 168.068302
+               },
+               "southwest" : {
+                  "lat" : -14.465699,
+                  "lng" : 166.543505
+               }
+            }
+         },
+         "place_id" : "ChIJcX0yTIA-8W4RHXXYrZ7E9ls",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

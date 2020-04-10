@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kedougou",
+               "short_name" : "Kedougou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kédougou Region",
+               "short_name" : "Kédougou Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kedougou, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.6008051,
+                  "lng" : -12.1227265
+               },
+               "southwest" : {
+                  "lat" : 12.514682,
+                  "lng" : -12.208171
+               }
+            },
+            "location" : {
+               "lat" : 12.5604607,
+               "lng" : -12.1747077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.6008051,
+                  "lng" : -12.1227265
+               },
+               "southwest" : {
+                  "lat" : 12.514682,
+                  "lng" : -12.208171
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiQd_j5Ys-g4R0Lrjcf8HoBE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

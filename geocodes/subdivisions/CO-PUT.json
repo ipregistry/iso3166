@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Putumayo",
+               "short_name" : "Putumayo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Putumayo, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.5155439,
+                  "lng" : -73.837304
+               },
+               "southwest" : {
+                  "lat" : -0.573002,
+                  "lng" : -77.22725179999999
+               }
+            },
+            "location" : {
+               "lat" : 0.4359506,
+               "lng" : -75.52766989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.5155439,
+                  "lng" : -73.837304
+               },
+               "southwest" : {
+                  "lat" : -0.573002,
+                  "lng" : -77.22725179999999
+               }
+            }
+         },
+         "place_id" : "ChIJ4dNiCRwQJ44RphIOU5DEezg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

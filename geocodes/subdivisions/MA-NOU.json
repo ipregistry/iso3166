@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nouaceur",
+               "short_name" : "Nouaceur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Settat Province",
+               "short_name" : "Settat Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Casablanca-Settat",
+               "short_name" : "Casablanca-Settat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nouaceur, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4099183,
+                  "lng" : -7.5330903
+               },
+               "southwest" : {
+                  "lat" : 33.3021846,
+                  "lng" : -7.621572799999999
+               }
+            },
+            "location" : {
+               "lat" : 33.3670393,
+               "lng" : -7.5732537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4099183,
+                  "lng" : -7.5330903
+               },
+               "southwest" : {
+                  "lat" : 33.3021846,
+                  "lng" : -7.621572799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJq4OR61Ylpg0RwUsKWlOP6ko",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

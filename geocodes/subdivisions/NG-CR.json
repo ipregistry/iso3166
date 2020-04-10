@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cross River",
+               "short_name" : "Cross River",
+               "types" : [ "establishment", "natural_feature" ]
+            }
+         ],
+         "formatted_address" : "Cross River",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.172629799999999,
+                  "lng" : 9.9018131
+               },
+               "southwest" : {
+                  "lat" : 4.842442999999999,
+                  "lng" : 7.872159999999999
+               }
+            },
+            "location" : {
+               "lat" : 5.7906406,
+               "lng" : 8.840217599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.172629799999999,
+                  "lng" : 9.9018131
+               },
+               "southwest" : {
+                  "lat" : 4.842442999999999,
+                  "lng" : 7.872159999999999
+               }
+            }
+         },
+         "place_id" : "ChIJITFuQCVRXhARUM4DxZjWmK8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

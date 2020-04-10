@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Taipei",
+               "short_name" : "New Taipei",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Banqiao District",
+               "short_name" : "Banqiao District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "New Taipei City",
+               "short_name" : "New Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Taipei, Banqiao District, New Taipei City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.2627842,
+                  "lng" : 121.8107079
+               },
+               "southwest" : {
+                  "lat" : 24.8981475,
+                  "lng" : 121.2947308
+               }
+            },
+            "location" : {
+               "lat" : 25.0622095,
+               "lng" : 121.4570447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.2627842,
+                  "lng" : 121.8107079
+               },
+               "southwest" : {
+                  "lat" : 24.8981475,
+                  "lng" : 121.2947308
+               }
+            }
+         },
+         "place_id" : "ChIJowet3KQCaDQRN0rk-e5iXV4",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

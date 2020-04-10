@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ķegums Municipality",
+               "short_name" : "Ķegums Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ķegums Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.8452079,
+                  "lng" : 25.0535627
+               },
+               "southwest" : {
+                  "lat" : 56.5401289,
+                  "lng" : 24.517869
+               }
+            },
+            "location" : {
+               "lat" : 56.7475357,
+               "lng" : 24.7173645
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.8452079,
+                  "lng" : 25.0535627
+               },
+               "southwest" : {
+                  "lat" : 56.5401289,
+                  "lng" : 24.517869
+               }
+            }
+         },
+         "place_id" : "ChIJS9lvm-Qh6UYR4ADzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

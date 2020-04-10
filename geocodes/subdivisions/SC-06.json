@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baie Lazare",
+               "short_name" : "Baie Lazare",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Seychelles",
+               "short_name" : "SC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baie Lazare, Seychelles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.733061,
+                  "lng" : 55.509342
+               },
+               "southwest" : {
+                  "lat" : -4.766401,
+                  "lng" : 55.464302
+               }
+            },
+            "location" : {
+               "lat" : -4.7482525,
+               "lng" : 55.4859363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.733061,
+                  "lng" : 55.509342
+               },
+               "southwest" : {
+                  "lat" : -4.766401,
+                  "lng" : 55.464302
+               }
+            }
+         },
+         "place_id" : "ChIJfftPCWPV4SIRdeGv6j5iWH8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

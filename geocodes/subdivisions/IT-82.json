@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sicily",
+               "short_name" : "Sicily",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sicily, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8121854,
+                  "lng" : 15.6527947
+               },
+               "southwest" : {
+                  "lat" : 35.4915492,
+                  "lng" : 11.9253334
+               }
+            },
+            "location" : {
+               "lat" : 37.5999938,
+               "lng" : 14.0153557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8121854,
+                  "lng" : 15.6527947
+               },
+               "southwest" : {
+                  "lat" : 35.4915492,
+                  "lng" : 11.9253334
+               }
+            }
+         },
+         "place_id" : "ChIJs1lT0GhiEBMRUH22ZykECwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

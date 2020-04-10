@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rēzekne Municipality",
+               "short_name" : "Rēzekne Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rēzekne Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.83087099999999,
+                  "lng" : 27.722967
+               },
+               "southwest" : {
+                  "lat" : 56.1708029,
+                  "lng" : 26.774499
+               }
+            },
+            "location" : {
+               "lat" : 56.3273638,
+               "lng" : 27.3284331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.83087099999999,
+                  "lng" : 27.722967
+               },
+               "southwest" : {
+                  "lat" : 56.1708029,
+                  "lng" : 26.774499
+               }
+            }
+         },
+         "place_id" : "ChIJvQ6eAV8UwkYRgP3yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

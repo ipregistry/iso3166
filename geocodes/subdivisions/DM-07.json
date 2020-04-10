@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Luke Parish",
+               "short_name" : "Saint Luke Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominica",
+               "short_name" : "DM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Luke Parish, Dominica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.272731,
+                  "lng" : -61.34495099999999
+               },
+               "southwest" : {
+                  "lat" : 15.2373251,
+                  "lng" : -61.3773769
+               }
+            },
+            "location" : {
+               "lat" : 15.254587,
+               "lng" : -61.36768679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.272731,
+                  "lng" : -61.34495099999999
+               },
+               "southwest" : {
+                  "lat" : 15.2373251,
+                  "lng" : -61.3773769
+               }
+            }
+         },
+         "place_id" : "ChIJd0-Yz_IqFYwRTTCB2GJPZFw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

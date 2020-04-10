@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kompienga",
+               "short_name" : "Kompienga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kompienga",
+               "short_name" : "Kompienga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Est",
+               "short_name" : "Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kompienga, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0817674,
+               "lng" : 0.7236405
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0927171,
+                  "lng" : 0.7396478999999999
+               },
+               "southwest" : {
+                  "lat" : 11.0708173,
+                  "lng" : 0.7076331
+               }
+            }
+         },
+         "place_id" : "ChIJI95l4M_l1BERKnkAbn_3CgM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

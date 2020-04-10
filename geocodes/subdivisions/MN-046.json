@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uvs Lake",
+               "short_name" : "Uvs Lake",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Uvs",
+               "short_name" : "Uvs",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uvs Lake, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.689237,
+                  "lng" : 93.4248082
+               },
+               "southwest" : {
+                  "lat" : 49.9884322,
+                  "lng" : 92.2174617
+               }
+            },
+            "location" : {
+               "lat" : 50.3997872,
+               "lng" : 92.6902698
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.689237,
+                  "lng" : 93.4248082
+               },
+               "southwest" : {
+                  "lat" : 49.9884322,
+                  "lng" : 92.2174617
+               }
+            }
+         },
+         "place_id" : "ChIJ9VYZjB6NN10RBLajunqQLJs",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

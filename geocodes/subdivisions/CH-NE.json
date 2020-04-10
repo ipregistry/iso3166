@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neuchâtel",
+               "short_name" : "Neuchâtel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Neuchâtel District",
+               "short_name" : "Neuchâtel District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Neuchâtel",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neuchâtel, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.06389,
+                  "lng" : 6.99177
+               },
+               "southwest" : {
+                  "lat" : 46.9254,
+                  "lng" : 6.893409999999999
+               }
+            },
+            "location" : {
+               "lat" : 46.9899874,
+               "lng" : 6.9292732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.06389,
+                  "lng" : 6.99177
+               },
+               "southwest" : {
+                  "lat" : 46.9254,
+                  "lng" : 6.893409999999999
+               }
+            }
+         },
+         "place_id" : "ChIJm81S1RkKjkcRBGS2VWjDXCM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

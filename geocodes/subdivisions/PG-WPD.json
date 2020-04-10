@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Province",
+               "short_name" : "Western Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Province, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.0000756,
+                  "lng" : 143.9240419
+               },
+               "southwest" : {
+                  "lat" : -9.333755,
+                  "lng" : 140.8419695
+               }
+            },
+            "location" : {
+               "lat" : -7.584644,
+               "lng" : 142.3613378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.0000756,
+                  "lng" : 143.9240419
+               },
+               "southwest" : {
+                  "lat" : -9.333755,
+                  "lng" : 140.8419695
+               }
+            }
+         },
+         "place_id" : "ChIJoc0DR6YPTmgRgeTgr_8Sm2A",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

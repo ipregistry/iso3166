@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "George Town",
+               "short_name" : "George Town",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penang",
+               "short_name" : "Penang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "George Town, Penang, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.4520208,
+                  "lng" : 100.3222922
+               },
+               "southwest" : {
+                  "lat" : 5.359739,
+                  "lng" : 100.272712
+               }
+            },
+            "location" : {
+               "lat" : 5.4356367,
+               "lng" : 100.3091
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.4520208,
+                  "lng" : 100.3222922
+               },
+               "southwest" : {
+                  "lat" : 5.359739,
+                  "lng" : 100.272712
+               }
+            }
+         },
+         "place_id" : "ChIJ1XsrrZfDSjARNLmpeFnkmiM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

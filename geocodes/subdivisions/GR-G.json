@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Greece",
+               "short_name" : "Western Greece",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Greece, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.1746625,
+                  "lng" : 22.3801523
+               },
+               "southwest" : {
+                  "lat" : 37.3749783,
+                  "lng" : 20.7186183
+               }
+            },
+            "location" : {
+               "lat" : 38.5115496,
+               "lng" : 21.5706786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1746625,
+                  "lng" : 22.3801523
+               },
+               "southwest" : {
+                  "lat" : 37.3749783,
+                  "lng" : 20.7186183
+               }
+            }
+         },
+         "place_id" : "ChIJg8jBI56QXxMREMa54iy9AAE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

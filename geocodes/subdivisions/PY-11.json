@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Department",
+               "short_name" : "Central Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Department, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.087879,
+                  "lng" : -57.177471
+               },
+               "southwest" : {
+                  "lat" : -26.014746,
+                  "lng" : -57.81478199999999
+               }
+            },
+            "location" : {
+               "lat" : -25.5628115,
+               "lng" : -57.5079912
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.087879,
+                  "lng" : -57.177471
+               },
+               "southwest" : {
+                  "lat" : -26.014746,
+                  "lng" : -57.81478199999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-TzOkoZRXJQRQAAYcPqmzFQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

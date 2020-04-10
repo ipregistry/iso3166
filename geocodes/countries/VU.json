@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vanuatu",
+               "short_name" : "VU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vanuatu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.8064449,
+                  "lng" : 170.5023193
+               },
+               "southwest" : {
+                  "lat" : -20.5350773,
+                  "lng" : 166.0583495
+               }
+            },
+            "location" : {
+               "lat" : -15.376706,
+               "lng" : 166.959158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.8064449,
+                  "lng" : 170.5023193
+               },
+               "southwest" : {
+                  "lat" : -20.5350773,
+                  "lng" : 166.0583495
+               }
+            }
+         },
+         "place_id" : "ChIJE2CSyF5giW4RaibQvs85gzQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

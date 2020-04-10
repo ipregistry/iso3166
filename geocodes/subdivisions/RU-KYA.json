@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krasnoyarsk Krai",
+               "short_name" : "Krasnoyarsk Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krasnoyarsk Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 81.273369,
+                  "lng" : 113.937477
+               },
+               "southwest" : {
+                  "lat" : 51.772239,
+                  "lng" : 76.07231019999999
+               }
+            },
+            "location" : {
+               "lat" : 64.24797579999999,
+               "lng" : 95.11041759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 81.273369,
+                  "lng" : 113.937477
+               },
+               "southwest" : {
+                  "lat" : 51.772239,
+                  "lng" : 76.07231019999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHyMdKZGKqFwRLuE1LERdadI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

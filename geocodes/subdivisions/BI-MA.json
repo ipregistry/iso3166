@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Makamba",
+               "short_name" : "Makamba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Makamba",
+               "short_name" : "Makamba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Makamba",
+               "short_name" : "Makamba",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burundi",
+               "short_name" : "BI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Makamba, Burundi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.1278846,
+                  "lng" : 29.8164654
+               },
+               "southwest" : {
+                  "lat" : -4.1440429,
+                  "lng" : 29.796574
+               }
+            },
+            "location" : {
+               "lat" : -4.1384805,
+               "lng" : 29.803397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.1278846,
+                  "lng" : 29.8164654
+               },
+               "southwest" : {
+                  "lat" : -4.1440429,
+                  "lng" : 29.796574
+               }
+            }
+         },
+         "place_id" : "ChIJGaWyVcm_wBkRD4ARgjPhSPs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

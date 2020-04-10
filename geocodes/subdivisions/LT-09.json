@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ignalina",
+               "short_name" : "Ignalina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ignalina District Municipality",
+               "short_name" : "Ignalina District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utena County",
+               "short_name" : "Utena County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ignalina, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.3485369,
+                  "lng" : 26.191291
+               },
+               "southwest" : {
+                  "lat" : 55.32296789999999,
+                  "lng" : 26.1412158
+               }
+            },
+            "location" : {
+               "lat" : 55.3346879,
+               "lng" : 26.165916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.3485369,
+                  "lng" : 26.191291
+               },
+               "southwest" : {
+                  "lat" : 55.32296789999999,
+                  "lng" : 26.1412158
+               }
+            }
+         },
+         "place_id" : "ChIJl2bwg_wz3UYR4NvpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

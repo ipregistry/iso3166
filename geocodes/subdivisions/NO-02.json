@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akershus",
+               "short_name" : "Akershus",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Viken",
+               "short_name" : "Viken",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akershus, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.6051476,
+                  "lng" : 11.9269776
+               },
+               "southwest" : {
+                  "lat" : 59.4718821,
+                  "lng" : 10.3284666
+               }
+            },
+            "location" : {
+               "lat" : 60.00002019999999,
+               "lng" : 11.3690302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.6051476,
+                  "lng" : 11.9269776
+               },
+               "southwest" : {
+                  "lat" : 59.4718821,
+                  "lng" : 10.3284666
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKRWbpZZ-QUYRMByJQaHlAAM",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

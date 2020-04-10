@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Vincent and the Grenadines",
+               "short_name" : "VC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Vincent and the Grenadines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.4136657,
+                  "lng" : -61.0846
+               },
+               "southwest" : {
+                  "lat" : 12.5294999,
+                  "lng" : -61.4822
+               }
+            },
+            "location" : {
+               "lat" : 12.984305,
+               "lng" : -61.287228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.4136657,
+                  "lng" : -61.0846
+               },
+               "southwest" : {
+                  "lat" : 12.5294999,
+                  "lng" : -61.4822
+               }
+            }
+         },
+         "place_id" : "ChIJuzU5nuKsQIwRsaHSjejT_TE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

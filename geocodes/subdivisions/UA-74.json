@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chernihiv Oblast",
+               "short_name" : "Chernihiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chernihiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.379379,
+                  "lng" : 33.5009611
+               },
+               "southwest" : {
+                  "lat" : 50.345535,
+                  "lng" : 30.484935
+               }
+            },
+            "location" : {
+               "lat" : 51.4982,
+               "lng" : 31.28934989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.379379,
+                  "lng" : 33.5009611
+               },
+               "southwest" : {
+                  "lat" : 50.345535,
+                  "lng" : 30.484935
+               }
+            }
+         },
+         "place_id" : "ChIJT7SGL2DAKkERMEH2iIQGAQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

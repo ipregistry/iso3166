@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mpigi",
+               "short_name" : "Mpigi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mpigi",
+               "short_name" : "Mpigi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mpigi, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.2413123,
+                  "lng" : 32.3413467
+               },
+               "southwest" : {
+                  "lat" : 0.212645,
+                  "lng" : 32.314911
+               }
+            },
+            "location" : {
+               "lat" : 0.2273528,
+               "lng" : 32.3249236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.2413123,
+                  "lng" : 32.3413467
+               },
+               "southwest" : {
+                  "lat" : 0.212645,
+                  "lng" : 32.314911
+               }
+            }
+         },
+         "place_id" : "ChIJ35TCKA91fRcRQZ2yqHnSj48",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

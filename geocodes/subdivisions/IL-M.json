@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Center District",
+               "short_name" : "Center District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Center District, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4126018,
+                  "lng" : 35.051422
+               },
+               "southwest" : {
+                  "lat" : 31.7571918,
+                  "lng" : 34.66654279999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9521108,
+               "lng" : 34.906551
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4126018,
+                  "lng" : 35.051422
+               },
+               "southwest" : {
+                  "lat" : 31.7571918,
+                  "lng" : 34.66654279999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1dI8PjMVHRURwtHEUjGbcmU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

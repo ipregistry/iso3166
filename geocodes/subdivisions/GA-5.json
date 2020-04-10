@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nyanga",
+               "short_name" : "Nyanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Basse Banio",
+               "short_name" : "Basse Banio",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nyanga",
+               "short_name" : "Nyanga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Gabon",
+               "short_name" : "GA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nyanga, Gabon",
+         "geometry" : {
+            "location" : {
+               "lat" : -2.983333,
+               "lng" : 10.283333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.9721901,
+                  "lng" : 10.2993404
+               },
+               "southwest" : {
+                  "lat" : -2.9944758,
+                  "lng" : 10.2673256
+               }
+            }
+         },
+         "place_id" : "ChIJVe-AEMI1iBoRXlKwYtFj2Ww",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

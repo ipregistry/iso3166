@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vaitupu",
+               "short_name" : "Vaitupu",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Vaitupu",
+               "short_name" : "Vaitupu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tuvalu",
+               "short_name" : "TV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vaitupu, Tuvalu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.4577731,
+                  "lng" : 178.6972833
+               },
+               "southwest" : {
+                  "lat" : -7.4991106,
+                  "lng" : 178.6624575
+               }
+            },
+            "location" : {
+               "lat" : -7.476732699999999,
+               "lng" : 178.6747675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.4577731,
+                  "lng" : 178.6972833
+               },
+               "southwest" : {
+                  "lat" : -7.4991106,
+                  "lng" : 178.6624575
+               }
+            }
+         },
+         "place_id" : "ChIJpxuqdv0Y2m8RGSuggaUBLF8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

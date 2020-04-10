@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aysén",
+               "short_name" : "Aysén",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aysén, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -43.6399767,
+                  "lng" : -71.0907766
+               },
+               "southwest" : {
+                  "lat" : -49.1555887,
+                  "lng" : -75.67981809999999
+               }
+            },
+            "location" : {
+               "lat" : -46.378345,
+               "lng" : -72.3007623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -43.6399767,
+                  "lng" : -71.0907766
+               },
+               "southwest" : {
+                  "lat" : -49.1555887,
+                  "lng" : -75.67981809999999
+               }
+            }
+         },
+         "place_id" : "ChIJEW0Xuf2kir0R8_7BupS9_Ms",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

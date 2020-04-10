@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lumban",
+               "short_name" : "Lumban",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laguna",
+               "short_name" : "Laguna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabarzon",
+               "short_name" : "Calabarzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lumban, Laguna, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.3487163,
+                  "lng" : 121.630674
+               },
+               "southwest" : {
+                  "lat" : 14.2647886,
+                  "lng" : 121.4208126
+               }
+            },
+            "location" : {
+               "lat" : 14.2956294,
+               "lng" : 121.4961581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.3487163,
+                  "lng" : 121.630674
+               },
+               "southwest" : {
+                  "lat" : 14.2647886,
+                  "lng" : 121.4208126
+               }
+            }
+         },
+         "place_id" : "ChIJ6X6S5mvjlzMR9J1FcWFBNxM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

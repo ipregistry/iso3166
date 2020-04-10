@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Đắk Lắk Province",
+               "short_name" : "Đắk Lắk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Đắk Lắk Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.41631,
+                  "lng" : 108.995213
+               },
+               "southwest" : {
+                  "lat" : 12.159569,
+                  "lng" : 107.4843871
+               }
+            },
+            "location" : {
+               "lat" : 12.7100116,
+               "lng" : 108.2377519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.41631,
+                  "lng" : 108.995213
+               },
+               "southwest" : {
+                  "lat" : 12.159569,
+                  "lng" : 107.4843871
+               }
+            }
+         },
+         "place_id" : "ChIJV3Ew99r3cTERFTOI2ZR2-Y4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

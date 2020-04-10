@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Río Negro",
+               "short_name" : "Río Negro",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Río Negro, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.95849800000001,
+                  "lng" : -62.7794229
+               },
+               "southwest" : {
+                  "lat" : -41.0612703,
+                  "lng" : -68.00601829999999
+               }
+            },
+            "location" : {
+               "lat" : -39.8829436,
+               "lng" : -65.25979629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.95849800000001,
+                  "lng" : -62.7794229
+               },
+               "southwest" : {
+                  "lat" : -41.0612703,
+                  "lng" : -68.00601829999999
+               }
+            }
+         },
+         "place_id" : "ChIJP0p3YluX9pURxObsieX7_Gs",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

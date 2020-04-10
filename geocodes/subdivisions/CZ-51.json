@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liberec Region",
+               "short_name" : "Liberec Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liberec Region, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0231974,
+                  "lng" : 15.6330293
+               },
+               "southwest" : {
+                  "lat" : 50.4718301,
+                  "lng" : 14.3435357
+               }
+            },
+            "location" : {
+               "lat" : 50.65942399999999,
+               "lng" : 14.7632424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0231974,
+                  "lng" : 15.6330293
+               },
+               "southwest" : {
+                  "lat" : 50.4718301,
+                  "lng" : 14.3435357
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw21vd603CUcRgKgUZg-vAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

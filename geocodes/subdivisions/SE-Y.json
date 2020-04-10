@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Västernorrland County",
+               "short_name" : "Västernorrland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Västernorrland County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.00223489999999,
+                  "lng" : 19.3665461
+               },
+               "southwest" : {
+                  "lat" : 62.13979099999999,
+                  "lng" : 14.7763021
+               }
+            },
+            "location" : {
+               "lat" : 63.4276473,
+               "lng" : 17.7292444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.00223489999999,
+                  "lng" : 19.3665461
+               },
+               "southwest" : {
+                  "lat" : 62.13979099999999,
+                  "lng" : 14.7763021
+               }
+            }
+         },
+         "place_id" : "ChIJ1Y-qVKfZZEYRcIqM3gZFAwM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

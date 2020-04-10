@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Az-Zāwiyah",
+               "short_name" : "Az-Zāwiyah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zawiya District",
+               "short_name" : "Zawiya District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Az-Zāwiyah, Libya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7944178,
+                  "lng" : 12.7806187
+               },
+               "southwest" : {
+                  "lat" : 32.7010513,
+                  "lng" : 12.6857352
+               }
+            },
+            "location" : {
+               "lat" : 32.7630282,
+               "lng" : 12.7364962
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7944178,
+                  "lng" : 12.7806187
+               },
+               "southwest" : {
+                  "lat" : 32.7010513,
+                  "lng" : 12.6857352
+               }
+            }
+         },
+         "place_id" : "ChIJR4MND5IhqRMRnQ9Wk1B1QbY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

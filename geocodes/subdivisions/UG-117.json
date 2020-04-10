@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buikwe",
+               "short_name" : "Buikwe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilaya ya Buikwe",
+               "short_name" : "Wilaya ya Buikwe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mkoa wa Kati",
+               "short_name" : "Mkoa wa Kati",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buikwe, Uganda",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.340556,
+               "lng" : 33.030278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3517138,
+                  "lng" : 33.0462854
+               },
+               "southwest" : {
+                  "lat" : 0.3293982,
+                  "lng" : 33.0142706
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2Tmn5gDZfRcRC5p2bjDWMv4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East",
+               "short_name" : "East",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East, Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.0856641,
+                  "lng" : 16.1921161
+               },
+               "southwest" : {
+                  "lat" : 1.6559,
+                  "lng" : 12.5253721
+               }
+            },
+            "location" : {
+               "lat" : 3.950512799999999,
+               "lng" : 13.914399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.0856641,
+                  "lng" : 16.1921161
+               },
+               "southwest" : {
+                  "lat" : 1.6559,
+                  "lng" : 12.5253721
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfYUIQ2CYkhARegFaQ-sQo-k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

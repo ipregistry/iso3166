@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khomas",
+               "short_name" : "Khomas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khomas",
+               "short_name" : "Khomas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khomas, Namibia",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.535498,
+               "lng" : 16.747545
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5251916,
+                  "lng" : 16.7635524
+               },
+               "southwest" : {
+                  "lat" : -22.5458036,
+                  "lng" : 16.7315376
+               }
+            }
+         },
+         "place_id" : "ChIJSxpHZLUnCxwRm4EVxwc0BXU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

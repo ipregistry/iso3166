@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Philip",
+               "short_name" : "Saint Philip",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Philip, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.1829601,
+                  "lng" : -59.4210709
+               },
+               "southwest" : {
+                  "lat" : 13.078951,
+                  "lng" : -59.51082299999999
+               }
+            },
+            "location" : {
+               "lat" : 13.1256336,
+               "lng" : -59.456055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.1829601,
+                  "lng" : -59.4210709
+               },
+               "southwest" : {
+                  "lat" : 13.078951,
+                  "lng" : -59.51082299999999
+               }
+            }
+         },
+         "place_id" : "ChIJHZnLvc6MQ4wR3Q9u_mIQt6o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

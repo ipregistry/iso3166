@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khuvsgul Lake",
+               "short_name" : "Khuvsgul Lake",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Khövsgöl",
+               "short_name" : "Khövsgöl",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khuvsgul Lake, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.62101630000001,
+                  "lng" : 100.805363
+               },
+               "southwest" : {
+                  "lat" : 50.4200724,
+                  "lng" : 100.150091
+               }
+            },
+            "location" : {
+               "lat" : 51.1228269,
+               "lng" : 100.5490739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.62101630000001,
+                  "lng" : 100.805363
+               },
+               "southwest" : {
+                  "lat" : 50.4200724,
+                  "lng" : 100.150091
+               }
+            }
+         },
+         "place_id" : "ChIJqy65phtdDl0REZEfAXtbMNk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

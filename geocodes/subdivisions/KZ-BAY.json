@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baikonur",
+               "short_name" : "Baikonur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karmakshy District",
+               "short_name" : "Karmakshy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyzylorda Province",
+               "short_name" : "Kyzylorda Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baikonur, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6437181,
+                  "lng" : 63.3368254
+               },
+               "southwest" : {
+                  "lat" : 45.6036048,
+                  "lng" : 63.2785679
+               }
+            },
+            "location" : {
+               "lat" : 45.6232258,
+               "lng" : 63.31398289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6437181,
+                  "lng" : 63.3368254
+               },
+               "southwest" : {
+                  "lat" : 45.6036048,
+                  "lng" : 63.2785679
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1Q-_SFAi9EERF-4s9kUBMmE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

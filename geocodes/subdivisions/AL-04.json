@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fier",
+               "short_name" : "Fier",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fier",
+               "short_name" : "Fier",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Fier County",
+               "short_name" : "Fier County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fier, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.74182709999999,
+                  "lng" : 19.58004
+               },
+               "southwest" : {
+                  "lat" : 40.7114023,
+                  "lng" : 19.5426392
+               }
+            },
+            "location" : {
+               "lat" : 40.727504,
+               "lng" : 19.5627596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74182709999999,
+                  "lng" : 19.58004
+               },
+               "southwest" : {
+                  "lat" : 40.7114023,
+                  "lng" : 19.5426392
+               }
+            }
+         },
+         "place_id" : "ChIJ8_GYv85SRRMRvOrtAxWijGE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

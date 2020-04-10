@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sao Domingos",
+               "short_name" : "Sao Domingos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Domingos",
+               "short_name" : "São Domingos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sao Domingos, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.0340585,
+                  "lng" : -23.552177
+               },
+               "southwest" : {
+                  "lat" : 15.0196346,
+                  "lng" : -23.5748148
+               }
+            },
+            "location" : {
+               "lat" : 15.0286165,
+               "lng" : -23.563922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.0340585,
+                  "lng" : -23.552177
+               },
+               "southwest" : {
+                  "lat" : 15.0196346,
+                  "lng" : -23.5748148
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHYkOpwqQNQkRx3YL-S43kRY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

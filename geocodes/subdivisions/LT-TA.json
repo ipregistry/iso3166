@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tauragė",
+               "short_name" : "Tauragė",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tauragė District Municipality",
+               "short_name" : "Tauragė District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tauragė County",
+               "short_name" : "Tauragė County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tauragė, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.276045,
+                  "lng" : 22.3234539
+               },
+               "southwest" : {
+                  "lat" : 55.2273157,
+                  "lng" : 22.2577069
+               }
+            },
+            "location" : {
+               "lat" : 55.250366,
+               "lng" : 22.29095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.276045,
+                  "lng" : 22.3234539
+               },
+               "southwest" : {
+                  "lat" : 55.2273157,
+                  "lng" : 22.2577069
+               }
+            }
+         },
+         "place_id" : "ChIJ-2ylUw0-5EYRwPQ-7sw8QEQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

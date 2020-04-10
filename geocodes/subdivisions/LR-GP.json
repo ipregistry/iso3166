@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gbarpolu",
+               "short_name" : "Gbarpolu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gbarpolu, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.998692,
+                  "lng" : -9.636509
+               },
+               "southwest" : {
+                  "lat" : 6.829072,
+                  "lng" : -10.9533111
+               }
+            },
+            "location" : {
+               "lat" : 7.495263700000001,
+               "lng" : -10.0807298
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.998692,
+                  "lng" : -9.636509
+               },
+               "southwest" : {
+                  "lat" : 6.829072,
+                  "lng" : -10.9533111
+               }
+            }
+         },
+         "place_id" : "ChIJ7WN4c8Ldpw8R1BRtfCLDqF8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

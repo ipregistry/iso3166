@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mehedinti Mountains",
+               "short_name" : "Mehedinti Mountains",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Mehedinți County",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mehedinti Mountains, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.031136,
+                  "lng" : 22.6197767
+               },
+               "southwest" : {
+                  "lat" : 44.9743618,
+                  "lng" : 22.5335168
+               }
+            },
+            "location" : {
+               "lat" : 45.0003633,
+               "lng" : 22.5677868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.031136,
+                  "lng" : 22.6197767
+               },
+               "southwest" : {
+                  "lat" : 44.9743618,
+                  "lng" : 22.5335168
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv7258FL3UUcRVourgBQP7w8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

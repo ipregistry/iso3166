@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Holguin",
+               "short_name" : "Holguin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Holguín",
+               "short_name" : "Holguín",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Holguin",
+               "short_name" : "Holguin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Holguin, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.9352021,
+                  "lng" : -76.21164329999999
+               },
+               "southwest" : {
+                  "lat" : 20.8580097,
+                  "lng" : -76.3133526
+               }
+            },
+            "location" : {
+               "lat" : 20.8795129,
+               "lng" : -76.2594981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.9352021,
+                  "lng" : -76.21164329999999
+               },
+               "southwest" : {
+                  "lat" : 20.8580097,
+                  "lng" : -76.3133526
+               }
+            }
+         },
+         "place_id" : "ChIJuV30UGjtzY4Rh_hJBlgh_TA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

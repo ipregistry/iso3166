@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quang Nam Province",
+               "short_name" : "Quang Nam Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quang Nam Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.0667921,
+                  "lng" : 108.738184
+               },
+               "southwest" : {
+                  "lat" : 14.951644,
+                  "lng" : 107.2105251
+               }
+            },
+            "location" : {
+               "lat" : 15.5393538,
+               "lng" : 108.019102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.0667921,
+                  "lng" : 108.738184
+               },
+               "southwest" : {
+                  "lat" : 14.951644,
+                  "lng" : 107.2105251
+               }
+            }
+         },
+         "place_id" : "ChIJezo14dQNQjEReXZ0ZrGrnOQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

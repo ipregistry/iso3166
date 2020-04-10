@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hlotse",
+               "short_name" : "Hlotse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leribe",
+               "short_name" : "Leribe",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lesotho",
+               "short_name" : "LS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hlotse, Lesotho",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.844824,
+                  "lng" : 28.08805
+               },
+               "southwest" : {
+                  "lat" : -28.8889464,
+                  "lng" : 28.0343413
+               }
+            },
+            "location" : {
+               "lat" : -28.8638065,
+               "lng" : 28.0478826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.844824,
+                  "lng" : 28.08805
+               },
+               "southwest" : {
+                  "lat" : -28.8889464,
+                  "lng" : 28.0343413
+               }
+            }
+         },
+         "place_id" : "ChIJ80tEY7UMjR4R4CiMvILPAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

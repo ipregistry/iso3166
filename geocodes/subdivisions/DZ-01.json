@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adrar",
+               "short_name" : "Adrar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Adrar",
+               "short_name" : "Adrar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adrar Province",
+               "short_name" : "Adrar Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adrar, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1645129,
+                  "lng" : -0.0494219
+               },
+               "southwest" : {
+                  "lat" : 27.766937,
+                  "lng" : -0.331044
+               }
+            },
+            "location" : {
+               "lat" : 28.0174403,
+               "lng" : -0.2642497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1645129,
+                  "lng" : -0.0494219
+               },
+               "southwest" : {
+                  "lat" : 27.766937,
+                  "lng" : -0.331044
+               }
+            }
+         },
+         "place_id" : "ChIJHeBuc3Cf9Q0R6vtgjhF0JS8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

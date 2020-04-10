@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Forli",
+               "short_name" : "Forli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Forlì",
+               "short_name" : "Forlì",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Forlì-Cesena",
+               "short_name" : "FC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Forli, Province of Forlì-Cesena, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.261818,
+                  "lng" : 12.0984988
+               },
+               "southwest" : {
+                  "lat" : 44.1703434,
+                  "lng" : 11.9903296
+               }
+            },
+            "location" : {
+               "lat" : 44.2227398,
+               "lng" : 12.0407312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.261818,
+                  "lng" : 12.0984988
+               },
+               "southwest" : {
+                  "lat" : 44.1703434,
+                  "lng" : 11.9903296
+               }
+            }
+         },
+         "place_id" : "ChIJSYntK_NXKxMRdGhaUDNbtQY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cesena",
+               "short_name" : "Cesena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cesena",
+               "short_name" : "Cesena",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Forlì-Cesena",
+               "short_name" : "FC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cesena, Province of Forlì-Cesena, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.21444169999999,
+                  "lng" : 12.3377605
+               },
+               "southwest" : {
+                  "lat" : 44.083961,
+                  "lng" : 12.1871663
+               }
+            },
+            "location" : {
+               "lat" : 44.1396438,
+               "lng" : 12.2464292
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.21444169999999,
+                  "lng" : 12.3377605
+               },
+               "southwest" : {
+                  "lat" : 44.083961,
+                  "lng" : 12.1871663
+               }
+            }
+         },
+         "place_id" : "ChIJwZPUHtSkLBMRR3pXdRCr4L4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

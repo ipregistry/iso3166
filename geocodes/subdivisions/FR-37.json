@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indre-et-Loire",
+               "short_name" : "Indre-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Val de Loire",
+               "short_name" : "Centre-Val de Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Indre-et-Loire, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7098679,
+                  "lng" : 1.366049
+               },
+               "southwest" : {
+                  "lat" : 46.736714,
+                  "lng" : 0.0527369
+               }
+            },
+            "location" : {
+               "lat" : 47.28949249999999,
+               "lng" : 0.816097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7098679,
+                  "lng" : 1.366049
+               },
+               "southwest" : {
+                  "lat" : 46.736714,
+                  "lng" : 0.0527369
+               }
+            }
+         },
+         "place_id" : "ChIJE3AWTDjZ_EcR0CczBdfIDQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

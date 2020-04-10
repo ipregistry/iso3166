@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gôh-Djiboua District",
+               "short_name" : "Gôh-Djiboua District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Côte d'Ivoire",
+               "short_name" : "CI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gôh-Djiboua District, Côte d'Ivoire",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.6425311,
+                  "lng" : -4.917968999999999
+               },
+               "southwest" : {
+                  "lat" : 5.032085899999999,
+                  "lng" : -6.4061419
+               }
+            },
+            "location" : {
+               "lat" : 5.871139299999999,
+               "lng" : -5.5617279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.6425311,
+                  "lng" : -4.917968999999999
+               },
+               "southwest" : {
+                  "lat" : 5.032085899999999,
+                  "lng" : -6.4061419
+               }
+            }
+         },
+         "place_id" : "ChIJW1qhQL2ivw8RAK0YFrlvDVU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

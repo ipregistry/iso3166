@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eswatini",
+               "short_name" : "SZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eswatini",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.71792,
+                  "lng" : 32.1349067
+               },
+               "southwest" : {
+                  "lat" : -27.317402,
+                  "lng" : 30.79064
+               }
+            },
+            "location" : {
+               "lat" : -26.522503,
+               "lng" : 31.465866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.71792,
+                  "lng" : 32.1349067
+               },
+               "southwest" : {
+                  "lat" : -27.317402,
+                  "lng" : 30.79064
+               }
+            }
+         },
+         "place_id" : "ChIJBw8yR-HO6B4RaXANGC_GPcE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

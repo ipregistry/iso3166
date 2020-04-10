@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shefa Province",
+               "short_name" : "Shefa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vanuatu",
+               "short_name" : "VU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shefa Province, Vanuatu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.567901,
+                  "lng" : 168.6487059
+               },
+               "southwest" : {
+                  "lat" : -17.8244079,
+                  "lng" : 168.1203521
+               }
+            },
+            "location" : {
+               "lat" : -17.6523412,
+               "lng" : 168.3387066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.567901,
+                  "lng" : 168.6487059
+               },
+               "southwest" : {
+                  "lat" : -17.8244079,
+                  "lng" : 168.1203521
+               }
+            }
+         },
+         "place_id" : "ChIJT2lhbkN7iW4R4v5Pmf3Ixgs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

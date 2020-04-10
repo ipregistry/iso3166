@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kayangel",
+               "short_name" : "Kayangel",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kayangel, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.094138599999999,
+                  "lng" : 134.7212053
+               },
+               "southwest" : {
+                  "lat" : 8.039365,
+                  "lng" : 134.6930434
+               }
+            },
+            "location" : {
+               "lat" : 8.076519100000001,
+               "lng" : 134.7182094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.094138599999999,
+                  "lng" : 134.7212053
+               },
+               "southwest" : {
+                  "lat" : 8.039365,
+                  "lng" : 134.6930434
+               }
+            }
+         },
+         "place_id" : "ChIJFVaM8ibeKjMRoI1-CSy_vDA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

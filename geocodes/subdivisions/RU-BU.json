@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buryatia",
+               "short_name" : "Buryatia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buryatia, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.2498039,
+                  "lng" : 116.917501
+               },
+               "southwest" : {
+                  "lat" : 49.961011,
+                  "lng" : 98.63430009999999
+               }
+            },
+            "location" : {
+               "lat" : 54.83311459999999,
+               "lng" : 112.406053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.2498039,
+                  "lng" : 116.917501
+               },
+               "southwest" : {
+                  "lat" : 49.961011,
+                  "lng" : 98.63430009999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ54-EMRH7rF0RQJRFUq_GAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.585234,
+                  "lng" : 22.8965438
+               },
+               "southwest" : {
+                  "lat" : 45.7370889,
+                  "lng" : 16.1133078
+               }
+            },
+            "location" : {
+               "lat" : 47.162494,
+               "lng" : 19.5033041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.585234,
+                  "lng" : 22.8965438
+               },
+               "southwest" : {
+                  "lat" : 45.7370889,
+                  "lng" : 16.1133078
+               }
+            }
+         },
+         "place_id" : "ChIJw-Q333uDQUcREBAeDCnEAAA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

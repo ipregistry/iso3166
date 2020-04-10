@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zhytomyr Oblast",
+               "short_name" : "Zhytomyr Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zhytomyr Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6818959,
+                  "lng" : 29.7354618
+               },
+               "southwest" : {
+                  "lat" : 49.58293099999999,
+                  "lng" : 27.1897231
+               }
+            },
+            "location" : {
+               "lat" : 50.25465,
+               "lng" : 28.6586669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6818959,
+                  "lng" : 29.7354618
+               },
+               "southwest" : {
+                  "lat" : 49.58293099999999,
+                  "lng" : 27.1897231
+               }
+            }
+         },
+         "place_id" : "ChIJC9KIyxTxK0cRoED2iIQGAQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

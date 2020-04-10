@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barahona",
+               "short_name" : "Barahona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barahona Province",
+               "short_name" : "Barahona Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81000",
+               "short_name" : "81000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barahona 81000, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.2363322,
+                  "lng" : -71.08141429999999
+               },
+               "southwest" : {
+                  "lat" : 18.183971,
+                  "lng" : -71.12504799999999
+               }
+            },
+            "location" : {
+               "lat" : 18.2120807,
+               "lng" : -71.10240759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.2363322,
+                  "lng" : -71.08141429999999
+               },
+               "southwest" : {
+                  "lat" : 18.183971,
+                  "lng" : -71.12504799999999
+               }
+            }
+         },
+         "place_id" : "ChIJJSmhIqf0uo4R_ju0JPab6mY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

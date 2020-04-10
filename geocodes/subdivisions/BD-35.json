@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Munshiganj",
+               "short_name" : "Munshiganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Munshiganj District",
+               "short_name" : "Munshiganj District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Munshiganj, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.5632005,
+                  "lng" : 90.5445957
+               },
+               "southwest" : {
+                  "lat" : 23.5215752,
+                  "lng" : 90.5102205
+               }
+            },
+            "location" : {
+               "lat" : 23.5421898,
+               "lng" : 90.5305087
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.5632005,
+                  "lng" : 90.5445957
+               },
+               "southwest" : {
+                  "lat" : 23.5215752,
+                  "lng" : 90.5102205
+               }
+            }
+         },
+         "place_id" : "ChIJbY--pt-tVTcROsXZ4MbDO3Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

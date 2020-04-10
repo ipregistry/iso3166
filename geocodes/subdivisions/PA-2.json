@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cocle",
+               "short_name" : "Cocle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penonomé District",
+               "short_name" : "Penonomé District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Coclé Province",
+               "short_name" : "Coclé Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Panama",
+               "short_name" : "PA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cocle, Panama",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.4878652,
+                  "lng" : -80.3550767
+               },
+               "southwest" : {
+                  "lat" : 8.3281104,
+                  "lng" : -80.482192
+               }
+            },
+            "location" : {
+               "lat" : 8.400144899999999,
+               "lng" : -80.42152460000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.4878652,
+                  "lng" : -80.3550767
+               },
+               "southwest" : {
+                  "lat" : 8.3281104,
+                  "lng" : -80.482192
+               }
+            }
+         },
+         "place_id" : "ChIJxbap7YtJrI8RRkpA9Sx6E0E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

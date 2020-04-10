@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surin",
+               "short_name" : "จ.สุรินทร์",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Surin, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.4828457,
+                  "lng" : 104.0918941
+               },
+               "southwest" : {
+                  "lat" : 14.3289551,
+                  "lng" : 103.0892664
+               }
+            },
+            "location" : {
+               "lat" : 14.882905,
+               "lng" : 103.4937107
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.4828457,
+                  "lng" : 104.0918941
+               },
+               "southwest" : {
+                  "lat" : 14.3289551,
+                  "lng" : 103.0892664
+               }
+            }
+         },
+         "place_id" : "ChIJ6-IAWpRbFzERyXEzN28hdKU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

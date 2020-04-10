@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valverde Province",
+               "short_name" : "Valverde Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valverde Province, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.77729,
+                  "lng" : -70.875855
+               },
+               "southwest" : {
+                  "lat" : 19.498182,
+                  "lng" : -71.21334999999999
+               }
+            },
+            "location" : {
+               "lat" : 19.5881221,
+               "lng" : -70.98033099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.77729,
+                  "lng" : -70.875855
+               },
+               "southwest" : {
+                  "lat" : 19.498182,
+                  "lng" : -71.21334999999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ15RkgCjsY4RHx0jwaKlDfw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

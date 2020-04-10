@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Telšiai",
+               "short_name" : "Telšiai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Telšiai District Municipality",
+               "short_name" : "Telšiai District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telšiai County",
+               "short_name" : "Telšiai County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Telšiai, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0052861,
+                  "lng" : 22.2785369
+               },
+               "southwest" : {
+                  "lat" : 55.951821,
+                  "lng" : 22.1836229
+               }
+            },
+            "location" : {
+               "lat" : 55.9869779,
+               "lng" : 22.2485535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0052861,
+                  "lng" : 22.2785369
+               },
+               "southwest" : {
+                  "lat" : 55.951821,
+                  "lng" : 22.1836229
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwQNnISyg5UYR-ST7CqOEPdM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

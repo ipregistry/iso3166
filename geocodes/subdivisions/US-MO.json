@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Missouri, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.61364,
+                  "lng" : -89.09949399999999
+               },
+               "southwest" : {
+                  "lat" : 35.9956829,
+                  "lng" : -95.774704
+               }
+            },
+            "location" : {
+               "lat" : 37.9642529,
+               "lng" : -91.83183339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.61364,
+                  "lng" : -89.09949399999999
+               },
+               "southwest" : {
+                  "lat" : 35.9956829,
+                  "lng" : -95.774704
+               }
+            }
+         },
+         "place_id" : "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

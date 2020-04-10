@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bulambuli",
+               "short_name" : "Bulambuli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bulambuli, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.5698949,
+                  "lng" : 34.527631
+               },
+               "southwest" : {
+                  "lat" : 1.131567,
+                  "lng" : 34.2146841
+               }
+            },
+            "location" : {
+               "lat" : 1.4798846,
+               "lng" : 34.3754414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.5698949,
+                  "lng" : 34.527631
+               },
+               "southwest" : {
+                  "lat" : 1.131567,
+                  "lng" : 34.2146841
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqXj3eVOFeBcRUpgWPHJ8J8c",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Awdal",
+               "short_name" : "Awdal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Awdal, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.5114751,
+                  "lng" : 44.218021
+               },
+               "southwest" : {
+                  "lat" : 9.717374899999999,
+                  "lng" : 42.6700801
+               }
+            },
+            "location" : {
+               "lat" : 10.6334285,
+               "lng" : 43.329466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.5114751,
+                  "lng" : 44.218021
+               },
+               "southwest" : {
+                  "lat" : 9.717374899999999,
+                  "lng" : 42.6700801
+               }
+            }
+         },
+         "place_id" : "ChIJw4O3uiZKJBYRxuIb3hDal3U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

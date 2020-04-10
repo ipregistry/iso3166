@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jazan",
+               "short_name" : "Jazan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jazan",
+               "short_name" : "Jazan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jazan Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.9898154,
+                  "lng" : 42.64789589999999
+               },
+               "southwest" : {
+                  "lat" : 16.8078277,
+                  "lng" : 42.52902020000001
+               }
+            },
+            "location" : {
+               "lat" : 16.8893586,
+               "lng" : 42.57056740000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.9898154,
+                  "lng" : 42.64789589999999
+               },
+               "southwest" : {
+                  "lat" : 16.8078277,
+                  "lng" : 42.52902020000001
+               }
+            }
+         },
+         "place_id" : "ChIJu6ATPZfiBxYR8mx4KW99czU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

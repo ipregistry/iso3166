@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vransko",
+               "short_name" : "Vransko",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vransko",
+               "short_name" : "Vransko",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Žalec",
+               "short_name" : "Žalec",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3305",
+               "short_name" : "3305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3305 Vransko, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2541176,
+                  "lng" : 14.9643893
+               },
+               "southwest" : {
+                  "lat" : 46.2306325,
+                  "lng" : 14.9328114
+               }
+            },
+            "location" : {
+               "lat" : 46.2444682,
+               "lng" : 14.9511982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2541176,
+                  "lng" : 14.9643893
+               },
+               "southwest" : {
+                  "lat" : 46.2306325,
+                  "lng" : 14.9328114
+               }
+            }
+         },
+         "place_id" : "ChIJmxQkWzVCZUcR6r0U_7PHVGg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

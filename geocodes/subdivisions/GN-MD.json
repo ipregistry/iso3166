@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mandiana",
+               "short_name" : "Mandiana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mandiana Prefecture",
+               "short_name" : "Mandiana Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kankan",
+               "short_name" : "Kankan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mandiana, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.640026,
+                  "lng" : -8.6830616
+               },
+               "southwest" : {
+                  "lat" : 10.6024858,
+                  "lng" : -8.7058068
+               }
+            },
+            "location" : {
+               "lat" : 10.6172827,
+               "lng" : -8.698571599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.640026,
+                  "lng" : -8.6830616
+               },
+               "southwest" : {
+                  "lat" : 10.6024858,
+                  "lng" : -8.7058068
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI5nGQLUxUw4RLmOujAIXc7k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

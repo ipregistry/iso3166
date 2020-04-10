@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sandaun Province",
+               "short_name" : "Sandaun Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sandaun Province, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -2.6042258,
+                  "lng" : 143.1048729
+               },
+               "southwest" : {
+                  "lat" : -5.370609,
+                  "lng" : 140.9999994
+               }
+            },
+            "location" : {
+               "lat" : -3.7126179,
+               "lng" : 141.6834275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.6042258,
+                  "lng" : 143.1048729
+               },
+               "southwest" : {
+                  "lat" : -5.370609,
+                  "lng" : 140.9999994
+               }
+            }
+         },
+         "place_id" : "ChIJG2awIDL1Q2gREKXi5drZ95Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

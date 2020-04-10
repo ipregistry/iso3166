@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago De Los Caballeros",
+               "short_name" : "Stgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago Province",
+               "short_name" : "Santiago Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago De Los Caballeros, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5146896,
+                  "lng" : -70.5895568
+               },
+               "southwest" : {
+                  "lat" : 19.3650005,
+                  "lng" : -70.75648989999999
+               }
+            },
+            "location" : {
+               "lat" : 19.4791963,
+               "lng" : -70.69305679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5146896,
+                  "lng" : -70.5895568
+               },
+               "southwest" : {
+                  "lat" : 19.3650005,
+                  "lng" : -70.75648989999999
+               }
+            }
+         },
+         "place_id" : "ChIJn4nlOMjFsY4RKYR2uFmw1HU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

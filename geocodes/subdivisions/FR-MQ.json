@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort-de-France",
+               "short_name" : "Fort-de-France",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fort-de-France",
+               "short_name" : "Fort-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Martinique",
+               "short_name" : "MQ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97200",
+               "short_name" : "97200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fort-de-France 97200, Martinique",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.7076481,
+                  "lng" : -61.033945
+               },
+               "southwest" : {
+                  "lat" : 14.5897509,
+                  "lng" : -61.1036397
+               }
+            },
+            "location" : {
+               "lat" : 14.6160647,
+               "lng" : -61.0587804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.7076481,
+                  "lng" : -61.033945
+               },
+               "southwest" : {
+                  "lat" : 14.5897509,
+                  "lng" : -61.1036397
+               }
+            }
+         },
+         "place_id" : "ChIJIzlHgRmnaowRy5LEV9b6kxY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

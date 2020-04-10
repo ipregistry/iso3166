@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izabal",
+               "short_name" : "Izabal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Izabal Department",
+               "short_name" : "Izabal Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Izabal, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.4073477,
+                  "lng" : -89.13182259999999
+               },
+               "southwest" : {
+                  "lat" : 15.4006451,
+                  "lng" : -89.14298049999999
+               }
+            },
+            "location" : {
+               "lat" : 15.4036847,
+               "lng" : -89.1384441
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.4073477,
+                  "lng" : -89.13182259999999
+               },
+               "southwest" : {
+                  "lat" : 15.4006451,
+                  "lng" : -89.14298049999999
+               }
+            }
+         },
+         "place_id" : "ChIJA-xb4SlrYY8RzrTLmAfXivc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

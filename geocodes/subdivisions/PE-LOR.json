@@ -1,0 +1,56 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loreto",
+               "short_name" : "Loreto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loreto, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.0388736,
+                  "lng" : -69.94816659999999
+               },
+               "southwest" : {
+                  "lat" : -8.716138899999999,
+                  "lng" : -77.825958
+               }
+            },
+            "location" : {
+               "lat" : -4.232472899999999,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.0388736,
+                  "lng" : -69.94816659999999
+               },
+               "southwest" : {
+                  "lat" : -8.716138899999999,
+                  "lng" : -77.825958
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT1K64sNIwJER0pp9zh0Naos",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+IJ-6EQ52BNwZER8y7j0RXJ2l0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

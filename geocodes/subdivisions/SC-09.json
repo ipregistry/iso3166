@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "203",
+               "short_name" : "203",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Main Street",
+               "short_name" : "N Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bel Air",
+               "short_name" : "Bel Air",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bel Air",
+               "short_name" : "3, Bel Air",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Harford County",
+               "short_name" : "Harford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21014",
+               "short_name" : "21014",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3554",
+               "short_name" : "3554",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "203 N Main St, Bel Air, MD 21014, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.53882600000001,
+               "lng" : -76.3531606
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.54017498029151,
+                  "lng" : -76.35181161970849
+               },
+               "southwest" : {
+                  "lat" : 39.53747701970851,
+                  "lng" : -76.35450958029151
+               }
+            }
+         },
+         "place_id" : "ChIJedgHZdLdx4kRgvIUuYS4JwA",
+         "plus_code" : {
+            "compound_code" : "GJQW+GP Bel Air, MD, United States",
+            "global_code" : "87F5GJQW+GP"
+         },
+         "types" : [ "atm", "bank", "establishment", "finance", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

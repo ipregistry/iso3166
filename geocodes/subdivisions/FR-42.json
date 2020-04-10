@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loire",
+               "short_name" : "Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loire, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.276589,
+                  "lng" : 4.760375
+               },
+               "southwest" : {
+                  "lat" : 45.23104,
+                  "lng" : 3.688893
+               }
+            },
+            "location" : {
+               "lat" : 45.9846475,
+               "lng" : 4.052544999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.276589,
+                  "lng" : 4.760375
+               },
+               "southwest" : {
+                  "lat" : 45.23104,
+                  "lng" : 3.688893
+               }
+            }
+         },
+         "place_id" : "ChIJi1XRwdNA9EcRICjjy688CQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

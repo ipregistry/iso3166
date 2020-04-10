@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naklo",
+               "short_name" : "Naklo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naklo",
+               "short_name" : "Naklo",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4202",
+               "short_name" : "4202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4202 Naklo, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2859105,
+                  "lng" : 14.3292088
+               },
+               "southwest" : {
+                  "lat" : 46.2609036,
+                  "lng" : 14.2762726
+               }
+            },
+            "location" : {
+               "lat" : 46.2718663,
+               "lng" : 14.3156932
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2859105,
+                  "lng" : 14.3292088
+               },
+               "southwest" : {
+                  "lat" : 46.2609036,
+                  "lng" : 14.2762726
+               }
+            }
+         },
+         "place_id" : "ChIJ84GQK_-4ekcRhT5pCjUtCbE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

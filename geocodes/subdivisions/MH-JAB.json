@@ -1,0 +1,85 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jabat Island",
+               "short_name" : "Jabat Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jabat Island, Marshall Islands",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.7833333,
+               "lng" : 168.9833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.794388299999999,
+                  "lng" : 168.9993407
+               },
+               "southwest" : {
+                  "lat" : 7.772278,
+                  "lng" : 168.9673259
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7zhLb_ByqGURezUMltdma0s",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jabat Island",
+               "short_name" : "Jabat Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jabat Island, RMI",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.783792099999999,
+                  "lng" : 169.0037155
+               },
+               "southwest" : {
+                  "lat" : 7.7228424,
+                  "lng" : 168.9597701
+               }
+            },
+            "location" : {
+               "lat" : 7.760992099999999,
+               "lng" : 168.9853813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.783792099999999,
+                  "lng" : 169.0037155
+               },
+               "southwest" : {
+                  "lat" : 7.7228424,
+                  "lng" : 168.9597701
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtcJDWgxzqGUR4CwE32j0-Ys",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

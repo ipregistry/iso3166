@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agjabedi",
+               "short_name" : "Agjabedi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agjabadi",
+               "short_name" : "Agjabadi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Agjabedi, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0728829,
+                  "lng" : 47.4898623
+               },
+               "southwest" : {
+                  "lat" : 40.0198259,
+                  "lng" : 47.3933887
+               }
+            },
+            "location" : {
+               "lat" : 40.0529597,
+               "lng" : 47.4553529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0728829,
+                  "lng" : 47.4898623
+               },
+               "southwest" : {
+                  "lat" : 40.0198259,
+                  "lng" : 47.3933887
+               }
+            }
+         },
+         "place_id" : "ChIJ--2uE4OoPkARWEh2fILMlzU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

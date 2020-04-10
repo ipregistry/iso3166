@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orkhon",
+               "short_name" : "Orkhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orkhon, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1322389,
+                  "lng" : 104.577072
+               },
+               "southwest" : {
+                  "lat" : 48.9046019,
+                  "lng" : 104.004139
+               }
+            },
+            "location" : {
+               "lat" : 49.004705,
+               "lng" : 104.3016527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1322389,
+                  "lng" : 104.577072
+               },
+               "southwest" : {
+                  "lat" : 48.9046019,
+                  "lng" : 104.004139
+               }
+            }
+         },
+         "place_id" : "ChIJD57TOwAHol0Rl8HArIJY_CU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

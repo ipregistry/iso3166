@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nickerie",
+               "short_name" : "Nickerie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nickerie District",
+               "short_name" : "Nickerie District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Suriname",
+               "short_name" : "SR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nickerie, Suriname",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.962253599999999,
+                  "lng" : -56.9705486
+               },
+               "southwest" : {
+                  "lat" : 5.83991,
+                  "lng" : -57.0837593
+               }
+            },
+            "location" : {
+               "lat" : 5.905465299999999,
+               "lng" : -57.0336982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.962253599999999,
+                  "lng" : -56.9705486
+               },
+               "southwest" : {
+                  "lat" : 5.83991,
+                  "lng" : -57.0837593
+               }
+            }
+         },
+         "place_id" : "ChIJJWR87xMspI0RlIGBqNdoc1Q",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

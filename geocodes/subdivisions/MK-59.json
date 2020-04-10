@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Petrovec",
+               "short_name" : "Petrovec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Petrovec",
+               "short_name" : "Municipality of Petrovec",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Petrovec, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.946245,
+                  "lng" : 21.6286469
+               },
+               "southwest" : {
+                  "lat" : 41.9278888,
+                  "lng" : 21.5950228
+               }
+            },
+            "location" : {
+               "lat" : 41.9401891,
+               "lng" : 21.6094324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.946245,
+                  "lng" : 21.6286469
+               },
+               "southwest" : {
+                  "lat" : 41.9278888,
+                  "lng" : 21.5950228
+               }
+            }
+         },
+         "place_id" : "ChIJCSvpMn45VBMRxdJ4-UthAMs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

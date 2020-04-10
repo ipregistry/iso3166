@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chtouka Ait Baha Province",
+               "short_name" : "Chtouka Ait Baha Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Souss-Massa",
+               "short_name" : "Souss-Massa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chtouka Ait Baha Province, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2982461,
+                  "lng" : -8.882238100000002
+               },
+               "southwest" : {
+                  "lat" : 29.68089429999999,
+                  "lng" : -9.749938499999999
+               }
+            },
+            "location" : {
+               "lat" : 30.1072422,
+               "lng" : -9.2785583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2982461,
+                  "lng" : -8.882238100000002
+               },
+               "southwest" : {
+                  "lat" : 29.68089429999999,
+                  "lng" : -9.749938499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpZomvwb7sw0RjnA_65JU-mg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

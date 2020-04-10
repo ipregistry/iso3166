@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bouenza River",
+               "short_name" : "Bouenza River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Republic of the Congo",
+               "short_name" : "CG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bouenza River, Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.1402459,
+                  "lng" : 14.1466046
+               },
+               "southwest" : {
+                  "lat" : -4.1917472,
+                  "lng" : 13.5436913
+               }
+            },
+            "location" : {
+               "lat" : -3.6120212,
+               "lng" : 13.8173676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.1402459,
+                  "lng" : 14.1466046
+               },
+               "southwest" : {
+                  "lat" : -4.1917472,
+                  "lng" : 13.5436913
+               }
+            }
+         },
+         "place_id" : "ChIJ8flVLHs-bxoR2kkOT6_by5w",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

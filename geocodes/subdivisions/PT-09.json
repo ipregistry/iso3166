@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guarda",
+               "short_name" : "Guarda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guarda District",
+               "short_name" : "Guarda District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6300",
+               "short_name" : "6300",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Guarda, 6300, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7009636,
+                  "lng" : -7.0327436
+               },
+               "southwest" : {
+                  "lat" : 40.3806077,
+                  "lng" : -7.467313099999999
+               }
+            },
+            "location" : {
+               "lat" : 40.5308408,
+               "lng" : -7.2221421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7009636,
+                  "lng" : -7.0327436
+               },
+               "southwest" : {
+                  "lat" : 40.3806077,
+                  "lng" : -7.467313099999999
+               }
+            }
+         },
+         "place_id" : "ChIJU8b2j8T6PA0RADWQ5L3rAAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

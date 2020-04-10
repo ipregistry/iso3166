@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gostivar",
+               "short_name" : "Gostivar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gostivar, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.81792859999999,
+                  "lng" : 20.9324742
+               },
+               "southwest" : {
+                  "lat" : 41.78423300000001,
+                  "lng" : 20.8848596
+               }
+            },
+            "location" : {
+               "lat" : 41.80255409999999,
+               "lng" : 20.9089378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.81792859999999,
+                  "lng" : 20.9324742
+               },
+               "southwest" : {
+                  "lat" : 41.78423300000001,
+                  "lng" : 20.8848596
+               }
+            }
+         },
+         "place_id" : "ChIJ3dvjD3pXURMRdAFlbQM19jk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

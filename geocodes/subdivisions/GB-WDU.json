@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Dunbartonshire",
+               "short_name" : "West Dunbartonshire",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Dumbarton",
+               "short_name" : "Dumbarton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Dunbartonshire Council",
+               "short_name" : "West Dunbartonshire Council",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G82 2SH",
+               "short_name" : "G82 2SH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Dunbartonshire, Dumbarton G82 2SH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.96599999999999,
+               "lng" : -4.506
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9722445,
+                  "lng" : -4.4899926
+               },
+               "southwest" : {
+                  "lat" : 55.9597545,
+                  "lng" : -4.5220074
+               }
+            }
+         },
+         "place_id" : "ChIJT2kw8T9SiEgRjSPuKx9ODAo",
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

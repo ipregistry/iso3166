@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montagnes District",
+               "short_name" : "Montagnes District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Côte d'Ivoire",
+               "short_name" : "CI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montagnes District, Côte d'Ivoire",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.1423519,
+                  "lng" : -6.971871999999999
+               },
+               "southwest" : {
+                  "lat" : 5.637331,
+                  "lng" : -8.5993019
+               }
+            },
+            "location" : {
+               "lat" : 7.376237300000001,
+               "lng" : -7.4381355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.1423519,
+                  "lng" : -6.971871999999999
+               },
+               "southwest" : {
+                  "lat" : 5.637331,
+                  "lng" : -8.5993019
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR6bqhQj4rw8RKKLmMg4QI68",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

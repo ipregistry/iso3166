@@ -1,0 +1,98 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Federal Capital Territory",
+               "short_name" : "Federal Capital Territory",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Federal Capital Territory, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.408685,
+                  "lng" : 7.724080000000001
+               },
+               "southwest" : {
+                  "lat" : 8.419335999999999,
+                  "lng" : 6.7799621
+               }
+            },
+            "location" : {
+               "lat" : 8.894069099999999,
+               "lng" : 7.1860402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.408685,
+                  "lng" : 7.724080000000001
+               },
+               "southwest" : {
+                  "lat" : 8.419335999999999,
+                  "lng" : 6.7799621
+               }
+            }
+         },
+         "place_id" : "ChIJqe0-zldhThAR_C3jizYcrzI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abuja",
+               "short_name" : "Abuja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal Capital Territory",
+               "short_name" : "Federal Capital Territory",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abuja, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.186624699999999,
+                  "lng" : 7.5555897
+               },
+               "southwest" : {
+                  "lat" : 8.9220428,
+                  "lng" : 7.233123799999999
+               }
+            },
+            "location" : {
+               "lat" : 9.0764785,
+               "lng" : 7.398574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.186624699999999,
+                  "lng" : 7.5555897
+               },
+               "southwest" : {
+                  "lat" : 8.9220428,
+                  "lng" : 7.233123799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2S_WTF90ThARK6EOorQXvVM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

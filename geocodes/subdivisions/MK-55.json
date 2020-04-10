@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Novatsi",
+               "short_name" : "Novatsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Novaci",
+               "short_name" : "Municipality of Novaci",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novatsi, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.051201,
+                  "lng" : 21.4700748
+               },
+               "southwest" : {
+                  "lat" : 41.0374452,
+                  "lng" : 21.4476299
+               }
+            },
+            "location" : {
+               "lat" : 41.0442661,
+               "lng" : 21.4588894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.051201,
+                  "lng" : 21.4700748
+               },
+               "southwest" : {
+                  "lat" : 41.0374452,
+                  "lng" : 21.4476299
+               }
+            }
+         },
+         "place_id" : "ChIJ20BadT0iVxMRtk03J62eie0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

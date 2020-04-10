@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shizuoka",
+               "short_name" : "Shizuoka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shizuoka",
+               "short_name" : "Shizuoka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shizuoka, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.645958,
+                  "lng" : 138.635449
+               },
+               "southwest" : {
+                  "lat" : 34.898146,
+                  "lng" : 138.083021
+               }
+            },
+            "location" : {
+               "lat" : 34.9755668,
+               "lng" : 138.3826773
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.645958,
+                  "lng" : 138.635449
+               },
+               "southwest" : {
+                  "lat" : 34.898146,
+                  "lng" : 138.083021
+               }
+            }
+         },
+         "place_id" : "ChIJb4VYeiC_G2ARAYGHqCZ2x60",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

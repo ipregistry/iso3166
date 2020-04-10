@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jendouba",
+               "short_name" : "Jendouba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jendouba‎",
+               "short_name" : "Jendouba‎",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jendouba",
+               "short_name" : "Jendouba",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jendouba, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5212251,
+                  "lng" : 8.807001099999999
+               },
+               "southwest" : {
+                  "lat" : 36.485349,
+                  "lng" : 8.750781999999999
+               }
+            },
+            "location" : {
+               "lat" : 36.5072263,
+               "lng" : 8.7756556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5212251,
+                  "lng" : 8.807001099999999
+               },
+               "southwest" : {
+                  "lat" : 36.485349,
+                  "lng" : 8.750781999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ_5sJo04S-xIR2kIz-TdP72s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

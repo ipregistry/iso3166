@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Terter",
+               "short_name" : "Terter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tartar",
+               "short_name" : "Tartar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Terter, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3576638,
+                  "lng" : 46.96801199999999
+               },
+               "southwest" : {
+                  "lat" : 40.3265895,
+                  "lng" : 46.9110202
+               }
+            },
+            "location" : {
+               "lat" : 40.3443875,
+               "lng" : 46.9376519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3576638,
+                  "lng" : 46.96801199999999
+               },
+               "southwest" : {
+                  "lat" : 40.3265895,
+                  "lng" : 46.9110202
+               }
+            }
+         },
+         "place_id" : "ChIJ3ajhlDXXPkARu5DR2rnUbdA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

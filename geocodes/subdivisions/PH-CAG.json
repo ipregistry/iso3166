@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cagayan",
+               "short_name" : "Cagayan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cagayan Valley",
+               "short_name" : "Cagayan Valley",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cagayan, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.9668899,
+                  "lng" : 122.3379951
+               },
+               "southwest" : {
+                  "lat" : 17.5091661,
+                  "lng" : 120.9602821
+               }
+            },
+            "location" : {
+               "lat" : 18.2489629,
+               "lng" : 121.8787833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.9668899,
+                  "lng" : 122.3379951
+               },
+               "southwest" : {
+                  "lat" : 17.5091661,
+                  "lng" : 120.9602821
+               }
+            }
+         },
+         "place_id" : "ChIJLTqLxz_5hTMRYMCccmvVRIU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

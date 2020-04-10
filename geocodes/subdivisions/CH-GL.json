@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glarus",
+               "short_name" : "Glarus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glarus",
+               "short_name" : "Glarus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Glarus",
+               "short_name" : "GL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8750",
+               "short_name" : "8750",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8750 Glarus, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0594099,
+                  "lng" : 9.0776001
+               },
+               "southwest" : {
+                  "lat" : 46.96720999999999,
+                  "lng" : 8.89289
+               }
+            },
+            "location" : {
+               "lat" : 47.0411232,
+               "lng" : 9.0679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0594099,
+                  "lng" : 9.0776001
+               },
+               "southwest" : {
+                  "lat" : 46.96720999999999,
+                  "lng" : 8.89289
+               }
+            }
+         },
+         "place_id" : "ChIJUch2OooxhUcRskRR7dNUM4I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

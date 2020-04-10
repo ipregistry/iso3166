@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Silesian Voivodeship",
+               "short_name" : "Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Silesian Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0993559,
+                  "lng" : 19.9739915
+               },
+               "southwest" : {
+                  "lat" : 49.393975,
+                  "lng" : 18.03475
+               }
+            },
+            "location" : {
+               "lat" : 50.5716595,
+               "lng" : 19.3219768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0993559,
+                  "lng" : 19.9739915
+               },
+               "southwest" : {
+                  "lat" : 49.393975,
+                  "lng" : 18.03475
+               }
+            }
+         },
+         "place_id" : "ChIJI_4pjVvOFkcRVyRWoIov_rA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

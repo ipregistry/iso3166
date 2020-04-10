@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Szabolcs-Szatmár-Bereg",
+               "short_name" : "Szabolcs-Szatmár-Bereg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Szabolcs-Szatmár-Bereg, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4256611,
+                  "lng" : 22.896544
+               },
+               "southwest" : {
+                  "lat" : 47.5916749,
+                  "lng" : 21.0789789
+               }
+            },
+            "location" : {
+               "lat" : 48.0394954,
+               "lng" : 22.00333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4256611,
+                  "lng" : 22.896544
+               },
+               "southwest" : {
+                  "lat" : 47.5916749,
+                  "lng" : 21.0789789
+               }
+            }
+         },
+         "place_id" : "ChIJ12NuXi6FOEcREBEeDCnEAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

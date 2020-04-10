@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sembabule",
+               "short_name" : "Sembabule",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sembabule",
+               "short_name" : "Sembabule",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sembabule, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.07656099999999999,
+                  "lng" : 31.4668179
+               },
+               "southwest" : {
+                  "lat" : -0.08720390000000001,
+                  "lng" : 31.4558314
+               }
+            },
+            "location" : {
+               "lat" : -0.08163750000000002,
+               "lng" : 31.4599012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.07656099999999999,
+                  "lng" : 31.4668179
+               },
+               "southwest" : {
+                  "lat" : -0.08720390000000001,
+                  "lng" : 31.4558314
+               }
+            }
+         },
+         "place_id" : "ChIJB7k_54sF2BkRjPtetqA1oKk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

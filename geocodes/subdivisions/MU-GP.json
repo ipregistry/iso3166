@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Port District",
+               "short_name" : "Grand Port District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritius",
+               "short_name" : "MU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Port District, Mauritius",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.313135,
+                  "lng" : 57.7798542
+               },
+               "southwest" : {
+                  "lat" : -20.49906,
+                  "lng" : 57.520995
+               }
+            },
+            "location" : {
+               "lat" : -20.3851546,
+               "lng" : 57.6665742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.313135,
+                  "lng" : 57.7798542
+               },
+               "southwest" : {
+                  "lat" : -20.49906,
+                  "lng" : 57.520995
+               }
+            }
+         },
+         "place_id" : "ChIJv9VQljX1fCERoU08UWdklws",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

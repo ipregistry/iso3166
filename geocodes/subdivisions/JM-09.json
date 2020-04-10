@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanover Parish",
+               "short_name" : "Hanover Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "JM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hanover Parish, Jamaica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.464111,
+                  "lng" : -77.913105
+               },
+               "southwest" : {
+                  "lat" : 18.3051631,
+                  "lng" : -78.34310889999999
+               }
+            },
+            "location" : {
+               "lat" : 18.4097707,
+               "lng" : -78.13363799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.464111,
+                  "lng" : -77.913105
+               },
+               "southwest" : {
+                  "lat" : 18.3051631,
+                  "lng" : -78.34310889999999
+               }
+            }
+         },
+         "place_id" : "ChIJQ2aPH3Z32Y4R6t2-SvAH4yM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

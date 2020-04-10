@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayankhongor",
+               "short_name" : "Bayankhongor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bayankhongor",
+               "short_name" : "Bayankhongor",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayankhongor, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2142884,
+                  "lng" : 100.7368184
+               },
+               "southwest" : {
+                  "lat" : 46.1453508,
+                  "lng" : 100.6864358
+               }
+            },
+            "location" : {
+               "lat" : 46.177215,
+               "lng" : 100.7118653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2142884,
+                  "lng" : 100.7368184
+               },
+               "southwest" : {
+                  "lat" : 46.1453508,
+                  "lng" : 100.6864358
+               }
+            }
+         },
+         "place_id" : "ChIJiT10YTrweF0Rlm6PI0bYbsQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

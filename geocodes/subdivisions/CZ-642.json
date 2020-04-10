@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "642 00",
+               "short_name" : "642 00",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Brno",
+               "short_name" : "Brno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brno-City District",
+               "short_name" : "Brno-City District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Moravian Region",
+               "short_name" : "South Moravian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "642 00 Brno, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1959195,
+                  "lng" : 16.5532666
+               },
+               "southwest" : {
+                  "lat" : 49.1643046,
+                  "lng" : 16.4942807
+               }
+            },
+            "location" : {
+               "lat" : 49.1734437,
+               "lng" : 16.5319288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1959195,
+                  "lng" : 16.5532666
+               },
+               "southwest" : {
+                  "lat" : 49.1643046,
+                  "lng" : 16.4942807
+               }
+            }
+         },
+         "place_id" : "ChIJnziJoGuWEkcRUOBjmBKvABw",
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

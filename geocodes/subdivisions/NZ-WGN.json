@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wellington, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.126285,
+                  "lng" : 174.9106252
+               },
+               "southwest" : {
+                  "lat" : -41.3624551,
+                  "lng" : 174.613084
+               }
+            },
+            "location" : {
+               "lat" : -41.2864603,
+               "lng" : 174.776236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.126285,
+                  "lng" : 174.9106252
+               },
+               "southwest" : {
+                  "lat" : -41.3624551,
+                  "lng" : 174.613084
+               }
+            }
+         },
+         "place_id" : "ChIJy3TpSfyxOG0RcLQTomPvAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

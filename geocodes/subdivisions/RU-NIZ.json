@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nizhny Novgorod Oblast",
+               "short_name" : "Nizhny Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nizhny Novgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.091242,
+                  "lng" : 47.7710669
+               },
+               "southwest" : {
+                  "lat" : 54.461947,
+                  "lng" : 41.7762891
+               }
+            },
+            "location" : {
+               "lat" : 55.7995159,
+               "lng" : 44.0296769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.091242,
+                  "lng" : 47.7710669
+               },
+               "southwest" : {
+                  "lat" : 54.461947,
+                  "lng" : 41.7762891
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7wrHyEc5UEERonVMLoqQ9Vk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

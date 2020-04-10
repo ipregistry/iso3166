@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Woqooyi Galbeed",
+               "short_name" : "Woqooyi Galbeed",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Woqooyi Galbeed, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.867517,
+                  "lng" : 45.927817
+               },
+               "southwest" : {
+                  "lat" : 8.787853499999999,
+                  "lng" : 43.2759376
+               }
+            },
+            "location" : {
+               "lat" : 9.542373999999999,
+               "lng" : 44.0960311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.867517,
+                  "lng" : 45.927817
+               },
+               "southwest" : {
+                  "lat" : 8.787853499999999,
+                  "lng" : 43.2759376
+               }
+            }
+         },
+         "place_id" : "ChIJ6TOMEBLdJxYRdspt66naVRg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

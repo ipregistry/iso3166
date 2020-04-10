@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sistan and Baluchestan Province",
+               "short_name" : "Sistan and Baluchestan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sistan and Baluchestan Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4543234,
+                  "lng" : 63.317459
+               },
+               "southwest" : {
+                  "lat" : 25.0640871,
+                  "lng" : 58.79247700000001
+               }
+            },
+            "location" : {
+               "lat" : 27.5299906,
+               "lng" : 60.58206759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4543234,
+                  "lng" : 63.317459
+               },
+               "southwest" : {
+                  "lat" : 25.0640871,
+                  "lng" : 58.79247700000001
+               }
+            }
+         },
+         "place_id" : "ChIJ1UP-mjo35z4RCBTf6WpIL-k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

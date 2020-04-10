@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prahova",
+               "short_name" : "PH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prahova, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5147729,
+                  "lng" : 26.6054759
+               },
+               "southwest" : {
+                  "lat" : 44.692479,
+                  "lng" : 25.4514369
+               }
+            },
+            "location" : {
+               "lat" : 45.08919059999999,
+               "lng" : 26.0829313
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5147729,
+                  "lng" : 26.6054759
+               },
+               "southwest" : {
+                  "lat" : 44.692479,
+                  "lng" : 25.4514369
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9-_WqPZJskARiu2xsGG1Pbg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cibao",
+               "short_name" : "Cibao",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Camuy",
+               "short_name" : "Camuy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Puerto Rico",
+               "short_name" : "PR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cibao, Camuy, Puerto Rico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.398481,
+                  "lng" : -66.85404
+               },
+               "southwest" : {
+                  "lat" : 18.356058,
+                  "lng" : -66.90059909999999
+               }
+            },
+            "location" : {
+               "lat" : 18.373375,
+               "lng" : -66.8766904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.398481,
+                  "lng" : -66.85404
+               },
+               "southwest" : {
+                  "lat" : 18.356058,
+                  "lng" : -66.90059909999999
+               }
+            }
+         },
+         "place_id" : "ChIJ595zjozDAowRmQMq6t3Q7Tc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

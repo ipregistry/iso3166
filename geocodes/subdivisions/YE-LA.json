@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahij",
+               "short_name" : "Lahij",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahij Governorate",
+               "short_name" : "Lahij Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Yemen",
+               "short_name" : "YE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahij, Yemen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0707834,
+                  "lng" : 44.8918962
+               },
+               "southwest" : {
+                  "lat" : 13.0470378,
+                  "lng" : 44.8726703
+               }
+            },
+            "location" : {
+               "lat" : 13.0578415,
+               "lng" : 44.8832833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0707834,
+                  "lng" : 44.8918962
+               },
+               "southwest" : {
+                  "lat" : 13.0470378,
+                  "lng" : 44.8726703
+               }
+            }
+         },
+         "place_id" : "ChIJJbjzQ4v8HRYRlkeuyJdfvSk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

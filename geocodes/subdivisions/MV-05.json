@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laamu Atoll",
+               "short_name" : "Laamu Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Central Province",
+               "short_name" : "South Central Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laamu Atoll, Maldives",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.1576168,
+                  "lng" : 73.6018754
+               },
+               "southwest" : {
+                  "lat" : 1.7609684,
+                  "lng" : 73.2170105
+               }
+            },
+            "location" : {
+               "lat" : 1.9430737,
+               "lng" : 73.4180211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.1576168,
+                  "lng" : 73.6018754
+               },
+               "southwest" : {
+                  "lat" : 1.7609684,
+                  "lng" : 73.2170105
+               }
+            }
+         },
+         "place_id" : "ChIJ1-4cDIwsSDsRTBTf6TmV9KE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

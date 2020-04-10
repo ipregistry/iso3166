@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arkansas, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4997491,
+                  "lng" : -89.64483790000001
+               },
+               "southwest" : {
+                  "lat" : 33.0041059,
+                  "lng" : -94.61791900000001
+               }
+            },
+            "location" : {
+               "lat" : 35.20105,
+               "lng" : -91.83183339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4997491,
+                  "lng" : -89.64483790000001
+               },
+               "southwest" : {
+                  "lat" : 33.0041059,
+                  "lng" : -94.61791900000001
+               }
+            }
+         },
+         "place_id" : "ChIJYSc_dD-e0ocR0NLf_z5pBaQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

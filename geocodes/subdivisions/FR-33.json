@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gironde, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.573636,
+                  "lng" : 0.315137
+               },
+               "southwest" : {
+                  "lat" : 44.1939019,
+                  "lng" : -1.2614241
+               }
+            },
+            "location" : {
+               "lat" : 44.84966499999999,
+               "lng" : -0.4502368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.573636,
+                  "lng" : 0.315137
+               },
+               "southwest" : {
+                  "lat" : 44.1939019,
+                  "lng" : -1.2614241
+               }
+            }
+         },
+         "place_id" : "ChIJ8wX2tk4uVQ0RkCcRSBdlBgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

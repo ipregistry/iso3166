@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lamu",
+               "short_name" : "Lamu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lamu County",
+               "short_name" : "Lamu County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lamu, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -2.2624238,
+                  "lng" : 40.90520009999999
+               },
+               "southwest" : {
+                  "lat" : -2.2801124,
+                  "lng" : 40.8967566
+               }
+            },
+            "location" : {
+               "lat" : -2.2695575,
+               "lng" : 40.9006408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.2624238,
+                  "lng" : 40.90520009999999
+               },
+               "southwest" : {
+                  "lat" : -2.2801124,
+                  "lng" : 40.8967566
+               }
+            }
+         },
+         "place_id" : "ChIJlRVlqz8ZFxgRNSi6OMyR130",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

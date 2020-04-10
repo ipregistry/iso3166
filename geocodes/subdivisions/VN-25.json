@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quảng Trị",
+               "short_name" : "Quảng Trị",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quảng Trị Province",
+               "short_name" : "Quảng Trị Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quảng Trị, Quảng Trị Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.7615919,
+                  "lng" : 107.2029999
+               },
+               "southwest" : {
+                  "lat" : 16.6282931,
+                  "lng" : 107.0671329
+               }
+            },
+            "location" : {
+               "lat" : 16.7403074,
+               "lng" : 107.1854679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.7615919,
+                  "lng" : 107.2029999
+               },
+               "southwest" : {
+                  "lat" : 16.6282931,
+                  "lng" : 107.0671329
+               }
+            }
+         },
+         "place_id" : "ChIJ7UvlIqrkQDEROoWfwkhmOE0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaafu Dhaalu Atoll",
+               "short_name" : "Gaafu Dhaalu Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Upper South Province",
+               "short_name" : "Upper South Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gaafu Dhaalu Atoll, Maldives",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.588874,
+                  "lng" : 73.55595599999999
+               },
+               "southwest" : {
+                  "lat" : 0.1538084,
+                  "lng" : 72.9553987
+               }
+            },
+            "location" : {
+               "lat" : 0.358804,
+               "lng" : 73.1821623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.588874,
+                  "lng" : 73.55595599999999
+               },
+               "southwest" : {
+                  "lat" : 0.1538084,
+                  "lng" : 72.9553987
+               }
+            }
+         },
+         "place_id" : "ChIJWxnZj1bxSjsRL5hgpKF3Lzw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

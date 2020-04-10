@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Debrecen",
+               "short_name" : "Debrecen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Debrecen, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6369639,
+                  "lng" : 21.883706
+               },
+               "southwest" : {
+                  "lat" : 47.4248649,
+                  "lng" : 21.4366579
+               }
+            },
+            "location" : {
+               "lat" : 47.5316049,
+               "lng" : 21.6273124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6369639,
+                  "lng" : 21.883706
+               },
+               "southwest" : {
+                  "lat" : 47.4248649,
+                  "lng" : 21.4366579
+               }
+            }
+         },
+         "place_id" : "ChIJgyte_ioMR0cRcBEeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

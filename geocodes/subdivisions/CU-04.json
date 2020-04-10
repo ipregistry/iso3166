@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matanzas",
+               "short_name" : "Matanzas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matanzas",
+               "short_name" : "Matanzas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Matanzas",
+               "short_name" : "Matanzas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matanzas, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.084567,
+                  "lng" : -81.4130816
+               },
+               "southwest" : {
+                  "lat" : 23.0101738,
+                  "lng" : -81.6235069
+               }
+            },
+            "location" : {
+               "lat" : 23.0303395,
+               "lng" : -81.5322149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.084567,
+                  "lng" : -81.4130816
+               },
+               "southwest" : {
+                  "lat" : 23.0101738,
+                  "lng" : -81.6235069
+               }
+            }
+         },
+         "place_id" : "ChIJU-DxkRf80ogRhs-66VSeXeI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

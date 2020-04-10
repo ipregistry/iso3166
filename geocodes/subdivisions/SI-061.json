@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ljubljana, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1422017,
+                  "lng" : 14.6446963
+               },
+               "southwest" : {
+                  "lat" : 45.990033,
+                  "lng" : 14.4195019
+               }
+            },
+            "location" : {
+               "lat" : 46.0569465,
+               "lng" : 14.5057515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1422017,
+                  "lng" : 14.6446963
+               },
+               "southwest" : {
+                  "lat" : 45.990033,
+                  "lng" : 14.4195019
+               }
+            }
+         },
+         "place_id" : "ChIJ0YaYlvUxZUcRIOw_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Litoral",
+               "short_name" : "Litoral",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Equatorial Guinea",
+               "short_name" : "GQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Litoral, Equatorial Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.348331,
+                  "lng" : 10.263524
+               },
+               "southwest" : {
+                  "lat" : 0.8866449999999999,
+                  "lng" : 9.29992
+               }
+            },
+            "location" : {
+               "lat" : 1.5750244,
+               "lng" : 9.8124935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.348331,
+                  "lng" : 10.263524
+               },
+               "southwest" : {
+                  "lat" : 0.8866449999999999,
+                  "lng" : 9.29992
+               }
+            }
+         },
+         "place_id" : "ChIJIUPUEOjbfBARxGhwG9QTFPc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

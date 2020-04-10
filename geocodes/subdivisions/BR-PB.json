@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paraíba do Norte River",
+               "short_name" : "Paraíba do Norte River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "State of Paraíba",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paraíba do Norte River, State of Paraíba, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.9419078,
+                  "lng" : -34.8182593
+               },
+               "southwest" : {
+                  "lat" : -7.700507000000001,
+                  "lng" : -36.1762615
+               }
+            },
+            "location" : {
+               "lat" : -7.3646375,
+               "lng" : -35.4849407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.9419078,
+                  "lng" : -34.8182593
+               },
+               "southwest" : {
+                  "lat" : -7.700507000000001,
+                  "lng" : -36.1762615
+               }
+            }
+         },
+         "place_id" : "ChIJiYRsXvHvrAcRKFZLsdiazSw",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

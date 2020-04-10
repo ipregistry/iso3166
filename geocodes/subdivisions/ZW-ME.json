@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mashonaland East Province",
+               "short_name" : "Mashonaland East Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mashonaland East Province, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.6989528,
+                  "lng" : 32.9939216
+               },
+               "southwest" : {
+                  "lat" : -19.2712461,
+                  "lng" : 30.485893
+               }
+            },
+            "location" : {
+               "lat" : -18.5871642,
+               "lng" : 31.2626366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.6989528,
+                  "lng" : 32.9939216
+               },
+               "southwest" : {
+                  "lat" : -19.2712461,
+                  "lng" : 30.485893
+               }
+            }
+         },
+         "place_id" : "ChIJMzJ9iEQeLhkRjvW2scDHyX4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

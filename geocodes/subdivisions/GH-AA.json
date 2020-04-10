@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greater Accra Region",
+               "short_name" : "Greater Accra Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater Accra Region, Ghana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.9961559,
+                  "lng" : 0.72458
+               },
+               "southwest" : {
+                  "lat" : 5.4948349,
+                  "lng" : -0.5112099999999999
+               }
+            },
+            "location" : {
+               "lat" : 5.8142836,
+               "lng" : 0.0746767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.9961559,
+                  "lng" : 0.72458
+               },
+               "southwest" : {
+                  "lat" : 5.4948349,
+                  "lng" : -0.5112099999999999
+               }
+            }
+         },
+         "place_id" : "ChIJc6e3soSQ3w8RYQbYT8_WxlM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catanduanes Island",
+               "short_name" : "Catanduanes Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Bicol",
+               "short_name" : "Bicol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Catanduanes Island, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.1019486,
+                  "lng" : 124.4208526
+               },
+               "southwest" : {
+                  "lat" : 13.5171701,
+                  "lng" : 124.0205383
+               }
+            },
+            "location" : {
+               "lat" : 13.6070437,
+               "lng" : 124.1359923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.1019486,
+                  "lng" : 124.4208526
+               },
+               "southwest" : {
+                  "lat" : 13.5171701,
+                  "lng" : 124.0205383
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy6_LJ-v1nzMRR3Ewo_lz908",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

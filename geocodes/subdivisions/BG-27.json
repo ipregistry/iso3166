@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shumen",
+               "short_name" : "Shumen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shumen Province",
+               "short_name" : "Shumen Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shumen, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3144123,
+                  "lng" : 27.0506347
+               },
+               "southwest" : {
+                  "lat" : 43.2250909,
+                  "lng" : 26.8972271
+               }
+            },
+            "location" : {
+               "lat" : 43.2712398,
+               "lng" : 26.9361286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3144123,
+                  "lng" : 27.0506347
+               },
+               "southwest" : {
+                  "lat" : 43.2250909,
+                  "lng" : 26.8972271
+               }
+            }
+         },
+         "place_id" : "ChIJa8aV82eKpUARG-bOD1NZ2k4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

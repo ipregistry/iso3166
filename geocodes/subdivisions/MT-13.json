@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghajnsielem",
+               "short_name" : "Ghajnsielem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ghajnsielem, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0345247,
+                  "lng" : 14.3508911
+               },
+               "southwest" : {
+                  "lat" : 36.0038057,
+                  "lng" : 14.2698563
+               }
+            },
+            "location" : {
+               "lat" : 36.02479659999999,
+               "lng" : 14.2802961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0345247,
+                  "lng" : 14.3508911
+               },
+               "southwest" : {
+                  "lat" : 36.0038057,
+                  "lng" : 14.2698563
+               }
+            }
+         },
+         "place_id" : "ChIJi9SF0UpLDhMRkS-1Ob5ZGYQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

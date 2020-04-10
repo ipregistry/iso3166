@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kujalleq Municipality",
+               "short_name" : "Kujalleq Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greenland",
+               "short_name" : "GL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kujalleq Municipality, Greenland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.5442676,
+                  "lng" : -42.400806
+               },
+               "southwest" : {
+                  "lat" : 59.77726699999999,
+                  "lng" : -48.4008219
+               }
+            },
+            "location" : {
+               "lat" : 60.90831739999999,
+               "lng" : -44.4400156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.5442676,
+                  "lng" : -42.400806
+               },
+               "southwest" : {
+                  "lat" : 59.77726699999999,
+                  "lng" : -48.4008219
+               }
+            }
+         },
+         "place_id" : "ChIJZ-WeCc2Tq04RPcErW6mBd_k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

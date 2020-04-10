@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Mirna",
+               "short_name" : "Municipality of Mirna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mirna",
+               "short_name" : "Mirna",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Trebnje",
+               "short_name" : "Trebnje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8233",
+               "short_name" : "8233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Mirna, 8233 Mirna, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9795439,
+                  "lng" : 15.1179341
+               },
+               "southwest" : {
+                  "lat" : 45.9130013,
+                  "lng" : 14.9962044
+               }
+            },
+            "location" : {
+               "lat" : 45.9515647,
+               "lng" : 15.0620977
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9795439,
+                  "lng" : 15.1179341
+               },
+               "southwest" : {
+                  "lat" : 45.9130013,
+                  "lng" : 14.9962044
+               }
+            }
+         },
+         "place_id" : "ChIJ41EPZM4aZUcRT0wEXzdt0Sg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

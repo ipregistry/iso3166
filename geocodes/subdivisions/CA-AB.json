@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alberta, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.00006209999999,
+                  "lng" : -109.9998551
+               },
+               "southwest" : {
+                  "lat" : 48.9966671,
+                  "lng" : -120.0005219
+               }
+            },
+            "location" : {
+               "lat" : 53.9332706,
+               "lng" : -116.5765035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.00006209999999,
+                  "lng" : -109.9998551
+               },
+               "southwest" : {
+                  "lat" : 48.9966671,
+                  "lng" : -120.0005219
+               }
+            }
+         },
+         "place_id" : "ChIJtRkkqIKyCVMRno6bQJpHqbA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

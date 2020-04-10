@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zurrieq",
+               "short_name" : "Zurrieq",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zurrieq, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8404648,
+                  "lng" : 14.5144888
+               },
+               "southwest" : {
+                  "lat" : 35.8126989,
+                  "lng" : 14.4575752
+               }
+            },
+            "location" : {
+               "lat" : 35.8216306,
+               "lng" : 14.4810648
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8404648,
+                  "lng" : 14.5144888
+               },
+               "southwest" : {
+                  "lat" : 35.8126989,
+                  "lng" : 14.4575752
+               }
+            }
+         },
+         "place_id" : "ChIJjZXCFg1aDhMRQBycBdhnFc8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

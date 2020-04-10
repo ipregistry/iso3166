@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Vicente",
+               "short_name" : "San Vicente",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Vicente Department",
+               "short_name" : "San Vicente Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "El Salvador",
+               "short_name" : "SV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Vicente, El Salvador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.6538741,
+                  "lng" : -88.76274169999999
+               },
+               "southwest" : {
+                  "lat" : 13.6273003,
+                  "lng" : -88.8051011
+               }
+            },
+            "location" : {
+               "lat" : 13.6390979,
+               "lng" : -88.78306120000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.6538741,
+                  "lng" : -88.76274169999999
+               },
+               "southwest" : {
+                  "lat" : 13.6273003,
+                  "lng" : -88.8051011
+               }
+            }
+         },
+         "place_id" : "ChIJJ30Eh_upZI8RFlYUg2yldcI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

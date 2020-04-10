@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Štore",
+               "short_name" : "Municipality of Štore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Štore",
+               "short_name" : "Štore",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Celje",
+               "short_name" : "Celje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3220",
+               "short_name" : "3220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Štore, 3220 Štore, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2332033,
+                  "lng" : 15.3605463
+               },
+               "southwest" : {
+                  "lat" : 46.1631081,
+                  "lng" : 15.2789979
+               }
+            },
+            "location" : {
+               "lat" : 46.2222514,
+               "lng" : 15.3126116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2332033,
+                  "lng" : 15.3605463
+               },
+               "southwest" : {
+                  "lat" : 46.1631081,
+                  "lng" : 15.2789979
+               }
+            }
+         },
+         "place_id" : "ChIJz63lPJV2ZUcRAPI_ghz4AAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

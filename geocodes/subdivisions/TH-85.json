@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ranong",
+               "short_name" : "จ. ระนอง",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ranong, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.7885391,
+                  "lng" : 98.9650219
+               },
+               "southwest" : {
+                  "lat" : 9.303952799999999,
+                  "lng" : 98.3213497
+               }
+            },
+            "location" : {
+               "lat" : 9.9528702,
+               "lng" : 98.60846409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.7885391,
+                  "lng" : 98.9650219
+               },
+               "southwest" : {
+                  "lat" : 9.303952799999999,
+                  "lng" : 98.3213497
+               }
+            }
+         },
+         "place_id" : "ChIJscF6ROVFVjAR0Ew2LLwjAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shabeellaha Dhexe",
+               "short_name" : "Shabeellaha Dhexe",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shabeellaha Dhexe, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.030119,
+                  "lng" : 47.104496
+               },
+               "southwest" : {
+                  "lat" : 2.1698229,
+                  "lng" : 45.03761
+               }
+            },
+            "location" : {
+               "lat" : 2.9250247,
+               "lng" : 45.9039689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.030119,
+                  "lng" : 47.104496
+               },
+               "southwest" : {
+                  "lat" : 2.1698229,
+                  "lng" : 45.03761
+               }
+            }
+         },
+         "place_id" : "ChIJo_1E9seQXj0R_5Qo4tLVMSc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

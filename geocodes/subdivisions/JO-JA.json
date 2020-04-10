@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jerash",
+               "short_name" : "Jerash",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jarash Qasabah District",
+               "short_name" : "Jarash Qasabah District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jerash Governorate",
+               "short_name" : "Jerash Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jerash, Jordan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3280528,
+                  "lng" : 35.9561647
+               },
+               "southwest" : {
+                  "lat" : 32.212036,
+                  "lng" : 35.8327906
+               }
+            },
+            "location" : {
+               "lat" : 32.2746515,
+               "lng" : 35.8960765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3280528,
+                  "lng" : 35.9561647
+               },
+               "southwest" : {
+                  "lat" : 32.212036,
+                  "lng" : 35.8327906
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjcCa9C-AHBURAtPey7EkbIc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

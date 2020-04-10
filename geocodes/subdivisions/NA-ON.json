@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oshana Region",
+               "short_name" : "Oshana Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oshana Region, Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.675126,
+                  "lng" : 16.0409669
+               },
+               "southwest" : {
+                  "lat" : -19.32805,
+                  "lng" : 15.2764
+               }
+            },
+            "location" : {
+               "lat" : -18.4305064,
+               "lng" : 15.6881788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.675126,
+                  "lng" : 16.0409669
+               },
+               "southwest" : {
+                  "lat" : -19.32805,
+                  "lng" : 15.2764
+               }
+            }
+         },
+         "place_id" : "ChIJ351td3tQkhsRSSlO9bvIDQA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anetan",
+               "short_name" : "Anetan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nauru",
+               "short_name" : "NR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anetan, Nauru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.5027929999999999,
+                  "lng" : 166.9484549
+               },
+               "southwest" : {
+                  "lat" : -0.5187309999999999,
+                  "lng" : 166.9389181
+               }
+            },
+            "location" : {
+               "lat" : -0.5064343,
+               "lng" : 166.9427006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.5027929999999999,
+                  "lng" : 166.9484549
+               },
+               "southwest" : {
+                  "lat" : -0.5187309999999999,
+                  "lng" : 166.9389181
+               }
+            }
+         },
+         "place_id" : "ChIJ-zOnb4kbfW8RBK2vsd6GmR0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

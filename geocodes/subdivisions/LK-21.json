@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kandy",
+               "short_name" : "Kandy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kandy",
+               "short_name" : "Kandy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Province",
+               "short_name" : "CP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kandy, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.330587100000001,
+                  "lng" : 80.6596685
+               },
+               "southwest" : {
+                  "lat" : 7.258503500000001,
+                  "lng" : 80.5918944
+               }
+            },
+            "location" : {
+               "lat" : 7.2905715,
+               "lng" : 80.6337262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.330587100000001,
+                  "lng" : 80.6596685
+               },
+               "southwest" : {
+                  "lat" : 7.258503500000001,
+                  "lng" : 80.5918944
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ06yYZCZm4zoRNTzgoRg4GkE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

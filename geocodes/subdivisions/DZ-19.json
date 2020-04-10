@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Setif",
+               "short_name" : "Setif",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Setif",
+               "short_name" : "Setif",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sétif Province",
+               "short_name" : "Sétif Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Setif, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.2481439,
+                  "lng" : 5.503839
+               },
+               "southwest" : {
+                  "lat" : 36.1331039,
+                  "lng" : 5.3358148
+               }
+            },
+            "location" : {
+               "lat" : 36.1897593,
+               "lng" : 5.4107984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2481439,
+                  "lng" : 5.503839
+               },
+               "southwest" : {
+                  "lat" : 36.1331039,
+                  "lng" : 5.3358148
+               }
+            }
+         },
+         "place_id" : "ChIJS_zKX5wV8xIR1dzK07vPY7A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

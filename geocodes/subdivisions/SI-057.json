@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laško",
+               "short_name" : "Laško",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laško",
+               "short_name" : "Laško",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Laško",
+               "short_name" : "Laško",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3270",
+               "short_name" : "3270",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3270 Laško, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.17712179999999,
+                  "lng" : 15.2548406
+               },
+               "southwest" : {
+                  "lat" : 46.1451113,
+                  "lng" : 15.2226445
+               }
+            },
+            "location" : {
+               "lat" : 46.1542793,
+               "lng" : 15.2359979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.17712179999999,
+                  "lng" : 15.2548406
+               },
+               "southwest" : {
+                  "lat" : 46.1451113,
+                  "lng" : 15.2226445
+               }
+            }
+         },
+         "place_id" : "ChIJjyrzNaNzZUcRBMVwDIi5Kfc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Merthyr Tydfil",
+               "short_name" : "Merthyr Tydfil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merthyr Tydfil",
+               "short_name" : "Merthyr Tydfil",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merthyr Tydfil County Borough",
+               "short_name" : "Merthyr Tydfil County Borough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Merthyr Tydfil, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7696031,
+                  "lng" : -3.3561396
+               },
+               "southwest" : {
+                  "lat" : 51.73217229999999,
+                  "lng" : -3.400272
+               }
+            },
+            "location" : {
+               "lat" : 51.74872999999999,
+               "lng" : -3.381646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7696031,
+                  "lng" : -3.3561396
+               },
+               "southwest" : {
+                  "lat" : 51.73217229999999,
+                  "lng" : -3.400272
+               }
+            }
+         },
+         "place_id" : "ChIJqeOhGa4kbkgR68dYRF1f4Lk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

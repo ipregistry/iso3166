@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Birzebbuga",
+               "short_name" : "Birzebbuga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Birżebbuġa",
+               "short_name" : "Birżebbuġa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Birzebbuga, Birżebbuġa, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8312355,
+                  "lng" : 14.5307535
+               },
+               "southwest" : {
+                  "lat" : 35.8297738,
+                  "lng" : 14.5294793
+               }
+            },
+            "location" : {
+               "lat" : 35.8304386,
+               "lng" : 14.5300318
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8318536302915,
+                  "lng" : 14.5314653802915
+               },
+               "southwest" : {
+                  "lat" : 35.8291556697085,
+                  "lng" : 14.5287674197085
+               }
+            }
+         },
+         "place_id" : "ChIJBwZ0jLdbDhMRk6m0vUCEsvY",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

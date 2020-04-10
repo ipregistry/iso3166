@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beni Department",
+               "short_name" : "Beni Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bolivia",
+               "short_name" : "BO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beni Department, Bolivia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.381218,
+                  "lng" : -61.5279301
+               },
+               "southwest" : {
+                  "lat" : -16.4916511,
+                  "lng" : -67.56218179999999
+               }
+            },
+            "location" : {
+               "lat" : -14.3782747,
+               "lng" : -65.0957792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.381218,
+                  "lng" : -61.5279301
+               },
+               "southwest" : {
+                  "lat" : -16.4916511,
+                  "lng" : -67.56218179999999
+               }
+            }
+         },
+         "place_id" : "ChIJzZvTkoHD05MRbFe-FLT_e-w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

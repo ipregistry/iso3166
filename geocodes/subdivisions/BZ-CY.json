@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cayo District",
+               "short_name" : "Cayo District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belize",
+               "short_name" : "BZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cayo District, Belize",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.5050549,
+                  "lng" : -88.55081790000001
+               },
+               "southwest" : {
+                  "lat" : 16.4052541,
+                  "lng" : -89.189365
+               }
+            },
+            "location" : {
+               "lat" : 17.0984445,
+               "lng" : -88.94138650000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.5050549,
+                  "lng" : -88.55081790000001
+               },
+               "southwest" : {
+                  "lat" : 16.4052541,
+                  "lng" : -89.189365
+               }
+            }
+         },
+         "place_id" : "ChIJE6Mw4WfVXY8RKrsFp7Ef4PM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

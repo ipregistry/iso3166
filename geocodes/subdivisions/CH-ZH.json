@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zürich",
+               "short_name" : "Zürich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zürich District",
+               "short_name" : "Zürich District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zurich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zürich, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.43468,
+                  "lng" : 8.6253701
+               },
+               "southwest" : {
+                  "lat" : 47.32023,
+                  "lng" : 8.448059899999999
+               }
+            },
+            "location" : {
+               "lat" : 47.3768866,
+               "lng" : 8.541694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.43468,
+                  "lng" : 8.6253701
+               },
+               "southwest" : {
+                  "lat" : 47.32023,
+                  "lng" : 8.448059899999999
+               }
+            }
+         },
+         "place_id" : "ChIJGaK-SZcLkEcRA9wf5_GNbuY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

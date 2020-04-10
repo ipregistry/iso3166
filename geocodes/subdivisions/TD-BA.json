@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tibbetts Drive",
+               "short_name" : "Tibbetts Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brunswick",
+               "short_name" : "Brunswick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brunswick",
+               "short_name" : "Brunswick",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cumberland County",
+               "short_name" : "Cumberland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04011",
+               "short_name" : "04011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10 Tibbetts Dr, Brunswick, ME 04011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.90741149999999,
+               "lng" : -69.9107434
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9087604802915,
+                  "lng" : -69.90939441970851
+               },
+               "southwest" : {
+                  "lat" : 43.9060625197085,
+                  "lng" : -69.91209238029151
+               }
+            }
+         },
+         "place_id" : "ChIJ54VHSeSGrUwRiJvV2iG5Twc",
+         "plus_code" : {
+            "compound_code" : "W34Q+XP Brunswick, ME, United States",
+            "global_code" : "87MGW34Q+XP"
+         },
+         "types" : [ "atm", "bank", "establishment", "finance", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

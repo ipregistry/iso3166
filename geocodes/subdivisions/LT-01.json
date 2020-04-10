@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akmenė",
+               "short_name" : "Akmenė",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Akmenė District Municipality",
+               "short_name" : "Akmenė District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Šiauliai County",
+               "short_name" : "Šiauliai County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akmenė, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.2537549,
+                  "lng" : 22.76787
+               },
+               "southwest" : {
+                  "lat" : 56.234391,
+                  "lng" : 22.7264019
+               }
+            },
+            "location" : {
+               "lat" : 56.2455029,
+               "lng" : 22.7471169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2537549,
+                  "lng" : 22.76787
+               },
+               "southwest" : {
+                  "lat" : 56.234391,
+                  "lng" : 22.7264019
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjUWryxCI5UYRhF18q1qur80",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

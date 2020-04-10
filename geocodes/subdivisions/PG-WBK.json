@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West New Britain Province",
+               "short_name" : "West New Britain Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West New Britain Province, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.5408704,
+                  "lng" : 151.6839161
+               },
+               "southwest" : {
+                  "lat" : -6.317936899999999,
+                  "lng" : 148.3095721
+               }
+            },
+            "location" : {
+               "lat" : -5.704743199999999,
+               "lng" : 150.0259466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.5408704,
+                  "lng" : 151.6839161
+               },
+               "southwest" : {
+                  "lat" : -6.317936899999999,
+                  "lng" : 148.3095721
+               }
+            }
+         },
+         "place_id" : "ChIJG_oQ7R0r6WgRDtz0DKqqUek",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

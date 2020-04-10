@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agsu",
+               "short_name" : "Agsu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agsu",
+               "short_name" : "Agsu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Agsu, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.587429,
+                  "lng" : 48.4195375
+               },
+               "southwest" : {
+                  "lat" : 40.553135,
+                  "lng" : 48.3700133
+               }
+            },
+            "location" : {
+               "lat" : 40.5742298,
+               "lng" : 48.3896404
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.587429,
+                  "lng" : 48.4195375
+               },
+               "southwest" : {
+                  "lat" : 40.553135,
+                  "lng" : 48.3700133
+               }
+            }
+         },
+         "place_id" : "ChIJLTXejOWPOUAR7YKffyLXFbs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

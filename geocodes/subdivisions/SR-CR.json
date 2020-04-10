@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coronie",
+               "short_name" : "Coronie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Suriname",
+               "short_name" : "SR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coronie, Suriname",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.944246,
+                  "lng" : -55.88164
+               },
+               "southwest" : {
+                  "lat" : 5.331499,
+                  "lng" : -56.604008
+               }
+            },
+            "location" : {
+               "lat" : 5.6943271,
+               "lng" : -56.2929381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.944246,
+                  "lng" : -55.88164
+               },
+               "southwest" : {
+                  "lat" : 5.331499,
+                  "lng" : -56.604008
+               }
+            }
+         },
+         "place_id" : "ChIJx-WwF93gpo0Role85a8UJlo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

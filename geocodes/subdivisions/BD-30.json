@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kushtia",
+               "short_name" : "Kushtia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kushtia District",
+               "short_name" : "Kushtia District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kushtia, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.923375,
+                  "lng" : 89.1640297
+               },
+               "southwest" : {
+                  "lat" : 23.8709257,
+                  "lng" : 89.0785217
+               }
+            },
+            "location" : {
+               "lat" : 23.9087767,
+               "lng" : 89.12198219999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.923375,
+                  "lng" : 89.1640297
+               },
+               "southwest" : {
+                  "lat" : 23.8709257,
+                  "lng" : 89.0785217
+               }
+            }
+         },
+         "place_id" : "ChIJH9a3NlWW_jkRyTjb72ej_ig",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

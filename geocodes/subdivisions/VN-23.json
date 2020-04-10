@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hà Tĩnh",
+               "short_name" : "Hà Tĩnh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ha Tinh",
+               "short_name" : "Ha Tinh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hà Tĩnh, Ha Tinh, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.4005059,
+                  "lng" : 105.9435011
+               },
+               "southwest" : {
+                  "lat" : 18.3079828,
+                  "lng" : 105.8601595
+               }
+            },
+            "location" : {
+               "lat" : 18.3559537,
+               "lng" : 105.8877494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.4005059,
+                  "lng" : 105.9435011
+               },
+               "southwest" : {
+                  "lat" : 18.3079828,
+                  "lng" : 105.8601595
+               }
+            }
+         },
+         "place_id" : "ChIJuTUSoCVOODERMW4xUQon17w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

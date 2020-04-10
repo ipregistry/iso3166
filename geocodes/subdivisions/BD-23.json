@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhenaidah",
+               "short_name" : "Jhenaidah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jhenaidah District",
+               "short_name" : "Jhenaidah District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jhenaidah, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.5841259,
+                  "lng" : 89.2035769
+               },
+               "southwest" : {
+                  "lat" : 23.518191,
+                  "lng" : 89.1345693
+               }
+            },
+            "location" : {
+               "lat" : 23.5528198,
+               "lng" : 89.1753614
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.5841259,
+                  "lng" : 89.2035769
+               },
+               "southwest" : {
+                  "lat" : 23.518191,
+                  "lng" : 89.1345693
+               }
+            }
+         },
+         "place_id" : "ChIJP86wzN7l_jkRGm60490Yla0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

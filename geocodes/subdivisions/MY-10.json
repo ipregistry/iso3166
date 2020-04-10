@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selangor",
+               "short_name" : "Selangor",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Selangor, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.8706219,
+                  "lng" : 101.970064
+               },
+               "southwest" : {
+                  "lat" : 2.5938243,
+                  "lng" : 100.7918708
+               }
+            },
+            "location" : {
+               "lat" : 3.0738379,
+               "lng" : 101.5183469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.8706219,
+                  "lng" : 101.970064
+               },
+               "southwest" : {
+                  "lat" : 2.5938243,
+                  "lng" : 100.7918708
+               }
+            }
+         },
+         "place_id" : "ChIJXwTrzVJCzDERuftdIeG-4SY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mouhoun",
+               "short_name" : "Mouhoun",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Boucle du Mouhoun Region",
+               "short_name" : "Boucle du Mouhoun Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mouhoun, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.746741,
+                  "lng" : -2.7976019
+               },
+               "southwest" : {
+                  "lat" : 11.7275591,
+                  "lng" : -3.984274
+               }
+            },
+            "location" : {
+               "lat" : 12.1432381,
+               "lng" : -3.3388917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.746741,
+                  "lng" : -2.7976019
+               },
+               "southwest" : {
+                  "lat" : 11.7275591,
+                  "lng" : -3.984274
+               }
+            }
+         },
+         "place_id" : "ChIJe3APAohnMQ4RhMXRT9JelfI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

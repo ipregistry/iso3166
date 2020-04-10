@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vayots Dzor Province",
+               "short_name" : "Vayots Dzor Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Armenia",
+               "short_name" : "AM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vayots Dzor Province, Armenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.01380899999999,
+                  "lng" : 45.825905
+               },
+               "southwest" : {
+                  "lat" : 39.502243,
+                  "lng" : 45.066502
+               }
+            },
+            "location" : {
+               "lat" : 39.7641996,
+               "lng" : 45.3337528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.01380899999999,
+                  "lng" : 45.825905
+               },
+               "southwest" : {
+                  "lat" : 39.502243,
+                  "lng" : 45.066502
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQeqqdg57FUARU6j2Nb77nrM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Princes Town",
+               "short_name" : "Princes Town",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Princes Town Regional Corporation",
+               "short_name" : "Princes Town Regional Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Princes Town, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.2699263,
+                  "lng" : -61.37228200000001
+               },
+               "southwest" : {
+                  "lat" : 10.261475,
+                  "lng" : -61.38231150000001
+               }
+            },
+            "location" : {
+               "lat" : 10.2659505,
+               "lng" : -61.37643809999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.2699263,
+                  "lng" : -61.37228200000001
+               },
+               "southwest" : {
+                  "lat" : 10.261475,
+                  "lng" : -61.38231150000001
+               }
+            }
+         },
+         "place_id" : "ChIJd0Aga_-KNYwRee952strF4U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

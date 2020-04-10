@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Hasakah",
+               "short_name" : "Al Hasakah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al-Hasakah District",
+               "short_name" : "Al-Hasakah District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Al-Hasakah Governorate",
+               "short_name" : "Al-Hasakah Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Hasakah, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5511552,
+                  "lng" : 40.7808845
+               },
+               "southwest" : {
+                  "lat" : 36.45780329999999,
+                  "lng" : 40.7062104
+               }
+            },
+            "location" : {
+               "lat" : 36.507867,
+               "lng" : 40.7462671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5511552,
+                  "lng" : 40.7808845
+               },
+               "southwest" : {
+                  "lat" : 36.45780329999999,
+                  "lng" : 40.7062104
+               }
+            }
+         },
+         "place_id" : "ChIJiagpjM2oSxURe4V8bVTkazg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

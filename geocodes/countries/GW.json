@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guinea-Bissau",
+               "short_name" : "GW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guinea-Bissau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.6869468,
+                  "lng" : -13.6265235
+               },
+               "southwest" : {
+                  "lat" : 10.7146,
+                  "lng" : -16.9518999
+               }
+            },
+            "location" : {
+               "lat" : 11.803749,
+               "lng" : -15.180413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.6869468,
+                  "lng" : -13.6265235
+               },
+               "southwest" : {
+                  "lat" : 10.7146,
+                  "lng" : -16.9518999
+               }
+            }
+         },
+         "place_id" : "ChIJ8amCr3Q85A4RTggeVz-O6Ls",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

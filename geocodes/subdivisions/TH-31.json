@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buri Ram",
+               "short_name" : "Buri Ram",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nai Mueang",
+               "short_name" : "Nai Mueang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Buri Ram District",
+               "short_name" : "Mueang Buri Ram District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buri Ram",
+               "short_name" : "จ.บุรีรัมย์",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "31000",
+               "short_name" : "31000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Buri Ram, Nai Mueang, Mueang Buri Ram District, Buri Ram 31000, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 14.9951003,
+               "lng" : 103.1115915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.0058781,
+                  "lng" : 103.1275989
+               },
+               "southwest" : {
+                  "lat" : 14.984322,
+                  "lng" : 103.0955841
+               }
+            }
+         },
+         "place_id" : "ChIJqXerCbyVGTERqYAI1rkl1-s",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

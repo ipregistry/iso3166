@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taoyuan",
+               "short_name" : "Taoyuan",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Taoyuan District",
+               "short_name" : "Taoyuan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taoyuan City",
+               "short_name" : "Taoyuan City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taoyuan, Taoyuan District, Taoyuan City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1183727,
+                  "lng" : 121.400057
+               },
+               "southwest" : {
+                  "lat" : 24.8302295,
+                  "lng" : 121.0214127
+               }
+            },
+            "location" : {
+               "lat" : 24.9553806,
+               "lng" : 121.2300015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1183727,
+                  "lng" : 121.400057
+               },
+               "southwest" : {
+                  "lat" : 24.8302295,
+                  "lng" : 121.0214127
+               }
+            }
+         },
+         "place_id" : "ChIJs21AiKwfaDQRHfjto-5qm_U",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

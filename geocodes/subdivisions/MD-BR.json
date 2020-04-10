@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Briceni",
+               "short_name" : "Briceni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Briceni District",
+               "short_name" : "Briceni District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Briceni, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3781739,
+                  "lng" : 27.1033572
+               },
+               "southwest" : {
+                  "lat" : 48.3300351,
+                  "lng" : 27.0453358
+               }
+            },
+            "location" : {
+               "lat" : 48.3632022,
+               "lng" : 27.0750398
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3781739,
+                  "lng" : 27.1033572
+               },
+               "southwest" : {
+                  "lat" : 48.3300351,
+                  "lng" : 27.0453358
+               }
+            }
+         },
+         "place_id" : "ChIJt3e0doFyM0cRdydKLjmsMz0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

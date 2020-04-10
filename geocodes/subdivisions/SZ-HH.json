@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hhohho Region",
+               "short_name" : "Hhohho Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Eswatini",
+               "short_name" : "SZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hhohho Region, Eswatini",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.7196479,
+                  "lng" : 31.760738
+               },
+               "southwest" : {
+                  "lat" : -26.475104,
+                  "lng" : 30.90545809999999
+               }
+            },
+            "location" : {
+               "lat" : -26.1365662,
+               "lng" : 31.3541631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.7196479,
+                  "lng" : 31.760738
+               },
+               "southwest" : {
+                  "lat" : -26.475104,
+                  "lng" : 30.90545809999999
+               }
+            }
+         },
+         "place_id" : "ChIJBw8yR-HO6B4RNLoGYLhxLgQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

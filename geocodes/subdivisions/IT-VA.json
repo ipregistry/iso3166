@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Varese",
+               "short_name" : "Varese",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Varese",
+               "short_name" : "Varese",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Varese",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21100",
+               "short_name" : "21100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "21100 Varese, VA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8645247,
+                  "lng" : 8.863587299999999
+               },
+               "southwest" : {
+                  "lat" : 45.7805121,
+                  "lng" : 8.7758284
+               }
+            },
+            "location" : {
+               "lat" : 45.82059890000001,
+               "lng" : 8.825057599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8645247,
+                  "lng" : 8.863587299999999
+               },
+               "southwest" : {
+                  "lat" : 45.7805121,
+                  "lng" : 8.7758284
+               }
+            }
+         },
+         "place_id" : "ChIJ4w9fdSV-hkcRaCGG8lu7-R0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

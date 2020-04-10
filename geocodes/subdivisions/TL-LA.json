@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lautem",
+               "short_name" : "Lautem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lautem",
+               "short_name" : "Lautem",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lautem, Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.3597863,
+                  "lng" : 126.9085371
+               },
+               "southwest" : {
+                  "lat" : -8.3692441,
+                  "lng" : 126.8967569
+               }
+            },
+            "location" : {
+               "lat" : -8.3642307,
+               "lng" : 126.9043845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.3597863,
+                  "lng" : 126.9085371
+               },
+               "southwest" : {
+                  "lat" : -8.3692441,
+                  "lng" : 126.8967569
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGT02s5OXAi0R9qTgvxp74Kg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

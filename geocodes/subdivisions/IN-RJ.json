@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajasthan, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1932842,
+                  "lng" : 78.26338109999999
+               },
+               "southwest" : {
+                  "lat" : 23.0632669,
+                  "lng" : 69.484413
+               }
+            },
+            "location" : {
+               "lat" : 27.0238036,
+               "lng" : 74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1932842,
+                  "lng" : 78.26338109999999
+               },
+               "southwest" : {
+                  "lat" : 23.0632669,
+                  "lng" : 69.484413
+               }
+            }
+         },
+         "place_id" : "ChIJNw7j9_o-ajkR5YjABkWbK7U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

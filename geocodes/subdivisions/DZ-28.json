@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M'Sila",
+               "short_name" : "M'Sila",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "M'sila",
+               "short_name" : "M'sila",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "M'Sila Province",
+               "short_name" : "M'Sila Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M'Sila, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8735409,
+                  "lng" : 4.604279
+               },
+               "southwest" : {
+                  "lat" : 35.569704,
+                  "lng" : 4.430421
+               }
+            },
+            "location" : {
+               "lat" : 35.7186646,
+               "lng" : 4.523342299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8735409,
+                  "lng" : 4.604279
+               },
+               "southwest" : {
+                  "lat" : 35.569704,
+                  "lng" : 4.430421
+               }
+            }
+         },
+         "place_id" : "ChIJmdWr8iB7ixIROZBV94ndTsw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sulawesi",
+               "short_name" : "Sulawesi",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sulawesi, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.751749,
+                  "lng" : 125.2474229
+               },
+               "southwest" : {
+                  "lat" : -5.702712,
+                  "lng" : 118.754871
+               }
+            },
+            "location" : {
+               "lat" : -1.8479,
+               "lng" : 120.5279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.751749,
+                  "lng" : 125.2474229
+               },
+               "southwest" : {
+                  "lat" : -5.702712,
+                  "lng" : 118.754871
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMSoBqds3hS0RQnf0aNFRmrw",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

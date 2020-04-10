@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kasese",
+               "short_name" : "Kasese",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kasese",
+               "short_name" : "Kasese",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kasese, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.1932903,
+                  "lng" : 30.1070882
+               },
+               "southwest" : {
+                  "lat" : 0.1502894,
+                  "lng" : 30.0615886
+               }
+            },
+            "location" : {
+               "lat" : 0.1698986,
+               "lng" : 30.078078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.1932903,
+                  "lng" : 30.1070882
+               },
+               "southwest" : {
+                  "lat" : 0.1502894,
+                  "lng" : 30.0615886
+               }
+            }
+         },
+         "place_id" : "ChIJ27nqCi3yYRcRcP7Ml11wWSQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

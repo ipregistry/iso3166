@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso Province",
+               "short_name" : "Valparaíso Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valparaíso, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.0178165,
+                  "lng" : -71.5597684
+               },
+               "southwest" : {
+                  "lat" : -33.0835991,
+                  "lng" : -71.6623287
+               }
+            },
+            "location" : {
+               "lat" : -33.047238,
+               "lng" : -71.61268849999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.0178165,
+                  "lng" : -71.5597684
+               },
+               "southwest" : {
+                  "lat" : -33.0835991,
+                  "lng" : -71.6623287
+               }
+            }
+         },
+         "place_id" : "ChIJx84g3uPdiZYRdpvhv4w6Cus",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diffa",
+               "short_name" : "Diffa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Diffa",
+               "short_name" : "Diffa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Diffa Region",
+               "short_name" : "Diffa Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Niger",
+               "short_name" : "NE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Diffa, Niger",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.3291286,
+                  "lng" : 12.6216075
+               },
+               "southwest" : {
+                  "lat" : 13.2961837,
+                  "lng" : 12.5847828
+               }
+            },
+            "location" : {
+               "lat" : 13.3132472,
+               "lng" : 12.6158803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.3291286,
+                  "lng" : 12.6216075
+               },
+               "southwest" : {
+                  "lat" : 13.2961837,
+                  "lng" : 12.5847828
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFUEJblBjDxERIpaGaEpbvBw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

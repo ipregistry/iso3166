@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1656576,
+                  "lng" : 84.76464609999999
+               },
+               "southwest" : {
+                  "lat" : 12.6237261,
+                  "lng" : 76.7606036
+               }
+            },
+            "location" : {
+               "lat" : 15.9128998,
+               "lng" : 79.7399875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1656576,
+                  "lng" : 84.76464609999999
+               },
+               "southwest" : {
+                  "lat" : 12.6237261,
+                  "lng" : 76.7606036
+               }
+            }
+         },
+         "place_id" : "ChIJf9STrvhGNToRg82tlb670TM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

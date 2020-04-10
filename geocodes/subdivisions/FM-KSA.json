@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kosrae Island",
+               "short_name" : "Kosrae Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Kosrae",
+               "short_name" : "Kosrae",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Federated States of Micronesia",
+               "short_name" : "FM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kosrae Island, Kosrae, Federated States of Micronesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3155556,
+               "lng" : 162.9838889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.3266655,
+                  "lng" : 162.9998963
+               },
+               "southwest" : {
+                  "lat" : 5.3044455,
+                  "lng" : 162.9678815
+               }
+            }
+         },
+         "place_id" : "ChIJGwPYzq1EwGURaqFmgVb0fS8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

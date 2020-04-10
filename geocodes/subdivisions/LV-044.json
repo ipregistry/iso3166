@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kārsava",
+               "short_name" : "Kārsava",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kārsavas pilsēta",
+               "short_name" : "Kārsavas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5717",
+               "short_name" : "5717",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kārsava, Kārsavas pilsēta, LV-5717, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.7990631,
+                  "lng" : 27.7057865
+               },
+               "southwest" : {
+                  "lat" : 56.770289,
+                  "lng" : 27.658921
+               }
+            },
+            "location" : {
+               "lat" : 56.7837809,
+               "lng" : 27.681978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.7990631,
+                  "lng" : 27.7057865
+               },
+               "southwest" : {
+                  "lat" : 56.770289,
+                  "lng" : 27.658921
+               }
+            }
+         },
+         "place_id" : "ChIJJdaypC6LwUYRoBHzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

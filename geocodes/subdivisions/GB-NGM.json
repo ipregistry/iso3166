@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottingham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.019045,
+                  "lng" : -1.0918336
+               },
+               "southwest" : {
+                  "lat" : 52.889,
+                  "lng" : -1.2482899
+               }
+            },
+            "location" : {
+               "lat" : 52.95478319999999,
+               "lng" : -1.1581086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.019045,
+                  "lng" : -1.0918336
+               },
+               "southwest" : {
+                  "lat" : 52.889,
+                  "lng" : -1.2482899
+               }
+            }
+         },
+         "place_id" : "ChIJzXkHOdIyeEgRFdsZGSBjgBA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

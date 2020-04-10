@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Setúbal Municipality",
+               "short_name" : "Setúbal Municipality",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Setubal",
+               "short_name" : "Setubal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Setúbal Municipality, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5641093,
+                  "lng" : -8.7556919
+               },
+               "southwest" : {
+                  "lat" : 38.4832998,
+                  "lng" : -8.9725114
+               }
+            },
+            "location" : {
+               "lat" : 38.5260437,
+               "lng" : -8.8909328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5641093,
+                  "lng" : -8.7556919
+               },
+               "southwest" : {
+                  "lat" : 38.4832998,
+                  "lng" : -8.9725114
+               }
+            }
+         },
+         "place_id" : "ChIJNXQCq_5CGQ0RVKq1m3Y_8p8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

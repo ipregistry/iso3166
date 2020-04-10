@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0206081,
+                  "lng" : 17.1607329
+               },
+               "southwest" : {
+                  "lat" : 46.37233579999999,
+                  "lng" : 9.530783399999999
+               }
+            },
+            "location" : {
+               "lat" : 47.516231,
+               "lng" : 14.550072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0206081,
+                  "lng" : 17.1607329
+               },
+               "southwest" : {
+                  "lat" : 46.37233579999999,
+                  "lng" : 9.530783399999999
+               }
+            }
+         },
+         "place_id" : "ChIJfyqdJZsHbUcRr8Hk3XvUEhA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

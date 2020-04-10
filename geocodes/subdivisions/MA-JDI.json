@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Jadida",
+               "short_name" : "El Jadida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Jadida",
+               "short_name" : "El Jadida",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Casablanca-Settat",
+               "short_name" : "Casablanca-Settat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Jadida, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.2641124,
+                  "lng" : -8.465977499999999
+               },
+               "southwest" : {
+                  "lat" : 33.202792,
+                  "lng" : -8.541351499999999
+               }
+            },
+            "location" : {
+               "lat" : 33.2316326,
+               "lng" : -8.500711599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2641124,
+                  "lng" : -8.465977499999999
+               },
+               "southwest" : {
+                  "lat" : 33.202792,
+                  "lng" : -8.541351499999999
+               }
+            }
+         },
+         "place_id" : "ChIJR_4htMEdqQ0RHxqwtn_4fDA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

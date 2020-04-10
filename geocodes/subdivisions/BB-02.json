@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Andrew",
+               "short_name" : "Saint Andrew",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Andrew, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.293989,
+                  "lng" : -59.5420721
+               },
+               "southwest" : {
+                  "lat" : 13.204939,
+                  "lng" : -59.60091989999999
+               }
+            },
+            "location" : {
+               "lat" : 13.2462565,
+               "lng" : -59.5651284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.293989,
+                  "lng" : -59.5420721
+               },
+               "southwest" : {
+                  "lat" : 13.204939,
+                  "lng" : -59.60091989999999
+               }
+            }
+         },
+         "place_id" : "ChIJiyAABojuQ4wRPtO8oSRuIOI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

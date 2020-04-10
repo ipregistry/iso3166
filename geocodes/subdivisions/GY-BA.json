@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barima-Waini",
+               "short_name" : "Barima-Waini",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guyana",
+               "short_name" : "GY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barima-Waini, Guyana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.557566900000001,
+                  "lng" : -58.784856
+               },
+               "southwest" : {
+                  "lat" : 6.981004,
+                  "lng" : -60.7125971
+               }
+            },
+            "location" : {
+               "lat" : 7.488241899999999,
+               "lng" : -59.6564494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.557566900000001,
+                  "lng" : -58.784856
+               },
+               "southwest" : {
+                  "lat" : 6.981004,
+                  "lng" : -60.7125971
+               }
+            }
+         },
+         "place_id" : "ChIJS4F8GAo2sY0R-SMH9mD9m-M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

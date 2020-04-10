@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saaremaa",
+               "short_name" : "Saaremaa",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Saare County",
+               "short_name" : "Saare County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saaremaa, Saare County, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.64212449999999,
+                  "lng" : 23.328579
+               },
+               "southwest" : {
+                  "lat" : 57.9044003,
+                  "lng" : 21.8281004
+               }
+            },
+            "location" : {
+               "lat" : 58.4849721,
+               "lng" : 22.6136408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.64212449999999,
+                  "lng" : 23.328579
+               },
+               "southwest" : {
+                  "lat" : 57.9044003,
+                  "lng" : 21.8281004
+               }
+            }
+         },
+         "place_id" : "ChIJfX8GVYtt8kYR7P8YIz-g3d4",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

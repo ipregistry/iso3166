@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šilutė",
+               "short_name" : "Šilutė",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Šilutė District Municipality",
+               "short_name" : "Šilutė District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Klaipėda County",
+               "short_name" : "Klaipėda County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Šilutė, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.368028,
+                  "lng" : 21.5119069
+               },
+               "southwest" : {
+                  "lat" : 55.329412,
+                  "lng" : 21.4238173
+               }
+            },
+            "location" : {
+               "lat" : 55.350414,
+               "lng" : 21.4659859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.368028,
+                  "lng" : 21.5119069
+               },
+               "southwest" : {
+                  "lat" : 55.329412,
+                  "lng" : 21.4238173
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdYpe5GKL5EYRg5euwaamDW4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

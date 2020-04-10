@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirundo",
+               "short_name" : "Kirundo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kirundo",
+               "short_name" : "Kirundo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kirundo",
+               "short_name" : "Kirundo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burundi",
+               "short_name" : "BI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirundo, Burundi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -2.5823715,
+                  "lng" : 30.0979042
+               },
+               "southwest" : {
+                  "lat" : -2.5880304,
+                  "lng" : 30.0930977
+               }
+            },
+            "location" : {
+               "lat" : -2.5848378,
+               "lng" : 30.0961296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.5823715,
+                  "lng" : 30.0979042
+               },
+               "southwest" : {
+                  "lat" : -2.5880304,
+                  "lng" : 30.0930977
+               }
+            }
+         },
+         "place_id" : "ChIJU-WmX0N8wxkRcIfjB1XXiTU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

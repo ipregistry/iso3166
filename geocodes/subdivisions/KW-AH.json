@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ahmadi",
+               "short_name" : "Ahmadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Ahmadi Governorate",
+               "short_name" : "Al Ahmadi Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kuwait",
+               "short_name" : "KW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ahmadi, Kuwait",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1115398,
+                  "lng" : 48.0997057
+               },
+               "southwest" : {
+                  "lat" : 29.0593959,
+                  "lng" : 48.0440711
+               }
+            },
+            "location" : {
+               "lat" : 29.083461,
+               "lng" : 48.07347619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1115398,
+                  "lng" : 48.0997057
+               },
+               "southwest" : {
+                  "lat" : 29.0593959,
+                  "lng" : 48.0440711
+               }
+            }
+         },
+         "place_id" : "ChIJ9bfmoOmnzz8RKq06x4In2yk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

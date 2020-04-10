@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5404138,
+                  "lng" : -1.1664888
+               },
+               "southwest" : {
+                  "lat" : 52.6965216,
+                  "lng" : -2.0340978
+               }
+            },
+            "location" : {
+               "lat" : 53.1046782,
+               "lng" : -1.5623885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5404138,
+                  "lng" : -1.1664888
+               },
+               "southwest" : {
+                  "lat" : 52.6965216,
+                  "lng" : -2.0340978
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTRhgylBVd0gRYxzUrCNcT7w",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

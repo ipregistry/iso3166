@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monte Plata",
+               "short_name" : "Monte Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monte Plata",
+               "short_name" : "Monte Plata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Monte Plata Province",
+               "short_name" : "Monte Plata Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92000",
+               "short_name" : "92000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Monte Plata 92000, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.8225077,
+                  "lng" : -69.7759294
+               },
+               "southwest" : {
+                  "lat" : 18.7976463,
+                  "lng" : -69.8058844
+               }
+            },
+            "location" : {
+               "lat" : 18.8069496,
+               "lng" : -69.7852843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8225077,
+                  "lng" : -69.7759294
+               },
+               "southwest" : {
+                  "lat" : 18.7976463,
+                  "lng" : -69.8058844
+               }
+            }
+         },
+         "place_id" : "ChIJI4EMHaGYr44RjTnDpaZxTu8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

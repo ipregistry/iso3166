@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Najaf",
+               "short_name" : "Najaf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Najaf",
+               "short_name" : "Najaf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Najaf Governorate",
+               "short_name" : "Najaf Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Najaf, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0765747,
+                  "lng" : 44.3853665
+               },
+               "southwest" : {
+                  "lat" : 31.9668385,
+                  "lng" : 44.2736149
+               }
+            },
+            "location" : {
+               "lat" : 32.0106646,
+               "lng" : 44.3265272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0765747,
+                  "lng" : 44.3853665
+               },
+               "southwest" : {
+                  "lat" : 31.9668385,
+                  "lng" : 44.2736149
+               }
+            }
+         },
+         "place_id" : "ChIJYYJ6m6zQXhUR8LjhC-Suibk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

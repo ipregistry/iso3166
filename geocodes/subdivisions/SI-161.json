@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hodoš",
+               "short_name" : "Hodoš",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hodoš",
+               "short_name" : "Hodoš",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Murska Sobota",
+               "short_name" : "Murska Sobota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9205",
+               "short_name" : "9205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9205 Hodoš, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8664431,
+                  "lng" : 16.3508332
+               },
+               "southwest" : {
+                  "lat" : 46.8128415,
+                  "lng" : 16.2907565
+               }
+            },
+            "location" : {
+               "lat" : 46.8314134,
+               "lng" : 16.321068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8664431,
+                  "lng" : 16.3508332
+               },
+               "southwest" : {
+                  "lat" : 46.8128415,
+                  "lng" : 16.2907565
+               }
+            }
+         },
+         "place_id" : "ChIJMS3Iuygkb0cRmVcTGs5faiU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

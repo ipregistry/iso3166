@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Comoé District",
+               "short_name" : "Comoé District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Côte d'Ivoire",
+               "short_name" : "CI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Comoé District, Côte d'Ivoire",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.352554100000001,
+                  "lng" : -2.72626
+               },
+               "southwest" : {
+                  "lat" : 5.079289,
+                  "lng" : -3.8141219
+               }
+            },
+            "location" : {
+               "lat" : 5.552792999999999,
+               "lng" : -3.2583626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.352554100000001,
+                  "lng" : -2.72626
+               },
+               "southwest" : {
+                  "lat" : 5.079289,
+                  "lng" : -3.8141219
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuRY-ehCQww8Roxo17A8i8nk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

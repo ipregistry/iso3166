@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niğde",
+               "short_name" : "Niğde",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niğde Merkez",
+               "short_name" : "Niğde Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Niğde",
+               "short_name" : "Niğde",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niğde, Niğde Merkez/Niğde, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.00588500000001,
+                  "lng" : 34.728915
+               },
+               "southwest" : {
+                  "lat" : 37.93935,
+                  "lng" : 34.6304759
+               }
+            },
+            "location" : {
+               "lat" : 37.969774,
+               "lng" : 34.676608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.00588500000001,
+                  "lng" : 34.728915
+               },
+               "southwest" : {
+                  "lat" : 37.93935,
+                  "lng" : 34.6304759
+               }
+            }
+         },
+         "place_id" : "ChIJYe0iW-bnKRURb6vwEMG2RuY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carriacou and Petite Martinique",
+               "short_name" : "Carriacou and Petite Martinique",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Grenada",
+               "short_name" : "GD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carriacou and Petite Martinique, Grenada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.5302329,
+                  "lng" : -61.378178
+               },
+               "southwest" : {
+                  "lat" : 12.401671,
+                  "lng" : -61.4989469
+               }
+            },
+            "location" : {
+               "lat" : 12.4785888,
+               "lng" : -61.4493842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.5302329,
+                  "lng" : -61.378178
+               },
+               "southwest" : {
+                  "lat" : 12.401671,
+                  "lng" : -61.4989469
+               }
+            }
+         },
+         "place_id" : "ChIJ-zhRX81-OIwRi5VBJ2P6nNw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

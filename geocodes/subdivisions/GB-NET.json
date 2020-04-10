@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "Tyne and Wear",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newcastle upon Tyne, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0453044,
+                  "lng" : -1.5326051
+               },
+               "southwest" : {
+                  "lat" : 54.9594399,
+                  "lng" : -1.7810817
+               }
+            },
+            "location" : {
+               "lat" : 54.978252,
+               "lng" : -1.61778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0453044,
+                  "lng" : -1.5326051
+               },
+               "southwest" : {
+                  "lat" : 54.9594399,
+                  "lng" : -1.7810817
+               }
+            }
+         },
+         "place_id" : "ChIJzWRvDH6FfUgRkWGncrBS4gs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

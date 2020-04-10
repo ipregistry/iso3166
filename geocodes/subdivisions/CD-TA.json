@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tanganyika",
+               "short_name" : "Tanganyika",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Katanga",
+               "short_name" : "Katanga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tanganyika, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.800890799999999,
+                  "lng" : 30.7122803
+               },
+               "southwest" : {
+                  "lat" : -8.374561999999999,
+                  "lng" : 25.9126283
+               }
+            },
+            "location" : {
+               "lat" : -6.274011799999999,
+               "lng" : 27.9249002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.800890799999999,
+                  "lng" : 30.7122803
+               },
+               "southwest" : {
+                  "lat" : -8.374561999999999,
+                  "lng" : 25.9126283
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJobc0gNi9lxkRDA2X2IGKOUg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

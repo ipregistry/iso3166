@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bridgend",
+               "short_name" : "Bridgend",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridgend",
+               "short_name" : "Bridgend",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bridgend County Borough",
+               "short_name" : "Bridgend County Borough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bridgend, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5336115,
+                  "lng" : -3.5250057
+               },
+               "southwest" : {
+                  "lat" : 51.4821997,
+                  "lng" : -3.6716169
+               }
+            },
+            "location" : {
+               "lat" : 51.504286,
+               "lng" : -3.576945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5336115,
+                  "lng" : -3.5250057
+               },
+               "southwest" : {
+                  "lat" : 51.4821997,
+                  "lng" : -3.6716169
+               }
+            }
+         },
+         "place_id" : "ChIJ5c6LycgSbkgRe81wYysaSKY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

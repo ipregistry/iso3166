@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8084546,
+                  "lng" : 10.4923401
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 5.95608
+               }
+            },
+            "location" : {
+               "lat" : 46.818188,
+               "lng" : 8.227511999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8084546,
+                  "lng" : 10.4923401
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 5.95608
+               }
+            }
+         },
+         "place_id" : "ChIJYW1Zb-9kjEcRFXvLDxG1Vlw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

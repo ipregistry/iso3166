@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Provincia de Napo",
+               "short_name" : "Provincia de Napo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Provincia de Napo, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.0342981,
+                  "lng" : -77.03044589999999
+               },
+               "southwest" : {
+                  "lat" : -1.2482976,
+                  "lng" : -78.42729919999999
+               }
+            },
+            "location" : {
+               "lat" : -0.9955963999999998,
+               "lng" : -77.8129684
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.0342981,
+                  "lng" : -77.03044589999999
+               },
+               "southwest" : {
+                  "lat" : -1.2482976,
+                  "lng" : -78.42729919999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmXjfUxIR1pERWfs7B5zJafg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

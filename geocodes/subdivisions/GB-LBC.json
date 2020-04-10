@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisburn and Castlereagh",
+               "short_name" : "Lisburn and Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lisburn and Castlereagh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6238021,
+                  "lng" : -5.7470455
+               },
+               "southwest" : {
+                  "lat" : 54.3683616,
+                  "lng" : -6.292035599999999
+               }
+            },
+            "location" : {
+               "lat" : 54.49815839999999,
+               "lng" : -6.1306791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6238021,
+                  "lng" : -5.7470455
+               },
+               "southwest" : {
+                  "lat" : 54.3683616,
+                  "lng" : -6.292035599999999
+               }
+            }
+         },
+         "place_id" : "ChIJQZTUJSwFYUgRv_t7DVlGEwc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Castlereagh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6194801,
+                  "lng" : -5.7575899
+               },
+               "southwest" : {
+                  "lat" : 54.47889989999999,
+                  "lng" : -5.9544101
+               }
+            },
+            "location" : {
+               "lat" : 54.575679,
+               "lng" : -5.888402800000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6194801,
+                  "lng" : -5.7575899
+               },
+               "southwest" : {
+                  "lat" : 54.47889989999999,
+                  "lng" : -5.9544101
+               }
+            }
+         },
+         "place_id" : "ChIJ47WYbqkOYUgRoBotirI_DwM",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

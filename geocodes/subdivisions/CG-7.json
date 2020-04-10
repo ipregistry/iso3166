@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Likouala",
+               "short_name" : "Likouala",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Republic of the Congo",
+               "short_name" : "CG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Likouala, Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.7030821,
+                  "lng" : 18.649839
+               },
+               "southwest" : {
+                  "lat" : -0.759779,
+                  "lng" : 16.435879
+               }
+            },
+            "location" : {
+               "lat" : 2.043924000000001,
+               "lng" : 17.668887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.7030821,
+                  "lng" : 18.649839
+               },
+               "southwest" : {
+                  "lat" : -0.759779,
+                  "lng" : 16.435879
+               }
+            }
+         },
+         "place_id" : "ChIJC4jI1n6koxARuNRhTfQngTg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

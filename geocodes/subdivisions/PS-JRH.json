@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arihah",
+               "short_name" : "Arihah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arihah",
+               "short_name" : "Arihah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idlib Governorate",
+               "short_name" : "Idlib Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arihah, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8264945,
+                  "lng" : 36.6287569
+               },
+               "southwest" : {
+                  "lat" : 35.8017891,
+                  "lng" : 36.5923471
+               }
+            },
+            "location" : {
+               "lat" : 35.8138694,
+               "lng" : 36.6077207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8264945,
+                  "lng" : 36.6287569
+               },
+               "southwest" : {
+                  "lat" : 35.8017891,
+                  "lng" : 36.5923471
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJS6URvoWqJRURUt11N2TjM5U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

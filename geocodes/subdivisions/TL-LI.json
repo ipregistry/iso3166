@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liquica",
+               "short_name" : "Liquica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liquica",
+               "short_name" : "Liquica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liquica, Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.579790599999999,
+                  "lng" : 125.360527
+               },
+               "southwest" : {
+                  "lat" : -8.605632699999999,
+                  "lng" : 125.3185987
+               }
+            },
+            "location" : {
+               "lat" : -8.5891214,
+               "lng" : 125.3411388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.579790599999999,
+                  "lng" : 125.360527
+               },
+               "southwest" : {
+                  "lat" : -8.605632699999999,
+                  "lng" : 125.3185987
+               }
+            }
+         },
+         "place_id" : "ChIJidRl6gTRAS0Rid_GPatjJNc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

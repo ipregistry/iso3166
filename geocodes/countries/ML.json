@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mali",
+               "short_name" : "ML",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mali",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.001084,
+                  "lng" : 4.267382599999999
+               },
+               "southwest" : {
+                  "lat" : 10.147811,
+                  "lng" : -12.2403447
+               }
+            },
+            "location" : {
+               "lat" : 17.570692,
+               "lng" : -3.996166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.001084,
+                  "lng" : 4.267382599999999
+               },
+               "southwest" : {
+                  "lat" : 10.147811,
+                  "lng" : -12.2403447
+               }
+            }
+         },
+         "place_id" : "ChIJz3MQG4g-FA4RgM-9oOJbOrs",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

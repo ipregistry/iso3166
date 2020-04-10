@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nakhon Sawan",
+               "short_name" : "Nakhon Sawan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Nakhon Sawan District",
+               "short_name" : "Mueang Nakhon Sawan District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nakhon Sawan",
+               "short_name" : "จ.นครสวรรค์",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nakhon Sawan, Mueang Nakhon Sawan District, Nakhon Sawan, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.7706029,
+                  "lng" : 100.198217
+               },
+               "southwest" : {
+                  "lat" : 15.6068153,
+                  "lng" : 100.0442511
+               }
+            },
+            "location" : {
+               "lat" : 15.6987382,
+               "lng" : 100.11996
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.7706029,
+                  "lng" : 100.198217
+               },
+               "southwest" : {
+                  "lat" : 15.6068153,
+                  "lng" : 100.0442511
+               }
+            }
+         },
+         "place_id" : "ChIJbR82a7RI4DARQ4Puc9B54GA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

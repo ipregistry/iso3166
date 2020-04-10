@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Teruel",
+               "short_name" : "Teruel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teruel",
+               "short_name" : "Teruel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragon",
+               "short_name" : "Aragon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Teruel, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3642951,
+                  "lng" : -1.0809371
+               },
+               "southwest" : {
+                  "lat" : 40.3257241,
+                  "lng" : -1.1209926
+               }
+            },
+            "location" : {
+               "lat" : 40.3456879,
+               "lng" : -1.1064345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3642951,
+                  "lng" : -1.0809371
+               },
+               "southwest" : {
+                  "lat" : 40.3257241,
+                  "lng" : -1.1209926
+               }
+            }
+         },
+         "place_id" : "ChIJQ_3w76tzXg0R8BxUrKMSlAI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toledo District",
+               "short_name" : "Toledo District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belize",
+               "short_name" : "BZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toledo, Belize",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.135374,
+                  "lng" : -88.8148499
+               },
+               "southwest" : {
+                  "lat" : 16.1319524,
+                  "lng" : -88.81841179999999
+               }
+            },
+            "location" : {
+               "lat" : 16.1335101,
+               "lng" : -88.8160953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.135374,
+                  "lng" : -88.8148499
+               },
+               "southwest" : {
+                  "lat" : 16.1319524,
+                  "lng" : -88.81841179999999
+               }
+            }
+         },
+         "place_id" : "ChIJX1SMgpLKYI8Rh5rYj35gB_0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

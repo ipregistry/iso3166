@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Landes",
+               "short_name" : "Landes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Landes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.532381,
+                  "lng" : 0.1366911
+               },
+               "southwest" : {
+                  "lat" : 43.48743,
+                  "lng" : -1.5235748
+               }
+            },
+            "location" : {
+               "lat" : 43.9412045,
+               "lng" : -0.7532808999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.532381,
+                  "lng" : 0.1366911
+               },
+               "southwest" : {
+                  "lat" : 43.48743,
+                  "lng" : -1.5235748
+               }
+            }
+         },
+         "place_id" : "ChIJE5-upTcxVA0RACgRSBdlBgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

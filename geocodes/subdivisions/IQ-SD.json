@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saladin Governorate",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saladin Governorate, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.675014,
+                  "lng" : 44.955274
+               },
+               "southwest" : {
+                  "lat" : 33.414859,
+                  "lng" : 42.450488
+               }
+            },
+            "location" : {
+               "lat" : 34.5337527,
+               "lng" : 43.483738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.675014,
+                  "lng" : 44.955274
+               },
+               "southwest" : {
+                  "lat" : 33.414859,
+                  "lng" : 42.450488
+               }
+            }
+         },
+         "place_id" : "ChIJff6esEdGURURd7DSrqrqGfw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

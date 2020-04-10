@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meghalaya",
+               "short_name" : "ML",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meghalaya, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.1204059,
+                  "lng" : 92.80226599999999
+               },
+               "southwest" : {
+                  "lat" : 25.0334971,
+                  "lng" : 89.8196828
+               }
+            },
+            "location" : {
+               "lat" : 25.4670308,
+               "lng" : 91.36621599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1204059,
+                  "lng" : 92.80226599999999
+               },
+               "southwest" : {
+                  "lat" : 25.0334971,
+                  "lng" : 89.8196828
+               }
+            }
+         },
+         "place_id" : "ChIJfyC9NI9-UDcRbm1JfxH2Xg8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

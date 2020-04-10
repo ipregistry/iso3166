@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lankaran",
+               "short_name" : "Lankaran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lankaran",
+               "short_name" : "Lankaran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lankaran, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7975439,
+                  "lng" : 48.8669301
+               },
+               "southwest" : {
+                  "lat" : 38.7321757,
+                  "lng" : 48.8232207
+               }
+            },
+            "location" : {
+               "lat" : 38.7528669,
+               "lng" : 48.8475015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7975439,
+                  "lng" : 48.8669301
+               },
+               "southwest" : {
+                  "lat" : 38.7321757,
+                  "lng" : 48.8232207
+               }
+            }
+         },
+         "place_id" : "ChIJh_5lvIf_IkARQDfVJHUkIi4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

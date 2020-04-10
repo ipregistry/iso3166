@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazzaville",
+               "short_name" : "Brazzaville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brazzaville",
+               "short_name" : "Brazzaville",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Republic of the Congo",
+               "short_name" : "CG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazzaville, Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.1233473,
+                  "lng" : 15.3173448
+               },
+               "southwest" : {
+                  "lat" : -4.3710429,
+                  "lng" : 15.1371001
+               }
+            },
+            "location" : {
+               "lat" : -4.2633597,
+               "lng" : 15.2428853
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.1233473,
+                  "lng" : 15.3173448
+               },
+               "southwest" : {
+                  "lat" : -4.3710429,
+                  "lng" : 15.1371001
+               }
+            }
+         },
+         "place_id" : "ChIJO7gbRKwyahoRQ-R9vrrqPas",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

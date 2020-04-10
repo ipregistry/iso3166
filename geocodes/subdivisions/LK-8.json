@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uva Province",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uva Province, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.621517099999999,
+                  "lng" : 81.636477
+               },
+               "southwest" : {
+                  "lat" : 6.297423999999999,
+                  "lng" : 80.77618699999999
+               }
+            },
+            "location" : {
+               "lat" : 6.8427612,
+               "lng" : 81.3399414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.621517099999999,
+                  "lng" : 81.636477
+               },
+               "southwest" : {
+                  "lat" : 6.297423999999999,
+                  "lng" : 80.77618699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi0zZSz5i5DoRiLzN7VZd3O4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

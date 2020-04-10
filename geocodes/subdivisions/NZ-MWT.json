@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whanganui",
+               "short_name" : "Whanganui",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Whanganui",
+               "short_name" : "Whanganui",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manawatu-Wanganui",
+               "short_name" : "Manawatu-Wanganui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4500",
+               "short_name" : "4500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whanganui 4500, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.9103208,
+                  "lng" : 175.0601468
+               },
+               "southwest" : {
+                  "lat" : -39.94151129999999,
+                  "lng" : 175.035922
+               }
+            },
+            "location" : {
+               "lat" : -39.9300887,
+               "lng" : 175.0478901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.9103208,
+                  "lng" : 175.0601468
+               },
+               "southwest" : {
+                  "lat" : -39.94151129999999,
+                  "lng" : 175.035922
+               }
+            }
+         },
+         "place_id" : "ChIJxRXzarcDQG0RABijQ2HvAAU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

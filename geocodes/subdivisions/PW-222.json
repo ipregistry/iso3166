@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ngardmau",
+               "short_name" : "Ngardmau",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ngardmau, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.623132,
+                  "lng" : 134.604293
+               },
+               "southwest" : {
+                  "lat" : 7.555898,
+                  "lng" : 134.534926
+               }
+            },
+            "location" : {
+               "lat" : 7.585048599999999,
+               "lng" : 134.5596089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.623132,
+                  "lng" : 134.604293
+               },
+               "southwest" : {
+                  "lat" : 7.555898,
+                  "lng" : 134.534926
+               }
+            }
+         },
+         "place_id" : "ChIJuTAI2bVi1TIRi_AzJ6qixfw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

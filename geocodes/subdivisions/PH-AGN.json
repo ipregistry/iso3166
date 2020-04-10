@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agusan River",
+               "short_name" : "Agusan River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Agusan Del Norte",
+               "short_name" : "Agusan Del Norte",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Caraga",
+               "short_name" : "Caraga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Agusan River, Agusan Del Norte, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.016390299999999,
+                  "lng" : 125.5504053
+               },
+               "southwest" : {
+                  "lat" : 8.934098799999999,
+                  "lng" : 125.5180393
+               }
+            },
+            "location" : {
+               "lat" : 8.9844323,
+               "lng" : 125.5281599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.016390299999999,
+                  "lng" : 125.5504053
+               },
+               "southwest" : {
+                  "lat" : 8.934098799999999,
+                  "lng" : 125.5180393
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGZr7qTfAATMRcaPyi5ySPKk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

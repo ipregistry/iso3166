@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aosta",
+               "short_name" : "Aosta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Aosta Valley",
+               "short_name" : "AO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aosta, Aosta Valley, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9877599,
+                  "lng" : 7.9395262
+               },
+               "southwest" : {
+                  "lat" : 45.4669449,
+                  "lng" : 6.8013502
+               }
+            },
+            "location" : {
+               "lat" : 45.7388878,
+               "lng" : 7.426186599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9877599,
+                  "lng" : 7.9395262
+               },
+               "southwest" : {
+                  "lat" : 45.4669449,
+                  "lng" : 6.8013502
+               }
+            }
+         },
+         "place_id" : "ChIJp_WvxdbeiEcRm9WceXyYJVY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

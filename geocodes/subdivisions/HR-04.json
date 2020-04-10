@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karlovac County",
+               "short_name" : "Karlovac County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karlovac County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7628058,
+                  "lng" : 15.9247762
+               },
+               "southwest" : {
+                  "lat" : 44.88255729999999,
+                  "lng" : 14.961508
+               }
+            },
+            "location" : {
+               "lat" : 45.2389445,
+               "lng" : 15.3980067
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7628058,
+                  "lng" : 15.9247762
+               },
+               "southwest" : {
+                  "lat" : 44.88255729999999,
+                  "lng" : 14.961508
+               }
+            }
+         },
+         "place_id" : "ChIJxWnA7B0SZEcRULQrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

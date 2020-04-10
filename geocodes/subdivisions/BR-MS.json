@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Mato Grosso do Sul",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Mato Grosso do Sul, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.1666336,
+                  "lng" : -50.9229023
+               },
+               "southwest" : {
+                  "lat" : -24.0675979,
+                  "lng" : -58.16705729999999
+               }
+            },
+            "location" : {
+               "lat" : -20.7722295,
+               "lng" : -54.7851531
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.1666336,
+                  "lng" : -50.9229023
+               },
+               "southwest" : {
+                  "lat" : -24.0675979,
+                  "lng" : -58.16705729999999
+               }
+            }
+         },
+         "place_id" : "ChIJg3Of4tuRfpQRrBBUaenYHDU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

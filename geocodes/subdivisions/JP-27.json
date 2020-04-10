@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osaka",
+               "short_name" : "Osaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osaka",
+               "short_name" : "Osaka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Osaka, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.7688371,
+                  "lng" : 135.5992239
+               },
+               "southwest" : {
+                  "lat" : 34.5864491,
+                  "lng" : 135.3729049
+               }
+            },
+            "location" : {
+               "lat" : 34.6937249,
+               "lng" : 135.5022535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7688371,
+                  "lng" : 135.5992239
+               },
+               "southwest" : {
+                  "lat" : 34.5864491,
+                  "lng" : 135.3729049
+               }
+            }
+         },
+         "place_id" : "ChIJ4eIGNFXmAGAR5y9q5G7BW8U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

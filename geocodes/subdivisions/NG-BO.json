@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borno",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Borno, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7214379,
+                  "lng" : 14.6779679
+               },
+               "southwest" : {
+                  "lat" : 10.022182,
+                  "lng" : 11.5293359
+               }
+            },
+            "location" : {
+               "lat" : 11.8846356,
+               "lng" : 13.1519665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7214379,
+                  "lng" : 14.6779679
+               },
+               "southwest" : {
+                  "lat" : 10.022182,
+                  "lng" : 11.5293359
+               }
+            }
+         },
+         "place_id" : "ChIJJ5eaMlEHGxERHXoXstVJ1-Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

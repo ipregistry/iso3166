@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hidalgo",
+               "short_name" : "Hgo.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hidalgo, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.3985208,
+                  "lng" : -97.9849289
+               },
+               "southwest" : {
+                  "lat" : 19.5977581,
+                  "lng" : -99.85954129999999
+               }
+            },
+            "location" : {
+               "lat" : 20.0910963,
+               "lng" : -98.76238739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.3985208,
+                  "lng" : -97.9849289
+               },
+               "southwest" : {
+                  "lat" : 19.5977581,
+                  "lng" : -99.85954129999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5y_OIgQK0YURG3hAeb_FUoE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

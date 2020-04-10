@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Érd",
+               "short_name" : "Érd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Érd, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.430192,
+                  "lng" : 18.96238
+               },
+               "southwest" : {
+                  "lat" : 47.314573,
+                  "lng" : 18.833885
+               }
+            },
+            "location" : {
+               "lat" : 47.3919718,
+               "lng" : 18.904544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.430192,
+                  "lng" : 18.96238
+               },
+               "southwest" : {
+                  "lat" : 47.314573,
+                  "lng" : 18.833885
+               }
+            }
+         },
+         "place_id" : "ChIJyWM5kVbhQUcRHsu6h4w7Dyo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

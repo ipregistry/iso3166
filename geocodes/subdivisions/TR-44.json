@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malatya",
+               "short_name" : "Malatya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malatya",
+               "short_name" : "Malatya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malatya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3929211,
+                  "lng" : 38.380223
+               },
+               "southwest" : {
+                  "lat" : 38.312895,
+                  "lng" : 38.1716921
+               }
+            },
+            "location" : {
+               "lat" : 38.3553627,
+               "lng" : 38.33352470000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3929211,
+                  "lng" : 38.380223
+               },
+               "southwest" : {
+                  "lat" : 38.312895,
+                  "lng" : 38.1716921
+               }
+            }
+         },
+         "place_id" : "ChIJrUs8kuQ2dkARG0hf3kjsU6A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Wahat District",
+               "short_name" : "Al Wahat District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Wahat District, Libya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.27995,
+                  "lng" : 25
+               },
+               "southwest" : {
+                  "lat" : 26.9363771,
+                  "lng" : 18.4729449
+               }
+            },
+            "location" : {
+               "lat" : 29.0466808,
+               "lng" : 21.8568586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.27995,
+                  "lng" : 25
+               },
+               "southwest" : {
+                  "lat" : 26.9363771,
+                  "lng" : 18.4729449
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2fTE9CV5iBMR2-Uwt3_jFt4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

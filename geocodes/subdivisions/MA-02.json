@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oriental",
+               "short_name" : "Oriental",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Oriental",
+               "short_name" : "Oriental",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oriental, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.4491809,
+                  "lng" : -0.9969756999999999
+               },
+               "southwest" : {
+                  "lat" : 31.7321128,
+                  "lng" : -4.0242251
+               }
+            },
+            "location" : {
+               "lat" : 33.4198879,
+               "lng" : -2.1450245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.4491809,
+                  "lng" : -0.9969756999999999
+               },
+               "southwest" : {
+                  "lat" : 31.7321128,
+                  "lng" : -4.0242251
+               }
+            }
+         },
+         "place_id" : "ChIJDy688WvNnA0RlYrk7xTAOQ8",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

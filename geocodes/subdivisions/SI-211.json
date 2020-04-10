@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šentrupert",
+               "short_name" : "Šentrupert",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Šentrupert",
+               "short_name" : "Šentrupert",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Trebnje",
+               "short_name" : "Trebnje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8232",
+               "short_name" : "8232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8232 Šentrupert, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9829752,
+                  "lng" : 15.1001544
+               },
+               "southwest" : {
+                  "lat" : 45.9692488,
+                  "lng" : 15.0811857
+               }
+            },
+            "location" : {
+               "lat" : 45.9769612,
+               "lng" : 15.0909889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9829752,
+                  "lng" : 15.1001544
+               },
+               "southwest" : {
+                  "lat" : 45.9692488,
+                  "lng" : 15.0811857
+               }
+            }
+         },
+         "place_id" : "ChIJT8Q2BGAFZUcRO3hwsxkIy3s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

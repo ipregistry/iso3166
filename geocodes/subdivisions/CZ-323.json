@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pilsen",
+               "short_name" : "Pilsen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plzeň-City District",
+               "short_name" : "Plzeň-City District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Plzeň Region",
+               "short_name" : "Plzeň Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pilsen, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.805786,
+                  "lng" : 13.4758465
+               },
+               "southwest" : {
+                  "lat" : 49.6776084,
+                  "lng" : 13.2680001
+               }
+            },
+            "location" : {
+               "lat" : 49.7384314,
+               "lng" : 13.3736371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.805786,
+                  "lng" : 13.4758465
+               },
+               "southwest" : {
+                  "lat" : 49.6776084,
+                  "lng" : 13.2680001
+               }
+            }
+         },
+         "place_id" : "ChIJtxE9E-XxCkcRgwvBP25AuTE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

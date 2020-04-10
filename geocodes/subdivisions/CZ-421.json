@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Děčín",
+               "short_name" : "Děčín",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Děčín District",
+               "short_name" : "Děčín District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem Region",
+               "short_name" : "Ústí nad Labem Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Děčín, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.86061309999999,
+                  "lng" : 14.273066
+               },
+               "southwest" : {
+                  "lat" : 50.7087873,
+                  "lng" : 14.0777977
+               }
+            },
+            "location" : {
+               "lat" : 50.77255630000001,
+               "lng" : 14.2127612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.86061309999999,
+                  "lng" : 14.273066
+               },
+               "southwest" : {
+                  "lat" : 50.7087873,
+                  "lng" : 14.0777977
+               }
+            }
+         },
+         "place_id" : "ChIJE86I-6ifCUcR0O4UZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

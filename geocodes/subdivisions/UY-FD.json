@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Florida",
+               "short_name" : "Florida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Florida Department",
+               "short_name" : "Florida Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Florida, Florida Department, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.0753834,
+                  "lng" : -56.2004211
+               },
+               "southwest" : {
+                  "lat" : -34.11482950000001,
+                  "lng" : -56.2453946
+               }
+            },
+            "location" : {
+               "lat" : -34.0948167,
+               "lng" : -56.2202946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.0753834,
+                  "lng" : -56.2004211
+               },
+               "southwest" : {
+                  "lat" : -34.11482950000001,
+                  "lng" : -56.2453946
+               }
+            }
+         },
+         "place_id" : "ChIJ35i6oLUCoZUR5c2hLwP0LS0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Minas Gerais, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.233183,
+                  "lng" : -39.8568263
+               },
+               "southwest" : {
+                  "lat" : -22.9227576,
+                  "lng" : -51.0460748
+               }
+            },
+            "location" : {
+               "lat" : -18.512178,
+               "lng" : -44.5550308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.233183,
+                  "lng" : -39.8568263
+               },
+               "southwest" : {
+                  "lat" : -22.9227576,
+                  "lng" : -51.0460748
+               }
+            }
+         },
+         "place_id" : "ChIJiUIyZaGQpgARs-edN8lwIRE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

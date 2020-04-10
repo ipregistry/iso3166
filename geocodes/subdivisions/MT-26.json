@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marsa",
+               "short_name" : "Marsa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Il-Marsa",
+               "short_name" : "Il-Marsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marsa, Il-Marsa, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.88035600000001,
+                  "lng" : 14.4914835
+               },
+               "southwest" : {
+                  "lat" : 35.8802417,
+                  "lng" : 14.4908465
+               }
+            },
+            "location" : {
+               "lat" : 35.8802836,
+               "lng" : 14.4912949
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.88164783029151,
+                  "lng" : 14.4925139802915
+               },
+               "southwest" : {
+                  "lat" : 35.87894986970851,
+                  "lng" : 14.4898160197085
+               }
+            }
+         },
+         "place_id" : "ChIJ6UOflL5aDhMRbsh3ZBxf6EQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

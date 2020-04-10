@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Val-de-Marne",
+               "short_name" : "Val-de-Marne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Val-de-Marne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.861484,
+                  "lng" : 2.6156419
+               },
+               "southwest" : {
+                  "lat" : 48.68764300000001,
+                  "lng" : 2.3086759
+               }
+            },
+            "location" : {
+               "lat" : 48.7931426,
+               "lng" : 2.4740337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.861484,
+                  "lng" : 2.6156419
+               },
+               "southwest" : {
+                  "lat" : 48.68764300000001,
+                  "lng" : 2.3086759
+               }
+            }
+         },
+         "place_id" : "ChIJaxiZwqcM5kcRYCuLaMOCCwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peterborough, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6637708,
+                  "lng" : -0.1032429
+               },
+               "southwest" : {
+                  "lat" : 52.5060949,
+                  "lng" : -0.4976634
+               }
+            },
+            "location" : {
+               "lat" : 52.56949849999999,
+               "lng" : -0.2405299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6637708,
+                  "lng" : -0.1032429
+               },
+               "southwest" : {
+                  "lat" : 52.5060949,
+                  "lng" : -0.4976634
+               }
+            }
+         },
+         "place_id" : "ChIJBUaqzH0H2EcR1Y1t2eEt_q4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

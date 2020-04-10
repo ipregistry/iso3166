@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cayman Islands",
+               "short_name" : "KY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cayman Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.7616,
+                  "lng" : -79.7191
+               },
+               "southwest" : {
+                  "lat" : 19.2538999,
+                  "lng" : -81.42940010000001
+               }
+            },
+            "location" : {
+               "lat" : 19.3133,
+               "lng" : -81.2546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.7616,
+                  "lng" : -79.7191
+               },
+               "southwest" : {
+                  "lat" : 19.2538999,
+                  "lng" : -81.42940010000001
+               }
+            }
+         },
+         "place_id" : "ChIJKaq4Lz6GJY8RXnFwh9PERXA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

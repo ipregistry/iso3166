@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Criuleni",
+               "short_name" : "Criuleni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Criuleni District",
+               "short_name" : "Criuleni District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Criuleni, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2323624,
+                  "lng" : 29.1704393
+               },
+               "southwest" : {
+                  "lat" : 47.198286,
+                  "lng" : 29.1454411
+               }
+            },
+            "location" : {
+               "lat" : 47.2136114,
+               "lng" : 29.1557519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2323624,
+                  "lng" : 29.1704393
+               },
+               "southwest" : {
+                  "lat" : 47.198286,
+                  "lng" : 29.1454411
+               }
+            }
+         },
+         "place_id" : "ChIJq6AeRVJcyUAR8ncc0tTE308",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

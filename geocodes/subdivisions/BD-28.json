@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurigram",
+               "short_name" : "Kurigram",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kurigram District",
+               "short_name" : "Kurigram District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rangpur Division",
+               "short_name" : "Rangpur Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kurigram, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.8264708,
+                  "lng" : 89.6734141
+               },
+               "southwest" : {
+                  "lat" : 25.7952159,
+                  "lng" : 89.62024199999999
+               }
+            },
+            "location" : {
+               "lat" : 25.810346,
+               "lng" : 89.6486979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.8264708,
+                  "lng" : 89.6734141
+               },
+               "southwest" : {
+                  "lat" : 25.7952159,
+                  "lng" : 89.62024199999999
+               }
+            }
+         },
+         "place_id" : "ChIJF_RSuN3I4jkRqcRauv16Si4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

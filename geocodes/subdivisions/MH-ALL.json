@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ailinglaplap Atoll",
+               "short_name" : "Ailinglaplap Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ailinglaplap Atoll, RMI",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.6187258,
+                  "lng" : 168.9992522
+               },
+               "southwest" : {
+                  "lat" : 7.2530987,
+                  "lng" : 168.5316468
+               }
+            },
+            "location" : {
+               "lat" : 7.4253719,
+               "lng" : 168.792953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.6187258,
+                  "lng" : 168.9992522
+               },
+               "southwest" : {
+                  "lat" : 7.2530987,
+                  "lng" : 168.5316468
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtXc8pWjOp2UR9VQkQEuF4l0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laos",
+               "short_name" : "LA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laos",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5090449,
+                  "lng" : 107.635094
+               },
+               "southwest" : {
+                  "lat" : 13.9097198,
+                  "lng" : 100.0832139
+               }
+            },
+            "location" : {
+               "lat" : 19.85627,
+               "lng" : 102.495496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5090449,
+                  "lng" : 107.635094
+               },
+               "southwest" : {
+                  "lat" : 13.9097198,
+                  "lng" : 100.0832139
+               }
+            }
+         },
+         "place_id" : "ChIJiUWCsFeQFDERgc2ZH0iSxQ4",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

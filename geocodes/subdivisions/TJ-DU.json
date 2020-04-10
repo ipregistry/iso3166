@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dushanbe",
+               "short_name" : "Dushanbe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Districts of Republican Subordination",
+               "short_name" : "Districts of Republican Subordination",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dushanbe, Tajikistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6574989,
+                  "lng" : 68.87826919999999
+               },
+               "southwest" : {
+                  "lat" : 38.4651489,
+                  "lng" : 68.68489269999999
+               }
+            },
+            "location" : {
+               "lat" : 38.5597722,
+               "lng" : 68.7870384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6574989,
+                  "lng" : 68.87826919999999
+               },
+               "southwest" : {
+                  "lat" : 38.4651489,
+                  "lng" : 68.68489269999999
+               }
+            }
+         },
+         "place_id" : "ChIJm_h70m_RtTgRRP2h3o03-d0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

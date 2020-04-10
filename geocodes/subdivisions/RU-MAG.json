@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Magadan Oblast",
+               "short_name" : "Magadan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Magadan Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 66.339477,
+                  "lng" : 163.483701
+               },
+               "southwest" : {
+                  "lat" : 58.834,
+                  "lng" : 144.7243001
+               }
+            },
+            "location" : {
+               "lat" : 62.66434169999999,
+               "lng" : 153.914991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 66.339477,
+                  "lng" : 163.483701
+               },
+               "southwest" : {
+                  "lat" : 58.834,
+                  "lng" : 144.7243001
+               }
+            }
+         },
+         "place_id" : "ChIJsxK4KWNWelkRIJdvOTRYBAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

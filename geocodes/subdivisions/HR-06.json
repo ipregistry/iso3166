@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koprivnica-Križevci County",
+               "short_name" : "Koprivnica-Križevci County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Koprivnica-Križevci County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3551933,
+                  "lng" : 17.3057121
+               },
+               "southwest" : {
+                  "lat" : 45.8802736,
+                  "lng" : 16.3417055
+               }
+            },
+            "location" : {
+               "lat" : 46.1568919,
+               "lng" : 16.8390826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3551933,
+                  "lng" : 17.3057121
+               },
+               "southwest" : {
+                  "lat" : 45.8802736,
+                  "lng" : 16.3417055
+               }
+            }
+         },
+         "place_id" : "ChIJn5-3YNYlZkcRcLQrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

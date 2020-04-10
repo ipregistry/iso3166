@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Veneto, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6804752,
+                  "lng" : 13.1009766
+               },
+               "southwest" : {
+                  "lat" : 44.791218,
+                  "lng" : 10.6229634
+               }
+            },
+            "location" : {
+               "lat" : 45.4414662,
+               "lng" : 12.3152595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6804752,
+                  "lng" : 13.1009766
+               },
+               "southwest" : {
+                  "lat" : 44.791218,
+                  "lng" : 10.6229634
+               }
+            }
+         },
+         "place_id" : "ChIJd7cEzPHXeEcRcHyQFYcJBwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

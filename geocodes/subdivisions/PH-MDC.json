@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Occidental Mindoro",
+               "short_name" : "Occidental Mindoro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "MIMAROPA",
+               "short_name" : "MIMAROPA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Occidental Mindoro, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.89903,
+                  "lng" : 121.2443009
+               },
+               "southwest" : {
+                  "lat" : 12.1530319,
+                  "lng" : 120.017998
+               }
+            },
+            "location" : {
+               "lat" : 13.1024111,
+               "lng" : 120.7651284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.89903,
+                  "lng" : 121.2443009
+               },
+               "southwest" : {
+                  "lat" : 12.1530319,
+                  "lng" : 120.017998
+               }
+            }
+         },
+         "place_id" : "ChIJPUlPa8eEuzMRXdtMCQGpLMY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

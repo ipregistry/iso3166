@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krong Kampot",
+               "short_name" : "Krong Kampot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampot Province",
+               "short_name" : "Kampot Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krong Kampot, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.6423036,
+                  "lng" : 104.2172313
+               },
+               "southwest" : {
+                  "lat" : 10.5395639,
+                  "lng" : 104.1190839
+               }
+            },
+            "location" : {
+               "lat" : 10.5942421,
+               "lng" : 104.1640355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.6423036,
+                  "lng" : 104.2172313
+               },
+               "southwest" : {
+                  "lat" : 10.5395639,
+                  "lng" : 104.1190839
+               }
+            }
+         },
+         "place_id" : "ChIJb9JffYk2CDER_wfWO0TtUG8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

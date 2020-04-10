@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Gedeh",
+               "short_name" : "Grand Gedeh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Gedeh, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.505594899999999,
+                  "lng" : -7.371477899999999
+               },
+               "southwest" : {
+                  "lat" : 5.514285,
+                  "lng" : -9.088702899999999
+               }
+            },
+            "location" : {
+               "lat" : 5.9222078,
+               "lng" : -8.2212979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.505594899999999,
+                  "lng" : -7.371477899999999
+               },
+               "southwest" : {
+                  "lat" : 5.514285,
+                  "lng" : -9.088702899999999
+               }
+            }
+         },
+         "place_id" : "ChIJnYWSWlprow8RertftGt7l3w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

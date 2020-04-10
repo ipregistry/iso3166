@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basse-Kotto",
+               "short_name" : "Basse-Kotto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Central African Republic",
+               "short_name" : "CF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Basse-Kotto, Central African Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.734375,
+                  "lng" : 22.1584359
+               },
+               "southwest" : {
+                  "lat" : 4.221498,
+                  "lng" : 20.4503059
+               }
+            },
+            "location" : {
+               "lat" : 4.8719319,
+               "lng" : 21.2845025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.734375,
+                  "lng" : 22.1584359
+               },
+               "southwest" : {
+                  "lat" : 4.221498,
+                  "lng" : 20.4503059
+               }
+            }
+         },
+         "place_id" : "ChIJF_SORVrZtRAR57-ct0teGOE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

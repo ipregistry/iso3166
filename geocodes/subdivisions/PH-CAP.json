@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capiz",
+               "short_name" : "Capiz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Visayas",
+               "short_name" : "Western Visayas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Capiz, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.6453379,
+                  "lng" : 123.0976581
+               },
+               "southwest" : {
+                  "lat" : 11.1332681,
+                  "lng" : 122.200155
+               }
+            },
+            "location" : {
+               "lat" : 11.3888799,
+               "lng" : 122.6277455
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.6453379,
+                  "lng" : 123.0976581
+               },
+               "southwest" : {
+                  "lat" : 11.1332681,
+                  "lng" : 122.200155
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC68E6BRnrzMRD8uGbpfldk0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bắc Giang",
+               "short_name" : "Bắc Giang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bac Giang",
+               "short_name" : "Bac Giang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bắc Giang, Bac Giang, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.3202265,
+                  "lng" : 106.2313549
+               },
+               "southwest" : {
+                  "lat" : 21.263124,
+                  "lng" : 106.1489153
+               }
+            },
+            "location" : {
+               "lat" : 21.2819921,
+               "lng" : 106.1974769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.3202265,
+                  "lng" : 106.2313549
+               },
+               "southwest" : {
+                  "lat" : 21.263124,
+                  "lng" : 106.1489153
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5b8Pt61tNTERXF6xuGXl29Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

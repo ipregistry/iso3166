@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lendava",
+               "short_name" : "Lendava",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lendava",
+               "short_name" : "Lendava",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lendava",
+               "short_name" : "Lendava",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9220",
+               "short_name" : "9220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9220 Lendava, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5751146,
+                  "lng" : 16.4729848
+               },
+               "southwest" : {
+                  "lat" : 46.5476736,
+                  "lng" : 16.4138543
+               }
+            },
+            "location" : {
+               "lat" : 46.5644783,
+               "lng" : 16.453063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5751146,
+                  "lng" : 16.4729848
+               },
+               "southwest" : {
+                  "lat" : 46.5476736,
+                  "lng" : 16.4138543
+               }
+            }
+         },
+         "place_id" : "ChIJs-ff15xKb0cRygsbm4wdOKI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

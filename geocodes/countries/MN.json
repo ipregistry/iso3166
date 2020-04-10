@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

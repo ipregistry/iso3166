@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Errachidia",
+               "short_name" : "Errachidia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Errachidia Province",
+               "short_name" : "Errachidia Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Drâa-Tafilalet",
+               "short_name" : "Drâa-Tafilalet",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Errachidia, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9623573,
+                  "lng" : -4.3753052
+               },
+               "southwest" : {
+                  "lat" : 31.9077638,
+                  "lng" : -4.4768859
+               }
+            },
+            "location" : {
+               "lat" : 31.927236,
+               "lng" : -4.4284985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9623573,
+                  "lng" : -4.3753052
+               },
+               "southwest" : {
+                  "lat" : 31.9077638,
+                  "lng" : -4.4768859
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ29mVDJBKmA0Rs_iuNvHkZOM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

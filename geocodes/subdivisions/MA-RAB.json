@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rabat",
+               "short_name" : "Rabat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rabat",
+               "short_name" : "Rabat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rabat-Salé-Kénitra",
+               "short_name" : "Rabat-Salé-Kénitra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rabat, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0349463,
+                  "lng" : -6.791642
+               },
+               "southwest" : {
+                  "lat" : 33.9034914,
+                  "lng" : -6.9228836
+               }
+            },
+            "location" : {
+               "lat" : 33.9715904,
+               "lng" : -6.8498129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0349463,
+                  "lng" : -6.791642
+               },
+               "southwest" : {
+                  "lat" : 33.9034914,
+                  "lng" : -6.9228836
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwcVQH4drpw0RawcIdO1GyXo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

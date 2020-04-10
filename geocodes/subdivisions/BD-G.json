@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sylhet",
+               "short_name" : "Sylhet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sylhet District",
+               "short_name" : "Sylhet District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sylhet Division",
+               "short_name" : "Sylhet Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sylhet, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9378139,
+                  "lng" : 91.9106771
+               },
+               "southwest" : {
+                  "lat" : 24.8617132,
+                  "lng" : 91.8112867
+               }
+            },
+            "location" : {
+               "lat" : 24.8949294,
+               "lng" : 91.8687063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9378139,
+                  "lng" : 91.9106771
+               },
+               "southwest" : {
+                  "lat" : 24.8617132,
+                  "lng" : 91.8112867
+               }
+            }
+         },
+         "place_id" : "ChIJnzJw0tNUUDcRgnP2MTT5jvU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

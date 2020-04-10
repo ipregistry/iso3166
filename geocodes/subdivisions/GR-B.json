@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Macedonia",
+               "short_name" : "Central Macedonia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Macedonia, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.40670009999999,
+                  "lng" : 24.367647
+               },
+               "southwest" : {
+                  "lat" : 39.9075655,
+                  "lng" : 21.7041979
+               }
+            },
+            "location" : {
+               "lat" : 40.621173,
+               "lng" : 23.1918021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40670009999999,
+                  "lng" : 24.367647
+               },
+               "southwest" : {
+                  "lat" : 39.9075655,
+                  "lng" : 21.7041979
+               }
+            }
+         },
+         "place_id" : "ChIJg6ZQ7Ys5qBQRwMW54iy9AAE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

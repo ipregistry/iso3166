@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kisumu",
+               "short_name" : "Kisumu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kisumu County",
+               "short_name" : "Kisumu County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kisumu, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.0375081,
+                  "lng" : 34.9012469
+               },
+               "southwest" : {
+                  "lat" : -0.1874538,
+                  "lng" : 34.5750903
+               }
+            },
+            "location" : {
+               "lat" : -0.09170159999999999,
+               "lng" : 34.7679568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.0375081,
+                  "lng" : 34.9012469
+               },
+               "southwest" : {
+                  "lat" : -0.1874538,
+                  "lng" : 34.5750903
+               }
+            }
+         },
+         "place_id" : "ChIJHchKrTekKhgR0o0k1jmkEiA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cusco",
+               "short_name" : "Cusco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cusco",
+               "short_name" : "Cusco",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cusco",
+               "short_name" : "Cusco",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cusco, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.4973908,
+                  "lng" : -71.85333249999999
+               },
+               "southwest" : {
+                  "lat" : -13.5626478,
+                  "lng" : -72.02516560000001
+               }
+            },
+            "location" : {
+               "lat" : -13.53195,
+               "lng" : -71.96746259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.4973908,
+                  "lng" : -71.85333249999999
+               },
+               "southwest" : {
+                  "lat" : -13.5626478,
+                  "lng" : -72.02516560000001
+               }
+            }
+         },
+         "place_id" : "ChIJMYRZJtjVbZERXTEYI8yWqSo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

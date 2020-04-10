@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baghlan",
+               "short_name" : "Baghlan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baghlan",
+               "short_name" : "Baghlan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baghlan",
+               "short_name" : "Baghlan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baghlan, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1897066,
+                  "lng" : 68.7745
+               },
+               "southwest" : {
+                  "lat" : 36.162409,
+                  "lng" : 68.7236881
+               }
+            },
+            "location" : {
+               "lat" : 36.17890260000001,
+               "lng" : 68.74530639999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1897066,
+                  "lng" : 68.7745
+               },
+               "southwest" : {
+                  "lat" : 36.162409,
+                  "lng" : 68.7236881
+               }
+            }
+         },
+         "place_id" : "ChIJNVXwhZQxzDgREim2b8JT9CU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

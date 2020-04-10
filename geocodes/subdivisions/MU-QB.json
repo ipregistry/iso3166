@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quatre Bornes",
+               "short_name" : "Quatre Bornes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plaines Wilhems District",
+               "short_name" : "Plaines Wilhems District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritius",
+               "short_name" : "MU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quatre Bornes, Mauritius",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.223788,
+                  "lng" : 57.50358989999999
+               },
+               "southwest" : {
+                  "lat" : -20.3044439,
+                  "lng" : 57.4409394
+               }
+            },
+            "location" : {
+               "lat" : -20.2674718,
+               "lng" : 57.4796981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.223788,
+                  "lng" : 57.50358989999999
+               },
+               "southwest" : {
+                  "lat" : -20.3044439,
+                  "lng" : 57.4409394
+               }
+            }
+         },
+         "place_id" : "ChIJIetTKjZbfCERUXQbkTF6nqg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

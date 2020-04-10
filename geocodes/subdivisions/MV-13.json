@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maalhosmadulu Atholhu Uthuruburi",
+               "short_name" : "Maalhosmadulu Atholhu Uthuruburi",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Raa Atoll",
+               "short_name" : "Raa Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maalhosmadulu Atholhu Uthuruburi, Maldives",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6166667,
+               "lng" : 72.91666669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.627771,
+                  "lng" : 72.9326741
+               },
+               "southwest" : {
+                  "lat" : 5.6055622,
+                  "lng" : 72.9006593
+               }
+            }
+         },
+         "place_id" : "ChIJ78n8MsEaazsRPgod1ZbBrlI",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

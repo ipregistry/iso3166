@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northwestern Region",
+               "short_name" : "Northwestern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northwestern Region, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 66.162605,
+                  "lng" : -18.2957741
+               },
+               "southwest" : {
+                  "lat" : 64.773222,
+                  "lng" : -21.1211548
+               }
+            },
+            "location" : {
+               "lat" : 65.19625049999999,
+               "lng" : -19.2425805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 66.162605,
+                  "lng" : -18.2957741
+               },
+               "southwest" : {
+                  "lat" : 64.773222,
+                  "lng" : -21.1211548
+               }
+            }
+         },
+         "place_id" : "ChIJvw0yrI0i00gRXm0SD1Szegs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

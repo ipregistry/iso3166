@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guaviare",
+               "short_name" : "Guaviare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calamar",
+               "short_name" : "Calamar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guaviare",
+               "short_name" : "Guaviare",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guaviare, Calamar, Guaviare, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.0722202,
+                  "lng" : -73.2451629
+               },
+               "southwest" : {
+                  "lat" : 1.0517961,
+                  "lng" : -73.27159879999999
+               }
+            },
+            "location" : {
+               "lat" : 1.06539,
+               "lng" : -73.2603199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.0722202,
+                  "lng" : -73.2451629
+               },
+               "southwest" : {
+                  "lat" : 1.0517961,
+                  "lng" : -73.27159879999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQRlMfjlOH44RVhq7kwslPiU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

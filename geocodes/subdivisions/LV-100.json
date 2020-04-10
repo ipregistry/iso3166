@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vaiņode Municipality",
+               "short_name" : "Vaiņode Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vaiņode Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.574503,
+                  "lng" : 22.0108759
+               },
+               "southwest" : {
+                  "lat" : 56.3371229,
+                  "lng" : 21.6653638
+               }
+            },
+            "location" : {
+               "lat" : 56.4154271,
+               "lng" : 21.8513984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.574503,
+                  "lng" : 22.0108759
+               },
+               "southwest" : {
+                  "lat" : 56.3371229,
+                  "lng" : 21.6653638
+               }
+            }
+         },
+         "place_id" : "ChIJmzCCBZf170YR8P_yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

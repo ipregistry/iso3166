@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alexandria",
+               "short_name" : "Alexandria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alexandria Governorate",
+               "short_name" : "Alexandria Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alexandria, Alexandria Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.330904,
+                  "lng" : 30.0864017
+               },
+               "southwest" : {
+                  "lat" : 31.1173177,
+                  "lng" : 29.8233701
+               }
+            },
+            "location" : {
+               "lat" : 31.2000924,
+               "lng" : 29.9187387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.330904,
+                  "lng" : 30.0864017
+               },
+               "southwest" : {
+                  "lat" : 31.1173177,
+                  "lng" : 29.8233701
+               }
+            }
+         },
+         "place_id" : "ChIJ0w9xJpHE9RQRuWvuKabN4LQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

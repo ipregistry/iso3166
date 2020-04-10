@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nimruz",
+               "short_name" : "Nimruz",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nimruz, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.263132,
+                  "lng" : 63.5857501
+               },
+               "southwest" : {
+                  "lat" : 29.3889659,
+                  "lng" : 60.87859700000001
+               }
+            },
+            "location" : {
+               "lat" : 31.0261488,
+               "lng" : 62.4504154
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.263132,
+                  "lng" : 63.5857501
+               },
+               "southwest" : {
+                  "lat" : 29.3889659,
+                  "lng" : 60.87859700000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkfefVGga3z4ROESisQoTSIE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

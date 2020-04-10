@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Beheira Governorate",
+               "short_name" : "El Beheira Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Beheira Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5041099,
+                  "lng" : 30.8512852
+               },
+               "southwest" : {
+                  "lat" : 29.8721709,
+                  "lng" : 29.6311052
+               }
+            },
+            "location" : {
+               "lat" : 30.8480986,
+               "lng" : 30.3435506
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5041099,
+                  "lng" : 30.8512852
+               },
+               "southwest" : {
+                  "lat" : 29.8721709,
+                  "lng" : 29.6311052
+               }
+            }
+         },
+         "place_id" : "ChIJg2TxDBff9RQR5Tw_nkZ21Fc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

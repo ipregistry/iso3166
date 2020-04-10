@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gilbert Islands",
+               "short_name" : "Gilbert Islands",
+               "types" : [ "archipelago", "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Gilbert Islands",
+               "short_name" : "Gilbert Islands",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kiribati",
+               "short_name" : "KI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gilbert Islands, Kiribati",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.3991995,
+                  "lng" : 176.8621827
+               },
+               "southwest" : {
+                  "lat" : -2.6943472,
+                  "lng" : 172.6483442
+               }
+            },
+            "location" : {
+               "lat" : 0.3524262,
+               "lng" : 174.7552634
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.3991995,
+                  "lng" : 176.8621827
+               },
+               "southwest" : {
+                  "lat" : -2.6943472,
+                  "lng" : 172.6483442
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKwu4VqlWbmURhs_OwQWllxo",
+         "types" : [ "archipelago", "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

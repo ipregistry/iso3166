@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gracias a Dios Department",
+               "short_name" : "Gracias a Dios Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Honduras",
+               "short_name" : "HN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gracias a Dios Department, Honduras",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.9816356,
+                  "lng" : -83.15000979999999
+               },
+               "southwest" : {
+                  "lat" : 14.616704,
+                  "lng" : -85.0000659
+               }
+            },
+            "location" : {
+               "lat" : 15.341806,
+               "lng" : -84.6060449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.9816356,
+                  "lng" : -83.15000979999999
+               },
+               "southwest" : {
+                  "lat" : 14.616704,
+                  "lng" : -85.0000659
+               }
+            }
+         },
+         "place_id" : "ChIJse5-RhegFo8R3OIGY-086lQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

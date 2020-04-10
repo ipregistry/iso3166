@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.881338,
+                  "lng" : 77.34845780000001
+               },
+               "southwest" : {
+                  "lat" : 28.412593,
+                  "lng" : 76.83806899999999
+               }
+            },
+            "location" : {
+               "lat" : 28.7040592,
+               "lng" : 77.10249019999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.881338,
+                  "lng" : 77.34845780000001
+               },
+               "southwest" : {
+                  "lat" : 28.412593,
+                  "lng" : 76.83806899999999
+               }
+            }
+         },
+         "place_id" : "ChIJLbZ-NFv9DDkRQJY4FbcFcgM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

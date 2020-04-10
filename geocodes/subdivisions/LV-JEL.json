@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jelgava",
+               "short_name" : "Jelgava",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jelgava, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6916349,
+                  "lng" : 23.8002769
+               },
+               "southwest" : {
+                  "lat" : 56.596751,
+                  "lng" : 23.623268
+               }
+            },
+            "location" : {
+               "lat" : 56.6511091,
+               "lng" : 23.7213541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6916349,
+                  "lng" : 23.8002769
+               },
+               "southwest" : {
+                  "lat" : 56.596751,
+                  "lng" : 23.623268
+               }
+            }
+         },
+         "place_id" : "ChIJjxbtbksl70YRYBzzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

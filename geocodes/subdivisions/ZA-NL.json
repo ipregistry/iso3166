@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "KwaZulu-Natal",
+               "short_name" : "KZN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "KwaZulu-Natal, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.80442,
+                  "lng" : 32.8909911
+               },
+               "southwest" : {
+                  "lat" : -31.0853648,
+                  "lng" : 28.8734801
+               }
+            },
+            "location" : {
+               "lat" : -28.5305539,
+               "lng" : 30.8958242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.80442,
+                  "lng" : 32.8909911
+               },
+               "southwest" : {
+                  "lat" : -31.0853648,
+                  "lng" : 28.8734801
+               }
+            }
+         },
+         "place_id" : "ChIJVQ7iWQ4Q8R4Rjdnka6d4YYI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

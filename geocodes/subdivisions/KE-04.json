@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Busia",
+               "short_name" : "Busia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Busia County",
+               "short_name" : "Busia County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Busia, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.466893,
+                  "lng" : 34.1225065
+               },
+               "southwest" : {
+                  "lat" : 0.4509494,
+                  "lng" : 34.0976143
+               }
+            },
+            "location" : {
+               "lat" : 0.4607691,
+               "lng" : 34.1114621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.466893,
+                  "lng" : 34.1225065
+               },
+               "southwest" : {
+                  "lat" : 0.4509494,
+                  "lng" : 34.0976143
+               }
+            }
+         },
+         "place_id" : "ChIJT2Vl9EChfxcRE5Wr_IVe-mg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

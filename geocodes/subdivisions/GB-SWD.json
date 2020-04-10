@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swindon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6071916,
+                  "lng" : -1.7194727
+               },
+               "southwest" : {
+                  "lat" : 51.530334,
+                  "lng" : -1.8651375
+               }
+            },
+            "location" : {
+               "lat" : 51.55577390000001,
+               "lng" : -1.7797176
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6071916,
+                  "lng" : -1.7194727
+               },
+               "southwest" : {
+                  "lat" : 51.530334,
+                  "lng" : -1.8651375
+               }
+            }
+         },
+         "place_id" : "ChIJ5eTbPU9EcUgRmpTF6Te_VqU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

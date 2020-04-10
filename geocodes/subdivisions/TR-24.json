@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erzincan",
+               "short_name" : "Erzincan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erzincan Merkez",
+               "short_name" : "Erzincan Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Erzincan",
+               "short_name" : "Erzincan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erzincan, Erzincan Merkez/Erzincan, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.781213,
+                  "lng" : 39.547508
+               },
+               "southwest" : {
+                  "lat" : 39.712936,
+                  "lng" : 39.4603089
+               }
+            },
+            "location" : {
+               "lat" : 39.746797,
+               "lng" : 39.491124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.781213,
+                  "lng" : 39.547508
+               },
+               "southwest" : {
+                  "lat" : 39.712936,
+                  "lng" : 39.4603089
+               }
+            }
+         },
+         "place_id" : "ChIJ6x1TAMkMcEARqecCE27euB8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Schleswig",
+               "short_name" : "Schleswig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Flensburg",
+               "short_name" : "Schleswig-Flensburg",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24837",
+               "short_name" : "24837",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24837 Schleswig, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5459843,
+                  "lng" : 9.616005899999999
+               },
+               "southwest" : {
+                  "lat" : 54.4916224,
+                  "lng" : 9.510464199999999
+               }
+            },
+            "location" : {
+               "lat" : 54.5239312,
+               "lng" : 9.563226999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5459843,
+                  "lng" : 9.616005899999999
+               },
+               "southwest" : {
+                  "lat" : 54.4916224,
+                  "lng" : 9.510464199999999
+               }
+            }
+         },
+         "place_id" : "ChIJy0ykO8oMs0cR4C1YxmOJJAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aiken",
+               "short_name" : "Aiken",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Floyd County",
+               "short_name" : "Floyd County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79241",
+               "short_name" : "79241",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aiken, TX 79241, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.14229530000001,
+               "lng" : -101.5257226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1515297,
+                  "lng" : -101.5097152
+               },
+               "southwest" : {
+                  "lat" : 34.1330599,
+                  "lng" : -101.54173
+               }
+            }
+         },
+         "place_id" : "ChIJox6vRVXFAYcRDAYdjQ_Ckj0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,35 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clipperton Island",
+               "short_name" : "Clipperton Island",
+               "types" : [ "establishment", "natural_feature" ]
+            }
+         ],
+         "formatted_address" : "Clipperton Island",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.2833333,
+               "lng" : -109.2166667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.2943119,
+                  "lng" : -109.2006593
+               },
+               "southwest" : {
+                  "lat" : 10.2723544,
+                  "lng" : -109.2326741
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpf7RncO9YoQRx4bQGIrdAVU",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

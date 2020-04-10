@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Engure Municipality",
+               "short_name" : "Engure Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Engure Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.31582179999999,
+                  "lng" : 23.553206
+               },
+               "southwest" : {
+                  "lat" : 56.91233390000001,
+                  "lng" : 23.0687449
+               }
+            },
+            "location" : {
+               "lat" : 57.16235,
+               "lng" : 23.2196634
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.31582179999999,
+                  "lng" : 23.553206
+               },
+               "southwest" : {
+                  "lat" : 56.91233390000001,
+                  "lng" : 23.0687449
+               }
+            }
+         },
+         "place_id" : "ChIJaZaZz2f37kYR4ALzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

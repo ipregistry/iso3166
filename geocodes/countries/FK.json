@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Falkland Islands (Islas Malvinas)",
+               "short_name" : "FK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FIQQ 1ZZ",
+               "short_name" : "FIQQ 1ZZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "FIQQ 1ZZ, Falkland Islands (Islas Malvinas)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -50.9809115,
+                  "lng" : -57.6768495
+               },
+               "southwest" : {
+                  "lat" : -52.4744161,
+                  "lng" : -61.3792419
+               }
+            },
+            "location" : {
+               "lat" : -51.796253,
+               "lng" : -59.523613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -50.9809115,
+                  "lng" : -57.6768495
+               },
+               "southwest" : {
+                  "lat" : -52.4744161,
+                  "lng" : -61.3792419
+               }
+            }
+         },
+         "place_id" : "ChIJo-ORRLmJKrwROsXZjf-qKjI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

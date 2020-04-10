@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salgótarján",
+               "short_name" : "Salgótarján",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salgótarján, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.178421,
+                  "lng" : 19.9221181
+               },
+               "southwest" : {
+                  "lat" : 48.039501,
+                  "lng" : 19.7267319
+               }
+            },
+            "location" : {
+               "lat" : 48.0935237,
+               "lng" : 19.7999813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.178421,
+                  "lng" : 19.9221181
+               },
+               "southwest" : {
+                  "lat" : 48.039501,
+                  "lng" : 19.7267319
+               }
+            }
+         },
+         "place_id" : "ChIJ0W21bU5tQEcRQBIeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

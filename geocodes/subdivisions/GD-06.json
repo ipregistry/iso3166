@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Patrick",
+               "short_name" : "Saint Patrick",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Grenada",
+               "short_name" : "GD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Patrick, Grenada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.330862,
+                  "lng" : -61.54397489999999
+               },
+               "southwest" : {
+                  "lat" : 12.1670921,
+                  "lng" : -61.68279190000001
+               }
+            },
+            "location" : {
+               "lat" : 12.2056921,
+               "lng" : -61.64211719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.330862,
+                  "lng" : -61.54397489999999
+               },
+               "southwest" : {
+                  "lat" : 12.1670921,
+                  "lng" : -61.68279190000001
+               }
+            }
+         },
+         "place_id" : "ChIJk31bDLlsOIwRUssRIYbFT0A",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

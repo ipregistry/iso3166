@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Preili",
+               "short_name" : "Preili",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preiļu pilsēta",
+               "short_name" : "Preiļu pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5301",
+               "short_name" : "5301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Preili, Preiļu pilsēta, LV-5301, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3069346,
+                  "lng" : 26.743479
+               },
+               "southwest" : {
+                  "lat" : 56.2751268,
+                  "lng" : 26.7004888
+               }
+            },
+            "location" : {
+               "lat" : 56.290878,
+               "lng" : 26.721958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3069346,
+                  "lng" : 26.743479
+               },
+               "southwest" : {
+                  "lat" : 56.2751268,
+                  "lng" : 26.7004888
+               }
+            }
+         },
+         "place_id" : "ChIJc4zcOWh7wkYRoBvzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Preiļi Municipality",
+               "short_name" : "Preiļi Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Preiļi Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.4642609,
+                  "lng" : 26.8860949
+               },
+               "southwest" : {
+                  "lat" : 56.10551599999999,
+                  "lng" : 26.4762129
+               }
+            },
+            "location" : {
+               "lat" : 56.1511157,
+               "lng" : 26.7439767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4642609,
+                  "lng" : 26.8860949
+               },
+               "southwest" : {
+                  "lat" : 56.10551599999999,
+                  "lng" : 26.4762129
+               }
+            }
+         },
+         "place_id" : "ChIJaWT1x4F8wkYRAAHzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

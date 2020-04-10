@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Valle",
+               "short_name" : "El Valle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Valle",
+               "short_name" : "El Valle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hato Mayor Province",
+               "short_name" : "Hato Mayor Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25000",
+               "short_name" : "25000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "El Valle 25000, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9848291,
+                  "lng" : -69.37346939999999
+               },
+               "southwest" : {
+                  "lat" : 18.9703817,
+                  "lng" : -69.386859
+               }
+            },
+            "location" : {
+               "lat" : 18.9771643,
+               "lng" : -69.37863829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9848291,
+                  "lng" : -69.37346939999999
+               },
+               "southwest" : {
+                  "lat" : 18.9703817,
+                  "lng" : -69.386859
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9XoOBYgZr44RDOoknVdahRw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

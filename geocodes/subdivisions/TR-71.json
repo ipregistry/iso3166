@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kırıkkale",
+               "short_name" : "Kırıkkale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kırıkkale Merkez",
+               "short_name" : "Kırıkkale Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kırıkkale",
+               "short_name" : "Kırıkkale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kırıkkale, Kırıkkale Merkez/Kırıkkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.869203,
+                  "lng" : 33.576123
+               },
+               "southwest" : {
+                  "lat" : 39.814633,
+                  "lng" : 33.469892
+               }
+            },
+            "location" : {
+               "lat" : 39.8397835,
+               "lng" : 33.5088782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.869203,
+                  "lng" : 33.576123
+               },
+               "southwest" : {
+                  "lat" : 39.814633,
+                  "lng" : 33.469892
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJu-FChxjfgUARvOUA9NlNGk8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

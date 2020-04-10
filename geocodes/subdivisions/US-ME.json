@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maine, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.459833,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 42.91712589999999,
+                  "lng" : -71.084397
+               }
+            },
+            "location" : {
+               "lat" : 45.253783,
+               "lng" : -69.44546889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.459833,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 42.91712589999999,
+                  "lng" : -71.084397
+               }
+            }
+         },
+         "place_id" : "ChIJ1YpTHd4dsEwR0KggZ2_MedY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

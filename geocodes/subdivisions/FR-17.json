@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charente-Maritime",
+               "short_name" : "Charente-Maritime",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charente-Maritime, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.371485,
+                  "lng" : 0.005972
+               },
+               "southwest" : {
+                  "lat" : 45.0887499,
+                  "lng" : -1.5626689
+               }
+            },
+            "location" : {
+               "lat" : 45.74948999999999,
+               "lng" : -0.7733188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.371485,
+                  "lng" : 0.005972
+               },
+               "southwest" : {
+                  "lat" : 45.0887499,
+                  "lng" : -1.5626689
+               }
+            }
+         },
+         "place_id" : "ChIJ82Od1IwPAUgRgCbnYJLTBQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

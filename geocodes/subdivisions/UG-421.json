@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bweyale",
+               "short_name" : "Bweyale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Masindi",
+               "short_name" : "Masindi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bweyale, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.9579319,
+                  "lng" : 32.1448803
+               },
+               "southwest" : {
+                  "lat" : 1.9478097,
+                  "lng" : 32.1352673
+               }
+            },
+            "location" : {
+               "lat" : 1.9530448,
+               "lng" : 32.1391217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.9579319,
+                  "lng" : 32.1448803
+               },
+               "southwest" : {
+                  "lat" : 1.9478097,
+                  "lng" : 32.1352673
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTT8aULGVehcRq6qgICK0w0s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

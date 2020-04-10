@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "EP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Province, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.9883541,
+                  "lng" : 81.878969
+               },
+               "southwest" : {
+                  "lat" : 6.5077099,
+                  "lng" : 80.75277899999999
+               }
+            },
+            "location" : {
+               "lat" : 7.7853051,
+               "lng" : 81.42789839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.9883541,
+                  "lng" : 81.878969
+               },
+               "southwest" : {
+                  "lat" : 6.5077099,
+                  "lng" : 80.75277899999999
+               }
+            }
+         },
+         "place_id" : "ChIJLZRVEL37-zoRvQgUOAu_Png",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

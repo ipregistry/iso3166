@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaibandha",
+               "short_name" : "Gaibandha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gaibandha District",
+               "short_name" : "Gaibandha District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rangpur Division",
+               "short_name" : "Rangpur Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gaibandha, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.3365015,
+                  "lng" : 89.5551395
+               },
+               "southwest" : {
+                  "lat" : 25.3249422,
+                  "lng" : 89.5243048
+               }
+            },
+            "location" : {
+               "lat" : 25.328978,
+               "lng" : 89.5415074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3365015,
+                  "lng" : 89.5551395
+               },
+               "southwest" : {
+                  "lat" : 25.3249422,
+                  "lng" : 89.5243048
+               }
+            }
+         },
+         "place_id" : "ChIJq1dDntYi_TkRyobsaZKKzW4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

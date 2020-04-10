@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puttalam",
+               "short_name" : "Puttalam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puttalam",
+               "short_name" : "Puttalam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Western Province",
+               "short_name" : "NW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puttalam, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.069724899999999,
+                  "lng" : 79.8573579
+               },
+               "southwest" : {
+                  "lat" : 7.9910674,
+                  "lng" : 79.8081207
+               }
+            },
+            "location" : {
+               "lat" : 8.0407913,
+               "lng" : 79.839386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.069724899999999,
+                  "lng" : 79.8573579
+               },
+               "southwest" : {
+                  "lat" : 7.9910674,
+                  "lng" : 79.8081207
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJncy6bsMV_ToR-u-ddReaJ1o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

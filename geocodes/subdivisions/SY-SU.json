@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "As Suwayda",
+               "short_name" : "As Suwayda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "As-Suwayda District",
+               "short_name" : "As-Suwayda District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "As-Suwayda Governorate",
+               "short_name" : "As-Suwayda Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "As Suwayda, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7348733,
+                  "lng" : 36.6076899
+               },
+               "southwest" : {
+                  "lat" : 32.6688949,
+                  "lng" : 36.5449906
+               }
+            },
+            "location" : {
+               "lat" : 32.7128968,
+               "lng" : 36.5662858
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7348733,
+                  "lng" : 36.6076899
+               },
+               "southwest" : {
+                  "lat" : 32.6688949,
+                  "lng" : 36.5449906
+               }
+            }
+         },
+         "place_id" : "ChIJcemtjW_VGxUROids9RPYjCA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

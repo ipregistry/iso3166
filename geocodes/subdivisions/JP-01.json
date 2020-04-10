@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hokkaido",
+               "short_name" : "Hokkaido",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hokkaido, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5265181,
+                  "lng" : 145.817624
+               },
+               "southwest" : {
+                  "lat" : 41.3516002,
+                  "lng" : 139.3340799
+               }
+            },
+            "location" : {
+               "lat" : 43.2203266,
+               "lng" : 142.8634737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5265181,
+                  "lng" : 145.817624
+               },
+               "southwest" : {
+                  "lat" : 41.3516002,
+                  "lng" : 139.3340799
+               }
+            }
+         },
+         "place_id" : "ChIJi4hsnyBZn18RjwPOT1bDPBw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

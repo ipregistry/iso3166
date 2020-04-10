@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krāslava Municipality",
+               "short_name" : "Krāslava Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krāslava Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.09051299999999,
+                  "lng" : 27.747571
+               },
+               "southwest" : {
+                  "lat" : 55.7835121,
+                  "lng" : 26.928233
+               }
+            },
+            "location" : {
+               "lat" : 55.89514639999999,
+               "lng" : 27.1814577
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.09051299999999,
+                  "lng" : 27.747571
+               },
+               "southwest" : {
+                  "lat" : 55.7835121,
+                  "lng" : 26.928233
+               }
+            }
+         },
+         "place_id" : "ChIJcY2GDNb9wkYRIP_yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baku",
+               "short_name" : "Baku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baku",
+               "short_name" : "Baku",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baku, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.486602,
+                  "lng" : 50.0561143
+               },
+               "southwest" : {
+                  "lat" : 40.302583,
+                  "lng" : 49.6538049
+               }
+            },
+            "location" : {
+               "lat" : 40.40926169999999,
+               "lng" : 49.8670924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.486602,
+                  "lng" : 50.0561143
+               },
+               "southwest" : {
+                  "lat" : 40.302583,
+                  "lng" : 49.6538049
+               }
+            }
+         },
+         "place_id" : "ChIJ-Rwh1mt9MEARa2zlel5rPzQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

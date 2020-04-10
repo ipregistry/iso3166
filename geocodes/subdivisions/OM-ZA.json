@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ad Dhahirah Governorate",
+               "short_name" : "Ad Dhahirah Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ad Dhahirah Governorate, Oman",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.019926,
+                  "lng" : 57.116874
+               },
+               "southwest" : {
+                  "lat" : 21.2737232,
+                  "lng" : 55.2133499
+               }
+            },
+            "location" : {
+               "lat" : 23.2161674,
+               "lng" : 56.4907444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.019926,
+                  "lng" : 57.116874
+               },
+               "southwest" : {
+                  "lat" : 21.2737232,
+                  "lng" : 55.2133499
+               }
+            }
+         },
+         "place_id" : "ChIJl1Yol5amiT4RXJ-YPdEosVk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

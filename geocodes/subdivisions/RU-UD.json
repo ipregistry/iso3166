@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Udmurt Republic",
+               "short_name" : "Udmurt Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Udmurt Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.54578099999999,
+                  "lng" : 54.4340529
+               },
+               "southwest" : {
+                  "lat" : 55.85628500000001,
+                  "lng" : 51.1241979
+               }
+            },
+            "location" : {
+               "lat" : 57.0670218,
+               "lng" : 53.0277948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.54578099999999,
+                  "lng" : 54.4340529
+               },
+               "southwest" : {
+                  "lat" : 55.85628500000001,
+                  "lng" : 51.1241979
+               }
+            }
+         },
+         "place_id" : "ChIJUUBNcq_i40MRMJXxg6WjAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

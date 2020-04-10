@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Ostrobothnia",
+               "short_name" : "Central Ostrobothnia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Ostrobothnia, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.09717800000001,
+                  "lng" : 25.0367477
+               },
+               "southwest" : {
+                  "lat" : 63.11655750000001,
+                  "lng" : 22.7755963
+               }
+            },
+            "location" : {
+               "lat" : 63.5621735,
+               "lng" : 24.0013631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.09717800000001,
+                  "lng" : 25.0367477
+               },
+               "southwest" : {
+                  "lat" : 63.11655750000001,
+                  "lng" : 22.7755963
+               }
+            }
+         },
+         "place_id" : "ChIJ4TZIZSIkh0YRV5NmkMFQygI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

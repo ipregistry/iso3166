@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cao Bằng",
+               "short_name" : "Cao Bằng",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cao Bang",
+               "short_name" : "Cao Bang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cao Bằng, Cao Bang, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.703488,
+                  "lng" : 106.3114691
+               },
+               "southwest" : {
+                  "lat" : 22.607981,
+                  "lng" : 106.2009208
+               }
+            },
+            "location" : {
+               "lat" : 22.6666369,
+               "lng" : 106.2639852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.703488,
+                  "lng" : 106.3114691
+               },
+               "southwest" : {
+                  "lat" : 22.607981,
+                  "lng" : 106.2009208
+               }
+            }
+         },
+         "place_id" : "ChIJJwMshTtkyjYRIWl8WpuPJ_c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

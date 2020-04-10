@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hoa Binh",
+               "short_name" : "Hoa Binh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hoa Binh",
+               "short_name" : "Hoa Binh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hoa Binh, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.941235,
+                  "lng" : 105.3883349
+               },
+               "southwest" : {
+                  "lat" : 20.743388,
+                  "lng" : 105.2619371
+               }
+            },
+            "location" : {
+               "lat" : 20.8275154,
+               "lng" : 105.3390793
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.941235,
+                  "lng" : 105.3883349
+               },
+               "southwest" : {
+                  "lat" : 20.743388,
+                  "lng" : 105.2619371
+               }
+            }
+         },
+         "place_id" : "ChIJhaYWcz1rNDERKe8dHbMMKRM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

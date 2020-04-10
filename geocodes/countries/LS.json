@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lesotho",
+               "short_name" : "LS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lesotho",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.5708011,
+                  "lng" : 29.4557087
+               },
+               "southwest" : {
+                  "lat" : -30.6755788,
+                  "lng" : 27.011231
+               }
+            },
+            "location" : {
+               "lat" : -29.609988,
+               "lng" : 28.233608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.5708011,
+                  "lng" : 29.4557087
+               },
+               "southwest" : {
+                  "lat" : -30.6755788,
+                  "lng" : 27.011231
+               }
+            }
+         },
+         "place_id" : "ChIJ64xf1idIjB4Rsx7ReLhXLSM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

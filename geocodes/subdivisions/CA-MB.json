@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manitoba",
+               "short_name" : "MB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manitoba, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.000164,
+                  "lng" : -88.9177021
+               },
+               "southwest" : {
+                  "lat" : 48.998861,
+                  "lng" : -102.0000041
+               }
+            },
+            "location" : {
+               "lat" : 53.7608608,
+               "lng" : -98.8138762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.000164,
+                  "lng" : -88.9177021
+               },
+               "southwest" : {
+                  "lat" : 48.998861,
+                  "lng" : -102.0000041
+               }
+            }
+         },
+         "place_id" : "ChIJE7XnRW_gbVIRaMfBq_JVDxw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

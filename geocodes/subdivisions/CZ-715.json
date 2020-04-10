@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šumperk",
+               "short_name" : "Šumperk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Šumperk District",
+               "short_name" : "Šumperk District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Olomouc Region",
+               "short_name" : "Olomouc Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "787 01",
+               "short_name" : "787 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "787 01 Šumperk, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.01909449999999,
+                  "lng" : 17.005037
+               },
+               "southwest" : {
+                  "lat" : 49.93516229999999,
+                  "lng" : 16.913989
+               }
+            },
+            "location" : {
+               "lat" : 49.97784069999999,
+               "lng" : 16.9717754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.01909449999999,
+                  "lng" : 17.005037
+               },
+               "southwest" : {
+                  "lat" : 49.93516229999999,
+                  "lng" : 16.913989
+               }
+            }
+         },
+         "place_id" : "ChIJu1yC2FkaEkcRj-T55fG_1Ec",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

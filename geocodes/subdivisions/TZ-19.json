@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pwani Region",
+               "short_name" : "Pwani Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pwani Region, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.8434715,
+                  "lng" : 39.90978930000001
+               },
+               "southwest" : {
+                  "lat" : -8.514856199999999,
+                  "lng" : 37.7965201
+               }
+            },
+            "location" : {
+               "lat" : -7.323771400000001,
+               "lng" : 38.8205454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.8434715,
+                  "lng" : 39.90978930000001
+               },
+               "southwest" : {
+                  "lat" : -8.514856199999999,
+                  "lng" : 37.7965201
+               }
+            }
+         },
+         "place_id" : "ChIJTYgfpn6RXBgRa9OdjCjBx6k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pljevlja",
+               "short_name" : "PV",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pljevlja Municipality",
+               "short_name" : "Pljevlja Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pljevlja, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3736113,
+                  "lng" : 19.3831443
+               },
+               "southwest" : {
+                  "lat" : 43.3385382,
+                  "lng" : 19.3206596
+               }
+            },
+            "location" : {
+               "lat" : 43.3582371,
+               "lng" : 19.3512591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3736113,
+                  "lng" : 19.3831443
+               },
+               "southwest" : {
+                  "lat" : 43.3385382,
+                  "lng" : 19.3206596
+               }
+            }
+         },
+         "place_id" : "ChIJKXKR9EQIWEcRdApoxlXZPOI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

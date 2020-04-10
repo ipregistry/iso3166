@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Magway",
+               "short_name" : "Magway",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Magway",
+               "short_name" : "Magway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Magway Region",
+               "short_name" : "Magway Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Magway, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.1782538,
+                  "lng" : 94.99182309999999
+               },
+               "southwest" : {
+                  "lat" : 20.1100737,
+                  "lng" : 94.9161388
+               }
+            },
+            "location" : {
+               "lat" : 20.1544305,
+               "lng" : 94.9454803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.1782538,
+                  "lng" : 94.99182309999999
+               },
+               "southwest" : {
+                  "lat" : 20.1100737,
+                  "lng" : 94.9161388
+               }
+            }
+         },
+         "place_id" : "ChIJl3jU_aLRtzAR7jRfrrJGo6Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

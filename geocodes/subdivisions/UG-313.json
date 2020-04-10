@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yumbe",
+               "short_name" : "Yumbe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yumbe",
+               "short_name" : "Yumbe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yumbe, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.4764325,
+                  "lng" : 31.2558459
+               },
+               "southwest" : {
+                  "lat" : 3.4607329,
+                  "lng" : 31.238594
+               }
+            },
+            "location" : {
+               "lat" : 3.4698023,
+               "lng" : 31.2483291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.4764325,
+                  "lng" : 31.2558459
+               },
+               "southwest" : {
+                  "lat" : 3.4607329,
+                  "lng" : 31.238594
+               }
+            }
+         },
+         "place_id" : "ChIJMSmGCxTAbRcRbAhuX5QK5Mk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

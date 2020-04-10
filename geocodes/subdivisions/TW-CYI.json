@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiayi",
+               "short_name" : "Chiayi",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "West District",
+               "short_name" : "West District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chiayi City",
+               "short_name" : "Chiayi City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chiayi, West District, Chiayi City, Taiwan 600",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.5106487,
+                  "lng" : 120.4921534
+               },
+               "southwest" : {
+                  "lat" : 23.4532061,
+                  "lng" : 120.3934895
+               }
+            },
+            "location" : {
+               "lat" : 23.4800663,
+               "lng" : 120.4491054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.5106487,
+                  "lng" : 120.4921534
+               },
+               "southwest" : {
+                  "lat" : 23.4532061,
+                  "lng" : 120.3934895
+               }
+            }
+         },
+         "place_id" : "ChIJhSMMcYGWbjQR93Wt5WjRPAA",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

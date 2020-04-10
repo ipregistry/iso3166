@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cunene Province",
+               "short_name" : "Cunene Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Angola",
+               "short_name" : "AO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cunene Province, Angola",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.1456751,
+                  "lng" : 17.420441
+               },
+               "southwest" : {
+                  "lat" : -17.438843,
+                  "lng" : 13.135041
+               }
+            },
+            "location" : {
+               "lat" : -16.2802221,
+               "lng" : 16.1580937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.1456751,
+                  "lng" : 17.420441
+               },
+               "southwest" : {
+                  "lat" : -17.438843,
+                  "lng" : 13.135041
+               }
+            }
+         },
+         "place_id" : "ChIJg1JOSR8zlhsRRqMFqDgGBb8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

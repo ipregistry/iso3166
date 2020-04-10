@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ari Atoll",
+               "short_name" : "Ari Atoll",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Alifu Dhaalu Atoll",
+               "short_name" : "Alifu Dhaalu Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ari Atoll, Maldives",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.883333299999999,
+               "lng" : 72.83333329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.8944656,
+                  "lng" : 72.84934070000001
+               },
+               "southwest" : {
+                  "lat" : 3.8722009,
+                  "lng" : 72.8173259
+               }
+            }
+         },
+         "place_id" : "ChIJc2fMBIzdQDsRml476HWWT5g",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

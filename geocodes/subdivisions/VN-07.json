@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tuyên Quang",
+               "short_name" : "Tuyên Quang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tuyên Quang",
+               "short_name" : "Tuyên Quang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tuyên Quang, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.8653621,
+                  "lng" : 105.2931832
+               },
+               "southwest" : {
+                  "lat" : 21.7008173,
+                  "lng" : 105.1745223
+               }
+            },
+            "location" : {
+               "lat" : 21.7767246,
+               "lng" : 105.2280196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.8653621,
+                  "lng" : 105.2931832
+               },
+               "southwest" : {
+                  "lat" : 21.7008173,
+                  "lng" : 105.1745223
+               }
+            }
+         },
+         "place_id" : "ChIJ4R5JpfutNDER6bfGN0vBfXQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

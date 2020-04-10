@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Slovenska Bistrica",
+               "short_name" : "Slovenska Bistrica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slovenska Bistrica",
+               "short_name" : "Slovenska Bistrica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Slovenska Bistrica",
+               "short_name" : "Slovenska Bistrica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2310",
+               "short_name" : "2310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2310 Slovenska Bistrica, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4034978,
+                  "lng" : 15.5960519
+               },
+               "southwest" : {
+                  "lat" : 46.3749754,
+                  "lng" : 15.5426134
+               }
+            },
+            "location" : {
+               "lat" : 46.3919813,
+               "lng" : 15.5727869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4034978,
+                  "lng" : 15.5960519
+               },
+               "southwest" : {
+                  "lat" : 46.3749754,
+                  "lng" : 15.5426134
+               }
+            }
+         },
+         "place_id" : "ChIJ8aSR6i9-b0cRh1ugENSBZl8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

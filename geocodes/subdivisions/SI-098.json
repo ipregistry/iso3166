@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Rače–Fram",
+               "short_name" : "Race-Fram",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Administrative unit Maribor",
+               "short_name" : "Administrative unit Maribor",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Race-Fram, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4863833,
+                  "lng" : 15.727671
+               },
+               "southwest" : {
+                  "lat" : 46.4086274,
+                  "lng" : 15.5415463
+               }
+            },
+            "location" : {
+               "lat" : 46.4342985,
+               "lng" : 15.6773679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4863833,
+                  "lng" : 15.727671
+               },
+               "southwest" : {
+                  "lat" : 46.4086274,
+                  "lng" : 15.5415463
+               }
+            }
+         },
+         "place_id" : "ChIJZSUAV6x-b0cRTkveOP0zWA0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

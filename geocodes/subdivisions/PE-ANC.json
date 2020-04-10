@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ancash",
+               "short_name" : "Ancash",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ancash, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.049708899999999,
+                  "lng" : -76.7257439
+               },
+               "southwest" : {
+                  "lat" : -10.7864499,
+                  "lng" : -78.6583739
+               }
+            },
+            "location" : {
+               "lat" : -9.325049699999999,
+               "lng" : -77.56194189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.049708899999999,
+                  "lng" : -76.7257439
+               },
+               "southwest" : {
+                  "lat" : -10.7864499,
+                  "lng" : -78.6583739
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz2IrHOdoqZERrp9_isW79p0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+        }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-4fJW8RlB5ERMO_eYJIm-es",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

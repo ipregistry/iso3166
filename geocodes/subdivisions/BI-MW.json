@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mwaro",
+               "short_name" : "Mwaro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kayokwe",
+               "short_name" : "Kayokwe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mwaro",
+               "short_name" : "Mwaro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burundi",
+               "short_name" : "BI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mwaro, Burundi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.5021983,
+                  "lng" : 29.7108936
+               },
+               "southwest" : {
+                  "lat" : -3.5229303,
+                  "lng" : 29.6926975
+               }
+            },
+            "location" : {
+               "lat" : -3.511985,
+               "lng" : 29.6991642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.5021983,
+                  "lng" : 29.7108936
+               },
+               "southwest" : {
+                  "lat" : -3.5229303,
+                  "lng" : 29.6926975
+               }
+            }
+         },
+         "place_id" : "ChIJ89Y6QmdrwRkRadky0v_vrKI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

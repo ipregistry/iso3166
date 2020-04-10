@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lira",
+               "short_name" : "Lira",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lira",
+               "short_name" : "Lira",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lira, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.2770474,
+                  "lng" : 32.9197788
+               },
+               "southwest" : {
+                  "lat" : 2.2199915,
+                  "lng" : 32.8629635
+               }
+            },
+            "location" : {
+               "lat" : 2.2580829,
+               "lng" : 32.8874067
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.2770474,
+                  "lng" : 32.9197788
+               },
+               "southwest" : {
+                  "lat" : 2.2199915,
+                  "lng" : 32.8629635
+               }
+            }
+         },
+         "place_id" : "ChIJD4MBzJ-wcBcRlyfrgw_T_N0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

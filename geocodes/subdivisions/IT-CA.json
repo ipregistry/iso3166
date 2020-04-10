@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cagliari",
+               "short_name" : "Cagliari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cagliari",
+               "short_name" : "Cagliari",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Cagliari",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sardinia",
+               "short_name" : "Sardinia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cagliari, Metropolitan City of Cagliari, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.26570299999999,
+                  "lng" : 9.177219299999999
+               },
+               "southwest" : {
+                  "lat" : 39.1851057,
+                  "lng" : 9.079536700000002
+               }
+            },
+            "location" : {
+               "lat" : 39.2238411,
+               "lng" : 9.1216613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.26570299999999,
+                  "lng" : 9.177219299999999
+               },
+               "southwest" : {
+                  "lat" : 39.1851057,
+                  "lng" : 9.079536700000002
+               }
+            }
+         },
+         "place_id" : "ChIJoxyOthU05xIRsW6BzwYVHiA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

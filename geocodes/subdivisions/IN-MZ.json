@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mizoram",
+               "short_name" : "MZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mizoram, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.5174359,
+                  "lng" : 93.4375611
+               },
+               "southwest" : {
+                  "lat" : 21.946661,
+                  "lng" : 92.25847899999999
+               }
+            },
+            "location" : {
+               "lat" : 23.164543,
+               "lng" : 92.9375739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.5174359,
+                  "lng" : 93.4375611
+               },
+               "southwest" : {
+                  "lat" : 21.946661,
+                  "lng" : 92.25847899999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9zY_n9ELTTcRdOTVo5Im9rE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

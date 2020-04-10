@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Peter",
+               "short_name" : "Saint Peter",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Peter, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.2988305,
+                  "lng" : -59.572906
+               },
+               "southwest" : {
+                  "lat" : 13.2257179,
+                  "lng" : -59.6469631
+               }
+            },
+            "location" : {
+               "lat" : 13.2600459,
+               "lng" : -59.621862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.2988305,
+                  "lng" : -59.572906
+               },
+               "southwest" : {
+                  "lat" : 13.2257179,
+                  "lng" : -59.6469631
+               }
+            }
+         },
+         "place_id" : "ChIJfRSVWJDvQ4wRvh06q3XxpTc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

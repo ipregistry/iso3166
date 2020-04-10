@@ -1,0 +1,95 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palmyra Atoll",
+               "short_name" : "Palmyra Atoll",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "United States Minor Outlying Islands",
+               "short_name" : "UM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palmyra Atoll, United States Minor Outlying Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.8930932,
+                  "lng" : -162.0427438
+               },
+               "southwest" : {
+                  "lat" : 5.8708528,
+                  "lng" : -162.1085465
+               }
+            },
+            "location" : {
+               "lat" : 5.8885026,
+               "lng" : -162.0786656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.8930932,
+                  "lng" : -162.0427438
+               },
+               "southwest" : {
+                  "lat" : 5.8708528,
+                  "lng" : -162.1085465
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlWU4zECkPnoRv6OOKgsAtO4",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baker Island",
+               "short_name" : "Baker Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "United States Minor Outlying Islands",
+               "short_name" : "UM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baker Island, United States Minor Outlying Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.2008295,
+                  "lng" : -176.4701875
+               },
+               "southwest" : {
+                  "lat" : 0.1899033,
+                  "lng" : -176.4867685
+               }
+            },
+            "location" : {
+               "lat" : 0.1936266,
+               "lng" : -176.476908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.2008295,
+                  "lng" : -176.4701875
+               },
+               "southwest" : {
+                  "lat" : 0.1899033,
+                  "lng" : -176.4867685
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE0jMzUJEp3oRZmvBfCXKoRw",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salacgrīva Municipality",
+               "short_name" : "Salacgrīva Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salacgrīva Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.95663279999999,
+                  "lng" : 24.6670458
+               },
+               "southwest" : {
+                  "lat" : 57.399124,
+                  "lng" : 24.3316351
+               }
+            },
+            "location" : {
+               "lat" : 57.7580883,
+               "lng" : 24.3543181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.95663279999999,
+                  "lng" : 24.6670458
+               },
+               "southwest" : {
+                  "lat" : 57.399124,
+                  "lng" : 24.3316351
+               }
+            }
+         },
+         "place_id" : "ChIJg3b_VqoX7EYRIADzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

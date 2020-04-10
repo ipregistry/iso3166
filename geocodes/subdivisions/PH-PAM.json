@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pampanga",
+               "short_name" : "Pampanga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Luzon",
+               "short_name" : "Central Luzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pampanga, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.2820431,
+                  "lng" : 120.9558189
+               },
+               "southwest" : {
+                  "lat" : 14.7669461,
+                  "lng" : 120.359213
+               }
+            },
+            "location" : {
+               "lat" : 15.079409,
+               "lng" : 120.6199895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.2820431,
+                  "lng" : 120.9558189
+               },
+               "southwest" : {
+                  "lat" : 14.7669461,
+                  "lng" : 120.359213
+               }
+            }
+         },
+         "place_id" : "ChIJGWN3jYT0ljMR-Cbat4B4pVU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

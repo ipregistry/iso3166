@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catania",
+               "short_name" : "Catania",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Catania",
+               "short_name" : "Catania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Catania",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicily",
+               "short_name" : "Sicily",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Catania, Province of Catania, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.560876,
+                  "lng" : 15.1259397
+               },
+               "southwest" : {
+                  "lat" : 37.4205463,
+                  "lng" : 15.0290963
+               }
+            },
+            "location" : {
+               "lat" : 37.5078772,
+               "lng" : 15.0830304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.560876,
+                  "lng" : 15.1259397
+               },
+               "southwest" : {
+                  "lat" : 37.4205463,
+                  "lng" : 15.0290963
+               }
+            }
+         },
+         "place_id" : "ChIJtSUVdt3iExMR8DzIUWGH_lg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

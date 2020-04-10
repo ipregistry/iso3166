@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gabrovo",
+               "short_name" : "Gabrovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gabrovo",
+               "short_name" : "Gabrovo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gabrovo, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9150995,
+                  "lng" : 25.3884394
+               },
+               "southwest" : {
+                  "lat" : 42.78276880000001,
+                  "lng" : 25.262113
+               }
+            },
+            "location" : {
+               "lat" : 42.8742212,
+               "lng" : 25.3186837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9150995,
+                  "lng" : 25.3884394
+               },
+               "southwest" : {
+                  "lat" : 42.78276880000001,
+                  "lng" : 25.262113
+               }
+            }
+         },
+         "place_id" : "ChIJRYeV1uIPqUAREFC_aRKgAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

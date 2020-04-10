@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Equatoria",
+               "short_name" : "Eastern Equatoria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Sudan",
+               "short_name" : "SS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Equatoria, South Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.0001959,
+                  "lng" : 35.2981791
+               },
+               "southwest" : {
+                  "lat" : 3.5150319,
+                  "lng" : 31.7221889
+               }
+            },
+            "location" : {
+               "lat" : 5.0692995,
+               "lng" : 33.438353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.0001959,
+                  "lng" : 35.2981791
+               },
+               "southwest" : {
+                  "lat" : 3.5150319,
+                  "lng" : 31.7221889
+               }
+            }
+         },
+         "place_id" : "ChIJs-Y1p-xiDBcRmNaSGxVTIhU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

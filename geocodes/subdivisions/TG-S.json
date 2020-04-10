@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Savanes Region",
+               "short_name" : "Savanes Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Togo",
+               "short_name" : "TG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Savanes Region, Togo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.138977,
+                  "lng" : 0.9969091000000001
+               },
+               "southwest" : {
+                  "lat" : 9.879531999999999,
+                  "lng" : -0.1473239
+               }
+            },
+            "location" : {
+               "lat" : 10.5291781,
+               "lng" : 0.5257822999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.138977,
+                  "lng" : 0.9969091000000001
+               },
+               "southwest" : {
+                  "lat" : 9.879531999999999,
+                  "lng" : -0.1473239
+               }
+            }
+         },
+         "place_id" : "ChIJM82nCYXSKhARFrfoINH_Vys",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medina",
+               "short_name" : "Medina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Madina Almonoara",
+               "short_name" : "Al Madina Almonoara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Al Madinah Province",
+               "short_name" : "Al Madinah Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medina Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.6591863,
+                  "lng" : 39.861145
+               },
+               "southwest" : {
+                  "lat" : 24.2829585,
+                  "lng" : 39.37397
+               }
+            },
+            "location" : {
+               "lat" : 24.5246542,
+               "lng" : 39.5691841
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.6591863,
+                  "lng" : 39.861145
+               },
+               "southwest" : {
+                  "lat" : 24.2829585,
+                  "lng" : 39.37397
+               }
+            }
+         },
+         "place_id" : "ChIJ1SDSl1G-vRUR2Qg76k9RVC4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

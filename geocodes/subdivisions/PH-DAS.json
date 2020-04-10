@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Davao City",
+               "short_name" : "Davao City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Davao del Sur",
+               "short_name" : "Davao del Sur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Davao Region",
+               "short_name" : "Davao Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Davao City, Davao del Sur, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.568203699999999,
+                  "lng" : 125.6803201
+               },
+               "southwest" : {
+                  "lat" : 6.9385257,
+                  "lng" : 125.2218246
+               }
+            },
+            "location" : {
+               "lat" : 7.190708,
+               "lng" : 125.455341
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.568203699999999,
+                  "lng" : 125.6803201
+               },
+               "southwest" : {
+                  "lat" : 6.9385257,
+                  "lng" : 125.2218246
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfzKeUZ9t-TIRc8V5n1gkOrU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

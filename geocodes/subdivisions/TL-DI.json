@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dili",
+               "short_name" : "Dili",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dili",
+               "short_name" : "Dili",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dili, Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.5377256,
+                  "lng" : 125.6291083
+               },
+               "southwest" : {
+                  "lat" : -8.5751071,
+                  "lng" : 125.5107451
+               }
+            },
+            "location" : {
+               "lat" : -8.5568557,
+               "lng" : 125.5603143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.5377256,
+                  "lng" : 125.6291083
+               },
+               "southwest" : {
+                  "lat" : -8.5751071,
+                  "lng" : 125.5107451
+               }
+            }
+         },
+         "place_id" : "ChIJFYEoMg3nAS0R2RJpVOlunT0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

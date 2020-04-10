@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flevoland",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Flevoland, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8440468,
+                  "lng" : 6.011667099999999
+               },
+               "southwest" : {
+                  "lat" : 52.2526254,
+                  "lng" : 5.1213472
+               }
+            },
+            "location" : {
+               "lat" : 52.5279781,
+               "lng" : 5.595350799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8440468,
+                  "lng" : 6.011667099999999
+               },
+               "southwest" : {
+                  "lat" : 52.2526254,
+                  "lng" : 5.1213472
+               }
+            }
+         },
+         "place_id" : "ChIJ1xORtvImxkcR4SzuR8Lc-j8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

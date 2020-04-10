@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naogaon",
+               "short_name" : "Naogaon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naogaon District",
+               "short_name" : "Naogaon District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajshahi Division",
+               "short_name" : "Rajshahi Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naogaon, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.8411133,
+                  "lng" : 88.96831499999999
+               },
+               "southwest" : {
+                  "lat" : 24.7708371,
+                  "lng" : 88.906002
+               }
+            },
+            "location" : {
+               "lat" : 24.7936071,
+               "lng" : 88.93180819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.8411133,
+                  "lng" : 88.96831499999999
+               },
+               "southwest" : {
+                  "lat" : 24.7708371,
+                  "lng" : 88.906002
+               }
+            }
+         },
+         "place_id" : "ChIJhe6yPVZ7_DkR-7Q3A5XVzDA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

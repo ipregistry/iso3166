@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kayunga",
+               "short_name" : "Kayunga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kayunga",
+               "short_name" : "Kayunga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kayunga, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.7074843,
+                  "lng" : 32.9095459
+               },
+               "southwest" : {
+                  "lat" : 0.6945249,
+                  "lng" : 32.8980446
+               }
+            },
+            "location" : {
+               "lat" : 0.7013707,
+               "lng" : 32.9029088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.7074843,
+                  "lng" : 32.9095459
+               },
+               "southwest" : {
+                  "lat" : 0.6945249,
+                  "lng" : 32.8980446
+               }
+            }
+         },
+         "place_id" : "ChIJbWBT5FMjfBcRqP1QcxXiyeI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kiboga",
+               "short_name" : "Kiboga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyankwanzi",
+               "short_name" : "Kyankwanzi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kiboga, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.9379159,
+                  "lng" : 31.7912579
+               },
+               "southwest" : {
+                  "lat" : 0.8917448,
+                  "lng" : 31.7495441
+               }
+            },
+            "location" : {
+               "lat" : 0.9203834,
+               "lng" : 31.7708337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.9379159,
+                  "lng" : 31.7912579
+               },
+               "southwest" : {
+                  "lat" : 0.8917448,
+                  "lng" : 31.7495441
+               }
+            }
+         },
+         "place_id" : "ChIJZ8eI28mvfBcR9J8v1Wv5ekQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

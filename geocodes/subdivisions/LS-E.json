@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mafeteng",
+               "short_name" : "Mafeteng",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mafeteng",
+               "short_name" : "Mafeteng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lesotho",
+               "short_name" : "LS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mafeteng, Lesotho",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.7745098,
+                  "lng" : 27.2761774
+               },
+               "southwest" : {
+                  "lat" : -29.8478281,
+                  "lng" : 27.2053242
+               }
+            },
+            "location" : {
+               "lat" : -29.8224312,
+               "lng" : 27.2388161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.7745098,
+                  "lng" : 27.2761774
+               },
+               "southwest" : {
+                  "lat" : -29.8478281,
+                  "lng" : 27.2053242
+               }
+            }
+         },
+         "place_id" : "ChIJ47Z2EBEcjB4R3RknS5p_UE0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

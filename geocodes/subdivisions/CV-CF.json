@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Catarina do Fogo",
+               "short_name" : "Santa Catarina do Fogo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Catarina do Fogo, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.953275,
+                  "lng" : -24.2852229
+               },
+               "southwest" : {
+                  "lat" : 14.8923579,
+                  "lng" : -24.377847
+               }
+            },
+            "location" : {
+               "lat" : 14.9309104,
+               "lng" : -24.3222577
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.953275,
+                  "lng" : -24.2852229
+               },
+               "southwest" : {
+                  "lat" : 14.8923579,
+                  "lng" : -24.377847
+               }
+            }
+         },
+         "place_id" : "ChIJT3SE6dUPNgkRxkwJ303VsSc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

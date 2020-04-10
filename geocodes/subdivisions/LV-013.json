@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baldone",
+               "short_name" : "Baldone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baldones pilsēta",
+               "short_name" : "Baldones pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2125",
+               "short_name" : "2125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baldone, Baldones pilsēta, LV-2125, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.75413400000001,
+                  "lng" : 24.4416649
+               },
+               "southwest" : {
+                  "lat" : 56.7352129,
+                  "lng" : 24.3705171
+               }
+            },
+            "location" : {
+               "lat" : 56.7458379,
+               "lng" : 24.4061069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.75413400000001,
+                  "lng" : 24.4416649
+               },
+               "southwest" : {
+                  "lat" : 56.7352129,
+                  "lng" : 24.3705171
+               }
+            }
+         },
+         "place_id" : "ChIJVRtAVQ8p6UYRsB7zaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

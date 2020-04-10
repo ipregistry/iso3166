@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Varaždin County",
+               "short_name" : "Varaždin County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Varaždin County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4048343,
+                  "lng" : 16.7739716
+               },
+               "southwest" : {
+                  "lat" : 46.0103401,
+                  "lng" : 15.8765333
+               }
+            },
+            "location" : {
+               "lat" : 46.23174729999999,
+               "lng" : 16.3360559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4048343,
+                  "lng" : 16.7739716
+               },
+               "southwest" : {
+                  "lat" : 46.0103401,
+                  "lng" : 15.8765333
+               }
+            }
+         },
+         "place_id" : "ChIJT2DcICcBZkcRYLQrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

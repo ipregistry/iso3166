@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mauritania",
+               "short_name" : "MR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mauritania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3158916,
+                  "lng" : -4.833334799999999
+               },
+               "southwest" : {
+                  "lat" : 14.721273,
+                  "lng" : -17.0687276
+               }
+            },
+            "location" : {
+               "lat" : 21.00789,
+               "lng" : -10.940835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3158916,
+                  "lng" : -4.833334799999999
+               },
+               "southwest" : {
+                  "lat" : 14.721273,
+                  "lng" : -17.0687276
+               }
+            }
+         },
+         "place_id" : "ChIJTzmzFMO4gA4RTlO-1usLIoM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

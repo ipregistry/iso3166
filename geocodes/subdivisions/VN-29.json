@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quảng Ngãi",
+               "short_name" : "Quảng Ngãi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quang Ngai",
+               "short_name" : "Quang Ngai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quảng Ngãi, Quang Ngai, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.2162823,
+                  "lng" : 108.9242935
+               },
+               "southwest" : {
+                  "lat" : 15.0912675,
+                  "lng" : 108.7603999
+               }
+            },
+            "location" : {
+               "lat" : 15.1213873,
+               "lng" : 108.8044145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.2162823,
+                  "lng" : 108.9242935
+               },
+               "southwest" : {
+                  "lat" : 15.0912675,
+                  "lng" : 108.7603999
+               }
+            }
+         },
+         "place_id" : "ChIJOTlgic1SaDERw0JmWgNPVS4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

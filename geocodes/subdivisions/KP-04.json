@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chagang",
+               "short_name" : "Chagang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Korea",
+               "short_name" : "KP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chagang, North Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.807735,
+                  "lng" : 127.495489
+               },
+               "southwest" : {
+                  "lat" : 39.991374,
+                  "lng" : 125.4156571
+               }
+            },
+            "location" : {
+               "lat" : 40.7202809,
+               "lng" : 126.5621137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.807735,
+                  "lng" : 127.495489
+               },
+               "southwest" : {
+                  "lat" : 39.991374,
+                  "lng" : 125.4156571
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO9FvgPpMLV4R8LZwi9Ic_YA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

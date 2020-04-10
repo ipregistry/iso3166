@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Benguet",
+               "short_name" : "Benguet",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cordillera Administrative Region",
+               "short_name" : "CAR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Benguet, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.937207,
+                  "lng" : 120.9045209
+               },
+               "southwest" : {
+                  "lat" : 16.18299,
+                  "lng" : 120.467566
+               }
+            },
+            "location" : {
+               "lat" : 16.5577257,
+               "lng" : 120.8039474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.937207,
+                  "lng" : 120.9045209
+               },
+               "southwest" : {
+                  "lat" : 16.18299,
+                  "lng" : 120.467566
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ26IUCuq7kTMRwQ4qL7ft9Dw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New South Wales, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.15702,
+                  "lng" : 159.1054441
+               },
+               "southwest" : {
+                  "lat" : -37.5052801,
+                  "lng" : 140.9992793
+               }
+            },
+            "location" : {
+               "lat" : -31.2532183,
+               "lng" : 146.921099
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.15702,
+                  "lng" : 159.1054441
+               },
+               "southwest" : {
+                  "lat" : -37.5052801,
+                  "lng" : 140.9992793
+               }
+            }
+         },
+         "place_id" : "ChIJDUte93TLDWsRLZ_EIhGvgBc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

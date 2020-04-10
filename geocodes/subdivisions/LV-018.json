@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brocēni",
+               "short_name" : "Brocēni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brocēnu pilsēta",
+               "short_name" : "Brocēnu pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3851",
+               "short_name" : "3851",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brocēni, Brocēnu pilsēta, LV-3851, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.7005147,
+                  "lng" : 22.6024658
+               },
+               "southwest" : {
+                  "lat" : 56.65386179999999,
+                  "lng" : 22.543837
+               }
+            },
+            "location" : {
+               "lat" : 56.673312,
+               "lng" : 22.574388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.7005147,
+                  "lng" : 22.6024658
+               },
+               "southwest" : {
+                  "lat" : 56.65386179999999,
+                  "lng" : 22.543837
+               }
+            }
+         },
+         "place_id" : "ChIJQ9GlHmui70YRfykKkQ-c4D0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

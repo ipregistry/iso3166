@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erbil",
+               "short_name" : "Erbil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erbil",
+               "short_name" : "Erbil",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kurdistan Region",
+               "short_name" : "Kurdistan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erbil, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.2661445,
+                  "lng" : 44.10179610000001
+               },
+               "southwest" : {
+                  "lat" : 36.1284471,
+                  "lng" : 43.91613
+               }
+            },
+            "location" : {
+               "lat" : 36.190073,
+               "lng" : 43.9930303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2661445,
+                  "lng" : 44.10179610000001
+               },
+               "southwest" : {
+                  "lat" : 36.1284471,
+                  "lng" : 43.91613
+               }
+            }
+         },
+         "place_id" : "ChIJYTREE_4iB0AR0XnekTPWAT4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

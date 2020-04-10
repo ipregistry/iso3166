@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ardabil",
+               "short_name" : "Ardabil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ardabil Province",
+               "short_name" : "Ardabil Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ardabil, Ardabil Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3550081,
+                  "lng" : 48.4719989
+               },
+               "southwest" : {
+                  "lat" : 38.17842570000001,
+                  "lng" : 48.2100678
+               }
+            },
+            "location" : {
+               "lat" : 38.2537363,
+               "lng" : 48.2999901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3550081,
+                  "lng" : 48.4719989
+               },
+               "southwest" : {
+                  "lat" : 38.17842570000001,
+                  "lng" : 48.2100678
+               }
+            }
+         },
+         "place_id" : "ChIJqdzJ_Z-XGEARunzYLwRefr4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sơn La",
+               "short_name" : "Sơn La",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Son La",
+               "short_name" : "Son La",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sơn La, Son La, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.4441991,
+                  "lng" : 104.028308
+               },
+               "southwest" : {
+                  "lat" : 21.2450129,
+                  "lng" : 103.802525
+               }
+            },
+            "location" : {
+               "lat" : 21.3269024,
+               "lng" : 103.9143869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.4441991,
+                  "lng" : 104.028308
+               },
+               "southwest" : {
+                  "lat" : 21.2450129,
+                  "lng" : 103.802525
+               }
+            }
+         },
+         "place_id" : "ChIJTbbYECyLMjEROgciaCa5-E4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

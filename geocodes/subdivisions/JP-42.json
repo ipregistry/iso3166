@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nagasaki",
+               "short_name" : "Nagasaki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nagasaki",
+               "short_name" : "Nagasaki",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nagasaki, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.968681,
+                  "lng" : 129.9938399
+               },
+               "southwest" : {
+                  "lat" : 32.548634,
+                  "lng" : 129.5409039
+               }
+            },
+            "location" : {
+               "lat" : 32.7503334,
+               "lng" : 129.8778888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.968681,
+                  "lng" : 129.9938399
+               },
+               "southwest" : {
+                  "lat" : 32.548634,
+                  "lng" : 129.5409039
+               }
+            }
+         },
+         "place_id" : "ChIJZ9oYhFRMFTURk8wyyu2m94s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

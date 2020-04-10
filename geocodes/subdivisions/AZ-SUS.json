@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shusha",
+               "short_name" : "Shusha",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Shusha",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7725926,
+                  "lng" : 46.765623
+               },
+               "southwest" : {
+                  "lat" : 39.7456061,
+                  "lng" : 46.7307758
+               }
+            },
+            "location" : {
+               "lat" : 39.7537438,
+               "lng" : 46.7464755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7725926,
+                  "lng" : 46.765623
+               },
+               "southwest" : {
+                  "lat" : 39.7456061,
+                  "lng" : 46.7307758
+               }
+            }
+         },
+         "place_id" : "ChIJYWhP2_t5PkARtcwUTq8RwZg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

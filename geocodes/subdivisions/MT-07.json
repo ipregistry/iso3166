@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ħad-Dingli",
+               "short_name" : "Ħad-Dingli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ħad-Dingli, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8726379,
+                  "lng" : 14.3980764
+               },
+               "southwest" : {
+                  "lat" : 35.8457521,
+                  "lng" : 14.3597745
+               }
+            },
+            "location" : {
+               "lat" : 35.8627309,
+               "lng" : 14.3850107
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8726379,
+                  "lng" : 14.3980764
+               },
+               "southwest" : {
+                  "lat" : 35.8457521,
+                  "lng" : 14.3597745
+               }
+            }
+         },
+         "place_id" : "ChIJw1YYaH5RDhMRp33_gyB-M4I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

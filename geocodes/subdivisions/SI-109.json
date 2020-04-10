@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Semič",
+               "short_name" : "Semič",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Semič",
+               "short_name" : "Semič",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Črnomelj",
+               "short_name" : "Črnomelj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8333",
+               "short_name" : "8333",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8333 Semič, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.668519,
+                  "lng" : 15.2062962
+               },
+               "southwest" : {
+                  "lat" : 45.62551999999999,
+                  "lng" : 15.1472437
+               }
+            },
+            "location" : {
+               "lat" : 45.6520534,
+               "lng" : 15.1820701
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.668519,
+                  "lng" : 15.2062962
+               },
+               "southwest" : {
+                  "lat" : 45.62551999999999,
+                  "lng" : 15.1472437
+               }
+            }
+         },
+         "place_id" : "ChIJZ3fYnOdZZEcRBaJR8FYnXFo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

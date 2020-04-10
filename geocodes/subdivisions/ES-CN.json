@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canary Islands",
+               "short_name" : "CN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canary Islands, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4165069,
+                  "lng" : -13.3336473
+               },
+               "southwest" : {
+                  "lat" : 27.6377894,
+                  "lng" : -18.1612216
+               }
+            },
+            "location" : {
+               "lat" : 28.2915637,
+               "lng" : -16.6291304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.463514,
+                  "lng" : -13.31543
+               },
+               "southwest" : {
+                  "lat" : 27.425414,
+                  "lng" : -18.391113
+               }
+            }
+         },
+         "place_id" : "ChIJY1N174aqQQwRwMhLvvNAAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

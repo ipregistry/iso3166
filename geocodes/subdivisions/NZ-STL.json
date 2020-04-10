@@ -1,0 +1,56 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southland",
+               "short_name" : "Southland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southland, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -44.2552749,
+                  "lng" : 169.256336
+               },
+               "southwest" : {
+                  "lat" : -48.0195079,
+                  "lng" : 166.4197241
+               }
+            },
+            "location" : {
+               "lat" : -45.92950219999999,
+               "lng" : 168.4378583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -44.2552749,
+                  "lng" : 169.256336
+               },
+               "southwest" : {
+                  "lat" : -48.0195079,
+                  "lng" : 166.4197241
+               }
+            }
+         },
+         "place_id" : "ChIJzbQ_BcVz1KkRIhhERwwn9VU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+         "place_id" : "ChIJG9V-zmHR0qkRQMd5hIbvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

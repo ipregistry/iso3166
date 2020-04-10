@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Cape",
+               "short_name" : "WC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Cape, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.4302599,
+                  "lng" : 38.2216904
+               },
+               "southwest" : {
+                  "lat" : -47.1313489,
+                  "lng" : 17.7575637
+               }
+            },
+            "location" : {
+               "lat" : -33.2277918,
+               "lng" : 21.8568586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.4302599,
+                  "lng" : 38.2216904
+               },
+               "southwest" : {
+                  "lat" : -47.1313489,
+                  "lng" : 17.7575637
+               }
+            }
+         },
+         "place_id" : "ChIJ841peohdzB0Ri6I2IY95juk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+    }
+   ],
+   "status" : "OK"
+}

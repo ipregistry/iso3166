@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Bayadh",
+               "short_name" : "El Bayadh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Bayadh",
+               "short_name" : "El Bayadh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "El Bayadh Province",
+               "short_name" : "El Bayadh Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Bayadh, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7912949,
+                  "lng" : 1.1748289
+               },
+               "southwest" : {
+                  "lat" : 33.4881689,
+                  "lng" : 0.8477498999999999
+               }
+            },
+            "location" : {
+               "lat" : 33.6854149,
+               "lng" : 1.0303543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7912949,
+                  "lng" : 1.1748289
+               },
+               "southwest" : {
+                  "lat" : 33.4881689,
+                  "lng" : 0.8477498999999999
+               }
+            }
+         },
+         "place_id" : "ChIJB8iJy9COfhIRX0oGREtWwQo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

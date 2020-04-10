@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viterbo",
+               "short_name" : "Viterbo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viterbo",
+               "short_name" : "Viterbo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Viterbo",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01100",
+               "short_name" : "01100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "01100 Viterbo, VT, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4405429,
+                  "lng" : 12.1411634
+               },
+               "southwest" : {
+                  "lat" : 42.4044656,
+                  "lng" : 12.0796173
+               }
+            },
+            "location" : {
+               "lat" : 42.4206766,
+               "lng" : 12.107669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4405429,
+                  "lng" : 12.1411634
+               },
+               "southwest" : {
+                  "lat" : 42.4044656,
+                  "lng" : 12.0796173
+               }
+            }
+         },
+         "place_id" : "ChIJz98ipvksLxMRQ2tvPJVVArU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

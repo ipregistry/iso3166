@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vargas",
+               "short_name" : "Edo. Vargas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vargas",
+               "short_name" : "Vargas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vargas, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.6321639,
+                  "lng" : -66.30941299999999
+               },
+               "southwest" : {
+                  "lat" : 10.3914519,
+                  "lng" : -67.412802
+               }
+            },
+            "location" : {
+               "lat" : 10.5890015,
+               "lng" : -66.7367345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.6321639,
+                  "lng" : -66.30941299999999
+               },
+               "southwest" : {
+                  "lat" : 10.3914519,
+                  "lng" : -67.412802
+               }
+            }
+         },
+         "place_id" : "ChIJfShfU5xZKowROAYy9-02LZo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

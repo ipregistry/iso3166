@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deir ez-Zur",
+               "short_name" : "Deir ez-Zur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Deir ez-Zor District",
+               "short_name" : "Deir ez-Zor District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Deir Ez-Zor Governorate",
+               "short_name" : "Deir Ez-Zor Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Deir ez-Zur, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3734271,
+                  "lng" : 40.1946509
+               },
+               "southwest" : {
+                  "lat" : 35.2968173,
+                  "lng" : 40.0813007
+               }
+            },
+            "location" : {
+               "lat" : 35.3296518,
+               "lng" : 40.1350341
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3734271,
+                  "lng" : 40.1946509
+               },
+               "southwest" : {
+                  "lat" : 35.2968173,
+                  "lng" : 40.0813007
+               }
+            }
+         },
+         "place_id" : "ChIJYbfdrvQXSBURTzeB6VidvEw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

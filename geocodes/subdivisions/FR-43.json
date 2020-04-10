@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haute-Loire",
+               "short_name" : "Haute-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haute-Loire, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.42760879999999,
+                  "lng" : 4.490819
+               },
+               "southwest" : {
+                  "lat" : 44.743961,
+                  "lng" : 3.082197
+               }
+            },
+            "location" : {
+               "lat" : 45.0821226,
+               "lng" : 3.9266366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42760879999999,
+                  "lng" : 4.490819
+               },
+               "southwest" : {
+                  "lat" : 44.743961,
+                  "lng" : 3.082197
+               }
+            }
+         },
+         "place_id" : "ChIJZ2H42zT99UcRMCjjy688CQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

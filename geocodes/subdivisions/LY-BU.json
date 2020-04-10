@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Butnan District",
+               "short_name" : "Butnan District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Butnan District, Libya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.220142,
+                  "lng" : 25.15062
+               },
+               "southwest" : {
+                  "lat" : 27.971698,
+                  "lng" : 23.0024879
+               }
+            },
+            "location" : {
+               "lat" : 29.7579854,
+               "lng" : 23.7632828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.220142,
+                  "lng" : 25.15062
+               },
+               "southwest" : {
+                  "lat" : 27.971698,
+                  "lng" : 23.0024879
+               }
+            }
+         },
+         "place_id" : "ChIJhzoaEPJheRQRs0BCvDS7Yj4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

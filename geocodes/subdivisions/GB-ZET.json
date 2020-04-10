@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shetland Islands",
+               "short_name" : "Shetland Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shetland Islands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.86076139999999,
+                  "lng" : -0.7245321
+               },
+               "southwest" : {
+                  "lat" : 59.5068114,
+                  "lng" : -2.1175288
+               }
+            },
+            "location" : {
+               "lat" : 60.5296507,
+               "lng" : -1.2659409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.86076139999999,
+                  "lng" : -0.7245321
+               },
+               "southwest" : {
+                  "lat" : 59.5068114,
+                  "lng" : -2.1175288
+               }
+            }
+         },
+         "place_id" : "ChIJz8MDaGgUnEgRf1XLFSWaY9M",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

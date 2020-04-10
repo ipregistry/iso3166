@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sevastopol",
+               "short_name" : "Sevastopol",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Sevastopol",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8413161,
+                  "lng" : 33.897497
+               },
+               "southwest" : {
+                  "lat" : 44.387115,
+                  "lng" : 33.3785441
+               }
+            },
+            "location" : {
+               "lat" : 44.61665,
+               "lng" : 33.5253671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8413161,
+                  "lng" : 33.897497
+               },
+               "southwest" : {
+                  "lat" : 44.387115,
+                  "lng" : 33.3785441
+               }
+            }
+         },
+         "place_id" : "ChIJ9USRZe8llUARzDRN_6-nLb0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

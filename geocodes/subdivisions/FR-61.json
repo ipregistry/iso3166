@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orne",
+               "short_name" : "Orne",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Normandy",
+               "short_name" : "Normandy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.2686783,
+                  "lng" : 0.1698052
+               },
+               "southwest" : {
+                  "lat" : 48.5986795,
+                  "lng" : -0.5179519
+               }
+            },
+            "location" : {
+               "lat" : 48.8466299,
+               "lng" : -0.3584331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2686783,
+                  "lng" : 0.1698052
+               },
+               "southwest" : {
+                  "lat" : 48.5986795,
+                  "lng" : -0.5179519
+               }
+            }
+         },
+         "place_id" : "ChIJb5b1Y2M5CkgR1enYUMfXhiA",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

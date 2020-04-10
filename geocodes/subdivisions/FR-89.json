@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yonne",
+               "short_name" : "Yonne",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yonne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4009568,
+                  "lng" : 4.032681999999999
+               },
+               "southwest" : {
+                  "lat" : 46.9491198,
+                  "lng" : 2.9490951
+               }
+            },
+            "location" : {
+               "lat" : 47.738782,
+               "lng" : 3.5912621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4009568,
+                  "lng" : 4.032681999999999
+               },
+               "southwest" : {
+                  "lat" : 46.9491198,
+                  "lng" : 2.9490951
+               }
+            }
+         },
+         "place_id" : "ChIJ76_u3pkH70cRpN65Qe1Wfog",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

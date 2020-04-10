@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Christmas Island",
+               "short_name" : "CX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6798",
+               "short_name" : "6798",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6798, Christmas Island",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.412352,
+                  "lng" : 105.7129382
+               },
+               "southwest" : {
+                  "lat" : -10.5703619,
+                  "lng" : 105.5333161
+               }
+            },
+            "location" : {
+               "lat" : -10.447525,
+               "lng" : 105.690449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.412352,
+                  "lng" : 105.7129382
+               },
+               "southwest" : {
+                  "lat" : -10.5703619,
+                  "lng" : 105.5333161
+               }
+            }
+         },
+         "place_id" : "ChIJz6fA4yea9S4RFup1BAnW5xU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

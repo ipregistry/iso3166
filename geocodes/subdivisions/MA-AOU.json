@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Awsard",
+               "short_name" : "Awsard",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Awsard",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5593402,
+                  "lng" : -14.3151426
+               },
+               "southwest" : {
+                  "lat" : 22.5377291,
+                  "lng" : -14.3454677
+               }
+            },
+            "location" : {
+               "lat" : 22.5521538,
+               "lng" : -14.3297353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5593402,
+                  "lng" : -14.3151426
+               },
+               "southwest" : {
+                  "lat" : 22.5377291,
+                  "lng" : -14.3454677
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKyUIvM8HJwwRgUn7CnSrc6g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

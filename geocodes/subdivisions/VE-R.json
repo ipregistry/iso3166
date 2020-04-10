@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sucre",
+               "short_name" : "Sucre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sucre",
+               "short_name" : "Sucre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6101",
+               "short_name" : "6101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sucre, 6101, Sucre, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.480015,
+                  "lng" : -64.00918109999999
+               },
+               "southwest" : {
+                  "lat" : 10.0611501,
+                  "lng" : -64.5306399
+               }
+            },
+            "location" : {
+               "lat" : 10.2783586,
+               "lng" : -64.19514789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.480015,
+                  "lng" : -64.00918109999999
+               },
+               "southwest" : {
+                  "lat" : 10.0611501,
+                  "lng" : -64.5306399
+               }
+            }
+         },
+         "place_id" : "ChIJZSfs0QJ-MowRK3BszjKZedU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

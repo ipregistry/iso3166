@@ -1,0 +1,38 @@
+{
+   "results" : [
+      {
+         "address_components" : [],
+         "formatted_address" : "Abkhazia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.586627,
+                  "lng" : 42.149976
+               },
+               "southwest" : {
+                  "lat" : 42.3905724,
+                  "lng" : 40.0075856
+               }
+            },
+            "location" : {
+               "lat" : 43.0015544,
+               "lng" : 41.023407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.586627,
+                  "lng" : 42.149976
+               },
+               "southwest" : {
+                  "lat" : 42.3905724,
+                  "lng" : 40.0075856
+               }
+            }
+         },
+         "place_id" : "ChIJ_0KkE08vX0ARb5qYJeZSSJM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

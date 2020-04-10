@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Takhar",
+               "short_name" : "Takhar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Takhar, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.62126,
+                  "lng" : 70.4998339
+               },
+               "southwest" : {
+                  "lat" : 35.785804,
+                  "lng" : 69.1752951
+               }
+            },
+            "location" : {
+               "lat" : 36.6698013,
+               "lng" : 69.47845409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.62126,
+                  "lng" : 70.4998339
+               },
+               "southwest" : {
+                  "lat" : 35.785804,
+                  "lng" : 69.1752951
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW2nqHxvRzjgR-2IgrlsPjKM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamboanga",
+               "short_name" : "Zamboanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zamboanga Peninsula",
+               "short_name" : "Zamboanga Peninsula",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamboanga, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.470389699999999,
+                  "lng" : 122.4069214
+               },
+               "southwest" : {
+                  "lat" : 6.8543385,
+                  "lng" : 121.8949413
+               }
+            },
+            "location" : {
+               "lat" : 6.9214424,
+               "lng" : 122.0790267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.470389699999999,
+                  "lng" : 122.4069214
+               },
+               "southwest" : {
+                  "lat" : 6.8543385,
+                  "lng" : 121.8949413
+               }
+            }
+         },
+         "place_id" : "ChIJdcFv2QlqUDIRoucBzrtuUjU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

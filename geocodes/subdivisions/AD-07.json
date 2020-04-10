@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andorra la Vella",
+               "short_name" : "Andorra la Vella",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Andorra la Vella",
+               "short_name" : "Andorra la Vella",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Andorra",
+               "short_name" : "AD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AD500",
+               "short_name" : "AD500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AD500 Andorra la Vella, Andorra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.513564,
+                  "lng" : 1.5353385
+               },
+               "southwest" : {
+                  "lat" : 42.4966062,
+                  "lng" : 1.5053926
+               }
+            },
+            "location" : {
+               "lat" : 42.50631740000001,
+               "lng" : 1.5218355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.513564,
+                  "lng" : 1.5353385
+               },
+               "southwest" : {
+                  "lat" : 42.4966062,
+                  "lng" : 1.5053926
+               }
+            }
+         },
+         "place_id" : "ChIJC_slSiv1pRIRgHKZkXCUAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

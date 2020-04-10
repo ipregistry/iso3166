@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trujillo",
+               "short_name" : "Trujillo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipio Trujillo",
+               "short_name" : "Municipio Trujillo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trujillo",
+               "short_name" : "Trujillo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3150",
+               "short_name" : "3150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Trujillo 3150, Trujillo, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.398062699999999,
+                  "lng" : -70.4230498
+               },
+               "southwest" : {
+                  "lat" : 9.3437211,
+                  "lng" : -70.4553008
+               }
+            },
+            "location" : {
+               "lat" : 9.356449699999999,
+               "lng" : -70.43724039999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.398062699999999,
+                  "lng" : -70.4230498
+               },
+               "southwest" : {
+                  "lat" : 9.3437211,
+                  "lng" : -70.4553008
+               }
+            }
+         },
+         "place_id" : "ChIJYXDb3izVYo4RKUNi5G_xVNk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

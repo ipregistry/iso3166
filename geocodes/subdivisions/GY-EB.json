@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Berbice-Corentyne",
+               "short_name" : "East Berbice-Corentyne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guyana",
+               "short_name" : "GY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Berbice-Corentyne, Guyana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.3251509,
+                  "lng" : -56.48025089999999
+               },
+               "southwest" : {
+                  "lat" : 1.452054,
+                  "lng" : -58.518758
+               }
+            },
+            "location" : {
+               "lat" : 2.7477922,
+               "lng" : -57.4627259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.3251509,
+                  "lng" : -56.48025089999999
+               },
+               "southwest" : {
+                  "lat" : 1.452054,
+                  "lng" : -58.518758
+               }
+            }
+         },
+         "place_id" : "ChIJVWHamOmdmY0RH2XadDks9sM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

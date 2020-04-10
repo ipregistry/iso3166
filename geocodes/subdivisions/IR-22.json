@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Markazi Province",
+               "short_name" : "Markazi Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Markazi Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.710403,
+                  "lng" : 51.0862229
+               },
+               "southwest" : {
+                  "lat" : 33.5383001,
+                  "lng" : 48.889122
+               }
+            },
+            "location" : {
+               "lat" : 34.612305,
+               "lng" : 49.8547266
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.710403,
+                  "lng" : 51.0862229
+               },
+               "southwest" : {
+                  "lat" : 33.5383001,
+                  "lng" : 48.889122
+               }
+            }
+         },
+         "place_id" : "ChIJnzA8iFmV7D8RrPEircdYlI4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cuanza Sul Province",
+               "short_name" : "Cuanza Sul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Angola",
+               "short_name" : "AO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cuanza Sul Province, Angola",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.677205100000002,
+                  "lng" : 16.608688
+               },
+               "southwest" : {
+                  "lat" : -12.206982,
+                  "lng" : 13.499305
+               }
+            },
+            "location" : {
+               "lat" : -10.595191,
+               "lng" : 15.4068079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.677205100000002,
+                  "lng" : 16.608688
+               },
+               "southwest" : {
+                  "lat" : -12.206982,
+                  "lng" : 13.499305
+               }
+            }
+         },
+         "place_id" : "ChIJm13pGRGXshsRwiRyhDUK97Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

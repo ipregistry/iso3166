@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pas-de-Calais",
+               "short_name" : "Pas-de-Calais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hauts-de-France",
+               "short_name" : "Hauts-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pas-de-Calais, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0067741,
+                  "lng" : 3.1881861
+               },
+               "southwest" : {
+                  "lat" : 50.01976,
+                  "lng" : 1.555598
+               }
+            },
+            "location" : {
+               "lat" : 50.5732769,
+               "lng" : 2.3244679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0067741,
+                  "lng" : 3.1881861
+               },
+               "southwest" : {
+                  "lat" : 50.01976,
+                  "lng" : 1.555598
+               }
+            }
+         },
+         "place_id" : "ChIJ9yrxmAsF3UcRYClhgT7xCgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

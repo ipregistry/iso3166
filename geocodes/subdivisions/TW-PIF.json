@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pingtung City",
+               "short_name" : "Pingtung City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pingtung County",
+               "short_name" : "Pingtung County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "900",
+               "short_name" : "900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pingtung City, Pingtung County, Taiwan 900",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7138286,
+                  "lng" : 120.5285221
+               },
+               "southwest" : {
+                  "lat" : 22.6188264,
+                  "lng" : 120.4353185
+               }
+            },
+            "location" : {
+               "lat" : 22.6558442,
+               "lng" : 120.4703258
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7138286,
+                  "lng" : 120.5285221
+               },
+               "southwest" : {
+                  "lat" : 22.6188264,
+                  "lng" : 120.4353185
+               }
+            }
+         },
+         "place_id" : "ChIJ5aXLKYAXbjQRHYCsJVcAPsk",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

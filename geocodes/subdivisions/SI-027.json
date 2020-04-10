@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorenja Vas",
+               "short_name" : "Gorenja Vas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorenja vas",
+               "short_name" : "Gorenja vas",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Škofja Loka",
+               "short_name" : "Škofja Loka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4224",
+               "short_name" : "4224",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4224 Gorenja Vas, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.119981,
+                  "lng" : 14.1590718
+               },
+               "southwest" : {
+                  "lat" : 46.0877139,
+                  "lng" : 14.1172925
+               }
+            },
+            "location" : {
+               "lat" : 46.1057691,
+               "lng" : 14.1437462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.119981,
+                  "lng" : 14.1590718
+               },
+               "southwest" : {
+                  "lat" : 46.0877139,
+                  "lng" : 14.1172925
+               }
+            }
+         },
+         "place_id" : "ChIJlYksdizDekcRhLNZAFWbmDY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Athos",
+               "short_name" : "Mount Athos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mount Athos",
+               "short_name" : "Mount Athos",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mount Athos, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4516712,
+                  "lng" : 24.3991418
+               },
+               "southwest" : {
+                  "lat" : 40.11453119999999,
+                  "lng" : 23.9930154
+               }
+            },
+            "location" : {
+               "lat" : 40.2644928,
+               "lng" : 24.2152731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4516712,
+                  "lng" : 24.3991418
+               },
+               "southwest" : {
+                  "lat" : 40.11453119999999,
+                  "lng" : 23.9930154
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ84zY0QU1rxQRgZL_MrXK23w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

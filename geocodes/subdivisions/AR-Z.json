@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz Province",
+               "short_name" : "Santa Cruz Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -45.9915403,
+                  "lng" : -65.7171603
+               },
+               "southwest" : {
+                  "lat" : -52.3967385,
+                  "lng" : -73.553393
+               }
+            },
+            "location" : {
+               "lat" : -51.6352821,
+               "lng" : -69.24743529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -45.9915403,
+                  "lng" : -65.7171603
+               },
+               "southwest" : {
+                  "lat" : -52.3967385,
+                  "lng" : -73.553393
+               }
+            }
+         },
+         "place_id" : "ChIJX1N_w_37tr0RfCPI_XcNueQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

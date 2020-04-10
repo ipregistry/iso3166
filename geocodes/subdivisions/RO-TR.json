@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Teleorman River",
+               "short_name" : "Teleorman River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Teleorman County",
+               "short_name" : "TR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Teleorman River, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3098793,
+                  "lng" : 25.4974129
+               },
+               "southwest" : {
+                  "lat" : 43.8463897,
+                  "lng" : 25.1799642
+               }
+            },
+            "location" : {
+               "lat" : 44.0777048,
+               "lng" : 25.339644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3098793,
+                  "lng" : 25.4974129
+               },
+               "southwest" : {
+                  "lat" : 43.8463897,
+                  "lng" : 25.1799642
+               }
+            }
+         },
+         "place_id" : "ChIJPxQ3GqXIrUAR7EUTLfDzXK8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

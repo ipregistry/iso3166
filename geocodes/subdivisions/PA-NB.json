@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ngäbe-Buglé Comarca",
+               "short_name" : "Ngäbe-Buglé Comarca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Panama",
+               "short_name" : "PA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ngäbe-Buglé Comarca, Panama",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.18726,
+                  "lng" : -81.13815319999999
+               },
+               "southwest" : {
+                  "lat" : 8.2565271,
+                  "lng" : -82.44570899999999
+               }
+            },
+            "location" : {
+               "lat" : 8.6595833,
+               "lng" : -81.77870209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.18726,
+                  "lng" : -81.13815319999999
+               },
+               "southwest" : {
+                  "lat" : 8.2565271,
+                  "lng" : -82.44570899999999
+               }
+            }
+         },
+         "place_id" : "ChIJV92RcynVqI8RdK1oAFq6Z8U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

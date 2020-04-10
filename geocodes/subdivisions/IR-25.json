@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yazd",
+               "short_name" : "Yazd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yazd Province",
+               "short_name" : "Yazd Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yazd, Yazd Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9654157,
+                  "lng" : 54.4530487
+               },
+               "southwest" : {
+                  "lat" : 31.7937011,
+                  "lng" : 54.2204856
+               }
+            },
+            "location" : {
+               "lat" : 31.8974232,
+               "lng" : 54.3568562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9654157,
+                  "lng" : 54.4530487
+               },
+               "southwest" : {
+                  "lat" : 31.7937011,
+                  "lng" : 54.2204856
+               }
+            }
+         },
+         "place_id" : "ChIJkSpbA5MZpj8RDKHU152hkl0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

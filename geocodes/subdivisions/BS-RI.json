@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ragged Island",
+               "short_name" : "Ragged Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Ragged Island",
+               "short_name" : "Ragged Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ragged Island, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2313761,
+                  "lng" : -75.7100789
+               },
+               "southwest" : {
+                  "lat" : 22.169658,
+                  "lng" : -75.7536111
+               }
+            },
+            "location" : {
+               "lat" : 22.1908067,
+               "lng" : -75.7342416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2313761,
+                  "lng" : -75.7100789
+               },
+               "southwest" : {
+                  "lat" : 22.169658,
+                  "lng" : -75.7536111
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs1KdtRPYMokR9ecIXRQKBZw",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kırklareli",
+               "short_name" : "Kırklareli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kırklareli Merkez",
+               "short_name" : "Kırklareli Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kırklareli",
+               "short_name" : "Kırklareli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kırklareli, Kırklareli Merkez/Kırklareli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7603771,
+                  "lng" : 27.244107
+               },
+               "southwest" : {
+                  "lat" : 41.712183,
+                  "lng" : 27.191653
+               }
+            },
+            "location" : {
+               "lat" : 41.735472,
+               "lng" : 27.224369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7603771,
+                  "lng" : 27.244107
+               },
+               "southwest" : {
+                  "lat" : 41.712183,
+                  "lng" : 27.191653
+               }
+            }
+         },
+         "place_id" : "ChIJvXj4121Tp0ARpoPVttOcTiw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lacs District",
+               "short_name" : "Lacs District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Côte d'Ivoire",
+               "short_name" : "CI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lacs District, Côte d'Ivoire",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.0401179,
+                  "lng" : -3.5027291
+               },
+               "southwest" : {
+                  "lat" : 6.168739,
+                  "lng" : -5.674431999999999
+               }
+            },
+            "location" : {
+               "lat" : 6.899194400000001,
+               "lng" : -4.5624426
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.0401179,
+                  "lng" : -3.5027291
+               },
+               "southwest" : {
+                  "lat" : 6.168739,
+                  "lng" : -5.674431999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF_7w0_yUxw8RcaATC2uGfvs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

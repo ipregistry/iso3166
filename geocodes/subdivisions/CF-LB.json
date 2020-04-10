@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lobaye River",
+               "short_name" : "Lobaye River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Lobaye",
+               "short_name" : "Lobaye",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Central African Republic",
+               "short_name" : "CF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lobaye River, Central African Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.4630768,
+                  "lng" : 18.6175626
+               },
+               "southwest" : {
+                  "lat" : 3.594568999999999,
+                  "lng" : 16.9830865
+               }
+            },
+            "location" : {
+               "lat" : 3.7890633,
+               "lng" : 17.8354454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.4630768,
+                  "lng" : 18.6175626
+               },
+               "southwest" : {
+                  "lat" : 3.594568999999999,
+                  "lng" : 16.9830865
+               }
+            }
+         },
+         "place_id" : "ChIJM-o5O1CNvhARHZMMbkk37a8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

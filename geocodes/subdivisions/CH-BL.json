@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basel-Landschaft",
+               "short_name" : "BL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Basel-Landschaft, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.56441,
+                  "lng" : 7.9618001
+               },
+               "southwest" : {
+                  "lat" : 47.33792,
+                  "lng" : 7.32527
+               }
+            },
+            "location" : {
+               "lat" : 47.44181220000001,
+               "lng" : 7.7644002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.56441,
+                  "lng" : 7.9618001
+               },
+               "southwest" : {
+                  "lat" : 47.33792,
+                  "lng" : 7.32527
+               }
+            }
+         },
+         "place_id" : "ChIJNQdrO_i1kUcRE3lb88jFOqw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

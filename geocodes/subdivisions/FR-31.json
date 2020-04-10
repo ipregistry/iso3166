@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haute-Garonne",
+               "short_name" : "Haute-Garonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Occitanie",
+               "short_name" : "Occitanie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haute-Garonne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.92153099999999,
+                  "lng" : 2.048299
+               },
+               "southwest" : {
+                  "lat" : 42.6893299,
+                  "lng" : 0.4416861
+               }
+            },
+            "location" : {
+               "lat" : 43.4010462,
+               "lng" : 1.135302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.92153099999999,
+                  "lng" : 2.048299
+               },
+               "southwest" : {
+                  "lat" : 42.6893299,
+                  "lng" : 0.4416861
+               }
+            }
+         },
+         "place_id" : "ChIJ8Y_ojIzSrhIRcCc7L5z2BgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

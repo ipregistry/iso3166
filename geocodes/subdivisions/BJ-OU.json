@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ouémé Department",
+               "short_name" : "Ouémé Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Benin",
+               "short_name" : "BJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ouémé Department, Benin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.99444,
+                  "lng" : 2.742933
+               },
+               "southwest" : {
+                  "lat" : 6.3519469,
+                  "lng" : 2.3608521
+               }
+            },
+            "location" : {
+               "lat" : 6.6148152,
+               "lng" : 2.4999918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.99444,
+                  "lng" : 2.742933
+               },
+               "southwest" : {
+                  "lat" : 6.3519469,
+                  "lng" : 2.3608521
+               }
+            }
+         },
+         "place_id" : "ChIJo2dXruJIOxAR9ddT7MA6NVs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

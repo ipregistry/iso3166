@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Anbar Governorate",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Anbar Governorate, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.1012211,
+                  "lng" : 44.307257
+               },
+               "southwest" : {
+                  "lat" : 30.5916904,
+                  "lng" : 38.7958871
+               }
+            },
+            "location" : {
+               "lat" : 32.5597614,
+               "lng" : 41.9196471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.1012211,
+                  "lng" : 44.307257
+               },
+               "southwest" : {
+                  "lat" : 30.5916904,
+                  "lng" : 38.7958871
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3wjG1Ku_QxURvPyAOxGzELo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Area",
+               "short_name" : "Western Area",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sierra Leone",
+               "short_name" : "SL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Area, Sierra Leone",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.499787,
+                  "lng" : -12.898133
+               },
+               "southwest" : {
+                  "lat" : 8.096292999999999,
+                  "lng" : -13.2986299
+               }
+            },
+            "location" : {
+               "lat" : 8.3114983,
+               "lng" : -13.035694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.499787,
+                  "lng" : -12.898133
+               },
+               "southwest" : {
+                  "lat" : 8.096292999999999,
+                  "lng" : -13.2986299
+               }
+            }
+         },
+         "place_id" : "ChIJT1PK_a7DBA8RS-ThQBzQ2Gs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

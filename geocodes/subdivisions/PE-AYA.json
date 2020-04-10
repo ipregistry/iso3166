@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ayacucho",
+               "short_name" : "Ayacucho",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huamanga",
+               "short_name" : "Huamanga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ayacucho",
+               "short_name" : "Ayacucho",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ayacucho, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.1192574,
+                  "lng" : -74.18004379999999
+               },
+               "southwest" : {
+                  "lat" : -13.197473,
+                  "lng" : -74.2445644
+               }
+            },
+            "location" : {
+               "lat" : -13.1638737,
+               "lng" : -74.22356409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.1192574,
+                  "lng" : -74.18004379999999
+               },
+               "southwest" : {
+                  "lat" : -13.197473,
+                  "lng" : -74.2445644
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6b6y9Yh9EpERbqFwOoTLs-k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

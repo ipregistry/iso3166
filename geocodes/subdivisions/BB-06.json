@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Joseph",
+               "short_name" : "Saint Joseph",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Joseph, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.235171,
+                  "lng" : -59.51017799999999
+               },
+               "southwest" : {
+                  "lat" : 13.169218,
+                  "lng" : -59.575138
+               }
+            },
+            "location" : {
+               "lat" : 13.2005084,
+               "lng" : -59.53932349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.235171,
+                  "lng" : -59.51017799999999
+               },
+               "southwest" : {
+                  "lat" : 13.169218,
+                  "lng" : -59.575138
+               }
+            }
+         },
+         "place_id" : "ChIJYwBXM4TtQ4wR1IuKkNf_ExE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

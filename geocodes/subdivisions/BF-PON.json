@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poni",
+               "short_name" : "Poni",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sud-Ouest Region",
+               "short_name" : "Sud-Ouest Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poni, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.7633291,
+                  "lng" : -2.762533
+               },
+               "southwest" : {
+                  "lat" : 9.851626999999999,
+                  "lng" : -3.960880999999999
+               }
+            },
+            "location" : {
+               "lat" : 10.3325996,
+               "lng" : -3.3388917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.7633291,
+                  "lng" : -2.762533
+               },
+               "southwest" : {
+                  "lat" : 9.851626999999999,
+                  "lng" : -3.960880999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOYKUZ3rBzA8Rt3MMrRJ7Rc0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

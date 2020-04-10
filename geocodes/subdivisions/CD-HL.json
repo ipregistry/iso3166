@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haut-Lomami",
+               "short_name" : "Haut-Lomami",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Katanga",
+               "short_name" : "Katanga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haut-Lomami, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.1583048,
+                  "lng" : 27.918663
+               },
+               "southwest" : {
+                  "lat" : -10.1622085,
+                  "lng" : 23.5684205
+               }
+            },
+            "location" : {
+               "lat" : -7.705275199999999,
+               "lng" : 24.9042208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.1583048,
+                  "lng" : 27.918663
+               },
+               "southwest" : {
+                  "lat" : -10.1622085,
+                  "lng" : 23.5684205
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJZvkiL-lhBkRl4F7P8uQw9o",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

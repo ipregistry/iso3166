@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Logatec",
+               "short_name" : "Logatec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Logatec",
+               "short_name" : "Logatec",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Logatec, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9531231,
+                  "lng" : 14.2955564
+               },
+               "southwest" : {
+                  "lat" : 45.88443780000001,
+                  "lng" : 14.1717294
+               }
+            },
+            "location" : {
+               "lat" : 45.917611,
+               "lng" : 14.2351451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9531231,
+                  "lng" : 14.2955564
+               },
+               "southwest" : {
+                  "lat" : 45.88443780000001,
+                  "lng" : 14.1717294
+               }
+            }
+         },
+         "place_id" : "ChIJ9aRLqjAoe0cRvKiHD7vxUKg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

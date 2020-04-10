@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bago",
+               "short_name" : "Bago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bago",
+               "short_name" : "Bago",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bago Region",
+               "short_name" : "Bago Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bago, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3624761,
+                  "lng" : 96.51615849999999
+               },
+               "southwest" : {
+                  "lat" : 17.2299639,
+                  "lng" : 96.4299202
+               }
+            },
+            "location" : {
+               "lat" : 17.3220711,
+               "lng" : 96.4663286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3624761,
+                  "lng" : 96.51615849999999
+               },
+               "southwest" : {
+                  "lat" : 17.2299639,
+                  "lng" : 96.4299202
+               }
+            }
+         },
+         "place_id" : "ChIJQ-kIR7nWwzARMm8-jfl6q2U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jiangsu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.1245132,
+                  "lng" : 121.9751851
+               },
+               "southwest" : {
+                  "lat" : 30.7578404,
+                  "lng" : 116.3619603
+               }
+            },
+            "location" : {
+               "lat" : 33.1401715,
+               "lng" : 119.7889248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.1245132,
+                  "lng" : 121.9751851
+               },
+               "southwest" : {
+                  "lat" : 30.7578404,
+                  "lng" : 116.3619603
+               }
+            }
+         },
+         "place_id" : "ChIJRcJLMdoAtzURtVOFbLbqlI0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

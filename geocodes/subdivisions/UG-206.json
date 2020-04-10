@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kapchorwa",
+               "short_name" : "Kapchorwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kapchorwa",
+               "short_name" : "Kapchorwa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kapchorwa, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.4056369,
+                  "lng" : 34.4549704
+               },
+               "southwest" : {
+                  "lat" : 1.3889478,
+                  "lng" : 34.439199
+               }
+            },
+            "location" : {
+               "lat" : 1.397297,
+               "lng" : 34.4489384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.4056369,
+                  "lng" : 34.4549704
+               },
+               "southwest" : {
+                  "lat" : 1.3889478,
+                  "lng" : 34.439199
+               }
+            }
+         },
+         "place_id" : "ChIJ4ZTVWRKDeBcRTFBzeAS91yo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

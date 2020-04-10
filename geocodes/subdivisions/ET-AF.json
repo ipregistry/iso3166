@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Afar",
+               "short_name" : "Afar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Afar, Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.46638,
+                  "lng" : 42.397425
+               },
+               "southwest" : {
+                  "lat" : 8.840217899999999,
+                  "lng" : 39.6713659
+               }
+            },
+            "location" : {
+               "lat" : 11.7559388,
+               "lng" : 40.958688
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.46638,
+                  "lng" : 42.397425
+               },
+               "southwest" : {
+                  "lat" : 8.840217899999999,
+                  "lng" : 39.6713659
+               }
+            }
+         },
+         "place_id" : "ChIJO0LlDTbEORYRFIoQv2Ow2ps",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

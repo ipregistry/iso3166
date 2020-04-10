@@ -1,0 +1,38 @@
+{
+   "results" : [
+      {
+         "address_components" : [],
+         "formatted_address" : "Khojali",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.017248,
+                  "lng" : 46.9316571
+               },
+               "southwest" : {
+                  "lat" : 39.633209,
+                  "lng" : 46.43155710000001
+               }
+            },
+            "location" : {
+               "lat" : 39.836959,
+               "lng" : 46.6566133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.017248,
+                  "lng" : 46.9316571
+               },
+               "southwest" : {
+                  "lat" : 39.633209,
+                  "lng" : 46.43155710000001
+               }
+            }
+         },
+         "place_id" : "ChIJwcu91lRkPkAR9bCmADIZaD0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

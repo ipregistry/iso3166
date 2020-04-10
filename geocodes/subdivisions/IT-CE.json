@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caserta",
+               "short_name" : "Caserta",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Caserta",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81100",
+               "short_name" : "81100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "81100 Caserta, Province of Caserta, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1327419,
+                  "lng" : 14.4346483
+               },
+               "southwest" : {
+                  "lat" : 41.04254359999999,
+                  "lng" : 14.2777434
+               }
+            },
+            "location" : {
+               "lat" : 41.0854362,
+               "lng" : 14.367553
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1327419,
+                  "lng" : 14.4346483
+               },
+               "southwest" : {
+                  "lat" : 41.04254359999999,
+                  "lng" : 14.2777434
+               }
+            }
+         },
+         "place_id" : "ChIJ59ZFSBhUOhMRkMdjmR_hCQQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

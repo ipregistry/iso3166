@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laghouat",
+               "short_name" : "Laghouat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laghouat",
+               "short_name" : "Laghouat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Laghouat Province",
+               "short_name" : "Laghouat Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laghouat, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.9799749,
+                  "lng" : 3.0420119
+               },
+               "southwest" : {
+                  "lat" : 33.705187,
+                  "lng" : 2.7172519
+               }
+            },
+            "location" : {
+               "lat" : 33.8078341,
+               "lng" : 2.8628294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9799749,
+                  "lng" : 3.0420119
+               },
+               "southwest" : {
+                  "lat" : 33.705187,
+                  "lng" : 2.7172519
+               }
+            }
+         },
+         "place_id" : "ChIJy9nuo0riYhIRwppaDfbzC6E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clare",
+               "short_name" : "Clare",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Clare",
+               "short_name" : "County Clare",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clare, Co. Clare, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1687693,
+                  "lng" : -8.2824241
+               },
+               "southwest" : {
+                  "lat" : 52.554516,
+                  "lng" : -9.938693799999999
+               }
+            },
+            "location" : {
+               "lat" : 52.904532,
+               "lng" : -8.981135099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1687693,
+                  "lng" : -8.2824241
+               },
+               "southwest" : {
+                  "lat" : 52.554516,
+                  "lng" : -9.938693799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ41GCyPkRW0gRgHYqLqfHAAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

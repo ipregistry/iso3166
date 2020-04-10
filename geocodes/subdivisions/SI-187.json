@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velika Polana",
+               "short_name" : "Velika Polana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Velika Polana",
+               "short_name" : "Velika Polana",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lendava",
+               "short_name" : "Lendava",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9225",
+               "short_name" : "9225",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9225 Velika Polana, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5874722,
+                  "lng" : 16.3761692
+               },
+               "southwest" : {
+                  "lat" : 46.55340229999999,
+                  "lng" : 16.3215055
+               }
+            },
+            "location" : {
+               "lat" : 46.5731715,
+               "lng" : 16.3444126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5874722,
+                  "lng" : 16.3761692
+               },
+               "southwest" : {
+                  "lat" : 46.55340229999999,
+                  "lng" : 16.3215055
+               }
+            }
+         },
+         "place_id" : "ChIJ9wlWWulJb0cRnWW-Mg9Vko0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

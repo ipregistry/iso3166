@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almaty Province",
+               "short_name" : "Almaty Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almaty Province, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.329847,
+                  "lng" : 82.5877263
+               },
+               "southwest" : {
+                  "lat" : 42.2149339,
+                  "lng" : 73.8073969
+               }
+            },
+            "location" : {
+               "lat" : 45.0119227,
+               "lng" : 78.4229392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.329847,
+                  "lng" : 82.5877263
+               },
+               "southwest" : {
+                  "lat" : 42.2149339,
+                  "lng" : 73.8073969
+               }
+            }
+         },
+         "place_id" : "ChIJM4fi1E1pgzgRd3G5t_W5W1s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+              "lng" : 77.1467686
+               },
+               "southwest" : {
+                  "lat" : 43.0287453,
+                  "lng" : 76.7415618
+               }
+            }
+         },
+         "place_id" : "ChIJq8vFFn1ugzgRdm2YrY9mRD0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nan",
+               "short_name" : "Nan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nai Wiang",
+               "short_name" : "Nai Wiang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Nan District",
+               "short_name" : "Mueang Nan District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nan",
+               "short_name" : "จ. น่าน",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55000",
+               "short_name" : "55000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nan, Nai Wiang, Mueang Nan District, Nan 55000, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.7838757,
+               "lng" : 100.7789631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.7944391,
+                  "lng" : 100.7949705
+               },
+               "southwest" : {
+                  "lat" : 18.7733117,
+                  "lng" : 100.7629557
+               }
+            }
+         },
+         "place_id" : "ChIJheFl6-CNJzER6I8uqQ0C26I",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guatemala City",
+               "short_name" : "Guate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guatemala Department",
+               "short_name" : "Guatemala Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guatemala City, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.7012545,
+                  "lng" : -90.39645209999999
+               },
+               "southwest" : {
+                  "lat" : 14.5511856,
+                  "lng" : -90.58866879999999
+               }
+            },
+            "location" : {
+               "lat" : 14.6349149,
+               "lng" : -90.50688239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.7012545,
+                  "lng" : -90.39645209999999
+               },
+               "southwest" : {
+                  "lat" : 14.5511856,
+                  "lng" : -90.58866879999999
+               }
+            }
+         },
+         "place_id" : "ChIJRTNcZYChiYURJXuGW4HHcko",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

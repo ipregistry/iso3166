@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yamagata",
+               "short_name" : "Yamagata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yamagata",
+               "short_name" : "Yamagata",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yamagata, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.352103,
+                  "lng" : 140.530717
+               },
+               "southwest" : {
+                  "lat" : 38.143509,
+                  "lng" : 140.179251
+               }
+            },
+            "location" : {
+               "lat" : 38.2554153,
+               "lng" : 140.3396175
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.352103,
+                  "lng" : 140.530717
+               },
+               "southwest" : {
+                  "lat" : 38.143509,
+                  "lng" : 140.179251
+               }
+            }
+         },
+         "place_id" : "ChIJUW6dSwfKi18R6zG_DU6SsqY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

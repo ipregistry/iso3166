@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "Haute-Savoie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haute-Savoie, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.408243,
+                  "lng" : 7.0450649
+               },
+               "southwest" : {
+                  "lat" : 45.681659,
+                  "lng" : 5.80502
+               }
+            },
+            "location" : {
+               "lat" : 46.1756788,
+               "lng" : 6.5389621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.408243,
+                  "lng" : 7.0450649
+               },
+               "southwest" : {
+                  "lat" : 45.681659,
+                  "lng" : 5.80502
+               }
+            }
+         },
+         "place_id" : "ChIJfRdqefQJjEcRICq55CqrCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

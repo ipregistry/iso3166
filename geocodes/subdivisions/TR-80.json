@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osmaniye",
+               "short_name" : "Osmaniye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osmaniye Merkez",
+               "short_name" : "Osmaniye Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Osmaniye",
+               "short_name" : "Osmaniye",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Osmaniye, Osmaniye Merkez/Osmaniye, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1040611,
+                  "lng" : 36.29024
+               },
+               "southwest" : {
+                  "lat" : 37.0469401,
+                  "lng" : 36.2080341
+               }
+            },
+            "location" : {
+               "lat" : 37.0746279,
+               "lng" : 36.2464002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1040611,
+                  "lng" : 36.29024
+               },
+               "southwest" : {
+                  "lat" : 37.0469401,
+                  "lng" : 36.2080341
+               }
+            }
+         },
+         "place_id" : "ChIJiaFTtMwhLxURDNYFbtLcuio",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

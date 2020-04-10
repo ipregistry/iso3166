@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morbihan",
+               "short_name" : "Morbihan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morbihan, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.21088899999999,
+                  "lng" : -2.0353381
+               },
+               "southwest" : {
+                  "lat" : 47.27785290000001,
+                  "lng" : -3.7349149
+               }
+            },
+            "location" : {
+               "lat" : 47.8852929,
+               "lng" : -2.9001865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.21088899999999,
+                  "lng" : -2.0353381
+               },
+               "southwest" : {
+                  "lat" : 47.27785290000001,
+                  "lng" : -3.7349149
+               }
+            }
+         },
+         "place_id" : "ChIJicYx27QiEEgRACnfNs2lDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

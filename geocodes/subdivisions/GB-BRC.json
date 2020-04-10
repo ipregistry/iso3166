@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bracknell",
+               "short_name" : "Bracknell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bracknell Forest",
+               "short_name" : "Bracknell Forest",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bracknell, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4274598,
+                  "lng" : -0.7175868
+               },
+               "southwest" : {
+                  "lat" : 51.3846074,
+                  "lng" : -0.8007711
+               }
+            },
+            "location" : {
+               "lat" : 51.41604,
+               "lng" : -0.75398
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4274598,
+                  "lng" : -0.7175868
+               },
+               "southwest" : {
+                  "lat" : 51.3846074,
+                  "lng" : -0.8007711
+               }
+            }
+         },
+         "place_id" : "ChIJ_SV9Nyl8dkgROeYD9n1dAys",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

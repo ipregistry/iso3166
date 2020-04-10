@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Salvador do Mundo",
+               "short_name" : "São Salvador do Mundo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Salvador do Mundo, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.11325,
+                  "lng" : -23.598314
+               },
+               "southwest" : {
+                  "lat" : 15.050889,
+                  "lng" : -23.660829
+               }
+            },
+            "location" : {
+               "lat" : 15.088764,
+               "lng" : -23.6383187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.11325,
+                  "lng" : -23.598314
+               },
+               "southwest" : {
+                  "lat" : 15.050889,
+                  "lng" : -23.660829
+               }
+            }
+         },
+         "place_id" : "ChIJP0nH6fOONQkRcjrlRzF05Xk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Julian's",
+               "short_name" : "St Julian's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Julian's, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9306315,
+                  "lng" : 14.4966906
+               },
+               "southwest" : {
+                  "lat" : 35.9090522,
+                  "lng" : 14.4825501
+               }
+            },
+            "location" : {
+               "lat" : 35.9181297,
+               "lng" : 14.4883442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9306315,
+                  "lng" : 14.4966906
+               },
+               "southwest" : {
+                  "lat" : 35.9090522,
+                  "lng" : 14.4825501
+               }
+            }
+         },
+         "place_id" : "ChIJ93UDf0JFDhMRr6WCLuLCOHo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

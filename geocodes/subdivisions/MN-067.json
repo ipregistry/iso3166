@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bulgan",
+               "short_name" : "Bulgan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bulgan",
+               "short_name" : "Bulgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bulgan",
+               "short_name" : "Bulgan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bulgan, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8664087,
+                  "lng" : 103.587513
+               },
+               "southwest" : {
+                  "lat" : 48.7746887,
+                  "lng" : 103.4531021
+               }
+            },
+            "location" : {
+               "lat" : 48.8231572,
+               "lng" : 103.5218199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8664087,
+                  "lng" : 103.587513
+               },
+               "southwest" : {
+                  "lat" : 48.7746887,
+                  "lng" : 103.4531021
+               }
+            }
+         },
+         "place_id" : "ChIJr92Kk3cRn10Rnd9YyAJGPa0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

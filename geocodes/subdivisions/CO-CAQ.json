@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caquetá",
+               "short_name" : "Caquetá",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caquetá, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.964982,
+                  "lng" : -71.3243329
+               },
+               "southwest" : {
+                  "lat" : -0.705722,
+                  "lng" : -76.3036189
+               }
+            },
+            "location" : {
+               "lat" : 0.869892,
+               "lng" : -73.84190630000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.964982,
+                  "lng" : -71.3243329
+               },
+               "southwest" : {
+                  "lat" : -0.705722,
+                  "lng" : -76.3036189
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ71Y71ZiLIY4RdwaRZv8sn2I",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

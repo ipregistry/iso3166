@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Virginia, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.638801,
+                  "lng" : -77.7189679
+               },
+               "southwest" : {
+                  "lat" : 37.2015399,
+                  "lng" : -82.644413
+               }
+            },
+            "location" : {
+               "lat" : 38.5976262,
+               "lng" : -80.4549026
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.638801,
+                  "lng" : -77.7189679
+               },
+               "southwest" : {
+                  "lat" : 37.2015399,
+                  "lng" : -82.644413
+               }
+            }
+         },
+         "place_id" : "ChIJRQnL1KVUSogRQzrN3mjHALs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

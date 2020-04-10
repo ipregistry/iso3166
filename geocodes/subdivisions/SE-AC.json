@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Västerbotten County",
+               "short_name" : "Västerbotten County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Västerbotten County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 66.340329,
+                  "lng" : 21.62189
+               },
+               "southwest" : {
+                  "lat" : 63.39115899999999,
+                  "lng" : 14.260424
+               }
+            },
+            "location" : {
+               "lat" : 65.33373109999999,
+               "lng" : 16.5161694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 66.340329,
+                  "lng" : 21.62189
+               },
+               "southwest" : {
+                  "lat" : 63.39115899999999,
+                  "lng" : 14.260424
+               }
+            }
+         },
+         "place_id" : "ChIJMwbPXVNAeUYRD9qCNYa3TQs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

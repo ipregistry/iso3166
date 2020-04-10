@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ogun State",
+               "short_name" : "OG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ogun State, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.952856999999999,
+                  "lng" : 4.6095861
+               },
+               "southwest" : {
+                  "lat" : 6.2802039,
+                  "lng" : 2.6903381
+               }
+            },
+            "location" : {
+               "lat" : 6.997974699999999,
+               "lng" : 3.4737378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.952856999999999,
+                  "lng" : 4.6095861
+               },
+               "southwest" : {
+                  "lat" : 6.2802039,
+                  "lng" : 2.6903381
+               }
+            }
+         },
+         "place_id" : "ChIJy4cQ6-4NOxAR6JxAUS_YZ64",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

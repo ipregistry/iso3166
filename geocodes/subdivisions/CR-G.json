@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guanacaste Province",
+               "short_name" : "Guanacaste Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guanacaste Province, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.2168181,
+                  "lng" : -84.7594789
+               },
+               "southwest" : {
+                  "lat" : 9.7224539,
+                  "lng" : -85.9506229
+               }
+            },
+            "location" : {
+               "lat" : 10.6267399,
+               "lng" : -85.44367059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.2168181,
+                  "lng" : -84.7594789
+               },
+               "southwest" : {
+                  "lat" : 9.7224539,
+                  "lng" : -85.9506229
+               }
+            }
+         },
+         "place_id" : "ChIJ5Qgciip9dY8RRfkqAYIQCOE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

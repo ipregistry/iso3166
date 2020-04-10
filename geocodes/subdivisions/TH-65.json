@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phitsanulok",
+               "short_name" : "Phitsanulok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nai Mueang",
+               "short_name" : "ต.ในเมือง",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mueang Phitsanulok District",
+               "short_name" : "อ.เมืองพิษณุโลก",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Phitsanulok",
+               "short_name" : "จ.พิษณุโลก",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65000",
+               "short_name" : "65000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Phitsanulok, Nai Mueang, Mueang Phitsanulok District, Phitsanulok 65000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.8411717,
+                  "lng" : 100.293535
+               },
+               "southwest" : {
+                  "lat" : 16.792816,
+                  "lng" : 100.2424324
+               }
+            },
+            "location" : {
+               "lat" : 16.8211238,
+               "lng" : 100.2658516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.8411717,
+                  "lng" : 100.293535
+               },
+               "southwest" : {
+                  "lat" : 16.792816,
+                  "lng" : 100.2424324
+               }
+            }
+         },
+         "place_id" : "ChIJMWZ0fueX3zARONBs3_uqGjc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

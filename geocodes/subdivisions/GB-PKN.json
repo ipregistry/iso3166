@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perth and Kinross",
+               "short_name" : "Perth and Kinross",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Perth and Kinross, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.9486332,
+                  "lng" : -3.0339905
+               },
+               "southwest" : {
+                  "lat" : 56.1324367,
+                  "lng" : -4.7204448
+               }
+            },
+            "location" : {
+               "lat" : 56.39538169999999,
+               "lng" : -3.4283547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.9486332,
+                  "lng" : -3.0339905
+               },
+               "southwest" : {
+                  "lat" : 56.1324367,
+                  "lng" : -4.7204448
+               }
+            }
+         },
+         "place_id" : "ChIJFysl40uiiEgRwLBCBhpoDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

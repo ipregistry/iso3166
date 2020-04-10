@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mid-Western Development Region",
+               "short_name" : "Mid-Western Development Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mid-Western Development Region, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4461206,
+                  "lng" : 83.6897499
+               },
+               "southwest" : {
+                  "lat" : 27.6764493,
+                  "lng" : 80.98443600000002
+               }
+            },
+            "location" : {
+               "lat" : 29.0164923,
+               "lng" : 82.38857829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4461206,
+                  "lng" : 83.6897499
+               },
+               "southwest" : {
+                  "lat" : 27.6764493,
+                  "lng" : 80.98443600000002
+               }
+            }
+         },
+         "place_id" : "ChIJU1Vs-FQuvTkR1scP57lUiZM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

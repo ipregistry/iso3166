@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Odranci",
+               "short_name" : "Odranci",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Odranci",
+               "short_name" : "Odranci",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lendava",
+               "short_name" : "Lendava",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9233",
+               "short_name" : "9233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9233 Odranci, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6016558,
+                  "lng" : 16.2985609
+               },
+               "southwest" : {
+                  "lat" : 46.56877859999999,
+                  "lng" : 16.2506427
+               }
+            },
+            "location" : {
+               "lat" : 46.5847279,
+               "lng" : 16.276235
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6016558,
+                  "lng" : 16.2985609
+               },
+               "southwest" : {
+                  "lat" : 46.56877859999999,
+                  "lng" : 16.2506427
+               }
+            }
+         },
+         "place_id" : "ChIJMdU6owhIb0cR4O8_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

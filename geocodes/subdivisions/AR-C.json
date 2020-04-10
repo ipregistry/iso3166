@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buenos Aires, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.5265464,
+                  "lng" : -58.33514470000001
+               },
+               "southwest" : {
+                  "lat" : -34.7051011,
+                  "lng" : -58.5314522
+               }
+            },
+            "location" : {
+               "lat" : -34.6036844,
+               "lng" : -58.3815591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.5265464,
+                  "lng" : -58.33514470000001
+               },
+               "southwest" : {
+                  "lat" : -34.7051011,
+                  "lng" : -58.5314522
+               }
+            }
+         },
+         "place_id" : "ChIJvQz5TjvKvJURh47oiC6Bs6A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

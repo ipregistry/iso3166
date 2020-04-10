@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soriano Department",
+               "short_name" : "Soriano Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Soriano Department, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.000214,
+                  "lng" : -57.0904301
+               },
+               "southwest" : {
+                  "lat" : -33.9550428,
+                  "lng" : -58.4393489
+               }
+            },
+            "location" : {
+               "lat" : -33.5102792,
+               "lng" : -57.7498103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.000214,
+                  "lng" : -57.0904301
+               },
+               "southwest" : {
+                  "lat" : -33.9550428,
+                  "lng" : -58.4393489
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg08GaQ_8pJUR2YV-JSBJj2E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

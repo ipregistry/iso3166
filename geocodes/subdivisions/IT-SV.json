@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Savona",
+               "short_name" : "Savona",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Savona",
+               "short_name" : "SV",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Liguria",
+               "short_name" : "Liguria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17100",
+               "short_name" : "17100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "17100 Savona, Province of Savona, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3882383,
+                  "lng" : 8.5042904
+               },
+               "southwest" : {
+                  "lat" : 44.2809858,
+                  "lng" : 8.343030599999999
+               }
+            },
+            "location" : {
+               "lat" : 44.298387,
+               "lng" : 8.464533099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3882383,
+                  "lng" : 8.5042904
+               },
+               "southwest" : {
+                  "lat" : 44.2809858,
+                  "lng" : 8.343030599999999
+               }
+            }
+         },
+         "place_id" : "ChIJUwL5oRTh0hIRwNE8R33mBQQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ararat",
+               "short_name" : "Ararat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ararat Province",
+               "short_name" : "Ararat Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Armenia",
+               "short_name" : "AM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ararat, Armenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.86434310000001,
+                  "lng" : 44.71963419999999
+               },
+               "southwest" : {
+                  "lat" : 39.8315598,
+                  "lng" : 44.6830058
+               }
+            },
+            "location" : {
+               "lat" : 39.8551211,
+               "lng" : 44.6942731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.86434310000001,
+                  "lng" : 44.71963419999999
+               },
+               "southwest" : {
+                  "lat" : 39.8315598,
+                  "lng" : 44.6830058
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ614KE30wFUARpk-LER8BVi4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

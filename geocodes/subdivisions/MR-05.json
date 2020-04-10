@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brakna",
+               "short_name" : "Brakna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritania",
+               "short_name" : "MR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brakna, Mauritania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.567634,
+                  "lng" : -12.3068541
+               },
+               "southwest" : {
+                  "lat" : 16.1069476,
+                  "lng" : -14.8779346
+               }
+            },
+            "location" : {
+               "lat" : 17.2317561,
+               "lng" : -13.1740348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.567634,
+                  "lng" : -12.3068541
+               },
+               "southwest" : {
+                  "lat" : 16.1069476,
+                  "lng" : -14.8779346
+               }
+            }
+         },
+         "place_id" : "ChIJLwniX-EJkg4R2Lz9p564Q80",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

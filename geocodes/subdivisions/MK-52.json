@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Makedonski Brod",
+               "short_name" : "Makedonski Brod",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Makedonski Brod",
+               "short_name" : "Municipality of Makedonski Brod",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Makedonski Brod, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5210334,
+                  "lng" : 21.2262081
+               },
+               "southwest" : {
+                  "lat" : 41.5046204,
+                  "lng" : 21.2085485
+               }
+            },
+            "location" : {
+               "lat" : 41.5133088,
+               "lng" : 21.2174329
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5210334,
+                  "lng" : 21.2262081
+               },
+               "southwest" : {
+                  "lat" : 41.5046204,
+                  "lng" : 21.2085485
+               }
+            }
+         },
+         "place_id" : "ChIJ992kzV22VhMREvLOKah0YPU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

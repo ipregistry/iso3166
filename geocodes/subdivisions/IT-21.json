@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piedmont",
+               "short_name" : "Piedmont",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Piedmont, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4644351,
+                  "lng" : 9.214264099999999
+               },
+               "southwest" : {
+                  "lat" : 44.0600899,
+                  "lng" : 6.6266304
+               }
+            },
+            "location" : {
+               "lat" : 45.0522366,
+               "lng" : 7.5153885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4644351,
+                  "lng" : 9.214264099999999
+               },
+               "southwest" : {
+                  "lat" : 44.0600899,
+                  "lng" : 6.6266304
+               }
+            }
+         },
+         "place_id" : "ChIJZ7GdATt0h0cR_zsS8u24x7w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

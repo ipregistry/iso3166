@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taranaki",
+               "short_name" : "Taranaki",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taranaki, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.699306,
+                  "lng" : 175.002215
+               },
+               "southwest" : {
+                  "lat" : -39.8687169,
+                  "lng" : 173.748474
+               }
+            },
+            "location" : {
+               "lat" : -39.3538149,
+               "lng" : 174.4382721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.699306,
+                  "lng" : 175.002215
+               },
+               "southwest" : {
+                  "lat" : -39.8687169,
+                  "lng" : 173.748474
+               }
+            }
+         },
+         "place_id" : "ChIJKbaycjcEFW0R8b8kFBWuJPQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

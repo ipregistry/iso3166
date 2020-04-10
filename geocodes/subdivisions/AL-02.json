@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durrës",
+               "short_name" : "Durrës",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durrës County",
+               "short_name" : "Durrës County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durrës, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3809305,
+                  "lng" : 19.5148087
+               },
+               "southwest" : {
+                  "lat" : 41.2817411,
+                  "lng" : 19.4179058
+               }
+            },
+            "location" : {
+               "lat" : 41.3245904,
+               "lng" : 19.4564686
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3809305,
+                  "lng" : 19.5148087
+               },
+               "southwest" : {
+                  "lat" : 41.2817411,
+                  "lng" : 19.4179058
+               }
+            }
+         },
+         "place_id" : "ChIJx7y7X3zZTxMR7oHN5up383c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Molise",
+               "short_name" : "Molise",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Campobasso",
+               "short_name" : "CB",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Molise",
+               "short_name" : "Molise",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86020",
+               "short_name" : "86020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "86020 Molise, Province of Campobasso, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6474451,
+                  "lng" : 14.5133858
+               },
+               "southwest" : {
+                  "lat" : 41.6145789,
+                  "lng" : 14.4791819
+               }
+            },
+            "location" : {
+               "lat" : 41.6318093,
+               "lng" : 14.492712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6474451,
+                  "lng" : 14.5133858
+               },
+               "southwest" : {
+                  "lat" : 41.6145789,
+                  "lng" : 14.4791819
+               }
+            }
+         },
+         "place_id" : "ChIJSeIc416dMBMRGgM2lIrvYE0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

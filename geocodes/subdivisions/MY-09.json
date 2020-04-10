@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perlis",
+               "short_name" : "Perlis",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Perlis, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.726748000000001,
+                  "lng" : 100.3705678
+               },
+               "southwest" : {
+                  "lat" : 6.253703,
+                  "lng" : 100.1196061
+               }
+            },
+            "location" : {
+               "lat" : 6.444912899999999,
+               "lng" : 100.2047691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.726748000000001,
+                  "lng" : 100.3705678
+               },
+               "southwest" : {
+                  "lat" : 6.253703,
+                  "lng" : 100.1196061
+               }
+            }
+         },
+         "place_id" : "ChIJ-b3U8hZ5TDARb_v8dfzJXmc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

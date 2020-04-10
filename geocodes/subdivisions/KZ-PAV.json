@@ -1,0 +1,57 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pavlodar Province",
+               "short_name" : "Pavlodar Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "140000",
+               "short_name" : "140000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pavlodar Province, 140000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.45753999999999,
+                  "lng" : 79.58286729999999
+               },
+               "southwest" : {
+                  "lat" : 50.023726,
+                  "lng" : 73.282956
+               }
+            },
+            "location" : {
+               "lat" : 52.2878444,
+               "lng" : 76.97334529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.45753999999999,
+                  "lng" : 79.58286729999999
+               },
+               "southwest" : {
+                  "lat" : 50.023726,
+                  "lng" : 73.282956
+               }
+            }
+         },
+         "place_id" : "ChIJ2TJt8zsF-EIRp1relDRI_7Y",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+ ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamrun",
+               "short_name" : "Hamrun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamrun, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8924312,
+                  "lng" : 14.5004296
+               },
+               "southwest" : {
+                  "lat" : 35.8812182,
+                  "lng" : 14.4797015
+               }
+            },
+            "location" : {
+               "lat" : 35.8861237,
+               "lng" : 14.4883442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8924312,
+                  "lng" : 14.5004296
+               },
+               "southwest" : {
+                  "lat" : 35.8812182,
+                  "lng" : 14.4797015
+               }
+            }
+         },
+         "place_id" : "ChIJc-J4orlaDhMREDIQ2Qvxu3s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

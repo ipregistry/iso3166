@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gamprin",
+               "short_name" : "Gamprin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gamprin",
+               "short_name" : "Gamprin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liechtenstein",
+               "short_name" : "LI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gamprin, Liechtenstein",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2333801,
+                  "lng" : 9.537539899999999
+               },
+               "southwest" : {
+                  "lat" : 47.18672000000001,
+                  "lng" : 9.48775
+               }
+            },
+            "location" : {
+               "lat" : 47.213249,
+               "lng" : 9.5025195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2333801,
+                  "lng" : 9.537539899999999
+               },
+               "southwest" : {
+                  "lat" : 47.18672000000001,
+                  "lng" : 9.48775
+               }
+            }
+         },
+         "place_id" : "ChIJJdxkFIU6m0cRtwKXTRtvehY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

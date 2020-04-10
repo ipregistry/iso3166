@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Equatorial Guinea",
+               "short_name" : "GQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Equatorial Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.8355,
+                  "lng" : 11.3333
+               },
+               "southwest" : {
+                  "lat" : -1.5475,
+                  "lng" : 5.541900099999999
+               }
+            },
+            "location" : {
+               "lat" : 1.650801,
+               "lng" : 10.267895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.8355,
+                  "lng" : 11.3333
+               },
+               "southwest" : {
+                  "lat" : -1.5475,
+                  "lng" : 5.541900099999999
+               }
+            }
+         },
+         "place_id" : "ChIJp4euX2A6ZBARet4QLKKicMg",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

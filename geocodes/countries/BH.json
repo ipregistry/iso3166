@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bahrain",
+               "short_name" : "BH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bahrain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.3469001,
+                  "lng" : 50.8509064
+               },
+               "southwest" : {
+                  "lat" : 25.5349999,
+                  "lng" : 50.324246
+               }
+            },
+            "location" : {
+               "lat" : 26.0667,
+               "lng" : 50.5577
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.3469001,
+                  "lng" : 50.8509064
+               },
+               "southwest" : {
+                  "lat" : 25.5349999,
+                  "lng" : 50.324246
+               }
+            }
+         },
+         "place_id" : "ChIJEaJHak5SSD4RRhDa2-JQlC4",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

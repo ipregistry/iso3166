@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Addis Ababa",
+               "short_name" : "Addis Ababa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Addis Ababa",
+               "short_name" : "Addis Ababa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Addis Ababa, Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.0856549,
+                  "lng" : 38.90020730000001
+               },
+               "southwest" : {
+                  "lat" : 8.8406988,
+                  "lng" : 38.6560823
+               }
+            },
+            "location" : {
+               "lat" : 8.9806034,
+               "lng" : 38.7577605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.0856549,
+                  "lng" : 38.90020730000001
+               },
+               "southwest" : {
+                  "lat" : 8.8406988,
+                  "lng" : 38.6560823
+               }
+            }
+         },
+         "place_id" : "ChIJLUCr9c6FSxYRSU2iN7C2Z4Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

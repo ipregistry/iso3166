@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.216999899999999,
+                  "lng" : 141.0425
+               },
+               "southwest" : {
+                  "lat" : -11.1082999,
+                  "lng" : 94.7351
+               }
+            },
+            "location" : {
+               "lat" : -0.7892749999999999,
+               "lng" : 113.921327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.216999899999999,
+                  "lng" : 141.0425
+               },
+               "southwest" : {
+                  "lat" : -11.1082999,
+                  "lng" : 94.7351
+               }
+            }
+         },
+         "place_id" : "ChIJtwRkSdcHTCwRhfStG-dNe-M",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

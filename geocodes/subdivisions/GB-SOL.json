@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solihull",
+               "short_name" : "Solihull",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Midlands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solihull, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4583018,
+                  "lng" : -1.7373952
+               },
+               "southwest" : {
+                  "lat" : 52.3918444,
+                  "lng" : -1.8278389
+               }
+            },
+            "location" : {
+               "lat" : 52.411811,
+               "lng" : -1.77761
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4583018,
+                  "lng" : -1.7373952
+               },
+               "southwest" : {
+                  "lat" : 52.3918444,
+                  "lng" : -1.8278389
+               }
+            }
+         },
+         "place_id" : "ChIJgavGpaCwcEgR_HQCS7sn9eM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

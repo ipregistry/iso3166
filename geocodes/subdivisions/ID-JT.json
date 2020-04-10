@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Java",
+               "short_name" : "Central Java",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Java, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.725698,
+                  "lng" : 111.6914889
+               },
+               "southwest" : {
+                  "lat" : -8.2116361,
+                  "lng" : 108.555502
+               }
+            },
+            "location" : {
+               "lat" : -7.150975,
+               "lng" : 110.1402594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.725698,
+                  "lng" : 111.6914889
+               },
+               "southwest" : {
+                  "lat" : -8.2116361,
+                  "lng" : 108.555502
+               }
+            }
+         },
+         "place_id" : "ChIJ3RjVnJt1ZS4RRrztj53Rd8M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

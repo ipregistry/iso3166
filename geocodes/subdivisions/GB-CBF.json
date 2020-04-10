@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Bedfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1909131,
+                  "lng" : -0.1439574
+               },
+               "southwest" : {
+                  "lat" : 51.8050872,
+                  "lng" : -0.7021813
+               }
+            },
+            "location" : {
+               "lat" : 52.0029744,
+               "lng" : -0.4651388999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1909131,
+                  "lng" : -0.1439574
+               },
+               "southwest" : {
+                  "lat" : 51.8050872,
+                  "lng" : -0.7021813
+               }
+            }
+         },
+         "place_id" : "ChIJtzQxDOdKdkgRMKjDu6gcDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

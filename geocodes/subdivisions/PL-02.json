@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower Silesian Voivodeship",
+               "short_name" : "Lower Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lower Silesian Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8047592,
+                  "lng" : 17.798917
+               },
+               "southwest" : {
+                  "lat" : 50.09634,
+                  "lng" : 14.816831
+               }
+            },
+            "location" : {
+               "lat" : 51.13398609999999,
+               "lng" : 16.8841961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8047592,
+                  "lng" : 17.798917
+               },
+               "southwest" : {
+                  "lat" : 50.09634,
+                  "lng" : 14.816831
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8UOYsiKqD0cRIMAOrTIOAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kranjska Gora",
+               "short_name" : "Kranjska Gora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kranjska Gora",
+               "short_name" : "Kranjska Gora",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Jesenice",
+               "short_name" : "Jesenice",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4280",
+               "short_name" : "4280",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4280 Kranjska Gora, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5110281,
+                  "lng" : 13.8151357
+               },
+               "southwest" : {
+                  "lat" : 46.4098216,
+                  "lng" : 13.7264278
+               }
+            },
+            "location" : {
+               "lat" : 46.4845293,
+               "lng" : 13.7857145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5110281,
+                  "lng" : 13.8151357
+               },
+               "southwest" : {
+                  "lat" : 46.4098216,
+                  "lng" : 13.7264278
+               }
+            }
+         },
+         "place_id" : "ChIJ9YoPmOV8ekcR3p3fu4LiENw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

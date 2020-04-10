@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banaadir",
+               "short_name" : "Banaadir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banaadir, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.195059,
+                  "lng" : 45.596519
+               },
+               "southwest" : {
+                  "lat" : 1.925237,
+                  "lng" : 45.1401899
+               }
+            },
+            "location" : {
+               "lat" : 2.1187375,
+               "lng" : 45.3369459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.195059,
+                  "lng" : 45.596519
+               },
+               "southwest" : {
+                  "lat" : 1.925237,
+                  "lng" : 45.1401899
+               }
+            }
+         },
+         "place_id" : "ChIJI7Hu-OpDWD0RiAr8BxMJOOc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

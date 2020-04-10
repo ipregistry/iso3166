@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "JM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jamaica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.5697821,
+                  "lng" : -76.1448669
+               },
+               "southwest" : {
+                  "lat" : 17.6688854,
+                  "lng" : -78.40736389999999
+               }
+            },
+            "location" : {
+               "lat" : 18.109581,
+               "lng" : -77.29750799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5697821,
+                  "lng" : -76.1448669
+               },
+               "southwest" : {
+                  "lat" : 17.6688854,
+                  "lng" : -78.40736389999999
+               }
+            }
+         },
+         "place_id" : "ChIJnXHPxhsq2o4R-g4StcDRoFk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

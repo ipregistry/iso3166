@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5638447,
+                  "lng" : -3.5249115
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8341618
+               }
+            },
+            "location" : {
+               "lat" : 40.4167754,
+               "lng" : -3.7037902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5638447,
+                  "lng" : -3.5249115
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8341618
+               }
+            }
+         },
+         "place_id" : "ChIJgTwKgJcpQg0RaSKMYcHeNsQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

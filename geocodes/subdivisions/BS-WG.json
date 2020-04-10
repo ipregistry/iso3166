@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Grand Bahama",
+               "short_name" : "West Grand Bahama",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Grand Bahama, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.924385,
+                  "lng" : -78.407715
+               },
+               "southwest" : {
+                  "lat" : 26.4941138,
+                  "lng" : -78.9959109
+               }
+            },
+            "location" : {
+               "lat" : 26.659447,
+               "lng" : -78.52065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.924385,
+                  "lng" : -78.407715
+               },
+               "southwest" : {
+                  "lat" : 26.4941138,
+                  "lng" : -78.9959109
+               }
+            }
+         },
+         "place_id" : "ChIJrQFAGuLUJokRJCZ56vZZ_Jk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

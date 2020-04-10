@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Kurdufan",
+               "short_name" : "North Kurdufan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sudan",
+               "short_name" : "SD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Kurdufan, Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.606044,
+                  "lng" : 32.3568399
+               },
+               "southwest" : {
+                  "lat" : 11.338815,
+                  "lng" : 26.9496901
+               }
+            },
+            "location" : {
+               "lat" : 13.8306441,
+               "lng" : 29.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.606044,
+                  "lng" : 32.3568399
+               },
+               "southwest" : {
+                  "lat" : 11.338815,
+                  "lng" : 26.9496901
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOU7SIMs2kxYR4T6m_ODrKMU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+      },
+               "southwest" : {
+                  "lat" : 14.2048152,
+                  "lng" : 27.9049301
+               }
+            }
+         },
+         "place_id" : "ChIJu2G2eYtYwBYRDv2u30BkAdE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

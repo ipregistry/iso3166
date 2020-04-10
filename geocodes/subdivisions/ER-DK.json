@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Red Sea",
+               "short_name" : "Southern Red Sea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Eritrea",
+               "short_name" : "ER",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Red Sea, Eritrea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.021404,
+                  "lng" : 43.1374803
+               },
+               "southwest" : {
+                  "lat" : 12.354723,
+                  "lng" : 40.3500739
+               }
+            },
+            "location" : {
+               "lat" : 13.5137103,
+               "lng" : 41.7606472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.021404,
+                  "lng" : 43.1374803
+               },
+               "southwest" : {
+                  "lat" : 12.354723,
+                  "lng" : 40.3500739
+               }
+            }
+         },
+         "place_id" : "ChIJNbBfBsYyERYR3qauKwv_DbA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+    }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mangystau Province",
+               "short_name" : "Mangystau Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mangystau Province, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.461712,
+                  "lng" : 56.6956034
+               },
+               "southwest" : {
+                  "lat" : 41.246392,
+                  "lng" : 49.993938
+               }
+            },
+            "location" : {
+               "lat" : 44.590802,
+               "lng" : 53.84995079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.461712,
+                  "lng" : 56.6956034
+               },
+               "southwest" : {
+                  "lat" : 41.246392,
+                  "lng" : 49.993938
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPfRWtOSXsUERTH4ltHbJu7Y",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+      }
+         },
+         "place_id" : "ChIJI6kDiqSzuUERT3D_SrjxL-Y",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

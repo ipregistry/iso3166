@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Masvingo",
+               "short_name" : "Masvingo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Masvingo",
+               "short_name" : "Masvingo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Masvingo Province",
+               "short_name" : "Masvingo Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Masvingo, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.0377179,
+                  "lng" : 30.86741769999999
+               },
+               "southwest" : {
+                  "lat" : -20.1076843,
+                  "lng" : 30.7932604
+               }
+            },
+            "location" : {
+               "lat" : -20.0791909,
+               "lng" : 30.8384093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.0377179,
+                  "lng" : 30.86741769999999
+               },
+               "southwest" : {
+                  "lat" : -20.1076843,
+                  "lng" : 30.7932604
+               }
+            }
+         },
+         "place_id" : "ChIJn5rv5NzgzB4RNfW9TqLscqA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

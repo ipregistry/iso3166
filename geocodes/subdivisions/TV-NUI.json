@@ -1,0 +1,98 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tokinivae",
+               "short_name" : "Tokinivae",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Nui",
+               "short_name" : "Nui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tuvalu",
+               "short_name" : "TV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tokinivae, Tuvalu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.197425399999999,
+                  "lng" : 177.1601844
+               },
+               "southwest" : {
+                  "lat" : -7.2112626,
+                  "lng" : 177.1500348
+               }
+            },
+            "location" : {
+               "lat" : -7.201895,
+               "lng" : 177.1553793
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.197425399999999,
+                  "lng" : 177.1601844
+               },
+               "southwest" : {
+                  "lat" : -7.2112626,
+                  "lng" : 177.1500348
+               }
+            }
+         },
+         "place_id" : "ChIJVYhosXEZxW8R6Z1gppDM8xI",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nui",
+               "short_name" : "Nui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tuvalu",
+               "short_name" : "TV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nui, Tuvalu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.182432,
+                  "lng" : 177.16571
+               },
+               "southwest" : {
+                  "lat" : -7.246231000000001,
+                  "lng" : 177.1450499
+               }
+            },
+            "location" : {
+               "lat" : -7.238876800000001,
+               "lng" : 177.1485232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.182432,
+                  "lng" : 177.16571
+               },
+               "southwest" : {
+                  "lat" : -7.246231000000001,
+                  "lng" : 177.1450499
+               }
+            }
+         },
+         "place_id" : "ChIJ2Rn0qJsZxW8R_bR0LysP084",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

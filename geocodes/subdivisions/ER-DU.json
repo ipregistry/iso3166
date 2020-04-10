@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern",
+               "short_name" : "Southern",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Eritrea",
+               "short_name" : "ER",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern, Eritrea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.2706559,
+                  "lng" : 39.670701
+               },
+               "southwest" : {
+                  "lat" : 14.4086045,
+                  "lng" : 38.222448
+               }
+            },
+            "location" : {
+               "lat" : 14.9478692,
+               "lng" : 39.1543677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.2706559,
+                  "lng" : 39.670701
+               },
+               "southwest" : {
+                  "lat" : 14.4086045,
+                  "lng" : 38.222448
+               }
+            }
+         },
+         "place_id" : "ChIJi7PxHmbDbRYRFOToYsYfPJE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

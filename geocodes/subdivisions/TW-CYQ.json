@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiayi City",
+               "short_name" : "Chiayi City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chiayi City, Taiwan 600",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.5183403,
+                  "lng" : 120.5093995
+               },
+               "southwest" : {
+                  "lat" : 23.4395747,
+                  "lng" : 120.3891934
+               }
+            },
+            "location" : {
+               "lat" : 23.4800751,
+               "lng" : 120.4491113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.5183403,
+                  "lng" : 120.5093995
+               },
+               "southwest" : {
+                  "lat" : 23.4395747,
+                  "lng" : 120.3891934
+               }
+            }
+         },
+         "place_id" : "ChIJdQADvTGUbjQRbmls8YZnZjA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower Juba",
+               "short_name" : "Lower Juba",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lower Juba, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.382667,
+                  "lng" : 43.24055490000001
+               },
+               "southwest" : {
+                  "lat" : -1.662053,
+                  "lng" : 40.9886321
+               }
+            },
+            "location" : {
+               "lat" : 0.224021,
+               "lng" : 41.6011814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.382667,
+                  "lng" : 43.24055490000001
+               },
+               "southwest" : {
+                  "lat" : -1.662053,
+                  "lng" : 40.9886321
+               }
+            }
+         },
+         "place_id" : "ChIJsa6igqJyHRgRWSG33kL25Oc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

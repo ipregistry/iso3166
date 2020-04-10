@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Slough",
+               "short_name" : "Slough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Slough",
+               "short_name" : "Slough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Slough, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.538905,
+                  "lng" : -0.4900443
+               },
+               "southwest" : {
+                  "lat" : 51.4679841,
+                  "lng" : -0.6601652
+               }
+            },
+            "location" : {
+               "lat" : 51.5103508,
+               "lng" : -0.5950219999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.538905,
+                  "lng" : -0.4900443
+               },
+               "southwest" : {
+                  "lat" : 51.4679841,
+                  "lng" : -0.6601652
+               }
+            }
+         },
+         "place_id" : "ChIJ35sYgq96dkgRkJ_toi2uDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

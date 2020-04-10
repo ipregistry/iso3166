@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Ostrobothnia",
+               "short_name" : "Northern Ostrobothnia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Ostrobothnia, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 66.4859336,
+                  "lng" : 30.1385341
+               },
+               "southwest" : {
+                  "lat" : 63.4291036,
+                  "lng" : 23.4428261
+               }
+            },
+            "location" : {
+               "lat" : 65.279493,
+               "lng" : 26.2890417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 66.4859336,
+                  "lng" : 30.1385341
+               },
+               "southwest" : {
+                  "lat" : 63.4291036,
+                  "lng" : 23.4428261
+               }
+            }
+         },
+         "place_id" : "ChIJvWWBESThgUYRfuw2g2OUEL0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Famagusta",
+               "short_name" : "Famagusta",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Famagusta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.1610736,
+                  "lng" : 33.9834379
+               },
+               "southwest" : {
+                  "lat" : 35.07774819999999,
+                  "lng" : 33.8844967
+               }
+            },
+            "location" : {
+               "lat" : 35.1149116,
+               "lng" : 33.919245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.1610736,
+                  "lng" : 33.9834379
+               },
+               "southwest" : {
+                  "lat" : 35.07774819999999,
+                  "lng" : 33.8844967
+               }
+            }
+         },
+         "place_id" : "ChIJPRZM2kLI3xQRh87TpcUD2yk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

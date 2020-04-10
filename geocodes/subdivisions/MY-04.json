@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malacca",
+               "short_name" : "Malacca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malacca",
+               "short_name" : "Malacca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malacca, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.3065749,
+                  "lng" : 102.3472987
+               },
+               "southwest" : {
+                  "lat" : 2.168183,
+                  "lng" : 102.1557088
+               }
+            },
+            "location" : {
+               "lat" : 2.189594,
+               "lng" : 102.2500868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.3065749,
+                  "lng" : 102.3472987
+               },
+               "southwest" : {
+                  "lat" : 2.168183,
+                  "lng" : 102.1557088
+               }
+            }
+         },
+         "place_id" : "ChIJ3WWMjifu0TERagGedoFyKgM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

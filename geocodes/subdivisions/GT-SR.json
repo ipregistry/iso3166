@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Rosa Department",
+               "short_name" : "Santa Rosa Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Rosa Department, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.5034576,
+                  "lng" : -90.0579094
+               },
+               "southwest" : {
+                  "lat" : 13.7888024,
+                  "lng" : -90.6752295
+               }
+            },
+            "location" : {
+               "lat" : 14.1928003,
+               "lng" : -90.37483540000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.5034576,
+                  "lng" : -90.0579094
+               },
+               "southwest" : {
+                  "lat" : 13.7888024,
+                  "lng" : -90.6752295
+               }
+            }
+         },
+         "place_id" : "ChIJfStjy1ETiIUR8F6irdEnZ40",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

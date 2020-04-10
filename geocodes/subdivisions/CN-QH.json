@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qinghai",
+               "short_name" : "Qinghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qinghai, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2083441,
+                  "lng" : 103.0709706
+               },
+               "southwest" : {
+                  "lat" : 31.5986622,
+                  "lng" : 89.40442449999999
+               }
+            },
+            "location" : {
+               "lat" : 35.744798,
+               "lng" : 96.4077358
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2083441,
+                  "lng" : 103.0709706
+               },
+               "southwest" : {
+                  "lat" : 31.5986622,
+                  "lng" : 89.40442449999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7Qtie5eHADcRv523fabL7Sg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

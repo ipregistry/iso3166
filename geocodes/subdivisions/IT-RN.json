@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rimini",
+               "short_name" : "Rimini",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rimini",
+               "short_name" : "Rimini",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Rimini",
+               "short_name" : "RN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rimini, Province of Rimini, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.088576,
+                  "lng" : 12.6322536
+               },
+               "southwest" : {
+                  "lat" : 44.0183507,
+                  "lng" : 12.5171204
+               }
+            },
+            "location" : {
+               "lat" : 44.0678288,
+               "lng" : 12.5695158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.088576,
+                  "lng" : 12.6322536
+               },
+               "southwest" : {
+                  "lat" : 44.0183507,
+                  "lng" : 12.5171204
+               }
+            }
+         },
+         "place_id" : "ChIJK1mmj6TDLBMRnUTxF9uE8sE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

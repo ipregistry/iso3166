@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tulcea",
+               "short_name" : "Tulcea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tulcea",
+               "short_name" : "Tulcea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tulcea County",
+               "short_name" : "TL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tulcea, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2010679,
+                  "lng" : 28.8334142
+               },
+               "southwest" : {
+                  "lat" : 45.1574314,
+                  "lng" : 28.7479162
+               }
+            },
+            "location" : {
+               "lat" : 45.1716165,
+               "lng" : 28.7914439
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2010679,
+                  "lng" : 28.8334142
+               },
+               "southwest" : {
+                  "lat" : 45.1574314,
+                  "lng" : 28.7479162
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtaoRuEhZt0ARKuSm2KBQbKE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

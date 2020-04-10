@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stavropol",
+               "short_name" : "Stavropol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorod Stavropol'",
+               "short_name" : "Gorod Stavropol'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Stavropol Krai",
+               "short_name" : "Stavropol Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stavropol, Stavropol Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.092675,
+                  "lng" : 42.06834
+               },
+               "southwest" : {
+                  "lat" : 44.98873,
+                  "lng" : 41.8936709
+               }
+            },
+            "location" : {
+               "lat" : 45.0361151,
+               "lng" : 41.958011
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.092675,
+                  "lng" : 42.06834
+               },
+               "southwest" : {
+                  "lat" : 44.98873,
+                  "lng" : 41.8936709
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ99nVP9ap-UAR8ry1G6QgyCk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

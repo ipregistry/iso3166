@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Širvintos",
+               "short_name" : "Širvintos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Širvintos District Municipality",
+               "short_name" : "Širvintos District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilnius County",
+               "short_name" : "Vilnius County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Širvintos, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.064667,
+                  "lng" : 24.9898979
+               },
+               "southwest" : {
+                  "lat" : 55.0289392,
+                  "lng" : 24.9128579
+               }
+            },
+            "location" : {
+               "lat" : 55.043102,
+               "lng" : 24.956981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.064667,
+                  "lng" : 24.9898979
+               },
+               "southwest" : {
+                  "lat" : 55.0289392,
+                  "lng" : 24.9128579
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJreNXTh6B3UYRxcZRZqqoWaY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

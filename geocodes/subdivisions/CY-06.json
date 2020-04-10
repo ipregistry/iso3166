@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyrenia",
+               "short_name" : "Kyrenia",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyrenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3505559,
+                  "lng" : 33.3389513
+               },
+               "southwest" : {
+                  "lat" : 35.3072807,
+                  "lng" : 33.28668590000001
+               }
+            },
+            "location" : {
+               "lat" : 35.3322825,
+               "lng" : 33.3195479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3505559,
+                  "lng" : 33.3389513
+               },
+               "southwest" : {
+                  "lat" : 35.3072807,
+                  "lng" : 33.28668590000001
+               }
+            }
+         },
+         "place_id" : "ChIJi4O9jUwT3hQR6_VuqOTMV-o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

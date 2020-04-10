@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sidi Kacem",
+               "short_name" : "Sidi Kacem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Ismailia",
+               "short_name" : "Al Ismailia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rabat-Salé-Kénitra",
+               "short_name" : "Rabat-Salé-Kénitra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sidi Kacem, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2681003,
+                  "lng" : -5.690773099999999
+               },
+               "southwest" : {
+                  "lat" : 34.2091506,
+                  "lng" : -5.756036099999999
+               }
+            },
+            "location" : {
+               "lat" : 34.2260172,
+               "lng" : -5.7129164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2681003,
+                  "lng" : -5.690773099999999
+               },
+               "southwest" : {
+                  "lat" : 34.2091506,
+                  "lng" : -5.756036099999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1z1HHXt9oA0R_g3v0czk2Ws",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

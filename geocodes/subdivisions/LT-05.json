@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Birštonas",
+               "short_name" : "Birštonas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birštonas Municipality",
+               "short_name" : "Birštonas Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaunas County",
+               "short_name" : "Kaunas County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Birštonas, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6242346,
+                  "lng" : 24.0685158
+               },
+               "southwest" : {
+                  "lat" : 54.5805139,
+                  "lng" : 23.9813939
+               }
+            },
+            "location" : {
+               "lat" : 54.60655089999999,
+               "lng" : 24.034789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6242346,
+                  "lng" : 24.0685158
+               },
+               "southwest" : {
+                  "lat" : 54.5805139,
+                  "lng" : 23.9813939
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5deaPIo150YRUNnpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

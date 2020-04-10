@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pohnpei",
+               "short_name" : "Pohnpei",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Pohnpei",
+               "short_name" : "Pohnpei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Federated States of Micronesia",
+               "short_name" : "FM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pohnpei, Federated States of Micronesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.9797386,
+                  "lng" : 158.3381295
+               },
+               "southwest" : {
+                  "lat" : 6.783986899999999,
+                  "lng" : 158.1110678
+               }
+            },
+            "location" : {
+               "lat" : 6.8921132,
+               "lng" : 158.2146857
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.9797386,
+                  "lng" : 158.3381295
+               },
+               "southwest" : {
+                  "lat" : 6.783986899999999,
+                  "lng" : 158.1110678
+               }
+            }
+         },
+         "place_id" : "ChIJj1HQOcW12WUReEu_ECmMK4M",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

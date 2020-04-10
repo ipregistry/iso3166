@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Resen",
+               "short_name" : "Resen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Resen",
+               "short_name" : "Municipality of Resen",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Resen, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0996959,
+                  "lng" : 21.0292053
+               },
+               "southwest" : {
+                  "lat" : 41.0795937,
+                  "lng" : 20.9988428
+               }
+            },
+            "location" : {
+               "lat" : 41.0902853,
+               "lng" : 21.0132542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0996959,
+                  "lng" : 21.0292053
+               },
+               "southwest" : {
+                  "lat" : 41.0795937,
+                  "lng" : 20.9988428
+               }
+            }
+         },
+         "place_id" : "ChIJX1S5M83TUBMR3gBZp6wgrOc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

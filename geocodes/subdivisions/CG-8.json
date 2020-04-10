@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cuvette",
+               "short_name" : "Cuvette",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Republic of the Congo",
+               "short_name" : "CG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cuvette, Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.453031,
+                  "lng" : 17.55315
+               },
+               "southwest" : {
+                  "lat" : -2.028305,
+                  "lng" : 14.349458
+               }
+            },
+            "location" : {
+               "lat" : -0.2877446,
+               "lng" : 16.1580937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.453031,
+                  "lng" : 17.55315
+               },
+               "southwest" : {
+                  "lat" : -2.028305,
+                  "lng" : 14.349458
+               }
+            }
+         },
+         "place_id" : "ChIJYcvzhnskdhoRviMti3E6dio",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

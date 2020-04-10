@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangka Belitung Islands",
+               "short_name" : "Bangka Belitung Islands",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangka Belitung Islands, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.5006169,
+                  "lng" : 108.8480211
+               },
+               "southwest" : {
+                  "lat" : -3.4165348,
+                  "lng" : 105.1083959
+               }
+            },
+            "location" : {
+               "lat" : -2.7410513,
+               "lng" : 106.4405872
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.5006169,
+                  "lng" : 108.8480211
+               },
+               "southwest" : {
+                  "lat" : -3.4165348,
+                  "lng" : 105.1083959
+               }
+            }
+         },
+         "place_id" : "ChIJizmlLUMWFy4RuSOEsf04fhI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

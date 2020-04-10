@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prilep",
+               "short_name" : "Prilep",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Prilep",
+               "short_name" : "Municipality of Prilep",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prilep, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.36455429999999,
+                  "lng" : 21.5810538
+               },
+               "southwest" : {
+                  "lat" : 41.3232656,
+                  "lng" : 21.5153933
+               }
+            },
+            "location" : {
+               "lat" : 41.3440827,
+               "lng" : 21.5527922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.36455429999999,
+                  "lng" : 21.5810538
+               },
+               "southwest" : {
+                  "lat" : 41.3232656,
+                  "lng" : 21.5153933
+               }
+            }
+         },
+         "place_id" : "ChIJh5fbffHrVhMRwVAh-wYek-U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

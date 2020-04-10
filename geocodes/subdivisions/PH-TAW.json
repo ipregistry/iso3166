@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tawi Tawi Island",
+               "short_name" : "Tawi Tawi Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Bayan ng Panglima Sugala",
+               "short_name" : "Bayan ng Panglima Sugala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lalawigan ng Tawi-Tawi",
+               "short_name" : "Lalawigan ng Tawi-Tawi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rehiyong Awtonomo sa Muslim na Mindanao",
+               "short_name" : "ARMM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tawi Tawi Island, Bayan ng Panglima Sugala, Lalawigan ng Tawi-Tawi, Philippines",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2544444,
+               "lng" : 120.1558333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.265555399999999,
+                  "lng" : 120.1718407
+               },
+               "southwest" : {
+                  "lat" : 5.243333199999999,
+                  "lng" : 120.1398259
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8WXn_P5fQTIR2qyz8UBzkEk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

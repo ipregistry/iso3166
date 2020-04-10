@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ngora",
+               "short_name" : "Ngora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumi",
+               "short_name" : "Kumi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ngora, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.4607658,
+                  "lng" : 33.7829589
+               },
+               "southwest" : {
+                  "lat" : 1.4536442,
+                  "lng" : 33.7730026
+               }
+            },
+            "location" : {
+               "lat" : 1.4569467,
+               "lng" : 33.778309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.4607658,
+                  "lng" : 33.7829589
+               },
+               "southwest" : {
+                  "lat" : 1.4536442,
+                  "lng" : 33.7730026
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4RRGR4oBeRcRhLLVQDaLikk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

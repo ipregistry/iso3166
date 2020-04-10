@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sool",
+               "short_name" : "Sool",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sool, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.778229999999999,
+                  "lng" : 48.973164
+               },
+               "southwest" : {
+                  "lat" : 7.999999899999999,
+                  "lng" : 45.982599
+               }
+            },
+            "location" : {
+               "lat" : 8.722155599999999,
+               "lng" : 47.7637565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.778229999999999,
+                  "lng" : 48.973164
+               },
+               "southwest" : {
+                  "lat" : 7.999999899999999,
+                  "lng" : 45.982599
+               }
+            }
+         },
+         "place_id" : "ChIJUbu0vZ6MnD0RrMIiomXgw6Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

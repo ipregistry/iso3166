@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolton",
+               "short_name" : "Bolton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolton",
+               "short_name" : "Bolton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bolton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6329985,
+                  "lng" : -2.3630087
+               },
+               "southwest" : {
+                  "lat" : 53.5466579,
+                  "lng" : -2.5456287
+               }
+            },
+            "location" : {
+               "lat" : 53.57686469999999,
+               "lng" : -2.4282192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6329985,
+                  "lng" : -2.3630087
+               },
+               "southwest" : {
+                  "lat" : 53.5466579,
+                  "lng" : -2.5456287
+               }
+            }
+         },
+         "place_id" : "ChIJkxw73CkGe0gRInhV_voMpMo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Telimele",
+               "short_name" : "Telimele",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Télimélé Prefecture",
+               "short_name" : "Télimélé Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mamou",
+               "short_name" : "Mamou",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Telimele, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.9323432,
+                  "lng" : -13.0202578
+               },
+               "southwest" : {
+                  "lat" : 10.8810167,
+                  "lng" : -13.0482388
+               }
+            },
+            "location" : {
+               "lat" : 10.9089364,
+               "lng" : -13.0299331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9323432,
+                  "lng" : -13.0202578
+               },
+               "southwest" : {
+                  "lat" : 10.8810167,
+                  "lng" : -13.0482388
+               }
+            }
+         },
+         "place_id" : "ChIJsVcBUYoa_Q4RSe6ExSqt38U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

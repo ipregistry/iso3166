@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sogn og Fjordane",
+               "short_name" : "Sogn og Fjordane",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Vestland",
+               "short_name" : "Vestland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sogn og Fjordane, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.3823947,
+                  "lng" : 8.3220531
+               },
+               "southwest" : {
+                  "lat" : 60.6755474,
+                  "lng" : 4.0875274
+               }
+            },
+            "location" : {
+               "lat" : 61.5539435,
+               "lng" : 6.3325879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.3823947,
+                  "lng" : 8.3220531
+               },
+               "southwest" : {
+                  "lat" : 60.6755474,
+                  "lng" : 4.0875274
+               }
+            }
+         },
+         "place_id" : "ChIJV0B3ZQ2PFUYRqoPY9SVSELs",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

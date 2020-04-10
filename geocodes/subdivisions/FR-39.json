@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jura",
+               "short_name" : "Jura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bourgogne-Franche-Comté",
+               "short_name" : "Bourgogne-Franche-Comté",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jura, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.30594379999999,
+                  "lng" : 6.207189
+               },
+               "southwest" : {
+                  "lat" : 46.260695,
+                  "lng" : 5.251316
+               }
+            },
+            "location" : {
+               "lat" : 46.76247499999999,
+               "lng" : 5.6729159
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.30594379999999,
+                  "lng" : 6.207189
+               },
+               "southwest" : {
+                  "lat" : 46.260695,
+                  "lng" : 5.251316
+               }
+            }
+         },
+         "place_id" : "ChIJQxu3PkkijUcR8CcNszTOCQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

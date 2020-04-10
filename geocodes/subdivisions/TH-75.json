@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samut Songkhram",
+               "short_name" : "Samut Songkhram",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samut Songkhram, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5147972,
+                  "lng" : 100.0787194
+               },
+               "southwest" : {
+                  "lat" : 13.2375277,
+                  "lng" : 99.84554179999999
+               }
+            },
+            "location" : {
+               "lat" : 13.4098217,
+               "lng" : 100.0022645
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5147972,
+                  "lng" : 100.0787194
+               },
+               "southwest" : {
+                  "lat" : 13.2375277,
+                  "lng" : 99.84554179999999
+               }
+            }
+         },
+         "place_id" : "ChIJn3d2FzvU4jARN7JVQf87eJg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

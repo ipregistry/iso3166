@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bohinj",
+               "short_name" : "Bohinj",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Bohinjska Bistrica",
+               "short_name" : "Bohinjska Bistrica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Radovljica",
+               "short_name" : "Radovljica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4264",
+               "short_name" : "4264",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bohinj, 4264 Bohinjska Bistrica, Slovenia",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.27465660000001,
+               "lng" : 13.9460954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2823685,
+                  "lng" : 13.9621028
+               },
+               "southwest" : {
+                  "lat" : 46.2669436,
+                  "lng" : 13.930088
+               }
+            }
+         },
+         "place_id" : "ChIJhYQBZ67yekcRroYcPIRWjYY",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

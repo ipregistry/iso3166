@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monastir",
+               "short_name" : "Monastir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monastir",
+               "short_name" : "Monastir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Monastir",
+               "short_name" : "Monastir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monastir, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.788089,
+                  "lng" : 10.8438063
+               },
+               "southwest" : {
+                  "lat" : 35.7204547,
+                  "lng" : 10.7770729
+               }
+            },
+            "location" : {
+               "lat" : 35.7642515,
+               "lng" : 10.8112885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.788089,
+                  "lng" : 10.8438063
+               },
+               "southwest" : {
+                  "lat" : 35.7204547,
+                  "lng" : 10.7770729
+               }
+            }
+         },
+         "place_id" : "ChIJWU90HbYSAhMR70A-HT50hPI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

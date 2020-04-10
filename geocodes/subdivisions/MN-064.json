@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sumber",
+               "short_name" : "Sumber",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Govisümber",
+               "short_name" : "Govisümber",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sumber, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9630921,
+                  "lng" : 109.0998173
+               },
+               "southwest" : {
+                  "lat" : 45.9556848,
+                  "lng" : 108.20117
+               }
+            },
+            "location" : {
+               "lat" : 46.441588,
+               "lng" : 108.7627609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9630921,
+                  "lng" : 109.0998173
+               },
+               "southwest" : {
+                  "lat" : 45.9556848,
+                  "lng" : 108.20117
+               }
+            }
+         },
+         "place_id" : "ChIJ4eQ5aAIi7V0R7RqCzCz5TFQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

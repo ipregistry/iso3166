@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tatabánya",
+               "short_name" : "Tatabánya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2800",
+               "short_name" : "2800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tatabánya, 2800 Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6096499,
+                  "lng" : 18.4973549
+               },
+               "southwest" : {
+                  "lat" : 47.48642599999999,
+                  "lng" : 18.3379901
+               }
+            },
+            "location" : {
+               "lat" : 47.569246,
+               "lng" : 18.404818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6096499,
+                  "lng" : 18.4973549
+               },
+               "southwest" : {
+                  "lat" : 47.48642599999999,
+                  "lng" : 18.3379901
+               }
+            }
+         },
+         "place_id" : "ChIJhw6XrnlAakcRgBIeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

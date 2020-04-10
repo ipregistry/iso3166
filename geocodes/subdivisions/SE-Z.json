@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jamtland County",
+               "short_name" : "Jamtland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jamtland County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.072469,
+                  "lng" : 17.0648909
+               },
+               "southwest" : {
+                  "lat" : 61.569695,
+                  "lng" : 11.9745822
+               }
+            },
+            "location" : {
+               "lat" : 63.1711922,
+               "lng" : 14.95918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.072469,
+                  "lng" : 17.0648909
+               },
+               "southwest" : {
+                  "lat" : 61.569695,
+                  "lng" : 11.9745822
+               }
+            }
+         },
+         "place_id" : "ChIJkTD51Ea4b0YRd2z75PmgOZI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

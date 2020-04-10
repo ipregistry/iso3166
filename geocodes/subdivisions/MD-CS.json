@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Causeni",
+               "short_name" : "Causeni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Căușeni District",
+               "short_name" : "Căușeni District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Causeni, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.676974,
+                  "lng" : 29.4534873
+               },
+               "southwest" : {
+                  "lat" : 46.6192316,
+                  "lng" : 29.3819903
+               }
+            },
+            "location" : {
+               "lat" : 46.6554715,
+               "lng" : 29.4091222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.676974,
+                  "lng" : 29.4534873
+               },
+               "southwest" : {
+                  "lat" : 46.6192316,
+                  "lng" : 29.3819903
+               }
+            }
+         },
+         "place_id" : "ChIJa4_4A-msyUARN6v8kDo9CiM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

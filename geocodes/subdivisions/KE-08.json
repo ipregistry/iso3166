@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Homa Bay",
+               "short_name" : "Homa Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Homa Bay County",
+               "short_name" : "Homa Bay County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Homa Bay, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.506652,
+                  "lng" : 34.484024
+               },
+               "southwest" : {
+                  "lat" : -0.5711938,
+                  "lng" : 34.4135141
+               }
+            },
+            "location" : {
+               "lat" : -0.5350427,
+               "lng" : 34.4530968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.506652,
+                  "lng" : 34.484024
+               },
+               "southwest" : {
+                  "lat" : -0.5711938,
+                  "lng" : 34.4135141
+               }
+            }
+         },
+         "place_id" : "ChIJ_90jxffU1BkRET4aN7On1sM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

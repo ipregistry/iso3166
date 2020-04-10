@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vianden",
+               "short_name" : "Vianden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vianden",
+               "short_name" : "Vianden",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Diekirch",
+               "short_name" : "Diekirch",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vianden, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.96869,
+                  "lng" : 6.227289900000001
+               },
+               "southwest" : {
+                  "lat" : 49.92277,
+                  "lng" : 6.1498601
+               }
+            },
+            "location" : {
+               "lat" : 49.9341924,
+               "lng" : 6.2019917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.96869,
+                  "lng" : 6.227289900000001
+               },
+               "southwest" : {
+                  "lat" : 49.92277,
+                  "lng" : 6.1498601
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuSw614b7v0cRYHQF0dbRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

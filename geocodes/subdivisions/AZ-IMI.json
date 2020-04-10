@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imishli",
+               "short_name" : "Imishli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Imishli",
+               "short_name" : "Imishli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Imishli, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8917536,
+                  "lng" : 48.1096519
+               },
+               "southwest" : {
+                  "lat" : 39.8378046,
+                  "lng" : 48.0193521
+               }
+            },
+            "location" : {
+               "lat" : 39.8694686,
+               "lng" : 48.0665218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8917536,
+                  "lng" : 48.1096519
+               },
+               "southwest" : {
+                  "lat" : 39.8378046,
+                  "lng" : 48.0193521
+               }
+            }
+         },
+         "place_id" : "ChIJS2FapA12PEARW1bHid0UANc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

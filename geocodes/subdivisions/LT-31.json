@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palanga",
+               "short_name" : "Palanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palanga City Municipality",
+               "short_name" : "Palanga City Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Klaipėda County",
+               "short_name" : "Klaipėda County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palanga, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0773384,
+                  "lng" : 21.1397357
+               },
+               "southwest" : {
+                  "lat" : 55.8549558,
+                  "lng" : 21.048823
+               }
+            },
+            "location" : {
+               "lat" : 55.920198,
+               "lng" : 21.0677614
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0773384,
+                  "lng" : 21.1397357
+               },
+               "southwest" : {
+                  "lat" : 55.8549558,
+                  "lng" : 21.048823
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw87HFzIp5UYRmdP3marLBAY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

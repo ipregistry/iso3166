@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Republic of Khakassia",
+               "short_name" : "Republic of Khakassia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Republic of Khakassia, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.383885,
+                  "lng" : 91.936115
+               },
+               "southwest" : {
+                  "lat" : 51.284197,
+                  "lng" : 87.8565759
+               }
+            },
+            "location" : {
+               "lat" : 53.0452281,
+               "lng" : 90.39821449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.383885,
+                  "lng" : 91.936115
+               },
+               "southwest" : {
+                  "lat" : 51.284197,
+                  "lng" : 87.8565759
+               }
+            }
+         },
+         "place_id" : "ChIJqRn0IdrV0kIRJ5t1SFWUjE8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

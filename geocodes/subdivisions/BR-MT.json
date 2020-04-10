@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Mato Grosso",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Mato Grosso, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.349037199999999,
+                  "lng" : -50.2247999
+               },
+               "southwest" : {
+                  "lat" : -18.0420517,
+                  "lng" : -61.63319459999999
+               }
+            },
+            "location" : {
+               "lat" : -12.6818712,
+               "lng" : -56.921099
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.349037199999999,
+                  "lng" : -50.2247999
+               },
+               "southwest" : {
+                  "lat" : -18.0420517,
+                  "lng" : -61.63319459999999
+               }
+            }
+         },
+         "place_id" : "ChIJGQM3SOexnZMR-4EhfeJoYsY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

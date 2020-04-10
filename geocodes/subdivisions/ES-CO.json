@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Córdoba",
+               "short_name" : "Córdoba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Córdoba",
+               "short_name" : "Córdoba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Córdoba, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9272788,
+                  "lng" : -4.7461769
+               },
+               "southwest" : {
+                  "lat" : 37.85581,
+                  "lng" : -4.8227937
+               }
+            },
+            "location" : {
+               "lat" : 37.8881751,
+               "lng" : -4.7793835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9272788,
+                  "lng" : -4.7461769
+               },
+               "southwest" : {
+                  "lat" : 37.85581,
+                  "lng" : -4.8227937
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7wpe-SbfbA0Rw1aEEOjS8U0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

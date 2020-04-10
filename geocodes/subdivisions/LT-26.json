@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mažeikiai",
+               "short_name" : "Mažeikiai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mažeikiai District Municipality",
+               "short_name" : "Mažeikiai District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telšiai County",
+               "short_name" : "Telšiai County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mažeikiai, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3449511,
+                  "lng" : 22.3748091
+               },
+               "southwest" : {
+                  "lat" : 56.282095,
+                  "lng" : 22.2898539
+               }
+            },
+            "location" : {
+               "lat" : 56.3092439,
+               "lng" : 22.341468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3449511,
+                  "lng" : 22.3748091
+               },
+               "southwest" : {
+                  "lat" : 56.282095,
+                  "lng" : 22.2898539
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7VfQfml-5UYRhz8HcNkiBKs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

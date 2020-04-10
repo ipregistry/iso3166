@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Castile-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Castile-La Mancha, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3276321,
+                  "lng" : -0.9157931999999999
+               },
+               "southwest" : {
+                  "lat" : 38.0224402,
+                  "lng" : -5.4061835
+               }
+            },
+            "location" : {
+               "lat" : 39.2795607,
+               "lng" : -3.097702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3276321,
+                  "lng" : -0.9157931999999999
+               },
+               "southwest" : {
+                  "lat" : 38.0224402,
+                  "lng" : -5.4061835
+               }
+            }
+         },
+         "place_id" : "ChIJK6f5rcBfZg0R0rZyF5O64Ts",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhône",
+               "short_name" : "Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rhône, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.30650199999999,
+                  "lng" : 5.1601089
+               },
+               "southwest" : {
+                  "lat" : 45.45413,
+                  "lng" : 4.243647
+               }
+            },
+            "location" : {
+               "lat" : 45.7351456,
+               "lng" : 4.6108043
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.30650199999999,
+                  "lng" : 5.1601089
+               },
+               "southwest" : {
+                  "lat" : 45.45413,
+                  "lng" : 4.243647
+               }
+            }
+         },
+         "place_id" : "ChIJcf_obOGN9EcR0Cm55CqrCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

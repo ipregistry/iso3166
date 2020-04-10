@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Bahia, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.532822899999999,
+                  "lng" : -37.3480414
+               },
+               "southwest" : {
+                  "lat" : -18.3359755,
+                  "lng" : -46.6170906
+               }
+            },
+            "location" : {
+               "lat" : -12.579738,
+               "lng" : -41.7007272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.532822899999999,
+                  "lng" : -37.3480414
+               },
+               "southwest" : {
+                  "lat" : -18.3359755,
+                  "lng" : -46.6170906
+               }
+            }
+         },
+         "place_id" : "ChIJs6U8onwDFgcRBe2RtF9vkn4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

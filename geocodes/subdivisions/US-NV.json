@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nevada, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.002207,
+                  "lng" : -114.0396479
+               },
+               "southwest" : {
+                  "lat" : 35.001857,
+                  "lng" : -120.0064729
+               }
+            },
+            "location" : {
+               "lat" : 38.8026097,
+               "lng" : -116.419389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.002207,
+                  "lng" : -114.0396479
+               },
+               "southwest" : {
+                  "lat" : 35.001857,
+                  "lng" : -120.0064729
+               }
+            }
+         },
+         "place_id" : "ChIJcbTe-KEKmYARs5X8qooDR88",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

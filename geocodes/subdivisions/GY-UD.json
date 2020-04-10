@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Demerara-Berbice",
+               "short_name" : "Upper Demerara-Berbice",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guyana",
+               "short_name" : "GY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Demerara-Berbice, Guyana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.508296100000001,
+                  "lng" : -57.63137390000001
+               },
+               "southwest" : {
+                  "lat" : 4.601077,
+                  "lng" : -58.8706361
+               }
+            },
+            "location" : {
+               "lat" : 5.3064879,
+               "lng" : -58.18929209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.508296100000001,
+                  "lng" : -57.63137390000001
+               },
+               "southwest" : {
+                  "lat" : 4.601077,
+                  "lng" : -58.8706361
+               }
+            }
+         },
+         "place_id" : "ChIJEa5w26hWo40RkLByztM0O9g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

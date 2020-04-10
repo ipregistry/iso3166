@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hubei",
+               "short_name" : "Hubei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hubei, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.275616,
+                  "lng" : 116.1351876
+               },
+               "southwest" : {
+                  "lat" : 29.0294881,
+                  "lng" : 108.3669642
+               }
+            },
+            "location" : {
+               "lat" : 30.7378118,
+               "lng" : 112.2384017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.275616,
+                  "lng" : 116.1351876
+               },
+               "southwest" : {
+                  "lat" : 29.0294881,
+                  "lng" : 108.3669642
+               }
+            }
+         },
+         "place_id" : "ChIJb_KF3fiuLjQRPpKqljdJeeU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

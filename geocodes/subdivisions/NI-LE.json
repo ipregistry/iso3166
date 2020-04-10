@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leon",
+               "short_name" : "Leon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "León, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.4609659,
+                  "lng" : -86.8434048
+               },
+               "southwest" : {
+                  "lat" : 12.4068414,
+                  "lng" : -86.9207529
+               }
+            },
+            "location" : {
+               "lat" : 12.4342803,
+               "lng" : -86.88052189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.4609659,
+                  "lng" : -86.8434048
+               },
+               "southwest" : {
+                  "lat" : 12.4068414,
+                  "lng" : -86.9207529
+               }
+            }
+         },
+         "place_id" : "ChIJd3qPu5IfcY8RPDHqZG_AtTo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

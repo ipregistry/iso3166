@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prostějov",
+               "short_name" : "Prostějov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prostějov District",
+               "short_name" : "Prostějov District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Olomouc Region",
+               "short_name" : "Olomouc Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prostějov, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.50379179999999,
+                  "lng" : 17.1843346
+               },
+               "southwest" : {
+                  "lat" : 49.4243069,
+                  "lng" : 17.0362884
+               }
+            },
+            "location" : {
+               "lat" : 49.4724489,
+               "lng" : 17.1067513
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.50379179999999,
+                  "lng" : 17.1843346
+               },
+               "southwest" : {
+                  "lat" : 49.4243069,
+                  "lng" : 17.0362884
+               }
+            }
+         },
+         "place_id" : "ChIJx5PTU0RXEkcRovtBexKZrfI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

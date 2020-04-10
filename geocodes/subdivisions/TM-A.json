@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ahal",
+               "short_name" : "Ahal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkmenistan",
+               "short_name" : "TM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ahal, Turkmenistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.197323,
+                  "lng" : 61.51145510000001
+               },
+               "southwest" : {
+                  "lat" : 35.58967,
+                  "lng" : 56.723392
+               }
+            },
+            "location" : {
+               "lat" : 38.6399398,
+               "lng" : 59.4720904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.197323,
+                  "lng" : 61.51145510000001
+               },
+               "southwest" : {
+                  "lat" : 35.58967,
+                  "lng" : 56.723392
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEX3vZloKZT8RLueEJqTQ7pU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

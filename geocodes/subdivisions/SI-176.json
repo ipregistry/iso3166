@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Razkrižje",
+               "short_name" : "Razkrižje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ljutomer",
+               "short_name" : "Ljutomer",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ljutomer",
+               "short_name" : "Ljutomer",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9240",
+               "short_name" : "9240",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9240 Razkrižje, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.538927,
+                  "lng" : 16.2829085
+               },
+               "southwest" : {
+                  "lat" : 46.5141574,
+                  "lng" : 16.2642234
+               }
+            },
+            "location" : {
+               "lat" : 46.5246331,
+               "lng" : 16.27627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.538927,
+                  "lng" : 16.2829085
+               },
+               "southwest" : {
+                  "lat" : 46.5141574,
+                  "lng" : 16.2642234
+               }
+            }
+         },
+         "place_id" : "ChIJUTs8iM9Ib0cR7SGNdoYO_3I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

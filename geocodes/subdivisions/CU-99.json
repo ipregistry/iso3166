@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isla de la Juventud",
+               "short_name" : "Isla de la Juventud",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Isla de Pinos",
+               "short_name" : "Isla de Pinos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Isla de la Juventud",
+               "short_name" : "Isla de la Juventud",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isla de la Juventud, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.9435016,
+                  "lng" : -82.54073369999999
+               },
+               "southwest" : {
+                  "lat" : 21.4382502,
+                  "lng" : -83.1925464
+               }
+            },
+            "location" : {
+               "lat" : 21.7084737,
+               "lng" : -82.82202319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.9435016,
+                  "lng" : -82.54073369999999
+               },
+               "southwest" : {
+                  "lat" : 21.4382502,
+                  "lng" : -83.1925464
+               }
+            }
+         },
+         "place_id" : "ChIJy7y6aZVVMo8RRpZSJEwY0gU",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Serua",
+               "short_name" : "Serua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Division",
+               "short_name" : "Central Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Serua, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.9545661,
+                  "lng" : 178.2034087
+               },
+               "southwest" : {
+                  "lat" : -18.2792363,
+                  "lng" : 177.8473663
+               }
+            },
+            "location" : {
+               "lat" : -18.1804749,
+               "lng" : 178.050979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.9545661,
+                  "lng" : 178.2034087
+               },
+               "southwest" : {
+                  "lat" : -18.2792363,
+                  "lng" : 177.8473663
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk57oJrsoGm4RNvn2u4xDeYE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

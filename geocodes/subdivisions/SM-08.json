@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montegiardino",
+               "short_name" : "Montegiardino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Marino",
+               "short_name" : "SM",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47898",
+               "short_name" : "47898",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "47898 Montegiardino, San Marino",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9119125,
+                  "lng" : 12.4898347
+               },
+               "southwest" : {
+                  "lat" : 43.9061677,
+                  "lng" : 12.4802671
+               }
+            },
+            "location" : {
+               "lat" : 43.9097318,
+               "lng" : 12.4863344
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9119125,
+                  "lng" : 12.4898347
+               },
+               "southwest" : {
+                  "lat" : 43.9061677,
+                  "lng" : 12.4802671
+               }
+            }
+         },
+         "place_id" : "ChIJnz2dIFbsLBMRAGc42JYDCRU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

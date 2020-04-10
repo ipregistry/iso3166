@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turnišče",
+               "short_name" : "Turnišče",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turnišče",
+               "short_name" : "Turnišče",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lendava",
+               "short_name" : "Lendava",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9224",
+               "short_name" : "9224",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9224 Turnišče, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6432698,
+                  "lng" : 16.3358325
+               },
+               "southwest" : {
+                  "lat" : 46.6098349,
+                  "lng" : 16.2645197
+               }
+            },
+            "location" : {
+               "lat" : 46.625456,
+               "lng" : 16.3144961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6432698,
+                  "lng" : 16.3358325
+               },
+               "southwest" : {
+                  "lat" : 46.6098349,
+                  "lng" : 16.2645197
+               }
+            }
+         },
+         "place_id" : "ChIJn5EDAIQ3b0cRa56-rWF2qVY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

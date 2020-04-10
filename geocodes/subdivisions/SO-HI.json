@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hiran",
+               "short_name" : "Hiran",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hiran, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.454314,
+                  "lng" : 46.361508
+               },
+               "southwest" : {
+                  "lat" : 3.3195169,
+                  "lng" : 44.4159971
+               }
+            },
+            "location" : {
+               "lat" : 4.321015,
+               "lng" : 45.29938620000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.454314,
+                  "lng" : 46.361508
+               },
+               "southwest" : {
+                  "lat" : 3.3195169,
+                  "lng" : 44.4159971
+               }
+            }
+         },
+         "place_id" : "ChIJheecZ4iiYT0RSzyjqMMC5fc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Louis",
+               "short_name" : "St Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint-Louis",
+               "short_name" : "Saint-Louis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saint-Louis Region",
+               "short_name" : "Saint-Louis Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Louis, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.0760986,
+                  "lng" : -16.403041
+               },
+               "southwest" : {
+                  "lat" : 15.9638125,
+                  "lng" : -16.5135574
+               }
+            },
+            "location" : {
+               "lat" : 16.0326307,
+               "lng" : -16.4818167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.0760986,
+                  "lng" : -16.403041
+               },
+               "southwest" : {
+                  "lat" : 15.9638125,
+                  "lng" : -16.5135574
+               }
+            }
+         },
+         "place_id" : "ChIJBegeFFVWlQ4RZH5q8xIdHek",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

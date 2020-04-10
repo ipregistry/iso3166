@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Armenia",
+               "short_name" : "AM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Armenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.300993,
+                  "lng" : 46.6342219
+               },
+               "southwest" : {
+                  "lat" : 38.840244,
+                  "lng" : 43.4472601
+               }
+            },
+            "location" : {
+               "lat" : 40.069099,
+               "lng" : 45.038189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.300993,
+                  "lng" : 46.6342219
+               },
+               "southwest" : {
+                  "lat" : 38.840244,
+                  "lng" : 43.4472601
+               }
+            }
+         },
+         "place_id" : "ChIJx7pz54RWFUARIy2C63p1tNA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

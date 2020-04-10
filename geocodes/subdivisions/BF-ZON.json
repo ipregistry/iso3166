@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zandoma",
+               "short_name" : "Zandoma",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord Region",
+               "short_name" : "Nord Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zandoma, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.35255,
+                  "lng" : -2.0683491
+               },
+               "southwest" : {
+                  "lat" : 12.9534151,
+                  "lng" : -2.7272621
+               }
+            },
+            "location" : {
+               "lat" : 13.1165926,
+               "lng" : -2.4208713
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.35255,
+                  "lng" : -2.0683491
+               },
+               "southwest" : {
+                  "lat" : 12.9534151,
+                  "lng" : -2.7272621
+               }
+            }
+         },
+         "place_id" : "ChIJLz6ybfzdLw4R63k0D1HjVX0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

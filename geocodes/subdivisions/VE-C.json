@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rio Apure",
+               "short_name" : "Rio Apure",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rio Apure, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.1080395,
+                  "lng" : -66.3795356
+               },
+               "southwest" : {
+                  "lat" : 7.11515,
+                  "lng" : -72.2482225
+               }
+            },
+            "location" : {
+               "lat" : 7.9363148,
+               "lng" : -69.55914919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.1080395,
+                  "lng" : -66.3795356
+               },
+               "southwest" : {
+                  "lat" : 7.11515,
+                  "lng" : -72.2482225
+               }
+            }
+         },
+         "place_id" : "ChIJ_yIzeQKSb44RTNgcuC8TMIo",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

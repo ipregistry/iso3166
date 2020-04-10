@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zagreb County",
+               "short_name" : "Zagreb County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zagreb County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0695047,
+                  "lng" : 16.7137865
+               },
+               "southwest" : {
+                  "lat" : 45.4676982,
+                  "lng" : 15.3262593
+               }
+            },
+            "location" : {
+               "lat" : 45.8706612,
+               "lng" : 16.395491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0695047,
+                  "lng" : 16.7137865
+               },
+               "southwest" : {
+                  "lat" : 45.4676982,
+                  "lng" : 15.3262593
+               }
+            }
+         },
+         "place_id" : "ChIJe_jnWFN_ZkcRILQrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

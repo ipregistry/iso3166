@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tillabéri",
+               "short_name" : "Tillabéri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tillaberi",
+               "short_name" : "Tillaberi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tillabéri Region",
+               "short_name" : "Tillabéri Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Niger",
+               "short_name" : "NE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tillabéri, Niger",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.2199013,
+                  "lng" : 1.4675031
+               },
+               "southwest" : {
+                  "lat" : 14.1946043,
+                  "lng" : 1.4456568
+               }
+            },
+            "location" : {
+               "lat" : 14.2061141,
+               "lng" : 1.4579696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.2199013,
+                  "lng" : 1.4675031
+               },
+               "southwest" : {
+                  "lat" : 14.1946043,
+                  "lng" : 1.4456568
+               }
+            }
+         },
+         "place_id" : "ChIJZ1VCwRM02hERB1iOre9Nkx0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

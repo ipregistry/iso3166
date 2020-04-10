@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Feni",
+               "short_name" : "Feni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Feni District",
+               "short_name" : "Feni District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Feni, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.0292196,
+                  "lng" : 91.41345679999999
+               },
+               "southwest" : {
+                  "lat" : 22.9956102,
+                  "lng" : 91.3842042
+               }
+            },
+            "location" : {
+               "lat" : 23.0159132,
+               "lng" : 91.39758309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0292196,
+                  "lng" : 91.41345679999999
+               },
+               "southwest" : {
+                  "lat" : 22.9956102,
+                  "lng" : 91.3842042
+               }
+            }
+         },
+         "place_id" : "ChIJ91KjiJ5CUzcRiDvwdstHld8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

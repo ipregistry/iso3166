@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Far North",
+               "short_name" : "Far North",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Far North, Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0833345,
+                  "lng" : 15.6807401
+               },
+               "southwest" : {
+                  "lat" : 9.937315,
+                  "lng" : 13.3660755
+               }
+            },
+            "location" : {
+               "lat" : 10.6315589,
+               "lng" : 14.6587821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0833345,
+                  "lng" : 15.6807401
+               },
+               "southwest" : {
+                  "lat" : 9.937315,
+                  "lng" : 13.3660755
+               }
+            }
+         },
+         "place_id" : "ChIJN67D-yJtHBERbwYZUxIq0Zo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

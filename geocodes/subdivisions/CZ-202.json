@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beroun",
+               "short_name" : "Beroun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beroun District",
+               "short_name" : "Beroun District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "266 01",
+               "short_name" : "266 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "266 01 Beroun, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0035105,
+                  "lng" : 14.1397301
+               },
+               "southwest" : {
+                  "lat" : 49.9330683,
+                  "lng" : 14.023019
+               }
+            },
+            "location" : {
+               "lat" : 49.9672047,
+               "lng" : 14.0862836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0035105,
+                  "lng" : 14.1397301
+               },
+               "southwest" : {
+                  "lat" : 49.9330683,
+                  "lng" : 14.023019
+               }
+            }
+         },
+         "place_id" : "ChIJP7q7Wj6lC0cRMLoUZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

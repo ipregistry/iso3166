@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ariana",
+               "short_name" : "Ariana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ariana",
+               "short_name" : "Ariana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ariana",
+               "short_name" : "Ariana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ariana, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.8971086,
+                  "lng" : 10.2028334
+               },
+               "southwest" : {
+                  "lat" : 36.8406075,
+                  "lng" : 10.1378864
+               }
+            },
+            "location" : {
+               "lat" : 36.8665367,
+               "lng" : 10.1647233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.8971086,
+                  "lng" : 10.2028334
+               },
+               "southwest" : {
+                  "lat" : 36.8406075,
+                  "lng" : 10.1378864
+               }
+            }
+         },
+         "place_id" : "ChIJ8xtHMU7L4hIRmCGEzvtevGU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

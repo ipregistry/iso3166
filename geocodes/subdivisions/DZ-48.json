@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Relizane",
+               "short_name" : "Relizane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Relizane",
+               "short_name" : "Relizane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Relizane Province",
+               "short_name" : "Relizane Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Relizane, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.794085,
+                  "lng" : 0.6467077999999999
+               },
+               "southwest" : {
+                  "lat" : 35.655578,
+                  "lng" : 0.4783258
+               }
+            },
+            "location" : {
+               "lat" : 35.7450263,
+               "lng" : 0.5578837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.794085,
+                  "lng" : 0.6467077999999999
+               },
+               "southwest" : {
+                  "lat" : 35.655578,
+                  "lng" : 0.4783258
+               }
+            }
+         },
+         "place_id" : "ChIJqUieBOF5gRIRJit2keoc5Uo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

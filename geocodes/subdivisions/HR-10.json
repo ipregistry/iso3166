@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Virovitica-Podravina County",
+               "short_name" : "Virovitica-Podravina County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Virovitica-Podravina County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.996089,
+                  "lng" : 18.0678268
+               },
+               "southwest" : {
+                  "lat" : 45.4725689,
+                  "lng" : 17.1197372
+               }
+            },
+            "location" : {
+               "lat" : 45.6557985,
+               "lng" : 17.7932472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.996089,
+                  "lng" : 18.0678268
+               },
+               "southwest" : {
+                  "lat" : 45.4725689,
+                  "lng" : 17.1197372
+               }
+            }
+         },
+         "place_id" : "ChIJcQeW2fKMZ0cRsLQrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

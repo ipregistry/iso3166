@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melekeok",
+               "short_name" : "Melekeok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Melekeok",
+               "short_name" : "Melekeok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melekeok, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.4996,
+                  "lng" : 134.6382129
+               },
+               "southwest" : {
+                  "lat" : 7.491069,
+                  "lng" : 134.6302414
+               }
+            },
+            "location" : {
+               "lat" : 7.4951158,
+               "lng" : 134.6336896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.4996,
+                  "lng" : 134.6382129
+               },
+               "southwest" : {
+                  "lat" : 7.491069,
+                  "lng" : 134.6302414
+               }
+            }
+         },
+         "place_id" : "ChIJh1CevtVl1TIRttZ7Uuk-w-M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

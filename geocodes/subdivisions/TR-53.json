@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rize",
+               "short_name" : "Rize",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rize Merkez",
+               "short_name" : "Rize Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rize",
+               "short_name" : "Rize",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rize, Rize Merkez/Rize, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.052146,
+                  "lng" : 40.614641
+               },
+               "southwest" : {
+                  "lat" : 41.010782,
+                  "lng" : 40.478578
+               }
+            },
+            "location" : {
+               "lat" : 41.025511,
+               "lng" : 40.517666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.052146,
+                  "lng" : 40.614641
+               },
+               "southwest" : {
+                  "lat" : 41.010782,
+                  "lng" : 40.478578
+               }
+            }
+         },
+         "place_id" : "ChIJN0Ky98N6ZkARVJv7mbgAWQE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

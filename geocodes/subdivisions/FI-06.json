@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tavastia Proper",
+               "short_name" : "Tavastia Proper",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tavastia Proper, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.3249545,
+                  "lng" : 25.2692689
+               },
+               "southwest" : {
+                  "lat" : 60.5525603,
+                  "lng" : 23.1356498
+               }
+            },
+            "location" : {
+               "lat" : 60.90701499999999,
+               "lng" : 24.3005498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.3249545,
+                  "lng" : 25.2692689
+               },
+               "southwest" : {
+                  "lat" : 60.5525603,
+                  "lng" : 23.1356498
+               }
+            }
+         },
+         "place_id" : "ChIJW3WpA5JhjkYRrMjf5AFWvXY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

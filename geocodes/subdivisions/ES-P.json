@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palencia",
+               "short_name" : "Palencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palencia",
+               "short_name" : "Palencia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palencia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0289194,
+                  "lng" : -4.505785599999999
+               },
+               "southwest" : {
+                  "lat" : 41.98871279999999,
+                  "lng" : -4.5481221
+               }
+            },
+            "location" : {
+               "lat" : 42.0096857,
+               "lng" : -4.5288016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0289194,
+                  "lng" : -4.505785599999999
+               },
+               "southwest" : {
+                  "lat" : 41.98871279999999,
+                  "lng" : -4.5481221
+               }
+            }
+         },
+         "place_id" : "ChIJERqRBcmxRw0R3aB5I3SIuZk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

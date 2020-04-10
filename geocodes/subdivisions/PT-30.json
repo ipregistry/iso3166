@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madeira",
+               "short_name" : "Madeira",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madeira, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.1281642,
+                  "lng" : -15.8560965
+               },
+               "southwest" : {
+                  "lat" : 30.0303397,
+                  "lng" : -17.2659373
+               }
+            },
+            "location" : {
+               "lat" : 32.76070740000001,
+               "lng" : -16.9594723
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1281642,
+                  "lng" : -15.8560965
+               },
+               "southwest" : {
+                  "lat" : 30.0303397,
+                  "lng" : -17.2659373
+               }
+            }
+         },
+         "place_id" : "ChIJ7y75-KDpXwwRb166dGfldww",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

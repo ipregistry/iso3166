@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6611669,
+                  "lng" : 21.0572394
+               },
+               "southwest" : {
+                  "lat" : 39.6447296,
+                  "lng" : 19.1217
+               }
+            },
+            "location" : {
+               "lat" : 41.153332,
+               "lng" : 20.168331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6611669,
+                  "lng" : 21.0572394
+               },
+               "southwest" : {
+                  "lat" : 39.6447296,
+                  "lng" : 19.1217
+               }
+            }
+         },
+         "place_id" : "ChIJLUwnvfM7RRMR7juY1onlfAc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

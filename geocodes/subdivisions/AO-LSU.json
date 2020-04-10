@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lunda Sul Province",
+               "short_name" : "Lunda Sul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Angola",
+               "short_name" : "AO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lunda Sul Province, Angola",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.314136999999999,
+                  "lng" : 22.329243
+               },
+               "southwest" : {
+                  "lat" : -11.479977,
+                  "lng" : 18.471521
+               }
+            },
+            "location" : {
+               "lat" : -10.2866578,
+               "lng" : 20.7122465
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.314136999999999,
+                  "lng" : 22.329243
+               },
+               "southwest" : {
+                  "lat" : -11.479977,
+                  "lng" : 18.471521
+               }
+            }
+         },
+         "place_id" : "ChIJgQrmpNIa0hsRkYalgfMSrn4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

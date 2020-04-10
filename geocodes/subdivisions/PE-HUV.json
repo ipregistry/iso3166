@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huancavelica",
+               "short_name" : "Huancavelica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huancavelica Province",
+               "short_name" : "Huancavelica Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Huancavelica",
+               "short_name" : "Huancavelica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09001",
+               "short_name" : "09001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Huancavelica 09001, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.7743664,
+                  "lng" : -74.9511767
+               },
+               "southwest" : {
+                  "lat" : -12.7912327,
+                  "lng" : -74.9997568
+               }
+            },
+            "location" : {
+               "lat" : -12.7861978,
+               "lng" : -74.9764024
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.7743664,
+                  "lng" : -74.9511767
+               },
+               "southwest" : {
+                  "lat" : -12.7912327,
+                  "lng" : -74.9997568
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv_SCpmYKDpERmzqYjzNB-VU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okinawa",
+               "short_name" : "Okinawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okinawa",
+               "short_name" : "Okinawa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Okinawa, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.421398,
+                  "lng" : 127.8558531
+               },
+               "southwest" : {
+                  "lat" : 26.299736,
+                  "lng" : 127.7721138
+               }
+            },
+            "location" : {
+               "lat" : 26.3343533,
+               "lng" : 127.8056058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.421398,
+                  "lng" : 127.8558531
+               },
+               "southwest" : {
+                  "lat" : 26.299736,
+                  "lng" : 127.7721138
+               }
+            }
+         },
+         "place_id" : "ChIJ11onrB4O5TQRKBXBjYNxxTM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

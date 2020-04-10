@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Timiș County",
+               "short_name" : "TM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Timiș County, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.18994,
+                  "lng" : 22.5461279
+               },
+               "southwest" : {
+                  "lat" : 45.1918419,
+                  "lng" : 20.2617593
+               }
+            },
+            "location" : {
+               "lat" : 45.8138902,
+               "lng" : 21.3331055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.18994,
+                  "lng" : 22.5461279
+               },
+               "southwest" : {
+                  "lat" : 45.1918419,
+                  "lng" : 20.2617593
+               }
+            }
+         },
+         "place_id" : "ChIJp7UPy31nRUcRLDo6Gt5VZdE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

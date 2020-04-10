@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "Eastern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Province, Zambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.3251301,
+                  "lng" : 33.6866196
+               },
+               "southwest" : {
+                  "lat" : -14.9999914,
+                  "lng" : 29.98652989999999
+               }
+            },
+            "location" : {
+               "lat" : -13.8056187,
+               "lng" : 31.99280779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.3251301,
+                  "lng" : 33.6866196
+               },
+               "southwest" : {
+                  "lat" : -14.9999914,
+                  "lng" : 29.98652989999999
+               }
+            }
+         },
+         "place_id" : "ChIJZeUdcOHrGBkRreUD5bPm1nk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

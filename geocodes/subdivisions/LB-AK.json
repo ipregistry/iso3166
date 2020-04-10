@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aakkar",
+               "short_name" : "Aakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Governorate",
+               "short_name" : "North Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lebanon",
+               "short_name" : "LB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aakkar, Lebanon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.6923637,
+                  "lng" : 36.4651242
+               },
+               "southwest" : {
+                  "lat" : 34.4124928,
+                  "lng" : 35.95482
+               }
+            },
+            "location" : {
+               "lat" : 34.544034,
+               "lng" : 36.07983
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.6923637,
+                  "lng" : 36.4651242
+               },
+               "southwest" : {
+                  "lat" : 34.4124928,
+                  "lng" : 35.95482
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ61Ftg6cYIhURehJLNlqREtI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

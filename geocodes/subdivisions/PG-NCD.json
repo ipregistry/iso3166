@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National Capital District",
+               "short_name" : "National Capital District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "National Capital District, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.339381999999999,
+                  "lng" : 147.315155
+               },
+               "southwest" : {
+                  "lat" : -9.544164,
+                  "lng" : 147.0857629
+               }
+            },
+            "location" : {
+               "lat" : -9.4377025,
+               "lng" : 147.2141209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.339381999999999,
+                  "lng" : 147.315155
+               },
+               "southwest" : {
+                  "lat" : -9.544164,
+                  "lng" : 147.0857629
+               }
+            }
+         },
+         "place_id" : "ChIJ3QUzhfxHAmkRNA2llRjcTnQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

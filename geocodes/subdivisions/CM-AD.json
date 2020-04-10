@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adamawa Plateau",
+               "short_name" : "Adamawa Plateau",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Vina",
+               "short_name" : "Vina",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adamawa",
+               "short_name" : "Adamawa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adamawa Plateau, Cameroon",
+         "geometry" : {
+            "location" : {
+               "lat" : 7,
+               "lng" : 13
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.0110747,
+                  "lng" : 13.0160074
+               },
+               "southwest" : {
+                  "lat" : 6.988925,
+                  "lng" : 12.9839926
+               }
+            }
+         },
+         "place_id" : "ChIJ8ZcnNwZO8BARLh3_sw_r_CA",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

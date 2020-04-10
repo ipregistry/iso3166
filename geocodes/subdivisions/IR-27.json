@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golestan Province",
+               "short_name" : "Golestan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Golestan Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.127837,
+                  "lng" : 56.2873059
+               },
+               "southwest" : {
+                  "lat" : 36.454137,
+                  "lng" : 53.861679
+               }
+            },
+            "location" : {
+               "lat" : 37.2898123,
+               "lng" : 55.1375834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.127837,
+                  "lng" : 56.2873059
+               },
+               "southwest" : {
+                  "lat" : 36.454137,
+                  "lng" : 53.861679
+               }
+            }
+         },
+         "place_id" : "ChIJX9hGrSTqgj8RXXWk2JkNQvg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

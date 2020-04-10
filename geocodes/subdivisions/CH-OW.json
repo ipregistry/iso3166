@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Obwalden",
+               "short_name" : "OW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Obwalden",
+               "short_name" : "OW",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Obwalden, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.98021,
+                  "lng" : 8.506639999999999
+               },
+               "southwest" : {
+                  "lat" : 46.75307,
+                  "lng" : 8.042349999999999
+               }
+            },
+            "location" : {
+               "lat" : 46.877858,
+               "lng" : 8.251249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.98021,
+                  "lng" : 8.506639999999999
+               },
+               "southwest" : {
+                  "lat" : 46.75307,
+                  "lng" : 8.042349999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7zEf3Ufyj0cRO9o02ufd0UM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

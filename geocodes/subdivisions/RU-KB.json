@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kabardino-Balkarian Republic",
+               "short_name" : "Kabardino-Balkarian Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kabardino-Balkarian Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.020002,
+                  "lng" : 44.4750031
+               },
+               "southwest" : {
+                  "lat" : 42.888721,
+                  "lng" : 42.3967819
+               }
+            },
+            "location" : {
+               "lat" : 43.3932469,
+               "lng" : 43.5628498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.020002,
+                  "lng" : 44.4750031
+               },
+               "southwest" : {
+                  "lat" : 42.888721,
+                  "lng" : 42.3967819
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJudb9wC0DWkARq_YZMPqW1N8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morobe",
+               "short_name" : "Morobe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morobe Province",
+               "short_name" : "Morobe Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morobe, Papua New Guinea",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.759099000000001,
+               "lng" : 147.593994
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.748043,
+                  "lng" : 147.6100014
+               },
+               "southwest" : {
+                  "lat" : -7.770154700000001,
+                  "lng" : 147.5779866
+               }
+            }
+         },
+         "place_id" : "ChIJ7_NeS4uA-2gRaKUdKlJ09Nk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rakhine",
+               "short_name" : "Rakhine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rakhine, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.479633,
+                  "lng" : 94.9017805
+               },
+               "southwest" : {
+                  "lat" : 17.336133,
+                  "lng" : 92.1720625
+               }
+            },
+            "location" : {
+               "lat" : 20.1040818,
+               "lng" : 93.58126919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.479633,
+                  "lng" : 94.9017805
+               },
+               "southwest" : {
+                  "lat" : 17.336133,
+                  "lng" : 92.1720625
+               }
+            }
+         },
+         "place_id" : "ChIJO604CqbBsDARU0dHFhOI8i4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

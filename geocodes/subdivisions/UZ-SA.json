@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samarkand",
+               "short_name" : "Samarkand",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Samarkand District",
+               "short_name" : "Samarkand District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Samarqand Region",
+               "short_name" : "Samarqand Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samarkand, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7405258,
+                  "lng" : 67.1334059
+               },
+               "southwest" : {
+                  "lat" : 39.5408509,
+                  "lng" : 66.8023682
+               }
+            },
+            "location" : {
+               "lat" : 39.627012,
+               "lng" : 66.9749731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7405258,
+                  "lng" : 67.1334059
+               },
+               "southwest" : {
+                  "lat" : 39.5408509,
+                  "lng" : 66.8023682
+               }
+            }
+         },
+         "place_id" : "ChIJ930HYBkZTT8RVy8_0dk2dkg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

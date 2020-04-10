@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Casablanca-Settat",
+               "short_name" : "Casablanca-Settat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Casablanca-Settat, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.834236,
+                  "lng" : -6.759644
+               },
+               "southwest" : {
+                  "lat" : 32.297336,
+                  "lng" : -9.0495789
+               }
+            },
+            "location" : {
+               "lat" : 33.2160872,
+               "lng" : -7.4381355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.834236,
+                  "lng" : -6.759644
+               },
+               "southwest" : {
+                  "lat" : 32.297336,
+                  "lng" : -9.0495789
+               }
+            }
+         },
+         "place_id" : "ChIJa3SAOYenqA0RfMKM0QWC8sQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London Borough of Brent",
+               "short_name" : "London Borough of Brent",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London Borough of Brent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.60037029999999,
+                  "lng" : -0.1914835
+               },
+               "southwest" : {
+                  "lat" : 51.527654,
+                  "lng" : -0.3355844
+               }
+            },
+            "location" : {
+               "lat" : 51.5672808,
+               "lng" : -0.2710568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.60037029999999,
+                  "lng" : -0.1914835
+               },
+               "southwest" : {
+                  "lat" : 51.527654,
+                  "lng" : -0.3355844
+               }
+            }
+         },
+         "place_id" : "ChIJq7AET3IRdkgRoH-R0ciFEQo",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

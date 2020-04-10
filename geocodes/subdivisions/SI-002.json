@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beltinci",
+               "short_name" : "Beltinci",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beltinci",
+               "short_name" : "Beltinci",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Murska Sobota",
+               "short_name" : "Murska Sobota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9231",
+               "short_name" : "9231",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9231 Beltinci, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6263849,
+                  "lng" : 16.2670594
+               },
+               "southwest" : {
+                  "lat" : 46.5791012,
+                  "lng" : 16.2038046
+               }
+            },
+            "location" : {
+               "lat" : 46.60791529999999,
+               "lng" : 16.2365127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6263849,
+                  "lng" : 16.2670594
+               },
+               "southwest" : {
+                  "lat" : 46.5791012,
+                  "lng" : 16.2038046
+               }
+            }
+         },
+         "place_id" : "ChIJLREpXXg4b0cRpf4D9M2TFqc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

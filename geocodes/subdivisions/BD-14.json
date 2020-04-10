@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dinajpur",
+               "short_name" : "Dinajpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dinajpur District",
+               "short_name" : "Dinajpur District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rangpur Division",
+               "short_name" : "Rangpur Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dinajpur, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.6588253,
+                  "lng" : 88.67387749999999
+               },
+               "southwest" : {
+                  "lat" : 25.5887429,
+                  "lng" : 88.6196243
+               }
+            },
+            "location" : {
+               "lat" : 25.6221009,
+               "lng" : 88.64376489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.6588253,
+                  "lng" : 88.67387749999999
+               },
+               "southwest" : {
+                  "lat" : 25.5887429,
+                  "lng" : 88.6196243
+               }
+            }
+         },
+         "place_id" : "ChIJm5D8x5tS-zkR3iSvm-1h-Ng",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

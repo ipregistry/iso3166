@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zanjan",
+               "short_name" : "Zanjan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zanjan Province",
+               "short_name" : "Zanjan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zanjan, Zanjan Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.726124,
+                  "lng" : 48.6016273
+               },
+               "southwest" : {
+                  "lat" : 36.6359171,
+                  "lng" : 48.3848189
+               }
+            },
+            "location" : {
+               "lat" : 36.6830045,
+               "lng" : 48.5087209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.726124,
+                  "lng" : 48.6016273
+               },
+               "southwest" : {
+                  "lat" : 36.6359171,
+                  "lng" : 48.3848189
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk-1isK0Q9j8RkIa0mJPqtAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

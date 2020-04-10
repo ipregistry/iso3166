@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lagunes District",
+               "short_name" : "Lagunes District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Côte d'Ivoire",
+               "short_name" : "CI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lagunes District, Côte d'Ivoire",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.646418,
+                  "lng" : -3.389261
+               },
+               "southwest" : {
+                  "lat" : 5.097682,
+                  "lng" : -5.451649
+               }
+            },
+            "location" : {
+               "lat" : 5.882733399999999,
+               "lng" : -4.2333355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.646418,
+                  "lng" : -3.389261
+               },
+               "southwest" : {
+                  "lat" : 5.097682,
+                  "lng" : -5.451649
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHb5lrLZGwA8R_to8RXrArss",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Batanes",
+               "short_name" : "Batanes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cagayan Valley",
+               "short_name" : "Cagayan Valley",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Batanes, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.12164,
+                  "lng" : 122.0376559
+               },
+               "southwest" : {
+                  "lat" : 20.258189,
+                  "lng" : 121.7775399
+               }
+            },
+            "location" : {
+               "lat" : 20.4485074,
+               "lng" : 121.9708129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12164,
+                  "lng" : 122.0376559
+               },
+               "southwest" : {
+                  "lat" : 20.258189,
+                  "lng" : 121.7775399
+               }
+            }
+         },
+         "place_id" : "ChIJnQkasavueTQRnwfojKB2fZk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

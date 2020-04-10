@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daman and Diu",
+               "short_name" : "DD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Daman and Diu, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.743124,
+                  "lng" : 72.9067969
+               },
+               "southwest" : {
+                  "lat" : 20.3669569,
+                  "lng" : 70.87075999999999
+               }
+            },
+            "location" : {
+               "lat" : 20.428283,
+               "lng" : 72.8397317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.743124,
+                  "lng" : 72.9067969
+               },
+               "southwest" : {
+                  "lat" : 20.3669569,
+                  "lng" : 70.87075999999999
+               }
+            }
+         },
+         "place_id" : "ChIJoQA7ipDa4DsRQnK0uUpAqAA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diu",
+               "short_name" : "Diu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Diu",
+               "short_name" : "Diu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Daman and Diu",
+               "short_name" : "DD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "362520",
+               "short_name" : "362520",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Diu, Daman and Diu 362520, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.7202434,
+                  "lng" : 70.99808349999999
+               },
+               "southwest" : {
+                  "lat" : 20.7081135,
+                  "lng" : 70.9585525
+               }
+            },
+            "location" : {
+               "lat" : 20.7144094,
+               "lng" : 70.9873719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.7202434,
+                  "lng" : 70.99808349999999
+               },
+               "southwest" : {
+                  "lat" : 20.7081135,
+                  "lng" : 70.9585525
+               }
+            }
+         },
+         "place_id" : "ChIJv2d6fOcc4zsRAmI5oANFZgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

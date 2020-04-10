@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balti",
+               "short_name" : "Balti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Balti",
+               "short_name" : "Balti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Balti, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.81119469999999,
+                  "lng" : 27.9682947
+               },
+               "southwest" : {
+                  "lat" : 47.7226969,
+                  "lng" : 27.8344632
+               }
+            },
+            "location" : {
+               "lat" : 47.7539947,
+               "lng" : 27.9184148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.81119469999999,
+                  "lng" : 27.9682947
+               },
+               "southwest" : {
+                  "lat" : 47.7226969,
+                  "lng" : 27.8344632
+               }
+            }
+         },
+         "place_id" : "ChIJEyYfczpny0AR2QLeTqW3_3U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

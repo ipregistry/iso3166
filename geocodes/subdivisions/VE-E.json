@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barinas",
+               "short_name" : "Barinas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barinas",
+               "short_name" : "Barinas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Barinas",
+               "short_name" : "Barinas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5201",
+               "short_name" : "5201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barinas 5201, Barinas, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.676318000000002,
+                  "lng" : -70.1549148
+               },
+               "southwest" : {
+                  "lat" : 8.567696399999999,
+                  "lng" : -70.3161825
+               }
+            },
+            "location" : {
+               "lat" : 8.6231498,
+               "lng" : -70.2371045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.676318000000002,
+                  "lng" : -70.1549148
+               },
+               "southwest" : {
+                  "lat" : 8.567696399999999,
+                  "lng" : -70.3161825
+               }
+            }
+         },
+         "place_id" : "ChIJZfb2uTtYe44RDEWVrmbgTGs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

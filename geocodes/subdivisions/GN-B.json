@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boke",
+               "short_name" : "Boke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boké Prefecture",
+               "short_name" : "Boké Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Boké",
+               "short_name" : "Boké",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boke, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.9830225,
+                  "lng" : -14.2604523
+               },
+               "southwest" : {
+                  "lat" : 10.9040305,
+                  "lng" : -14.3161021
+               }
+            },
+            "location" : {
+               "lat" : 10.9406953,
+               "lng" : -14.2802961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9830225,
+                  "lng" : -14.2604523
+               },
+               "southwest" : {
+                  "lat" : 10.9040305,
+                  "lng" : -14.3161021
+               }
+            }
+         },
+         "place_id" : "ChIJJUEv5I1V4g4REP21gMfnZqk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

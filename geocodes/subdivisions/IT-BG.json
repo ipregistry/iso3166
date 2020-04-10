@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bergamo",
+               "short_name" : "Bergamo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bergamo",
+               "short_name" : "Bergamo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Bergamo",
+               "short_name" : "BG",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bergamo, Province of Bergamo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7238489,
+                  "lng" : 9.713632799999999
+               },
+               "southwest" : {
+                  "lat" : 45.6625158,
+                  "lng" : 9.620546299999999
+               }
+            },
+            "location" : {
+               "lat" : 45.6982642,
+               "lng" : 9.677269799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7238489,
+                  "lng" : 9.713632799999999
+               },
+               "southwest" : {
+                  "lat" : 45.6625158,
+                  "lng" : 9.620546299999999
+               }
+            }
+         },
+         "place_id" : "ChIJc65ivBFRgUcR0aTlC4_LL9M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

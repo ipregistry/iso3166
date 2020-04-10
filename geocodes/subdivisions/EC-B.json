@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolívar Province",
+               "short_name" : "Bolívar Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bolívar Province, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.149803,
+                  "lng" : -78.84400789999999
+               },
+               "southwest" : {
+                  "lat" : -2.2025016,
+                  "lng" : -79.39488469999999
+               }
+            },
+            "location" : {
+               "lat" : -1.7095828,
+               "lng" : -79.0450429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.149803,
+                  "lng" : -78.84400789999999
+               },
+               "southwest" : {
+                  "lat" : -2.2025016,
+                  "lng" : -79.39488469999999
+               }
+            }
+         },
+         "place_id" : "ChIJVSFPQTMW05ERvASs4DCX1qo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sinoe River",
+               "short_name" : "Sinoe River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Sinoe",
+               "short_name" : "Sinoe",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sinoe River, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.5012384,
+                  "lng" : -8.484246499999999
+               },
+               "southwest" : {
+                  "lat" : 4.955991699999999,
+                  "lng" : -9.057108899999999
+               }
+            },
+            "location" : {
+               "lat" : 5.2789989,
+               "lng" : -8.8148117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.5012384,
+                  "lng" : -8.484246499999999
+               },
+               "southwest" : {
+                  "lat" : 4.955991699999999,
+                  "lng" : -9.057108899999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-aLim4oHog8RaaIZDlzNkXM",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

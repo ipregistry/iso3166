@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shabwah",
+               "short_name" : "Shabwah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shabwah Governorate",
+               "short_name" : "Shabwah Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Yemen",
+               "short_name" : "YE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shabwah, Yemen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.3717846,
+                  "lng" : 47.0317305
+               },
+               "southwest" : {
+                  "lat" : 15.3665084,
+                  "lng" : 47.0220423
+               }
+            },
+            "location" : {
+               "lat" : 15.3690262,
+               "lng" : 47.0272926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.3717846,
+                  "lng" : 47.0317305
+               },
+               "southwest" : {
+                  "lat" : 15.3665084,
+                  "lng" : 47.0220423
+               }
+            }
+         },
+         "place_id" : "ChIJ1cYcURER-z0R0olRCaFOEwA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

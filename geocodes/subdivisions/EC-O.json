@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Oro",
+               "short_name" : "El Oro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Oro, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.0474892,
+                  "lng" : -79.36647309999999
+               },
+               "southwest" : {
+                  "lat" : -3.8899489,
+                  "lng" : -80.43917809999999
+               }
+            },
+            "location" : {
+               "lat" : -3.2592413,
+               "lng" : -79.95835409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.0474892,
+                  "lng" : -79.36647309999999
+               },
+               "southwest" : {
+                  "lat" : -3.8899489,
+                  "lng" : -80.43917809999999
+               }
+            }
+         },
+         "place_id" : "ChIJ47FAOV0OM5AR9FJrzwXjAek",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tahoua",
+               "short_name" : "Tahoua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tahoua",
+               "short_name" : "Tahoua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tahoua Region",
+               "short_name" : "Tahoua Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Niger",
+               "short_name" : "NE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tahoua, Niger",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.9285551,
+                  "lng" : 5.2966928
+               },
+               "southwest" : {
+                  "lat" : 14.8680217,
+                  "lng" : 5.241680100000001
+               }
+            },
+            "location" : {
+               "lat" : 14.8904575,
+               "lng" : 5.2579968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.9285551,
+                  "lng" : 5.2966928
+               },
+               "southwest" : {
+                  "lat" : 14.8680217,
+                  "lng" : 5.241680100000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV9q7bjGyuBERNFb2AYHRBOM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

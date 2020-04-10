@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Flintshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3618931,
+                  "lng" : -2.9202759
+               },
+               "southwest" : {
+                  "lat" : 53.0721259,
+                  "lng" : -3.4005971
+               }
+            },
+            "location" : {
+               "lat" : 53.1668658,
+               "lng" : -3.1418908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3618931,
+                  "lng" : -2.9202759
+               },
+               "southwest" : {
+                  "lat" : 53.0721259,
+                  "lng" : -3.4005971
+               }
+            }
+         },
+         "place_id" : "ChIJa62Y31DVZEgRAGq22Ew29rU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

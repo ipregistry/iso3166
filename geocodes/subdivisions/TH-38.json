@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bueng Kan",
+               "short_name" : "Bueng Kan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Bueng Kan District",
+               "short_name" : "Mueang Bueng Kan District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bueng Kan",
+               "short_name" : "จ. บึงกาฬ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38000",
+               "short_name" : "38000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bueng Kan, Mueang Bueng Kan District, Bueng Kan 38000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.3716293,
+                  "lng" : 103.7645481
+               },
+               "southwest" : {
+                  "lat" : 18.3010224,
+                  "lng" : 103.6373636
+               }
+            },
+            "location" : {
+               "lat" : 18.326944,
+               "lng" : 103.6883765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.3716293,
+                  "lng" : 103.7645481
+               },
+               "southwest" : {
+                  "lat" : 18.3010224,
+                  "lng" : 103.6373636
+               }
+            }
+         },
+         "place_id" : "ChIJ3a-SxL7XOjERMFZhE0G1AgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Pedro del Ycuamandiyú",
+               "short_name" : "San Pedro del Ycuamandiyú",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Pedro del Ycuamandyyú",
+               "short_name" : "San Pedro del Ycuamandyyú",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Pedro Department",
+               "short_name" : "San Pedro Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Pedro del Ycuamandiyú, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -24.0755405,
+                  "lng" : -57.059126
+               },
+               "southwest" : {
+                  "lat" : -24.1015546,
+                  "lng" : -57.09457399999999
+               }
+            },
+            "location" : {
+               "lat" : -24.0863273,
+               "lng" : -57.0844094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -24.0755405,
+                  "lng" : -57.059126
+               },
+               "southwest" : {
+                  "lat" : -24.1015546,
+                  "lng" : -57.09457399999999
+               }
+            }
+         },
+         "place_id" : "ChIJc9ALxz8vZ5QRo6w7VeLkE_A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

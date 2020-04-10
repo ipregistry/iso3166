@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivano-Frankivsk Oblast",
+               "short_name" : "Ivano-Frankivsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivano-Frankivsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.559585,
+                  "lng" : 25.6529901
+               },
+               "southwest" : {
+                  "lat" : 47.72405999999999,
+                  "lng" : 23.545547
+               }
+            },
+            "location" : {
+               "lat" : 48.922633,
+               "lng" : 24.711117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.559585,
+                  "lng" : 25.6529901
+               },
+               "southwest" : {
+                  "lat" : 47.72405999999999,
+                  "lng" : 23.545547
+               }
+            }
+         },
+         "place_id" : "ChIJHTiwNGzBMEcRn1rIHA4suJc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

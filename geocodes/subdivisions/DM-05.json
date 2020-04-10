@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint John Parish",
+               "short_name" : "Saint John Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominica",
+               "short_name" : "DM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint John Parish, Dominica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.6391931,
+                  "lng" : -61.40151209999999
+               },
+               "southwest" : {
+                  "lat" : 15.5123079,
+                  "lng" : -61.47965900000001
+               }
+            },
+            "location" : {
+               "lat" : 15.5763757,
+               "lng" : -61.4318742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.6391931,
+                  "lng" : -61.40151209999999
+               },
+               "southwest" : {
+                  "lat" : 15.5123079,
+                  "lng" : -61.47965900000001
+               }
+            }
+         },
+         "place_id" : "ChIJtQVg-BfJFIwRf5xkU_7_bbk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

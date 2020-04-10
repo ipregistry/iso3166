@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyegegwa",
+               "short_name" : "Kyegegwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyenjojo",
+               "short_name" : "Kyenjojo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyegegwa, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.4866541,
+                  "lng" : 31.0600661
+               },
+               "southwest" : {
+                  "lat" : 0.4776422,
+                  "lng" : 31.0501099
+               }
+            },
+            "location" : {
+               "lat" : 0.4818193,
+               "lng" : 31.0550093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4866541,
+                  "lng" : 31.0600661
+               },
+               "southwest" : {
+                  "lat" : 0.4776422,
+                  "lng" : 31.0501099
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxyA_FuD8YhcRm1GW5AMpL74",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

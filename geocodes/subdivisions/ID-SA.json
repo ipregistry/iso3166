@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Sulawesi",
+               "short_name" : "North Sulawesi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Sulawesi, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.5658159,
+                  "lng" : 127.1815779
+               },
+               "southwest" : {
+                  "lat" : 0.2920059,
+                  "lng" : 123.110851
+               }
+            },
+            "location" : {
+               "lat" : 0.6246931999999999,
+               "lng" : 123.9750018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.5658159,
+                  "lng" : 127.1815779
+               },
+               "southwest" : {
+                  "lat" : 0.2920059,
+                  "lng" : 123.110851
+               }
+            }
+         },
+         "place_id" : "ChIJMZ4GcEJ1hzIRNbgMmBcWiUU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

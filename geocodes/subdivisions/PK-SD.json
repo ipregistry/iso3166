@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sindh",
+               "short_name" : "Sindh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sindh, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5294419,
+                  "lng" : 71.1244049
+               },
+               "southwest" : {
+                  "lat" : 23.7867336,
+                  "lng" : 66.6539822
+               }
+            },
+            "location" : {
+               "lat" : 25.8943018,
+               "lng" : 68.52471489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5294419,
+                  "lng" : 71.1244049
+               },
+               "southwest" : {
+                  "lat" : 23.7867336,
+                  "lng" : 66.6539822
+               }
+            }
+         },
+         "place_id" : "ChIJK5TBa2vATDkRLeiLx6lWIC4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

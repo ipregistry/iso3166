@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Peter Basseterre Parish",
+               "short_name" : "Saint Peter Basseterre Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Peter Basseterre Parish, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3360301,
+                  "lng" : -62.68311989999999
+               },
+               "southwest" : {
+                  "lat" : 17.287303,
+                  "lng" : -62.751235
+               }
+            },
+            "location" : {
+               "lat" : 17.3102911,
+               "lng" : -62.7147533
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3360301,
+                  "lng" : -62.68311989999999
+               },
+               "southwest" : {
+                  "lat" : 17.287303,
+                  "lng" : -62.751235
+               }
+            }
+         },
+         "place_id" : "ChIJ2astHJ4bEowRjjQwGzSqdJU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basseterre",
+               "short_name" : "Basseterre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint George Basseterre",
+               "short_name" : "Saint George Basseterre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saint George Basseterre Parish",
+               "short_name" : "Saint George Basseterre Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Basseterre, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3181538,
+                  "lng" : -62.6997201
+               },
+               "southwest" : {
+                  "lat" : 17.2862339,
+                  "lng" : -62.7299488
+               }
+            },
+            "location" : {
+               "lat" : 17.3026058,
+               "lng" : -62.7176924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3181538,
+                  "lng" : -62.6997201
+               },
+               "southwest" : {
+                  "lat" : 17.2862339,
+                  "lng" : -62.7299488
+               }
+            }
+         },
+         "place_id" : "ChIJy4VyQoobEowRz0-rkEv6xOQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

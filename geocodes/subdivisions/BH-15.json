@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muharraq",
+               "short_name" : "Muharraq",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muharraq Governorate",
+               "short_name" : "Muharraq Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bahrain",
+               "short_name" : "BH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muharraq, Bahrain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.2859313,
+                  "lng" : 50.6559231
+               },
+               "southwest" : {
+                  "lat" : 26.2400697,
+                  "lng" : 50.59425599999999
+               }
+            },
+            "location" : {
+               "lat" : 26.2534919,
+               "lng" : 50.60825579999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2859313,
+                  "lng" : 50.6559231
+               },
+               "southwest" : {
+                  "lat" : 26.2400697,
+                  "lng" : 50.59425599999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9V14QximST4RsvrMl88RWLg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

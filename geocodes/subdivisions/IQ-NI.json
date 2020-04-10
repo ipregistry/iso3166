@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mosul",
+               "short_name" : "Mosul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nineveh Governorate",
+               "short_name" : "Nineveh Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mosul, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4395827,
+                  "lng" : 43.2660099
+               },
+               "southwest" : {
+                  "lat" : 36.2660698,
+                  "lng" : 43.0147361
+               }
+            },
+            "location" : {
+               "lat" : 36.3489278,
+               "lng" : 43.157736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4395827,
+                  "lng" : 43.2660099
+               },
+               "southwest" : {
+                  "lat" : 36.2660698,
+                  "lng" : 43.0147361
+               }
+            }
+         },
+         "place_id" : "ChIJuYga22SUB0ARMAkP3U7XRZc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

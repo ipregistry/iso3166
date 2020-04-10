@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derry And Strabane",
+               "short_name" : "Derry And Strabane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Derry And Strabane, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0659698,
+                  "lng" : -6.890335
+               },
+               "southwest" : {
+                  "lat" : 54.6135306,
+                  "lng" : -7.9249118
+               }
+            },
+            "location" : {
+               "lat" : 54.7806842,
+               "lng" : -7.385387000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0659698,
+                  "lng" : -6.890335
+               },
+               "southwest" : {
+                  "lat" : 54.6135306,
+                  "lng" : -7.9249118
+               }
+            }
+         },
+         "place_id" : "ChIJL4CPotneX0gRWjvhs1YZdDE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strabane",
+               "short_name" : "Strabane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Strabane",
+               "short_name" : "Strabane",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derry And Strabane",
+               "short_name" : "Derry And Strabane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT82",
+               "short_name" : "BT82",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Strabane BT82, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8433025,
+                  "lng" : -7.442457399999999
+               },
+               "southwest" : {
+                  "lat" : 54.8161917,
+                  "lng" : -7.472657099999999
+               }
+            },
+            "location" : {
+               "lat" : 54.8273865,
+               "lng" : -7.4633103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8433025,
+                  "lng" : -7.442457399999999
+               },
+               "southwest" : {
+                  "lat" : 54.8161917,
+                  "lng" : -7.472657099999999
+               }
+            }
+         },
+         "place_id" : "ChIJq0NrNEXDX0gRgWHJ9KW0cKw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

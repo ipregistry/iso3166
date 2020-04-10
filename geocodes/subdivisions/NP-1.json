@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Development Region",
+               "short_name" : "Central Development Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Development Region, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3856697,
+                  "lng" : 86.57675309999999
+               },
+               "southwest" : {
+                  "lat" : 26.5699095,
+                  "lng" : 83.921021
+               }
+            },
+            "location" : {
+               "lat" : 27.4695853,
+               "lng" : 85.2722472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3856697,
+                  "lng" : 86.57675309999999
+               },
+               "southwest" : {
+                  "lat" : 26.5699095,
+                  "lng" : 83.921021
+               }
+            }
+         },
+         "place_id" : "ChIJ0WrE8HZH6zkRAraslrlk0_M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Komandjari",
+               "short_name" : "Komandjari",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Est Region",
+               "short_name" : "Est Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Komandjari, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.1079471,
+                  "lng" : 1.327212
+               },
+               "southwest" : {
+                  "lat" : 12.3178831,
+                  "lng" : 0.223796
+               }
+            },
+            "location" : {
+               "lat" : 12.7126527,
+               "lng" : 0.6773045999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.1079471,
+                  "lng" : 1.327212
+               },
+               "southwest" : {
+                  "lat" : 12.3178831,
+                  "lng" : 0.223796
+               }
+            }
+         },
+         "place_id" : "ChIJMUI7XsD81hERLQ3SC4hNcX0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

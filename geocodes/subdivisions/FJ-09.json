@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naitasiri",
+               "short_name" : "Naitasiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Division",
+               "short_name" : "Central Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naitasiri, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.569984,
+                  "lng" : 178.5698387
+               },
+               "southwest" : {
+                  "lat" : -18.1657518,
+                  "lng" : 177.9709626
+               }
+            },
+            "location" : {
+               "lat" : -17.8975754,
+               "lng" : 178.2071598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.569984,
+                  "lng" : 178.5698387
+               },
+               "southwest" : {
+                  "lat" : -18.1657518,
+                  "lng" : 177.9709626
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJf9Hdz-BfGW4Rs8OB3DBgsU8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

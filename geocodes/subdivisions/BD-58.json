@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Satkhira",
+               "short_name" : "Satkhira",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Satkhira District",
+               "short_name" : "Satkhira District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Satkhira, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7406511,
+                  "lng" : 89.0931401
+               },
+               "southwest" : {
+                  "lat" : 22.6883895,
+                  "lng" : 89.0473049
+               }
+            },
+            "location" : {
+               "lat" : 22.7184852,
+               "lng" : 89.07047659999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7406511,
+                  "lng" : 89.0931401
+               },
+               "southwest" : {
+                  "lat" : 22.6883895,
+                  "lng" : 89.0473049
+               }
+            }
+         },
+         "place_id" : "ChIJE3Q4zNhd_zkRd2LHSSiMXPA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

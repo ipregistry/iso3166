@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maloelap Atoll",
+               "short_name" : "Maloelap Atoll",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Maloelap Atoll",
+               "short_name" : "Maloelap Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maloelap Atoll, RMI",
+         "geometry" : {
+            "location" : {
+               "lat" : 8.75,
+               "lng" : 171.066667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.761028000000001,
+                  "lng" : 171.0826744
+               },
+               "southwest" : {
+                  "lat" : 8.7389717,
+                  "lng" : 171.0506596
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTVxVBg0WBGURpA2pXv6Yzck",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

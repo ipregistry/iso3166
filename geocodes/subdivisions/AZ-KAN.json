@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kangarli",
+               "short_name" : "Kangarli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nakhchivan Autonomous Republic",
+               "short_name" : "Nakhchivan Autonomous Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kangarli, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.561592,
+                  "lng" : 45.238965
+               },
+               "southwest" : {
+                  "lat" : 39.3013959,
+                  "lng" : 45.0484701
+               }
+            },
+            "location" : {
+               "lat" : 39.387194,
+               "lng" : 45.1639852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.561592,
+                  "lng" : 45.238965
+               },
+               "southwest" : {
+                  "lat" : 39.3013959,
+                  "lng" : 45.0484701
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW4e1haStFUARLGhmN9tCjPo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

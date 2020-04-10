@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Logone Occidental",
+               "short_name" : "Logone Occidental",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Logone Occidental, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.208981999999999,
+                  "lng" : 16.5759211
+               },
+               "southwest" : {
+                  "lat" : 8.244755,
+                  "lng" : 15.2746969
+               }
+            },
+            "location" : {
+               "lat" : 8.759675999999999,
+               "lng" : 15.876004
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.208981999999999,
+                  "lng" : 16.5759211
+               },
+               "southwest" : {
+                  "lat" : 8.244755,
+                  "lng" : 15.2746969
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyWZkgEop5xARf5s_D028dIs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

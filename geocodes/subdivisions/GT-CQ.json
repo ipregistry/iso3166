@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiquimula",
+               "short_name" : "Chiquimula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiquimula",
+               "short_name" : "Chiquimula",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chiquimula Department",
+               "short_name" : "Chiquimula Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiquimula, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.8176195,
+                  "lng" : -89.51448309999999
+               },
+               "southwest" : {
+                  "lat" : 14.7463474,
+                  "lng" : -89.56295019999999
+               }
+            },
+            "location" : {
+               "lat" : 14.7924897,
+               "lng" : -89.5450458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.8176195,
+                  "lng" : -89.51448309999999
+               },
+               "southwest" : {
+                  "lat" : 14.7463474,
+                  "lng" : -89.56295019999999
+               }
+            }
+         },
+         "place_id" : "ChIJtcKOHX4wYo8R59Gzo2KNUus",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

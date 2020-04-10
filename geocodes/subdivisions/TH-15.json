@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ang Thong",
+               "short_name" : "จ.อ่างทอง",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ang Thong, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.802408,
+                  "lng" : 100.5163315
+               },
+               "southwest" : {
+                  "lat" : 14.438901,
+                  "lng" : 100.1877062
+               }
+            },
+            "location" : {
+               "lat" : 14.5896054,
+               "lng" : 100.455052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.802408,
+                  "lng" : 100.5163315
+               },
+               "southwest" : {
+                  "lat" : 14.438901,
+                  "lng" : 100.1877062
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe5QwaqIP4jARd94r8cW6_wg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

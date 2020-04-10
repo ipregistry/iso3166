@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kouilou",
+               "short_name" : "Kouilou",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Republic of the Congo",
+               "short_name" : "CG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kouilou, Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.512756,
+                  "lng" : 12.7600829
+               },
+               "southwest" : {
+                  "lat" : -5.028313,
+                  "lng" : 11.2050089
+               }
+            },
+            "location" : {
+               "lat" : -4.1428413,
+               "lng" : 11.8891721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.512756,
+                  "lng" : 12.7600829
+               },
+               "southwest" : {
+                  "lat" : -5.028313,
+                  "lng" : 11.2050089
+               }
+            }
+         },
+         "place_id" : "ChIJKeZtzce6YBoRnh-v85jRqBg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

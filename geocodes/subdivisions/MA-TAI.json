@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taourirt",
+               "short_name" : "Taourirt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taourirt Province",
+               "short_name" : "Taourirt Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oriental",
+               "short_name" : "Oriental",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taourirt, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.4237263,
+                  "lng" : -2.8746414
+               },
+               "southwest" : {
+                  "lat" : 34.385946,
+                  "lng" : -2.9246807
+               }
+            },
+            "location" : {
+               "lat" : 34.3983716,
+               "lng" : -2.8935028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.4237263,
+                  "lng" : -2.8746414
+               },
+               "southwest" : {
+                  "lat" : 34.385946,
+                  "lng" : -2.9246807
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJf1-jVwhjnQ0RJjUFcasv3-Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

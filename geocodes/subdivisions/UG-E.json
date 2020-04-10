@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Region, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.421396,
+                  "lng" : 34.8315829
+               },
+               "southwest" : {
+                  "lat" : -0.9966520000000001,
+                  "lng" : 32.814411
+               }
+            },
+            "location" : {
+               "lat" : 1.2692186,
+               "lng" : 33.438353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.421396,
+                  "lng" : 34.8315829
+               },
+               "southwest" : {
+                  "lat" : -0.9966520000000001,
+                  "lng" : 32.814411
+               }
+            }
+         },
+         "place_id" : "ChIJ_RDv8xv-fhcRaytFkgY3Nfk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

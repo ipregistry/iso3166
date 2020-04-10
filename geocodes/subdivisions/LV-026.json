@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobele",
+               "short_name" : "Dobele",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dobeles pilsēta",
+               "short_name" : "Dobeles pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dobele, Dobeles pilsēta, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.644934,
+                  "lng" : 23.31283
+               },
+               "southwest" : {
+                  "lat" : 56.6004123,
+                  "lng" : 23.2535539
+               }
+            },
+            "location" : {
+               "lat" : 56.6249062,
+               "lng" : 23.2791068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.644934,
+                  "lng" : 23.31283
+               },
+               "southwest" : {
+                  "lat" : 56.6004123,
+                  "lng" : 23.2535539
+               }
+            }
+         },
+         "place_id" : "ChIJSbgb7SQU70YRwAbzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

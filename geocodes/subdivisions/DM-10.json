@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Paul Parish",
+               "short_name" : "Saint Paul Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominica",
+               "short_name" : "DM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Paul Parish, Dominica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.415029,
+                  "lng" : -61.3198599
+               },
+               "southwest" : {
+                  "lat" : 15.3193611,
+                  "lng" : -61.421957
+               }
+            },
+            "location" : {
+               "lat" : 15.3756073,
+               "lng" : -61.3618529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.415029,
+                  "lng" : -61.3198599
+               },
+               "southwest" : {
+                  "lat" : 15.3193611,
+                  "lng" : -61.421957
+               }
+            }
+         },
+         "place_id" : "ChIJVRn6Vl3TFIwRpK54_myKt4o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

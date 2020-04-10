@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bilasuvar",
+               "short_name" : "Bilasuvar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bilasuvar",
+               "short_name" : "Bilasuvar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bilasuvar, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4795993,
+                  "lng" : 48.5670376
+               },
+               "southwest" : {
+                  "lat" : 39.4349998,
+                  "lng" : 48.5262895
+               }
+            },
+            "location" : {
+               "lat" : 39.4598833,
+               "lng" : 48.5509813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4795993,
+                  "lng" : 48.5670376
+               },
+               "southwest" : {
+                  "lat" : 39.4349998,
+                  "lng" : 48.5262895
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYVKnzky7PEARhd8KOp1Uvuo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

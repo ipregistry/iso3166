@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ceska Lipa",
+               "short_name" : "Ceska Lipa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Česká Lípa District",
+               "short_name" : "Česká Lípa District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Liberec Region",
+               "short_name" : "Liberec Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ceska Lipa, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.72914189999999,
+                  "lng" : 14.6415595
+               },
+               "southwest" : {
+                  "lat" : 50.64049379999999,
+                  "lng" : 14.4772384
+               }
+            },
+            "location" : {
+               "lat" : 50.6785201,
+               "lng" : 14.5396991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.72914189999999,
+                  "lng" : 14.6415595
+               },
+               "southwest" : {
+                  "lat" : 50.64049379999999,
+                  "lng" : 14.4772384
+               }
+            }
+         },
+         "place_id" : "ChIJTebBslhpCUcRIN4UZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

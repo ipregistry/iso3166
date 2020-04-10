@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Līgatne",
+               "short_name" : "Līgatne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Līgatnes pilsēta",
+               "short_name" : "Līgatnes pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Līgatne, Līgatnes pilsēta, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.25508,
+                  "lng" : 25.0643859
+               },
+               "southwest" : {
+                  "lat" : 57.21792300000001,
+                  "lng" : 25.011931
+               }
+            },
+            "location" : {
+               "lat" : 57.2363399,
+               "lng" : 25.0380728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.25508,
+                  "lng" : 25.0643859
+               },
+               "southwest" : {
+                  "lat" : 57.21792300000001,
+                  "lng" : 25.011931
+               }
+            }
+         },
+         "place_id" : "ChIJf_1MS_FZ6UYR0APzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

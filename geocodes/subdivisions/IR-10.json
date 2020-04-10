@@ -1,0 +1,39 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andika County",
+               "short_name" : "Andika County",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andika County, Iran",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.206389,
+               "lng" : 49.443611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2158297,
+                  "lng" : 49.4596184
+               },
+               "southwest" : {
+                  "lat" : 32.1969474,
+                  "lng" : 49.4276036
+               }
+            }
+         },
+         "place_id" : "ChIJL1n65vw1wD8RN1nAH2UviMc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

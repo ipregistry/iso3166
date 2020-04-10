@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Francistown",
+               "short_name" : "Francistown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Francistown",
+               "short_name" : "Francistown",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North-East District",
+               "short_name" : "North-East District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Botswana",
+               "short_name" : "BW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Francistown, Botswana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.1045999,
+                  "lng" : 27.563238
+               },
+               "southwest" : {
+                  "lat" : -21.2257018,
+                  "lng" : 27.442131
+               }
+            },
+            "location" : {
+               "lat" : -21.1661005,
+               "lng" : 27.5143603
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.1045999,
+                  "lng" : 27.563238
+               },
+               "southwest" : {
+                  "lat" : -21.2257018,
+                  "lng" : 27.442131
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo1VuFYNotB4RBDE3dDqV2xg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

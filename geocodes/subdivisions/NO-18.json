@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nordland, Nordland",
+               "short_name" : "Nordland, Nordland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nordland",
+               "short_name" : "Nordland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nordland, Nordland, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 67.69475679999999,
+                  "lng" : 12.7270958
+               },
+               "southwest" : {
+                  "lat" : 67.6911229,
+                  "lng" : 12.6932491
+               }
+            },
+            "location" : {
+               "lat" : 67.69305799999999,
+               "lng" : 12.7073936
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 67.69475679999999,
+                  "lng" : 12.7270958
+               },
+               "southwest" : {
+                  "lat" : 67.6911229,
+                  "lng" : 12.6932491
+               }
+            }
+         },
+         "place_id" : "ChIJ0VwGx4gs3kURVgzCPj6Mi44",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

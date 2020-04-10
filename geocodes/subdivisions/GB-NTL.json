@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neath Port Talbot Principle Area",
+               "short_name" : "Neath Port Talbot Principle Area",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neath Port Talbot Principle Area, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.81033739999999,
+                  "lng" : -3.56187
+               },
+               "southwest" : {
+                  "lat" : 51.5271637,
+                  "lng" : -3.9363169
+               }
+            },
+            "location" : {
+               "lat" : 51.691743,
+               "lng" : -3.7346728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.81033739999999,
+                  "lng" : -3.56187
+               },
+               "southwest" : {
+                  "lat" : 51.5271637,
+                  "lng" : -3.9363169
+               }
+            }
+         },
+         "place_id" : "ChIJM5XY-eBcbkgRMKKZ1COLDQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

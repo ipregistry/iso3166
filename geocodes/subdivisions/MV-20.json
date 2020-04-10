@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maalhosmadulu Dhekunuburi",
+               "short_name" : "Maalhosmadulu Dhekunuburi",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Baa Atoll",
+               "short_name" : "Baa Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maalhosmadulu Dhekunuburi, Maldives",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2,
+               "lng" : 73
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.211112,
+                  "lng" : 73.01600739999999
+               },
+               "southwest" : {
+                  "lat" : 5.1888878,
+                  "lng" : 72.98399259999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-5FOD4LrajsRMLlKfYHRjCk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

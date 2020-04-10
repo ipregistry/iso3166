@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bomi",
+               "short_name" : "Bomi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bomi, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.970269,
+                  "lng" : -10.4870661
+               },
+               "southwest" : {
+                  "lat" : 6.479747,
+                  "lng" : -11.0814981
+               }
+            },
+            "location" : {
+               "lat" : 6.7562926,
+               "lng" : -10.8451467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.970269,
+                  "lng" : -10.4870661
+               },
+               "southwest" : {
+                  "lat" : 6.479747,
+                  "lng" : -11.0814981
+               }
+            }
+         },
+         "place_id" : "ChIJo9Qc77rcCQ8RoNAjnor_R9E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

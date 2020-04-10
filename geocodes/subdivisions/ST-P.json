@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Príncipe",
+               "short_name" : "Príncipe",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Pague",
+               "short_name" : "Pague",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Principe",
+               "short_name" : "Principe",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "São Tomé and Príncipe",
+               "short_name" : "ST",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Príncipe, São Tomé and Príncipe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.6943998,
+                  "lng" : 7.462466600000001
+               },
+               "southwest" : {
+                  "lat" : 1.5264094,
+                  "lng" : 7.327945400000001
+               }
+            },
+            "location" : {
+               "lat" : 1.6139012,
+               "lng" : 7.405702400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.6943998,
+                  "lng" : 7.462466600000001
+               },
+               "southwest" : {
+                  "lat" : 1.5264094,
+                  "lng" : 7.327945400000001
+               }
+            }
+         },
+         "place_id" : "ChIJFSJNVnrtcBARBTLCmKiJc_U",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

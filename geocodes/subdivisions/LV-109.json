@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viļāni Municipality",
+               "short_name" : "Viļāni Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Viļāni Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6835209,
+                  "lng" : 27.0707279
+               },
+               "southwest" : {
+                  "lat" : 56.454339,
+                  "lng" : 26.7222659
+               }
+            },
+            "location" : {
+               "lat" : 56.54561709999999,
+               "lng" : 26.9167927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6835209,
+                  "lng" : 27.0707279
+               },
+               "southwest" : {
+                  "lat" : 56.454339,
+                  "lng" : 26.7222659
+               }
+            }
+         },
+         "place_id" : "ChIJkdycDH4LwkYRUAHzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

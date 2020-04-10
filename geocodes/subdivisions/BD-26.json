@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kishoreganj",
+               "short_name" : "Kishoreganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kishoreganj District",
+               "short_name" : "Kishoreganj District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kishoreganj, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.4445712,
+                  "lng" : 90.7967663
+               },
+               "southwest" : {
+                  "lat" : 24.4236286,
+                  "lng" : 90.76895709999999
+               }
+            },
+            "location" : {
+               "lat" : 24.4331227,
+               "lng" : 90.78656549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.4445712,
+                  "lng" : 90.7967663
+               },
+               "southwest" : {
+                  "lat" : 24.4236286,
+                  "lng" : 90.76895709999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9QoYc4eRVjcRA_AOISeUClM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

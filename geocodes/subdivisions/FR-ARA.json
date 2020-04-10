@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Auvergne-Rhône-Alpes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 7.1855661
+               },
+               "southwest" : {
+                  "lat" : 44.115493,
+                  "lng" : 2.062882
+               }
+            },
+            "location" : {
+               "lat" : 45.4471431,
+               "lng" : 4.385250699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 7.1855661
+               },
+               "southwest" : {
+                  "lat" : 44.115493,
+                  "lng" : 2.062882
+               }
+            }
+         },
+         "place_id" : "ChIJ_fju9ukE9UcROuOAIn5wRjk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

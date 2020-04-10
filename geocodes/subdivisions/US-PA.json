@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pennsylvania, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5141658,
+                  "lng" : -74.6895018
+               },
+               "southwest" : {
+                  "lat" : 39.7197989,
+                  "lng" : -80.51989499999999
+               }
+            },
+            "location" : {
+               "lat" : 41.2033216,
+               "lng" : -77.1945247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5141658,
+                  "lng" : -74.6895018
+               },
+               "southwest" : {
+                  "lat" : 39.7197989,
+                  "lng" : -80.51989499999999
+               }
+            }
+         },
+         "place_id" : "ChIJieUyHiaALYgRPbQiUEchRsI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

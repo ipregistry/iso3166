@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luxor",
+               "short_name" : "Luxor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luxor City",
+               "short_name" : "Luxor City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luxor",
+               "short_name" : "Luxor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luxor Governorate",
+               "short_name" : "Luxor Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luxor, Luxor City, Luxor, Luxor Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.7358046,
+                  "lng" : 32.6964268
+               },
+               "southwest" : {
+                  "lat" : 25.6540777,
+                  "lng" : 32.6225071
+               }
+            },
+            "location" : {
+               "lat" : 25.6872431,
+               "lng" : 32.6396357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7358046,
+                  "lng" : 32.6964268
+               },
+               "southwest" : {
+                  "lat" : 25.6540777,
+                  "lng" : 32.6225071
+               }
+            }
+         },
+         "place_id" : "ChIJzZXNUs8VSRQRlg4ciyvd9eA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

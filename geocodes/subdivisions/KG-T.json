@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talas Region",
+               "short_name" : "Talas Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Talas Region, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8320843,
+                  "lng" : 73.850444
+               },
+               "southwest" : {
+                  "lat" : 41.370205,
+                  "lng" : 70.8711283
+               }
+            },
+            "location" : {
+               "lat" : 42.2867339,
+               "lng" : 72.5204827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8320843,
+                  "lng" : 73.850444
+               },
+               "southwest" : {
+                  "lat" : 41.370205,
+                  "lng" : 70.8711283
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTVS47SPHozgRqyAdJHOnVQ4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

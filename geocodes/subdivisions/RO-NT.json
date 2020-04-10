@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neamț County",
+               "short_name" : "NT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neamț County, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.337545,
+                  "lng" : 27.246063
+               },
+               "southwest" : {
+                  "lat" : 46.640951,
+                  "lng" : 25.6630821
+               }
+            },
+            "location" : {
+               "lat" : 46.9758685,
+               "lng" : 26.3818764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.337545,
+                  "lng" : 27.246063
+               },
+               "southwest" : {
+                  "lat" : 46.640951,
+                  "lng" : 25.6630821
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZaiPlklUNUcR8oYAN72kIC0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

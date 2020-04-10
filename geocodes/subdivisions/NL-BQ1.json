@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kralendijk",
+               "short_name" : "Kralendijk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bonaire",
+               "short_name" : "Bonaire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Caribbean Netherlands",
+               "short_name" : "BQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kralendijk, Caribbean Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.2447126,
+                  "lng" : -68.1943059
+               },
+               "southwest" : {
+                  "lat" : 12.0233289,
+                  "lng" : -68.3120012
+               }
+            },
+            "location" : {
+               "lat" : 12.1443491,
+               "lng" : -68.2655456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.2447126,
+                  "lng" : -68.1943059
+               },
+               "southwest" : {
+                  "lat" : 12.0233289,
+                  "lng" : -68.3120012
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ1kXc7Abg44RUlePIm2dJys",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

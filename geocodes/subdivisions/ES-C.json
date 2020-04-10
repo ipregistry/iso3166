@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "A Coruña",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.38640729999999,
+                  "lng" : -8.3871082
+               },
+               "southwest" : {
+                  "lat" : 43.337341,
+                  "lng" : -8.438259199999999
+               }
+            },
+            "location" : {
+               "lat" : 43.3623436,
+               "lng" : -8.4115401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.38640729999999,
+                  "lng" : -8.3871082
+               },
+               "southwest" : {
+                  "lat" : 43.337341,
+                  "lng" : -8.438259199999999
+               }
+            }
+         },
+         "place_id" : "ChIJTVd08fx8Lg0R7t9cCQ01R2o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

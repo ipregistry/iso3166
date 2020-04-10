@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guera",
+               "short_name" : "Guera",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guera, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.990278,
+                  "lng" : 20.192167
+               },
+               "southwest" : {
+                  "lat" : 9.848286099999999,
+                  "lng" : 17.2903469
+               }
+            },
+            "location" : {
+               "lat" : 11.1219015,
+               "lng" : 18.4276047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.990278,
+                  "lng" : 20.192167
+               },
+               "southwest" : {
+                  "lat" : 9.848286099999999,
+                  "lng" : 17.2903469
+               }
+            }
+         },
+         "place_id" : "ChIJPSwcNdr4JBERaKwvBen4SB8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

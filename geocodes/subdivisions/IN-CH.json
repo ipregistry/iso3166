@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chandigarh",
+               "short_name" : "Chandigarh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chandigarh",
+               "short_name" : "Chandigarh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chandigarh",
+               "short_name" : "CH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chandigarh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.800142,
+                  "lng" : 76.8362439
+               },
+               "southwest" : {
+                  "lat" : 30.6700209,
+                  "lng" : 76.690814
+               }
+            },
+            "location" : {
+               "lat" : 30.7333148,
+               "lng" : 76.7794179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.800142,
+                  "lng" : 76.8362439
+               },
+               "southwest" : {
+                  "lat" : 30.6700209,
+                  "lng" : 76.690814
+               }
+            }
+         },
+         "place_id" : "ChIJa8lu5gvtDzkR_hlzUvln_6U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

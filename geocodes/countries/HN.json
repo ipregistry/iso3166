@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Honduras",
+               "short_name" : "HN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Honduras",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4677999,
+                  "lng" : -83.06210009999999
+               },
+               "southwest" : {
+                  "lat" : 12.9808201,
+                  "lng" : -89.3564822
+               }
+            },
+            "location" : {
+               "lat" : 15.199999,
+               "lng" : -86.241905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4677999,
+                  "lng" : -83.06210009999999
+               },
+               "southwest" : {
+                  "lat" : 12.9808201,
+                  "lng" : -89.3564822
+               }
+            }
+         },
+         "place_id" : "ChIJzzG3cxp1ao8RZIL7toLe0X4",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

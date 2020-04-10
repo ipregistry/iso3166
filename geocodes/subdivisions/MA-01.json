@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tangier-Tétouan-Al Hoceima",
+               "short_name" : "Tangier-Tétouan-Al Hoceima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tangier-Tétouan-Al Hoceima, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.921981,
+                  "lng" : -3.8006541
+               },
+               "southwest" : {
+                  "lat" : 34.514587,
+                  "lng" : -6.246023099999999
+               }
+            },
+            "location" : {
+               "lat" : 35.2629558,
+               "lng" : -5.5617279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.921981,
+                  "lng" : -3.8006541
+               },
+               "southwest" : {
+                  "lat" : 34.514587,
+                  "lng" : -6.246023099999999
+               }
+            }
+         },
+         "place_id" : "ChIJUWYCXtceCw0RhEywL-MUH-0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

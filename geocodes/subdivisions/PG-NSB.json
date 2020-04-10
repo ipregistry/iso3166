@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bougainville Island",
+               "short_name" : "Bougainville Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Autonomous Region of Bougainville",
+               "short_name" : "AROB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bougainville Island, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.4077243,
+                  "lng" : 155.9681896
+               },
+               "southwest" : {
+                  "lat" : -6.880267000000001,
+                  "lng" : 154.6705168
+               }
+            },
+            "location" : {
+               "lat" : -6.375391899999999,
+               "lng" : 155.3807101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.4077243,
+                  "lng" : 155.9681896
+               },
+               "southwest" : {
+                  "lat" : -6.880267000000001,
+                  "lng" : 154.6705168
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmfEYijbdzmgRfAZo0F6rnAk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

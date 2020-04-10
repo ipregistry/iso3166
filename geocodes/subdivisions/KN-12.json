@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Thomas Lowland Parish",
+               "short_name" : "Saint Thomas Lowland Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Thomas Lowland Parish, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.1950359,
+                  "lng" : -62.58734699999999
+               },
+               "southwest" : {
+                  "lat" : 17.137172,
+                  "lng" : -62.6300681
+               }
+            },
+            "location" : {
+               "lat" : 17.1650513,
+               "lng" : -62.6089753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.1950359,
+                  "lng" : -62.58734699999999
+               },
+               "southwest" : {
+                  "lat" : 17.137172,
+                  "lng" : -62.6300681
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmTpPAWY9EowRW4bXc7mMf_w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

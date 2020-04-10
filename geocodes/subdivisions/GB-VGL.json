@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barry",
+               "short_name" : "Barry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vale of Glamorgan",
+               "short_name" : "Vale of Glamorgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barry, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.431425,
+                  "lng" : -3.2274838
+               },
+               "southwest" : {
+                  "lat" : 51.3848192,
+                  "lng" : -3.3184651
+               }
+            },
+            "location" : {
+               "lat" : 51.3997529,
+               "lng" : -3.2825859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.431425,
+                  "lng" : -3.2274838
+               },
+               "southwest" : {
+                  "lat" : 51.3848192,
+                  "lng" : -3.3184651
+               }
+            }
+         },
+         "place_id" : "ChIJsd_V4EwEbkgRN4o690lgH5A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

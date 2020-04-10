@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lakshmipur",
+               "short_name" : "Lakshmipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lakshmipur District",
+               "short_name" : "Lakshmipur District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lakshmipur, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.9688647,
+                  "lng" : 90.8647871
+               },
+               "southwest" : {
+                  "lat" : 22.9157884,
+                  "lng" : 90.80633639999999
+               }
+            },
+            "location" : {
+               "lat" : 22.9454033,
+               "lng" : 90.8341624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9688647,
+                  "lng" : 90.8647871
+               },
+               "southwest" : {
+                  "lat" : 22.9157884,
+                  "lng" : 90.80633639999999
+               }
+            }
+         },
+         "place_id" : "ChIJDywl12TBVDcRaSpvS4G79i8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

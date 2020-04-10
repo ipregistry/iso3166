@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynedd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gwynedd, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2810762,
+                  "lng" : -3.436765
+               },
+               "southwest" : {
+                  "lat" : 52.5346386,
+                  "lng" : -4.8043827
+               }
+            },
+            "location" : {
+               "lat" : 52.9277266,
+               "lng" : -4.1334836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2810762,
+                  "lng" : -3.436765
+               },
+               "southwest" : {
+                  "lat" : 52.5346386,
+                  "lng" : -4.8043827
+               }
+            }
+         },
+         "place_id" : "ChIJ7Q8cbLY0ZEgR_OasFAMbzuw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

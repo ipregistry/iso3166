@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karbala",
+               "short_name" : "Karbala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karbala",
+               "short_name" : "Karbala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karbala Governorate",
+               "short_name" : "Karbala Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56001",
+               "short_name" : "56001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karbala 56001, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6576357,
+                  "lng" : 44.06719469999999
+               },
+               "southwest" : {
+                  "lat" : 32.557394,
+                  "lng" : 43.9558696
+               }
+            },
+            "location" : {
+               "lat" : 32.6027147,
+               "lng" : 44.01969870000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6576357,
+                  "lng" : 44.06719469999999
+               },
+               "southwest" : {
+                  "lat" : 32.557394,
+                  "lng" : 43.9558696
+               }
+            }
+         },
+         "place_id" : "ChIJyc24R-FrWRUR8BGhrqraxfY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

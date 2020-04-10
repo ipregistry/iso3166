@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vinica",
+               "short_name" : "Vinica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Vinica",
+               "short_name" : "Municipality of Vinica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vinica, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.889116,
+                  "lng" : 22.5234961
+               },
+               "southwest" : {
+                  "lat" : 41.8725488,
+                  "lng" : 22.4975967
+               }
+            },
+            "location" : {
+               "lat" : 41.883306,
+               "lng" : 22.5081193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.889116,
+                  "lng" : 22.5234961
+               },
+               "southwest" : {
+                  "lat" : 41.8725488,
+                  "lng" : 22.4975967
+               }
+            }
+         },
+         "place_id" : "ChIJ5VYqRm6MVRMRm5529qw_5_c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

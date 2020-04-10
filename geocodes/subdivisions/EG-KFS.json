@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kafr El-Shaikh",
+               "short_name" : "Kafr El-Shaikh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Qism Kafr El-Shaikh",
+               "short_name" : "Qism Kafr El-Shaikh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kafr Al Sheikh",
+               "short_name" : "Kafr Al Sheikh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gharbia Governorate",
+               "short_name" : "Gharbia Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kafr El-Shaikh, Qism Kafr El-Shaikh, Kafr Al Sheikh, Gharbia Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.12840259999999,
+                  "lng" : 30.9642718
+               },
+               "southwest" : {
+                  "lat" : 31.0917245,
+                  "lng" : 30.9160964
+               }
+            },
+            "location" : {
+               "lat" : 31.11065929999999,
+               "lng" : 30.9387799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.12840259999999,
+                  "lng" : 30.9642718
+               },
+               "southwest" : {
+                  "lat" : 31.0917245,
+                  "lng" : 30.9160964
+               }
+            }
+         },
+         "place_id" : "ChIJHwIz8nir9xQR-AiiBLDrzcI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

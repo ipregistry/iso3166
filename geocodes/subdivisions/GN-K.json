@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kankan",
+               "short_name" : "Kankan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kankan Prefecture",
+               "short_name" : "Kankan Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kankan",
+               "short_name" : "Kankan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kankan, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.414428,
+                  "lng" : -9.2677727
+               },
+               "southwest" : {
+                  "lat" : 10.3444241,
+                  "lng" : -9.342326199999999
+               }
+            },
+            "location" : {
+               "lat" : 10.3827887,
+               "lng" : -9.311828199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.414428,
+                  "lng" : -9.2677727
+               },
+               "southwest" : {
+                  "lat" : 10.3444241,
+                  "lng" : -9.342326199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxewEEmZRqw8R1foqcNMonrg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

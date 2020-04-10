@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krong Stung Treng",
+               "short_name" : "Krong Stung Treng",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stung Treng",
+               "short_name" : "Stung Treng",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Steung Treng Province",
+               "short_name" : "Steung Treng Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krong Stung Treng, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9273611,
+                  "lng" : 106.2072372
+               },
+               "southwest" : {
+                  "lat" : 13.3884505,
+                  "lng" : 105.9262276
+               }
+            },
+            "location" : {
+               "lat" : 13.5069103,
+               "lng" : 105.9676931
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9273611,
+                  "lng" : 106.2072372
+               },
+               "southwest" : {
+                  "lat" : 13.3884505,
+                  "lng" : 105.9262276
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ7r2USHuEjERxLuhcrVjXJk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

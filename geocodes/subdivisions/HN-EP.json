@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Paraiso",
+               "short_name" : "El Paraiso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Paraiso",
+               "short_name" : "El Paraiso",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "El Paraíso Department",
+               "short_name" : "El Paraíso Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Honduras",
+               "short_name" : "HN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Paraiso, Honduras",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9035648,
+                  "lng" : -86.54163179999999
+               },
+               "southwest" : {
+                  "lat" : 13.8518,
+                  "lng" : -86.5643635
+               }
+            },
+            "location" : {
+               "lat" : 13.8641109,
+               "lng" : -86.55292799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9035648,
+                  "lng" : -86.54163179999999
+               },
+               "southwest" : {
+                  "lat" : 13.8518,
+                  "lng" : -86.5643635
+               }
+            }
+         },
+         "place_id" : "ChIJJ5V68hAVbo8RaaN9EvBPv8s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

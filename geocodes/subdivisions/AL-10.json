@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shkodër",
+               "short_name" : "Shkodër",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shkodër County",
+               "short_name" : "Shkodër County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shkodër, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0965346,
+                  "lng" : 19.537983
+               },
+               "southwest" : {
+                  "lat" : 42.0324324,
+                  "lng" : 19.3796252
+               }
+            },
+            "location" : {
+               "lat" : 42.0692985,
+               "lng" : 19.5032559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0965346,
+                  "lng" : 19.537983
+               },
+               "southwest" : {
+                  "lat" : 42.0324324,
+                  "lng" : 19.3796252
+               }
+            }
+         },
+         "place_id" : "ChIJLyGY-VsAThMRToDRZL0_DXw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

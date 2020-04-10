@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malanje",
+               "short_name" : "Malanje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malanje",
+               "short_name" : "Malanje",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Malanje Province",
+               "short_name" : "Malanje Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Angola",
+               "short_name" : "AO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malanje, Angola",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.5124286,
+                  "lng" : 16.3876533
+               },
+               "southwest" : {
+                  "lat" : -9.572059699999999,
+                  "lng" : 16.2992908
+               }
+            },
+            "location" : {
+               "lat" : -9.541822399999999,
+               "lng" : 16.3346061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.5124286,
+                  "lng" : 16.3876533
+               },
+               "southwest" : {
+                  "lat" : -9.572059699999999,
+                  "lng" : 16.2992908
+               }
+            }
+         },
+         "place_id" : "ChIJ80_vELWHShoRtZzxhWMFJuA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

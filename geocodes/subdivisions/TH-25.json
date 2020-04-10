@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prachin Buri",
+               "short_name" : "จ.ปราจีนบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prachin Buri, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.4625612,
+                  "lng" : 102.1060804
+               },
+               "southwest" : {
+                  "lat" : 13.5823122,
+                  "lng" : 101.137452
+               }
+            },
+            "location" : {
+               "lat" : 14.0420699,
+               "lng" : 101.6600874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.4625612,
+                  "lng" : 102.1060804
+               },
+               "southwest" : {
+                  "lat" : 13.5823122,
+                  "lng" : 101.137452
+               }
+            }
+         },
+         "place_id" : "ChIJL1W4VklfHDEREEkMRTeSAQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

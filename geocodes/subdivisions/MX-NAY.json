@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nayarit",
+               "short_name" : "Nayarit",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Villa Hidalgo",
+               "short_name" : "Villa Hidalgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nayarit",
+               "short_name" : "Nay.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63550",
+               "short_name" : "63550",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nayarit, 63550 Villa Hidalgo, Nay., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.7396767,
+                  "lng" : -105.2287448
+               },
+               "southwest" : {
+                  "lat" : 21.735972,
+                  "lng" : -105.2317247
+               }
+            },
+            "location" : {
+               "lat" : 21.7379898,
+               "lng" : -105.2300856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.7396767,
+                  "lng" : -105.2287448
+               },
+               "southwest" : {
+                  "lat" : 21.735972,
+                  "lng" : -105.2317247
+               }
+            }
+         },
+         "place_id" : "ChIJJaf7Rl2lIIQRLEPecOkCm8Q",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

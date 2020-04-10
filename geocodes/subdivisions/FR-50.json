@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manche",
+               "short_name" : "Manche",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Normandy",
+               "short_name" : "Normandy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manche, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.72998200000001,
+                  "lng" : -0.7348169000000001
+               },
+               "southwest" : {
+                  "lat" : 48.45579679999999,
+                  "lng" : -1.954995
+               }
+            },
+            "location" : {
+               "lat" : 49.114712,
+               "lng" : -1.3115949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.72998200000001,
+                  "lng" : -0.7348169000000001
+               },
+               "southwest" : {
+                  "lat" : 48.45579679999999,
+                  "lng" : -1.954995
+               }
+            }
+         },
+         "place_id" : "ChIJ9zVZBbiLC0gRoCi1T0gUDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

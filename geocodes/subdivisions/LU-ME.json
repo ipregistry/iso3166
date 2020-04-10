@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mersch",
+               "short_name" : "Mersch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mersch",
+               "short_name" : "Mersch",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg District",
+               "short_name" : "Luxembourg District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mersch, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7912399,
+                  "lng" : 6.1590699
+               },
+               "southwest" : {
+                  "lat" : 49.69301,
+                  "lng" : 6.03743
+               }
+            },
+            "location" : {
+               "lat" : 49.75282869999999,
+               "lng" : 6.1027786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7912399,
+                  "lng" : 6.1590699
+               },
+               "southwest" : {
+                  "lat" : 49.69301,
+                  "lng" : 6.03743
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9bAx72BRlUcRrXQQGLNkp1M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+west" : {
+                  "lat" : 49.75048971970851,
+                  "lng" : 6.108927719708499
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_2M8S2JRlUcR31NanjXQtPo",
+         "plus_code" : {
+            "compound_code" : "Q426+P4 Mersch, Luxembourg",
+            "global_code" : "8FX8Q426+P4"
+         },
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

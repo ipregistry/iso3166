@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Republika Srpska",
+               "short_name" : "Republika Srpska",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Republika Srpska, Bosnia and Herzegovina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2766262,
+                  "lng" : 19.6256174
+               },
+               "southwest" : {
+                  "lat" : 42.5561996,
+                  "lng" : 16.1924385
+               }
+            },
+            "location" : {
+               "lat" : 44.7280186,
+               "lng" : 17.3148136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2766262,
+                  "lng" : 19.6256174
+               },
+               "southwest" : {
+                  "lat" : 42.5561996,
+                  "lng" : 16.1924385
+               }
+            }
+         },
+         "place_id" : "ChIJXTFCZmySWEcR6KwQRe40bvg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

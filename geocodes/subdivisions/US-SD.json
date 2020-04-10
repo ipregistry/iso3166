@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Dakota, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.945713,
+                  "lng" : -96.436589
+               },
+               "southwest" : {
+                  "lat" : 42.479686,
+                  "lng" : -104.0577391
+               }
+            },
+            "location" : {
+               "lat" : 43.9695148,
+               "lng" : -99.9018131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.945713,
+                  "lng" : -96.436589
+               },
+               "southwest" : {
+                  "lat" : 42.479686,
+                  "lng" : -104.0577391
+               }
+            }
+         },
+         "place_id" : "ChIJpTjphS1DfYcRt6SGMSnW8Ac",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

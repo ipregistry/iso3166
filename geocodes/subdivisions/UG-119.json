@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Butambala",
+               "short_name" : "Butambala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mpigi",
+               "short_name" : "Mpigi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Butambala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3175719,
+                  "lng" : 32.3050404
+               },
+               "southwest" : {
+                  "lat" : 0.0006008,
+                  "lng" : 31.8067931
+               }
+            },
+            "location" : {
+               "lat" : 0.17425,
+               "lng" : 32.1064668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3175719,
+                  "lng" : 32.3050404
+               },
+               "southwest" : {
+                  "lat" : 0.0006008,
+                  "lng" : 31.8067931
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhXVNDh5pfRcRNOA2zKawmmI",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

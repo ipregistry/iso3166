@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faiyum",
+               "short_name" : "Faiyum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Qesm Al Fayoum",
+               "short_name" : "Qesm Al Fayoum",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Faiyum",
+               "short_name" : "Faiyum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Faiyum Governorate",
+               "short_name" : "Faiyum Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faiyum, Qesm Al Fayoum, Faiyum, Faiyum Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3299673,
+                  "lng" : 30.86388549999999
+               },
+               "southwest" : {
+                  "lat" : 29.2918259,
+                  "lng" : 30.8206875
+               }
+            },
+            "location" : {
+               "lat" : 29.3084021,
+               "lng" : 30.8428497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3299673,
+                  "lng" : 30.86388549999999
+               },
+               "southwest" : {
+                  "lat" : 29.2918259,
+                  "lng" : 30.8206875
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEwC_qC95WRQRY28jKNWzmKY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

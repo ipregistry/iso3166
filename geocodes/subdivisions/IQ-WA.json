@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wasit Governorate",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wasit Governorate, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.47649,
+                  "lng" : 46.606579
+               },
+               "southwest" : {
+                  "lat" : 31.9118621,
+                  "lng" : 44.5098
+               }
+            },
+            "location" : {
+               "lat" : 32.6024094,
+               "lng" : 45.7520985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.47649,
+                  "lng" : 46.606579
+               },
+               "southwest" : {
+                  "lat" : 31.9118621,
+                  "lng" : 44.5098
+               }
+            }
+         },
+         "place_id" : "ChIJc8yyLWuv4z8RlSMAnCWD_FE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

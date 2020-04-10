@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tottori",
+               "short_name" : "Tottori",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tottori",
+               "short_name" : "Tottori",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tottori, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.573131,
+                  "lng" : 134.440832
+               },
+               "southwest" : {
+                  "lat" : 35.271589,
+                  "lng" : 133.945994
+               }
+            },
+            "location" : {
+               "lat" : 35.5011082,
+               "lng" : 134.2351011
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.573131,
+                  "lng" : 134.440832
+               },
+               "southwest" : {
+                  "lat" : 35.271589,
+                  "lng" : 133.945994
+               }
+            }
+         },
+         "place_id" : "ChIJiW-EoMmWVTURVlTlKYZjRzg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

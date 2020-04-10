@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agder",
+               "short_name" : "Agder",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Agder, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.6726869,
+                  "lng" : 9.668876600000001
+               },
+               "southwest" : {
+                  "lat" : 57.7590051,
+                  "lng" : 6.149705
+               }
+            },
+            "location" : {
+               "lat" : 58.50320840000001,
+               "lng" : 7.7571974
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.6726869,
+                  "lng" : 9.668876600000001
+               },
+               "southwest" : {
+                  "lat" : 57.7590051,
+                  "lng" : 6.149705
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJD0JSTvhPOEYR8vitVnMQwW0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

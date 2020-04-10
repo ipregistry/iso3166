@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Granada, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.9492767,
+                  "lng" : -85.94110979999999
+               },
+               "southwest" : {
+                  "lat" : 11.9084219,
+                  "lng" : -85.978489
+               }
+            },
+            "location" : {
+               "lat" : 11.9344073,
+               "lng" : -85.9560005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.9492767,
+                  "lng" : -85.94110979999999
+               },
+               "southwest" : {
+                  "lat" : 11.9084219,
+                  "lng" : -85.978489
+               }
+            }
+         },
+         "place_id" : "ChIJkxVrcJEMdI8RjLTOyE2QjDs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

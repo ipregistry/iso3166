@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Hajeb",
+               "short_name" : "El Hajeb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Hajeb Province",
+               "short_name" : "El Hajeb Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Fez-Meknès",
+               "short_name" : "Fez-Meknès",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Hajeb, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7026764,
+                  "lng" : -5.358757
+               },
+               "southwest" : {
+                  "lat" : 33.6618291,
+                  "lng" : -5.3847214
+               }
+            },
+            "location" : {
+               "lat" : 33.685735,
+               "lng" : -5.3677844
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7026764,
+                  "lng" : -5.358757
+               },
+               "southwest" : {
+                  "lat" : 33.6618291,
+                  "lng" : -5.3847214
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJU47EcjU1oA0Rdxj02L2JG0I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

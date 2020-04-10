@@ -1,0 +1,115 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zagora",
+               "short_name" : "Zagora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zagora Province",
+               "short_name" : "Zagora Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Drâa-Tafilalet",
+               "short_name" : "Drâa-Tafilalet",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zagora, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3685246,
+                  "lng" : -5.8262927
+               },
+               "southwest" : {
+                  "lat" : 30.3173955,
+                  "lng" : -5.8603477
+               }
+            },
+            "location" : {
+               "lat" : 30.34589979999999,
+               "lng" : -5.8406587
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3685246,
+                  "lng" : -5.8262927
+               },
+               "southwest" : {
+                  "lat" : 30.3173955,
+                  "lng" : -5.8603477
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlQ5oWOo2vA0RMuJtYfvp6XU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zag",
+               "short_name" : "Zag",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Assa-Zag",
+               "short_name" : "Assa-Zag",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guelmim-Oued Noun",
+               "short_name" : "Guelmim-Oued Noun",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zag, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.042819,
+                  "lng" : -9.273877199999999
+               },
+               "southwest" : {
+                  "lat" : 28.0056553,
+                  "lng" : -9.3232298
+               }
+            },
+            "location" : {
+               "lat" : 28.0250868,
+               "lng" : -9.295191599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.042819,
+                  "lng" : -9.273877199999999
+               },
+               "southwest" : {
+                  "lat" : 28.0056553,
+                  "lng" : -9.3232298
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDyoHqFoYyg0Rew1zoqa2woY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

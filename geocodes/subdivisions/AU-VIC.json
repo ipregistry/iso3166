@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Victoria, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.9806474,
+                  "lng" : 150.0169685
+               },
+               "southwest" : {
+                  "lat" : -39.18316069999999,
+                  "lng" : 140.9616819
+               }
+            },
+            "location" : {
+               "lat" : -37.4713077,
+               "lng" : 144.7851531
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.9806474,
+                  "lng" : 150.0169685
+               },
+               "southwest" : {
+                  "lat" : -39.18316069999999,
+                  "lng" : 140.9616819
+               }
+            }
+         },
+         "place_id" : "ChIJT5UYfksx1GoRNJWCvuL8Tlo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

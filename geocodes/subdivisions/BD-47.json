@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Noakhali",
+               "short_name" : "Noakhali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Noakhali District",
+               "short_name" : "Noakhali District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Noakhali, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.8402445,
+                  "lng" : 91.11739849999999
+               },
+               "southwest" : {
+                  "lat" : 22.8100314,
+                  "lng" : 91.0819973
+               }
+            },
+            "location" : {
+               "lat" : 22.8246384,
+               "lng" : 91.1017334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.8402445,
+                  "lng" : 91.11739849999999
+               },
+               "southwest" : {
+                  "lat" : 22.8100314,
+                  "lng" : 91.0819973
+               }
+            }
+         },
+         "place_id" : "ChIJkw6QA4GlVDcR8QGlK2OZrrc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maijdee",
+               "short_name" : "Maijdee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Noakhali District",
+               "short_name" : "Noakhali District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maijdee, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.8906175,
+                  "lng" : 91.110851
+               },
+               "southwest" : {
+                  "lat" : 22.8533169,
+                  "lng" : 91.0813807
+               }
+            },
+            "location" : {
+               "lat" : 22.8723629,
+               "lng" : 91.09214729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.8906175,
+                  "lng" : 91.110851
+               },
+               "southwest" : {
+                  "lat" : 22.8533169,
+                  "lng" : 91.0813807
+               }
+            }
+         },
+         "place_id" : "ChIJUbOAAfakVDcRNyoMgpHfNa8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

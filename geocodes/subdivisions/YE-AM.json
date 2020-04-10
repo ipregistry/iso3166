@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "'Amran",
+               "short_name" : "'Amran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "'Amran Governorate",
+               "short_name" : "'Amran Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Yemen",
+               "short_name" : "YE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "'Amran, Yemen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.6876251,
+                  "lng" : 43.9667701
+               },
+               "southwest" : {
+                  "lat" : 15.6439487,
+                  "lng" : 43.9011097
+               }
+            },
+            "location" : {
+               "lat" : 15.6620639,
+               "lng" : 43.9341408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.6876251,
+                  "lng" : 43.9667701
+               },
+               "southwest" : {
+                  "lat" : 15.6439487,
+                  "lng" : 43.9011097
+               }
+            }
+         },
+         "place_id" : "ChIJlSn3D2ZQARYRTKaz4hoN6hE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

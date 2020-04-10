@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Province",
+               "short_name" : "Southern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Province, Zambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.293982,
+                  "lng" : 28.912453
+               },
+               "southwest" : {
+                  "lat" : -18.079473,
+                  "lng" : 24.9715499
+               }
+            },
+            "location" : {
+               "lat" : -16.9620634,
+               "lng" : 26.419389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.293982,
+                  "lng" : 28.912453
+               },
+               "southwest" : {
+                  "lat" : -18.079473,
+                  "lng" : 24.9715499
+               }
+            }
+         },
+         "place_id" : "ChIJ3Twm3YuVRhkRtGXyia8C878",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

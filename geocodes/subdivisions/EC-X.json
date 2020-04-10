@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cotopaxi",
+               "short_name" : "Cotopaxi",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Latacunga",
+               "short_name" : "Latacunga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cotopaxi Province",
+               "short_name" : "Cotopaxi Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cotopaxi, Ecuador",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.6837540999999999,
+               "lng" : -78.4371901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.6725968999999999,
+                  "lng" : -78.4211827
+               },
+               "southwest" : {
+                  "lat" : -0.6949113,
+                  "lng" : -78.4531975
+               }
+            }
+         },
+         "place_id" : "ChIJ5yzVu11O1JER6MEBc6d7KWE",
+         "plus_code" : {
+            "compound_code" : "8H87+F4 Mulalo, Ecuador",
+            "global_code" : "67F38H87+F4"
+         },
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nara",
+               "short_name" : "Nara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nara",
+               "short_name" : "Nara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nara, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.757828,
+                  "lng" : 136.071115
+               },
+               "southwest" : {
+                  "lat" : 34.558075,
+                  "lng" : 135.713066
+               }
+            },
+            "location" : {
+               "lat" : 34.685109,
+               "lng" : 135.8048019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.757828,
+                  "lng" : 136.071115
+               },
+               "southwest" : {
+                  "lat" : 34.558075,
+                  "lng" : 135.713066
+               }
+            }
+         },
+         "place_id" : "ChIJwQyneMU3AWARIiZJubDZ_ko",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

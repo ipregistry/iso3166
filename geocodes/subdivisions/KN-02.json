@@ -1,0 +1,105 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Anne Sandy Point Parish",
+               "short_name" : "Saint Anne Sandy Point Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Anne Sandy Point Parish, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.388191,
+                  "lng" : -62.80663490000001
+               },
+               "southwest" : {
+                  "lat" : 17.341078,
+                  "lng" : -62.86417909999999
+               }
+            },
+            "location" : {
+               "lat" : 17.3725333,
+               "lng" : -62.8441133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.388191,
+                  "lng" : -62.80663490000001
+               },
+               "southwest" : {
+                  "lat" : 17.341078,
+                  "lng" : -62.86417909999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrwm-5u_3EYwRmQ21jyqdTAU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sandy Point Town",
+               "short_name" : "Sandy Point Town",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Anne Sandy Point",
+               "short_name" : "Saint Anne Sandy Point",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saint Anne Sandy Point Parish",
+               "short_name" : "Saint Anne Sandy Point Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sandy Point Town, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3661831,
+                  "lng" : -62.84136770000001
+               },
+               "southwest" : {
+                  "lat" : 17.3462144,
+                  "lng" : -62.85312639999999
+               }
+            },
+            "location" : {
+               "lat" : 17.3551438,
+               "lng" : -62.8455837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3661831,
+                  "lng" : -62.84136770000001
+               },
+               "southwest" : {
+                  "lat" : 17.3462144,
+                  "lng" : -62.85312639999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv6ARlsH3EYwRRj_o-6_IR5Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

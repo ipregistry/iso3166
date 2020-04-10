@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ordubad",
+               "short_name" : "Ordubad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ordubad",
+               "short_name" : "Ordubad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nakhchivan Autonomous Republic",
+               "short_name" : "Nakhchivan Autonomous Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ordubad, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9190856,
+                  "lng" : 46.0360623
+               },
+               "southwest" : {
+                  "lat" : 38.8915673,
+                  "lng" : 46.0086823
+               }
+            },
+            "location" : {
+               "lat" : 38.9021622,
+               "lng" : 46.0237625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9190856,
+                  "lng" : 46.0360623
+               },
+               "southwest" : {
+                  "lat" : 38.8915673,
+                  "lng" : 46.0086823
+               }
+            }
+         },
+         "place_id" : "ChIJC0_Yyin3FkARZWnaIo_bROM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

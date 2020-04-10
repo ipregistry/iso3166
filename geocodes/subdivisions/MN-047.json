@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Töv",
+               "short_name" : "Töv",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Töv, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1231531,
+                  "lng" : 109.044458
+               },
+               "southwest" : {
+                  "lat" : 46.38429199999999,
+                  "lng" : 104.070697
+               }
+            },
+            "location" : {
+               "lat" : 47.2124056,
+               "lng" : 106.41541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1231531,
+                  "lng" : 109.044458
+               },
+               "southwest" : {
+                  "lat" : 46.38429199999999,
+                  "lng" : 104.070697
+               }
+            }
+         },
+         "place_id" : "ChIJQWVhqf3qkF0RFY0Oz_5de7U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

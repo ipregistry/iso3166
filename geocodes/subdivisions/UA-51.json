@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.233306,
+                  "lng" : 31.305305
+               },
+               "southwest" : {
+                  "lat" : 45.204082,
+                  "lng" : 28.2128888
+               }
+            },
+            "location" : {
+               "lat" : 46.484583,
+               "lng" : 30.7326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.233306,
+                  "lng" : 31.305305
+               },
+               "southwest" : {
+                  "lat" : 45.204082,
+                  "lng" : 28.2128888
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaRSOmoExxkARxdd-tWjwax8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

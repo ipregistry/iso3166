@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tunceli",
+               "short_name" : "Tunceli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tunceli Merkez",
+               "short_name" : "Tunceli Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tunceli",
+               "short_name" : "Tunceli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tunceli, Tunceli Merkez/Tunceli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.118647,
+                  "lng" : 39.557162
+               },
+               "southwest" : {
+                  "lat" : 39.067998,
+                  "lng" : 39.5122501
+               }
+            },
+            "location" : {
+               "lat" : 39.10617,
+               "lng" : 39.548259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.118647,
+                  "lng" : 39.557162
+               },
+               "southwest" : {
+                  "lat" : 39.067998,
+                  "lng" : 39.5122501
+               }
+            }
+         },
+         "place_id" : "ChIJF8heFhsicUARjNpattaCqP0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

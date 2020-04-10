@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Larvotto",
+               "short_name" : "Larvotto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Monaco",
+               "short_name" : "Monaco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monaco",
+               "short_name" : "MC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Larvotto, Monaco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7499261,
+                  "lng" : 7.4398179
+               },
+               "southwest" : {
+                  "lat" : 43.741215,
+                  "lng" : 7.4295741
+               }
+            },
+            "location" : {
+               "lat" : 43.74337999999999,
+               "lng" : 7.430699300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7499261,
+                  "lng" : 7.4398179
+               },
+               "southwest" : {
+                  "lat" : 43.741215,
+                  "lng" : 7.4295741
+               }
+            }
+         },
+         "place_id" : "ChIJs5kFjnzCzRIRSQUdnnrWz_I",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

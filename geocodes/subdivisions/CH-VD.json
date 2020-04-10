@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vaud",
+               "short_name" : "VD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vaud, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9867099,
+                  "lng" : 7.2492599
+               },
+               "southwest" : {
+                  "lat" : 46.1870301,
+                  "lng" : 6.06401
+               }
+            },
+            "location" : {
+               "lat" : 46.5613135,
+               "lng" : 6.536765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9867099,
+                  "lng" : 7.2492599
+               },
+               "southwest" : {
+                  "lat" : 46.1870301,
+                  "lng" : 6.06401
+               }
+            }
+         },
+         "place_id" : "ChIJtZALbaItjEcRUNgYQIj_AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

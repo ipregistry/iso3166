@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šibenik-Knin County",
+               "short_name" : "Šibenik-Knin County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Šibenik-Knin County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2164979,
+                  "lng" : 16.5426211
+               },
+               "southwest" : {
+                  "lat" : 43.4868253,
+                  "lng" : 15.2068282
+               }
+            },
+            "location" : {
+               "lat" : 43.9281485,
+               "lng" : 16.1037694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2164979,
+                  "lng" : 16.5426211
+               },
+               "southwest" : {
+                  "lat" : 43.4868253,
+                  "lng" : 15.2068282
+               }
+            }
+         },
+         "place_id" : "ChIJyazZSX4rNRMRALUrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

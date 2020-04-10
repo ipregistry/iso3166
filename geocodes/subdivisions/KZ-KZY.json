@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyzylorda",
+               "short_name" : "Kyzylorda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Syrdariya District",
+               "short_name" : "Syrdariya District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyzylorda Province",
+               "short_name" : "Kyzylorda Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyzylorda, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8838501,
+                  "lng" : 65.57885159999999
+               },
+               "southwest" : {
+                  "lat" : 44.7723126,
+                  "lng" : 65.4312498
+               }
+            },
+            "location" : {
+               "lat" : 44.84883139999999,
+               "lng" : 65.4822686
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8838501,
+                  "lng" : 65.57885159999999
+               },
+               "southwest" : {
+                  "lat" : 44.7723126,
+                  "lng" : 65.4312498
+               }
+            }
+         },
+         "place_id" : "ChIJeddRN-D990ERS-CxjOQjI48",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

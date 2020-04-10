@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hawaii, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.517269,
+                  "lng" : -154.7557919
+               },
+               "southwest" : {
+                  "lat" : 18.86546,
+                  "lng" : -178.4435931
+               }
+            },
+            "location" : {
+               "lat" : 19.8967662,
+               "lng" : -155.5827818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.37,
+                  "lng" : -154.48
+               },
+               "southwest" : {
+                  "lat" : 18.55,
+                  "lng" : -160.53
+               }
+            }
+         },
+         "place_id" : "ChIJBeB5Twbb_3sRKIbMdNKCd0s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

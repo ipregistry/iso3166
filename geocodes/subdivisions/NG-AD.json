@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adamawa",
+               "short_name" : "AD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adamawa, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.9494611,
+                  "lng" : 13.7297941
+               },
+               "southwest" : {
+                  "lat" : 7.346997,
+                  "lng" : 11.341521
+               }
+            },
+            "location" : {
+               "lat" : 9.3264751,
+               "lng" : 12.3983853
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9494611,
+                  "lng" : 13.7297941
+               },
+               "southwest" : {
+                  "lat" : 7.346997,
+                  "lng" : 11.341521
+               }
+            }
+         },
+         "place_id" : "ChIJzVf2EAsA_BAR_eIXdOZnG5g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

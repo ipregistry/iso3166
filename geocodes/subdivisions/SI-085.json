@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Novo mesto",
+               "short_name" : "Novo mesto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novo mesto",
+               "short_name" : "Novo mesto",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Novo Mesto",
+               "short_name" : "Novo Mesto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8000",
+               "short_name" : "8000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8000 Novo mesto, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8389841,
+                  "lng" : 15.2119462
+               },
+               "southwest" : {
+                  "lat" : 45.7681929,
+                  "lng" : 15.127425
+               }
+            },
+            "location" : {
+               "lat" : 45.80108240000001,
+               "lng" : 15.1710089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8389841,
+                  "lng" : 15.2119462
+               },
+               "southwest" : {
+                  "lat" : 45.7681929,
+                  "lng" : 15.127425
+               }
+            }
+         },
+         "place_id" : "ChIJX9Ej41dVZEcR1HshQONVLRA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

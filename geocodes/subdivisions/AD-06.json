@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sant Julià de Lòria",
+               "short_name" : "Sant Julià de Lòria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sant Julià de Lòria",
+               "short_name" : "Sant Julià de Lòria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Andorra",
+               "short_name" : "AD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AD600",
+               "short_name" : "AD600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AD600 Sant Julià de Lòria, Andorra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4727386,
+                  "lng" : 1.4963642
+               },
+               "southwest" : {
+                  "lat" : 42.4613938,
+                  "lng" : 1.4893715
+               }
+            },
+            "location" : {
+               "lat" : 42.4657861,
+               "lng" : 1.4921277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4727386,
+                  "lng" : 1.4963642
+               },
+               "southwest" : {
+                  "lat" : 42.4613938,
+                  "lng" : 1.4893715
+               }
+            }
+         },
+         "place_id" : "ChIJ86UCopz0pRIRcHCZkXCUAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

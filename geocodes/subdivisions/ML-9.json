@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Menaka",
+               "short_name" : "Menaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Menaka",
+               "short_name" : "Menaka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gao Region",
+               "short_name" : "Gao Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mali",
+               "short_name" : "ML",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Menaka, Mali",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.9296794,
+                  "lng" : 2.4102545
+               },
+               "southwest" : {
+                  "lat" : 15.8895225,
+                  "lng" : 2.3814583
+               }
+            },
+            "location" : {
+               "lat" : 15.9156421,
+               "lng" : 2.396174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.9296794,
+                  "lng" : 2.4102545
+               },
+               "southwest" : {
+                  "lat" : 15.8895225,
+                  "lng" : 2.3814583
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy_wn9NEt3RERaTYdjjr4Ko0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

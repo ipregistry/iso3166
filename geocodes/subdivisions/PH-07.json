@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Visayas",
+               "short_name" : "Central Visayas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Visayas, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.57302,
+                  "lng" : 124.645857
+               },
+               "southwest" : {
+                  "lat" : 9.038528099999999,
+                  "lng" : 122.6209281
+               }
+            },
+            "location" : {
+               "lat" : 9.816875,
+               "lng" : 124.0641419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.57302,
+                  "lng" : 124.645857
+               },
+               "southwest" : {
+                  "lat" : 9.038528099999999,
+                  "lng" : 122.6209281
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVc7VivHFqzMRAaGfJmRsBzs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

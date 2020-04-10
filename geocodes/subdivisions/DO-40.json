@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle Las Damas",
+               "short_name" : "Calle Las Damas",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zona Colonial",
+               "short_name" : "Zona Colonial",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Santo Domingo",
+               "short_name" : "Santo Domingo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santo Domingo de Guzman",
+               "short_name" : "Santo Domingo de Guzman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Distrito Nacional",
+               "short_name" : "Distrito Nacional",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10210",
+               "short_name" : "10210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle Las Damas 1, Santo Domingo 10210, Dominican Republic",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.4729557,
+               "lng" : -69.8815934
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.4743046802915,
+                  "lng" : -69.88024441970849
+               },
+               "southwest" : {
+                  "lat" : 18.4716067197085,
+                  "lng" : -69.8829423802915
+               }
+            }
+         },
+         "place_id" : "ChIJx4TkShaIr44R8x0LQCMm1hE",
+         "plus_code" : {
+            "compound_code" : "F4F9+59 Santo Domingo, Dominican Republic",
+            "global_code" : "77CGF4F9+59"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

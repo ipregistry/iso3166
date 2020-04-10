@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kigali City",
+               "short_name" : "Kigali City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kigali",
+               "short_name" : "Kigali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rwanda",
+               "short_name" : "RW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kigali City, Kigali, Rwanda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.7795613,
+                  "lng" : 30.2771502
+               },
+               "southwest" : {
+                  "lat" : -2.0799799,
+                  "lng" : 29.9773387
+               }
+            },
+            "location" : {
+               "lat" : -1.9578755,
+               "lng" : 30.112735
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.7795613,
+                  "lng" : 30.2771502
+               },
+               "southwest" : {
+                  "lat" : -2.0799799,
+                  "lng" : 29.9773387
+               }
+            }
+         },
+         "place_id" : "ChIJl-fYjiWk3BkRNAgf0zO1-zI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kigali",
+               "short_name" : "Kigali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nyarugenge",
+               "short_name" : "Nyarugenge",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kigali City",
+               "short_name" : "Kigali City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Rwanda",
+               "short_name" : "RW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kigali, Rwanda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.7795613,
+                  "lng" : 30.2771502
+               },
+               "southwest" : {
+                  "lat" : -2.0799799,
+                  "lng" : 29.9773387
+               }
+            },
+            "location" : {
+               "lat" : -1.9440727,
+               "lng" : 30.0618851
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.7795613,
+                  "lng" : 30.2771502
+               },
+               "southwest" : {
+                  "lat" : -2.0799799,
+                  "lng" : 29.9773387
+               }
+            }
+         },
+         "place_id" : "ChIJl-fYjiWk3BkRyAsdQaU2K_M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

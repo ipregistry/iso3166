@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kapelebyong",
+               "short_name" : "Kapelebyong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amuria",
+               "short_name" : "Amuria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kapelebyong, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.3064199,
+                  "lng" : 33.8712788
+               },
+               "southwest" : {
+                  "lat" : 2.281549,
+                  "lng" : 33.8494778
+               }
+            },
+            "location" : {
+               "lat" : 2.2970408,
+               "lng" : 33.860664
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.3064199,
+                  "lng" : 33.8712788
+               },
+               "southwest" : {
+                  "lat" : 2.281549,
+                  "lng" : 33.8494778
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlY8RymufdxcRq3ruIwOI6zU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zilupe Municipality",
+               "short_name" : "Zilupe Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zilupe Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.41864409999999,
+                  "lng" : 28.241569
+               },
+               "southwest" : {
+                  "lat" : 56.1358919,
+                  "lng" : 27.8477639
+               }
+            },
+            "location" : {
+               "lat" : 56.3018985,
+               "lng" : 28.133959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.41864409999999,
+                  "lng" : 28.241569
+               },
+               "southwest" : {
+                  "lat" : 56.1358919,
+                  "lng" : 27.8477639
+               }
+            }
+         },
+         "place_id" : "ChIJyzmpTbbJw0YRUADzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

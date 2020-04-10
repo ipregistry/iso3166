@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bugiri",
+               "short_name" : "Bugiri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Namayingo",
+               "short_name" : "Namayingo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bugiri, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.5827803,
+                  "lng" : 33.7664796
+               },
+               "southwest" : {
+                  "lat" : 0.5541142999999999,
+                  "lng" : 33.7357521
+               }
+            },
+            "location" : {
+               "lat" : 0.5671364999999999,
+               "lng" : 33.7461847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.5827803,
+                  "lng" : 33.7664796
+               },
+               "southwest" : {
+                  "lat" : 0.5541142999999999,
+                  "lng" : 33.7357521
+               }
+            }
+         },
+         "place_id" : "ChIJS4haJDf8fhcRc2dl1uRjxKU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

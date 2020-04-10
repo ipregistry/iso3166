@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Demir Kapija",
+               "short_name" : "Demir Kapija",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Demir Kapija",
+               "short_name" : "Municipality of Demir Kapija",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Demir Kapija, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4142979,
+                  "lng" : 22.2562623
+               },
+               "southwest" : {
+                  "lat" : 41.39890399999999,
+                  "lng" : 22.2329164
+               }
+            },
+            "location" : {
+               "lat" : 41.4088425,
+               "lng" : 22.2436177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4142979,
+                  "lng" : 22.2562623
+               },
+               "southwest" : {
+                  "lat" : 41.39890399999999,
+                  "lng" : 22.2329164
+               }
+            }
+         },
+         "place_id" : "ChIJywlKDMwSVhMRsEipLtQkMuc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

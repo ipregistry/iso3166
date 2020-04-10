@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Collines Department",
+               "short_name" : "Collines Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Benin",
+               "short_name" : "BJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Collines Department, Benin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.777360999999999,
+                  "lng" : 2.761885
+               },
+               "southwest" : {
+                  "lat" : 7.458557000000001,
+                  "lng" : 1.619739
+               }
+            },
+            "location" : {
+               "lat" : 8.3022297,
+               "lng" : 2.302446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.777360999999999,
+                  "lng" : 2.761885
+               },
+               "southwest" : {
+                  "lat" : 7.458557000000001,
+                  "lng" : 1.619739
+               }
+            }
+         },
+         "place_id" : "ChIJjaFyRZKsLxARmh_U8U9gDK4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

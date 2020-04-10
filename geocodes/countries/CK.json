@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cook Islands",
+               "short_name" : "CK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cook Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.1679932,
+                  "lng" : -155.6982422
+               },
+               "southwest" : {
+                  "lat" : -23.0898384,
+                  "lng" : -166.1791992
+               }
+            },
+            "location" : {
+               "lat" : -21.236736,
+               "lng" : -159.777671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.1679932,
+                  "lng" : -155.6982422
+               },
+               "southwest" : {
+                  "lat" : -23.0898384,
+                  "lng" : -166.1791992
+               }
+            }
+         },
+         "place_id" : "ChIJ3d57ue-KVHER2LQIiA6lTAI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

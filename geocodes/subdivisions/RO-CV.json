@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Covasna",
+               "short_name" : "Covasna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Covasna",
+               "short_name" : "Covasna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Covasna County",
+               "short_name" : "CV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "525200",
+               "short_name" : "525200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Covasna 525200, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8621916,
+                  "lng" : 26.2171125
+               },
+               "southwest" : {
+                  "lat" : 45.83421149999999,
+                  "lng" : 26.1405088
+               }
+            },
+            "location" : {
+               "lat" : 45.84727669999999,
+               "lng" : 26.1783452
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8621916,
+                  "lng" : 26.2171125
+               },
+               "southwest" : {
+                  "lat" : 45.83421149999999,
+                  "lng" : 26.1405088
+               }
+            }
+         },
+         "place_id" : "ChIJkRP8rOCRtEARrODCEk0F-S0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

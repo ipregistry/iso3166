@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westfjords Region",
+               "short_name" : "Westfjords Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Westfjords Region, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 66.469971,
+                  "lng" : -20.9746662
+               },
+               "southwest" : {
+                  "lat" : 64.96292199999999,
+                  "lng" : -24.5465239
+               }
+            },
+            "location" : {
+               "lat" : 65.91961500000001,
+               "lng" : -21.8811764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 66.469971,
+                  "lng" : -20.9746662
+               },
+               "southwest" : {
+                  "lat" : 64.96292199999999,
+                  "lng" : -24.5465239
+               }
+            }
+         },
+         "place_id" : "ChIJFU1Jdyk4K08RgG8Dkd7yyf4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

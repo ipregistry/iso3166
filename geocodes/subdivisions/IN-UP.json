@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.411635,
+                  "lng" : 84.6743269
+               },
+               "southwest" : {
+                  "lat" : 23.870839,
+                  "lng" : 77.0924369
+               }
+            },
+            "location" : {
+               "lat" : 26.8467088,
+               "lng" : 80.9461592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.411635,
+                  "lng" : 84.6743269
+               },
+               "southwest" : {
+                  "lat" : 23.870839,
+                  "lng" : 77.0924369
+               }
+            }
+         },
+         "place_id" : "ChIJ0wlKe59OmTkRnSQXNm1HpfY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laborie",
+               "short_name" : "Laborie",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Laborie",
+               "short_name" : "Laborie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Lucia",
+               "short_name" : "LC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laborie, St Lucia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7548506,
+                  "lng" : -60.9874035
+               },
+               "southwest" : {
+                  "lat" : 13.7480768,
+                  "lng" : -61.0031534
+               }
+            },
+            "location" : {
+               "lat" : 13.7522783,
+               "lng" : -60.9932889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7548506,
+                  "lng" : -60.9874035
+               },
+               "southwest" : {
+                  "lat" : 13.7480768,
+                  "lng" : -61.0031534
+               }
+            }
+         },
+         "place_id" : "ChIJ2wH1hgaNQIwRUImde3yHEUw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

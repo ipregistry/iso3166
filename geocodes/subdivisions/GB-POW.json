@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montgomery",
+               "short_name" : "Montgomery",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery",
+               "short_name" : "Montgomery",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY15",
+               "short_name" : "SY15",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Montgomery SY15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5681569,
+                  "lng" : -3.1391148
+               },
+               "southwest" : {
+                  "lat" : 52.5542076,
+                  "lng" : -3.1533452
+               }
+            },
+            "location" : {
+               "lat" : 52.56279,
+               "lng" : -3.149331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5681569,
+                  "lng" : -3.1391148
+               },
+               "southwest" : {
+                  "lat" : 52.5542076,
+                  "lng" : -3.1533452
+               }
+            }
+         },
+         "place_id" : "ChIJcUicGwv9b0gRPFZK2a5CZks",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

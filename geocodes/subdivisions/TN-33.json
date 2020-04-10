@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Kef",
+               "short_name" : "El Kef",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kef East",
+               "short_name" : "Kef East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kef",
+               "short_name" : "Kef",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Kef, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1922777,
+                  "lng" : 8.7338974
+               },
+               "southwest" : {
+                  "lat" : 36.1414446,
+                  "lng" : 8.670744899999999
+               }
+            },
+            "location" : {
+               "lat" : 36.1679648,
+               "lng" : 8.7095789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1922777,
+                  "lng" : 8.7338974
+               },
+               "southwest" : {
+                  "lat" : 36.1414446,
+                  "lng" : 8.670744899999999
+               }
+            }
+         },
+         "place_id" : "ChIJFwi2u0ik-xIRv-tdSwnMDdI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

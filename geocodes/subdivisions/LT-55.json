@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Varėna",
+               "short_name" : "Varėna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Varėna District Municipality",
+               "short_name" : "Varėna District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alytus County",
+               "short_name" : "Alytus County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Varėna, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.246665,
+                  "lng" : 24.6120619
+               },
+               "southwest" : {
+                  "lat" : 54.20214499999999,
+                  "lng" : 24.544747
+               }
+            },
+            "location" : {
+               "lat" : 54.220333,
+               "lng" : 24.578997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.246665,
+                  "lng" : 24.6120619
+               },
+               "southwest" : {
+                  "lat" : 54.20214499999999,
+                  "lng" : 24.544747
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLRw9AycF3kYRwEMy5m1R72A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

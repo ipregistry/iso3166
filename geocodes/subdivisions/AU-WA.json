@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perth",
+               "short_name" : "Perth",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Perth WA, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.6244855,
+                  "lng" : 116.239023
+               },
+               "southwest" : {
+                  "lat" : -32.4556424,
+                  "lng" : 115.6840483
+               }
+            },
+            "location" : {
+               "lat" : -31.9505269,
+               "lng" : 115.8604572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.6244855,
+                  "lng" : 116.239023
+               },
+               "southwest" : {
+                  "lat" : -32.4556424,
+                  "lng" : 115.6840483
+               }
+            }
+         },
+         "place_id" : "ChIJPXNH22yWMioR0FXfNbXwBAM",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

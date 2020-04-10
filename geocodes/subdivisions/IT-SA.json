@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Salerno",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salerno, SA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7121639,
+                  "lng" : 14.8513141
+               },
+               "southwest" : {
+                  "lat" : 40.6373235,
+                  "lng" : 14.7339981
+               }
+            },
+            "location" : {
+               "lat" : 40.68244079999999,
+               "lng" : 14.7680961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7121639,
+                  "lng" : 14.8513141
+               },
+               "southwest" : {
+                  "lat" : 40.6373235,
+                  "lng" : 14.7339981
+               }
+            }
+         },
+         "place_id" : "ChIJiTC9NFfCOxMRoHQD2hOXpBU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

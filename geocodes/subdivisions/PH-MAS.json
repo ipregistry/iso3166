@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Masbate City",
+               "short_name" : "Masbate City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Masbate",
+               "short_name" : "Masbate",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bicol",
+               "short_name" : "Bicol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Masbate City, Masbate, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.4616029,
+                  "lng" : 123.6398035
+               },
+               "southwest" : {
+                  "lat" : 12.2440624,
+                  "lng" : 123.4894181
+               }
+            },
+            "location" : {
+               "lat" : 12.3574346,
+               "lng" : 123.5504076
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.4616029,
+                  "lng" : 123.6398035
+               },
+               "southwest" : {
+                  "lat" : 12.2440624,
+                  "lng" : 123.4894181
+               }
+            }
+         },
+         "place_id" : "ChIJodQJuo3EpjMRZpULMDFOncc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

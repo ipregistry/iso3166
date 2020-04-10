@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monte Cristi",
+               "short_name" : "Monte Cristi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monte Cristi",
+               "short_name" : "Monte Cristi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Monte Cristi Province",
+               "short_name" : "Monte Cristi Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monte Cristi, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.8610592,
+                  "lng" : -71.62982939999999
+               },
+               "southwest" : {
+                  "lat" : 19.8294117,
+                  "lng" : -71.65944089999999
+               }
+            },
+            "location" : {
+               "lat" : 19.8473452,
+               "lng" : -71.64063609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.8610592,
+                  "lng" : -71.62982939999999
+               },
+               "southwest" : {
+                  "lat" : 19.8294117,
+                  "lng" : -71.65944089999999
+               }
+            }
+         },
+         "place_id" : "ChIJUwpeiulDsY4RfoCSi_wZ7Hw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamnik",
+               "short_name" : "Kamnik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamnik",
+               "short_name" : "Kamnik",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kamnik",
+               "short_name" : "Kamnik",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1241",
+               "short_name" : "1241",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1241 Kamnik, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.245163,
+                  "lng" : 14.6428399
+               },
+               "southwest" : {
+                  "lat" : 46.1980487,
+                  "lng" : 14.5902802
+               }
+            },
+            "location" : {
+               "lat" : 46.2221964,
+               "lng" : 14.6072968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.245163,
+                  "lng" : 14.6428399
+               },
+               "southwest" : {
+                  "lat" : 46.1980487,
+                  "lng" : 14.5902802
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXVJk0FdKZUcRuAzeADWO9bQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

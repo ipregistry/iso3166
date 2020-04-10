@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caazapa",
+               "short_name" : "Caazapa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caazapá",
+               "short_name" : "Caazapá",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Caazapá Department",
+               "short_name" : "Caazapá Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caazapa, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.1497366,
+                  "lng" : -56.33462900000001
+               },
+               "southwest" : {
+                  "lat" : -26.2338402,
+                  "lng" : -56.3991737
+               }
+            },
+            "location" : {
+               "lat" : -26.1827713,
+               "lng" : -56.3712327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.1497366,
+                  "lng" : -56.33462900000001
+               },
+               "southwest" : {
+                  "lat" : -26.2338402,
+                  "lng" : -56.3991737
+               }
+            }
+         },
+         "place_id" : "ChIJyZGYes4ZWZQRwPcENJKiO1k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

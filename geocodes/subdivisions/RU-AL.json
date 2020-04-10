@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Altai Republic",
+               "short_name" : "Altai Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Altai Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.660011,
+                  "lng" : 89.8633
+               },
+               "southwest" : {
+                  "lat" : 49.07,
+                  "lng" : 83.925725
+               }
+            },
+            "location" : {
+               "lat" : 50.6181924,
+               "lng" : 86.2199308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.660011,
+                  "lng" : 89.8633
+               },
+               "southwest" : {
+                  "lat" : 49.07,
+                  "lng" : 83.925725
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWelnppUmxkIRUJRFUq_GAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

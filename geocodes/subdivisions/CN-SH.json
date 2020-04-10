@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shanghai, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8727163,
+                  "lng" : 122.2471487
+               },
+               "southwest" : {
+                  "lat" : 30.6755933,
+                  "lng" : 120.8568044
+               }
+            },
+            "location" : {
+               "lat" : 31.230416,
+               "lng" : 121.473701
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6688967,
+                  "lng" : 122.1137989
+               },
+               "southwest" : {
+                  "lat" : 30.7798012,
+                  "lng" : 120.8397067
+               }
+            }
+         },
+         "place_id" : "ChIJMzz1sUBwsjURoWTDI5QSlQI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

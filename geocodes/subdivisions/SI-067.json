@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luče",
+               "short_name" : "Luče",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luče",
+               "short_name" : "Luče",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Mozirje",
+               "short_name" : "Mozirje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3334",
+               "short_name" : "3334",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3334 Luče, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3590009,
+                  "lng" : 14.7482263
+               },
+               "southwest" : {
+                  "lat" : 46.35276469999999,
+                  "lng" : 14.7346965
+               }
+            },
+            "location" : {
+               "lat" : 46.35487209999999,
+               "lng" : 14.7458015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3590009,
+                  "lng" : 14.7482263
+               },
+               "southwest" : {
+                  "lat" : 46.35276469999999,
+                  "lng" : 14.7346965
+               }
+            }
+         },
+         "place_id" : "ChIJKbIhW4tRZUcR0D7QttxDvB8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faadhippolhu Atholhu",
+               "short_name" : "Faadhippolhu Atholhu",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Lhaviyani Atoll",
+               "short_name" : "Lhaviyani Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faadhippolhu Atholhu, Maldives",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.383333299999999,
+               "lng" : 73.4833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.394442,
+                  "lng" : 73.49934069999999
+               },
+               "southwest" : {
+                  "lat" : 5.372224399999999,
+                  "lng" : 73.46732589999999
+               }
+            }
+         },
+         "place_id" : "ChIJvSiPpdwsFTsRHVU_2aIMVA8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

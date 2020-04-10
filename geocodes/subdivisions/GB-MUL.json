@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mid Ulster",
+               "short_name" : "Mid Ulster",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Mid Ulster",
+               "short_name" : "Mid Ulster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT79 8JQ",
+               "short_name" : "BT79 8JQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mid Ulster, Omagh BT79 8JQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.72199999999999,
+               "lng" : -6.941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7284437,
+                  "lng" : -6.924992599999999
+               },
+               "southwest" : {
+                  "lat" : 54.7155553,
+                  "lng" : -6.957007399999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs-5ODillYEgReNTGwclY2Co",
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bimini",
+               "short_name" : "Bimini",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bimini, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.7822181,
+                  "lng" : -79.2020084
+               },
+               "southwest" : {
+                  "lat" : 23.5008469,
+                  "lng" : -80.4992369
+               }
+            },
+            "location" : {
+               "lat" : 24.6415325,
+               "lng" : -79.85062259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7822181,
+                  "lng" : -79.2020084
+               },
+               "southwest" : {
+                  "lat" : 23.5008469,
+                  "lng" : -80.4992369
+               }
+            }
+         },
+         "place_id" : "ChIJMQA-hR6MJ4kRS6O8MWh-EiM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

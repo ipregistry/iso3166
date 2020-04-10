@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riga",
+               "short_name" : "Riga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Riga",
+               "short_name" : "Riga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riga, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.085921,
+                  "lng" : 24.3246659
+               },
+               "southwest" : {
+                  "lat" : 56.8570279,
+                  "lng" : 23.933659
+               }
+            },
+            "location" : {
+               "lat" : 56.9690944,
+               "lng" : 24.1010133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.085921,
+                  "lng" : 24.3246659
+               },
+               "southwest" : {
+                  "lat" : 56.8570279,
+                  "lng" : 23.933659
+               }
+            }
+         },
+         "place_id" : "ChIJ7T0H5bDP7kYRRazILQ-36rQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

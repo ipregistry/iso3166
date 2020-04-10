@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Woleu Ntem",
+               "short_name" : "Woleu Ntem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ntem",
+               "short_name" : "Ntem",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Woleu-Ntem",
+               "short_name" : "Woleu-Ntem",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Gabon",
+               "short_name" : "GA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Woleu Ntem, Gabon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.3059054,
+                  "lng" : 11.4526463
+               },
+               "southwest" : {
+                  "lat" : 2.2922693,
+                  "lng" : 11.4432906
+               }
+            },
+            "location" : {
+               "lat" : 2.2989827,
+               "lng" : 11.4466914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.3059054,
+                  "lng" : 11.4526463
+               },
+               "southwest" : {
+                  "lat" : 2.2922693,
+                  "lng" : 11.4432906
+               }
+            }
+         },
+         "place_id" : "ChIJedGv34guhhARIswNrYPXzD8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

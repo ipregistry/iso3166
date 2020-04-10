@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anse La Raye",
+               "short_name" : "Anse La Raye",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Anse La Raye",
+               "short_name" : "Anse La Raye",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Lucia",
+               "short_name" : "LC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anse La Raye, St Lucia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9515189,
+                  "lng" : -61.0309626
+               },
+               "southwest" : {
+                  "lat" : 13.9373161,
+                  "lng" : -61.04441629999999
+               }
+            },
+            "location" : {
+               "lat" : 13.9459424,
+               "lng" : -61.0369468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9515189,
+                  "lng" : -61.0309626
+               },
+               "southwest" : {
+                  "lat" : 13.9373161,
+                  "lng" : -61.04441629999999
+               }
+            }
+         },
+         "place_id" : "ChIJsQVHZnxhQIwRGHeSHLc5bf0",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

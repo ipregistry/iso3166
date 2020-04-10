@@ -1,0 +1,39 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sotavento Islands",
+               "short_name" : "Sotavento Islands",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sotavento Islands, Cape Verde",
+         "geometry" : {
+            "location" : {
+               "lat" : 15,
+               "lng" : -24
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.8163893,
+                  "lng" : -22.6315775
+               },
+               "southwest" : {
+                  "lat" : 14.3155503,
+                  "lng" : -25.2791437
+               }
+            }
+         },
+         "place_id" : "ChIJcZNmSdX6NQkR7fQenUvGP8k",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

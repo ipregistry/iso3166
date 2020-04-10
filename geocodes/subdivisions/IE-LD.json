@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Longford",
+               "short_name" : "Longford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Longford",
+               "short_name" : "County Longford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Longford, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7423701,
+                  "lng" : -7.7682599
+               },
+               "southwest" : {
+                  "lat" : 53.7107499,
+                  "lng" : -7.8201999
+               }
+            },
+            "location" : {
+               "lat" : 53.7276296,
+               "lng" : -7.7932573
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7423701,
+                  "lng" : -7.7682599
+               },
+               "southwest" : {
+                  "lat" : 53.7107499,
+                  "lng" : -7.8201999
+               }
+            }
+         },
+         "place_id" : "ChIJh8PCuZvTXUgRcHMxl6nHAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

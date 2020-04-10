@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorišnica",
+               "short_name" : "Gorišnica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorišnica",
+               "short_name" : "Gorišnica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ptuj",
+               "short_name" : "Ptuj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2272",
+               "short_name" : "2272",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2272 Gorišnica, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4225317,
+                  "lng" : 16.0357271
+               },
+               "southwest" : {
+                  "lat" : 46.4012183,
+                  "lng" : 15.9939354
+               }
+            },
+            "location" : {
+               "lat" : 46.4120271,
+               "lng" : 16.0133089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4225317,
+                  "lng" : 16.0357271
+               },
+               "southwest" : {
+                  "lat" : 46.4012183,
+                  "lng" : 15.9939354
+               }
+            }
+         },
+         "place_id" : "ChIJaQv6Jjdcb0cR7Xz-N145CjE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

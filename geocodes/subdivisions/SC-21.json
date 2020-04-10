@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Glaud",
+               "short_name" : "Port Glaud",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Seychelles",
+               "short_name" : "SC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port Glaud, Seychelles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.625141,
+                  "lng" : 55.4511051
+               },
+               "southwest" : {
+                  "lat" : -4.6798099,
+                  "lng" : 55.3605731
+               }
+            },
+            "location" : {
+               "lat" : -4.6488523,
+               "lng" : 55.41947529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.625141,
+                  "lng" : 55.4511051
+               },
+               "southwest" : {
+                  "lat" : -4.6798099,
+                  "lng" : 55.3605731
+               }
+            }
+         },
+         "place_id" : "ChIJWSzgNTEs4CIRte6CT2C2ILI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

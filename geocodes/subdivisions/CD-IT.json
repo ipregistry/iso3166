@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ituri",
+               "short_name" : "Ituri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Orientale",
+               "short_name" : "Orientale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ituri, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.6723867,
+                  "lng" : 31.3031388
+               },
+               "southwest" : {
+                  "lat" : 0.6886888999999999,
+                  "lng" : 27.3422242
+               }
+            },
+            "location" : {
+               "lat" : 1.5957682,
+               "lng" : 29.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.6723867,
+                  "lng" : 31.3031388
+               },
+               "southwest" : {
+                  "lat" : 0.6886888999999999,
+                  "lng" : 27.3422242
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJa92KGrVNZhcRl-LjQ3S6Y6E",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

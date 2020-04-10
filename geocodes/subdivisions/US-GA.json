@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Georgia, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.0006589,
+                  "lng" : -80.751429
+               },
+               "southwest" : {
+                  "lat" : 30.3555908,
+                  "lng" : -85.60516490000001
+               }
+            },
+            "location" : {
+               "lat" : 32.1656221,
+               "lng" : -82.9000751
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.0006589,
+                  "lng" : -80.751429
+               },
+               "southwest" : {
+                  "lat" : 30.3555908,
+                  "lng" : -85.60516490000001
+               }
+            }
+         },
+         "place_id" : "ChIJV4FfHcU28YgR5xBP7BC8hGY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

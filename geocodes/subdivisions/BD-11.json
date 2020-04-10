@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cox's Bazar",
+               "short_name" : "Cox's Bazar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cox's Bazar District",
+               "short_name" : "Cox's Bazar District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cox's Bazar, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.5139277,
+                  "lng" : 92.05770489999999
+               },
+               "southwest" : {
+                  "lat" : 21.3878686,
+                  "lng" : 91.94809909999999
+               }
+            },
+            "location" : {
+               "lat" : 21.4272283,
+               "lng" : 92.00580739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.5139277,
+                  "lng" : 92.05770489999999
+               },
+               "southwest" : {
+                  "lat" : 21.3878686,
+                  "lng" : 91.94809909999999
+               }
+            }
+         },
+         "place_id" : "ChIJwyi5KurHrTAREAiXaAqeUzs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

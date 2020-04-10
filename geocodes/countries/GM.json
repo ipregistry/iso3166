@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Gambia",
+               "short_name" : "GM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "The Gambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.825058,
+                  "lng" : -13.7913862
+               },
+               "southwest" : {
+                  "lat" : 13.0098999,
+                  "lng" : -16.9464001
+               }
+            },
+            "location" : {
+               "lat" : 13.443182,
+               "lng" : -15.310139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.825058,
+                  "lng" : -13.7913862
+               },
+               "southwest" : {
+                  "lat" : 13.0098999,
+                  "lng" : -16.9464001
+               }
+            }
+         },
+         "place_id" : "ChIJBzivZSmcwg4RKp0Ta0BMSp4",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

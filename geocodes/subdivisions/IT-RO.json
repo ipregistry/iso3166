@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rovigo",
+               "short_name" : "Rovigo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rovigo",
+               "short_name" : "Rovigo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Rovigo",
+               "short_name" : "RO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45100",
+               "short_name" : "45100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "45100 Rovigo, Province of Rovigo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.1055056,
+                  "lng" : 11.8383162
+               },
+               "southwest" : {
+                  "lat" : 45.0334583,
+                  "lng" : 11.7415282
+               }
+            },
+            "location" : {
+               "lat" : 45.0698118,
+               "lng" : 11.7902158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1055056,
+                  "lng" : 11.8383162
+               },
+               "southwest" : {
+                  "lat" : 45.0334583,
+                  "lng" : 11.7415282
+               }
+            }
+         },
+         "place_id" : "ChIJwxk6Rg_6fkcRBFlQ1sYf6mo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

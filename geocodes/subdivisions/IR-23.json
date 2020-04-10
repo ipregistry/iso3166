@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hormozgan Province",
+               "short_name" : "Hormozgan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hormozgan Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0007821,
+                  "lng" : 59.241241
+               },
+               "southwest" : {
+                  "lat" : 25.406261,
+                  "lng" : 52.6619501
+               }
+            },
+            "location" : {
+               "lat" : 27.138723,
+               "lng" : 55.1375834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0007821,
+                  "lng" : 59.241241
+               },
+               "southwest" : {
+                  "lat" : 25.406261,
+                  "lng" : 52.6619501
+               }
+            }
+         },
+         "place_id" : "ChIJI2ep_Z9RUD4RhLWHnhvX_Ps",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

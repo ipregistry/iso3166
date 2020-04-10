@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oio",
+               "short_name" : "Oio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea-Bissau",
+               "short_name" : "GW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oio, Guinea-Bissau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.680788,
+                  "lng" : -14.841685
+               },
+               "southwest" : {
+                  "lat" : 11.890556,
+                  "lng" : -15.765291
+               }
+            },
+            "location" : {
+               "lat" : 12.2760709,
+               "lng" : -15.3131185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.680788,
+                  "lng" : -14.841685
+               },
+               "southwest" : {
+                  "lat" : 11.890556,
+                  "lng" : -15.765291
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqwI52dFk5g4R7FierB54Chc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

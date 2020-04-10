@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lunda Norte Province",
+               "short_name" : "Lunda Norte Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Angola",
+               "short_name" : "AO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lunda Norte Province, Angola",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.9166664,
+                  "lng" : 21.9286783
+               },
+               "southwest" : {
+                  "lat" : -10.670823,
+                  "lng" : 17.3294241
+               }
+            },
+            "location" : {
+               "lat" : -8.352502200000002,
+               "lng" : 19.1880047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.9166664,
+                  "lng" : 21.9286783
+               },
+               "southwest" : {
+                  "lat" : -10.670823,
+                  "lng" : 17.3294241
+               }
+            }
+         },
+         "place_id" : "ChIJEVp3X2_EKBoRpjYihiADm30",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

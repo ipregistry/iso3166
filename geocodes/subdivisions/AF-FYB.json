@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faryab",
+               "short_name" : "Faryab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faryab, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2501681,
+                  "lng" : 65.822068
+               },
+               "southwest" : {
+                  "lat" : 35.1631961,
+                  "lng" : 63.8947181
+               }
+            },
+            "location" : {
+               "lat" : 36.0795613,
+               "lng" : 64.90595499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2501681,
+                  "lng" : 65.822068
+               },
+               "southwest" : {
+                  "lat" : 35.1631961,
+                  "lng" : 63.8947181
+               }
+            }
+         },
+         "place_id" : "ChIJAd_7s-MwNz8RVnwJqYNWi28",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

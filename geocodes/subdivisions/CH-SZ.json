@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Schwyz",
+               "short_name" : "Schwyz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwyz District",
+               "short_name" : "Schwyz District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Schwyz",
+               "short_name" : "SZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Schwyz, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.06635,
+                  "lng" : 8.7787901
+               },
+               "southwest" : {
+                  "lat" : 46.98516,
+                  "lng" : 8.603389999999999
+               }
+            },
+            "location" : {
+               "lat" : 47.0207138,
+               "lng" : 8.652988400000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.06635,
+                  "lng" : 8.7787901
+               },
+               "southwest" : {
+                  "lat" : 46.98516,
+                  "lng" : 8.603389999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7VS9qRtNhUcRdtxWrRvoCfE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

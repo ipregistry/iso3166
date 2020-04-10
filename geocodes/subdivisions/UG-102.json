@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kampala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.413199,
+                  "lng" : 32.6892796
+               },
+               "southwest" : {
+                  "lat" : 0.2128597,
+                  "lng" : 32.5089713
+               }
+            },
+            "location" : {
+               "lat" : 0.3475964,
+               "lng" : 32.5825197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.413199,
+                  "lng" : 32.6892796
+               },
+               "southwest" : {
+                  "lat" : 0.2128597,
+                  "lng" : 32.5089713
+               }
+            }
+         },
+         "place_id" : "ChIJm7N0nQ-8fRcR7G9r2T2QOEU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

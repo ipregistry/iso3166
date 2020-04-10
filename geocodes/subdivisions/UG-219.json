@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bukedea",
+               "short_name" : "Bukedea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bukedea",
+               "short_name" : "Bukedea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bukedea, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.3518796,
+                  "lng" : 34.0469742
+               },
+               "southwest" : {
+                  "lat" : 1.344586,
+                  "lng" : 34.0401077
+               }
+            },
+            "location" : {
+               "lat" : 1.347685,
+               "lng" : 34.0432575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.3518796,
+                  "lng" : 34.0469742
+               },
+               "southwest" : {
+                  "lat" : 1.344586,
+                  "lng" : 34.0401077
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb7GWkZLueBcR1q5OZHS5ybs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Butaleja",
+               "short_name" : "Butaleja",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Butaleja, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.0396669,
+                  "lng" : 34.1185941
+               },
+               "southwest" : {
+                  "lat" : 0.69434,
+                  "lng" : 33.772335
+               }
+            },
+            "location" : {
+               "lat" : 0.8474921999999999,
+               "lng" : 33.84112880000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.0396669,
+                  "lng" : 34.1185941
+               },
+               "southwest" : {
+                  "lat" : 0.69434,
+                  "lng" : 33.772335
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6cNtrGUkfxcRLTlAkwVIxVI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

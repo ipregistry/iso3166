@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kweneng",
+               "short_name" : "Kweneng",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kweneng East",
+               "short_name" : "Kweneng East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kweneng District",
+               "short_name" : "Kweneng District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Botswana",
+               "short_name" : "BW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kweneng, Botswana",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.8983478,
+               "lng" : 25.9574361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.888146,
+                  "lng" : 25.9734435
+               },
+               "southwest" : {
+                  "lat" : -23.9085488,
+                  "lng" : 25.9414287
+               }
+            }
+         },
+         "place_id" : "ChIJYaBt663cuh4RiI-svL8zZMk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lai Châu",
+               "short_name" : "Lai Châu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lai Chau",
+               "short_name" : "Lai Chau",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lai Châu, Lai Chau, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4322921,
+                  "lng" : 103.5251142
+               },
+               "southwest" : {
+                  "lat" : 22.3422168,
+                  "lng" : 103.3542252
+               }
+            },
+            "location" : {
+               "lat" : 22.3862227,
+               "lng" : 103.4702631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4322921,
+                  "lng" : 103.5251142
+               },
+               "southwest" : {
+                  "lat" : 22.3422168,
+                  "lng" : 103.3542252
+               }
+            }
+         },
+         "place_id" : "ChIJnfH2e4ah0jYRuAEAjRxGzDQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

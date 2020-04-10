@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puducherry",
+               "short_name" : "Puducherry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pondicherry",
+               "short_name" : "Pondicherry",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Puducherry",
+               "short_name" : "PY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puducherry, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.973176,
+                  "lng" : 79.84130499999999
+               },
+               "southwest" : {
+                  "lat" : 11.8994146,
+                  "lng" : 79.7857511
+               }
+            },
+            "location" : {
+               "lat" : 11.9415915,
+               "lng" : 79.80831329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.973176,
+                  "lng" : 79.84130499999999
+               },
+               "southwest" : {
+                  "lat" : 11.8994146,
+                  "lng" : 79.7857511
+               }
+            }
+         },
+         "place_id" : "ChIJz89JjqthUzoRTrDw0ibTa8w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wakayama",
+               "short_name" : "Wakayama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wakayama",
+               "short_name" : "Wakayama",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wakayama, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.315755,
+                  "lng" : 135.3147458
+               },
+               "southwest" : {
+                  "lat" : 34.150274,
+                  "lng" : 134.9990038
+               }
+            },
+            "location" : {
+               "lat" : 34.2303678,
+               "lng" : 135.1707405
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.315755,
+                  "lng" : 135.3147458
+               },
+               "southwest" : {
+                  "lat" : 34.150274,
+                  "lng" : 134.9990038
+               }
+            }
+         },
+         "place_id" : "ChIJeX68GYWyAGARynFP_dR2zo8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

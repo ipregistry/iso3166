@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šentjernej",
+               "short_name" : "Šentjernej",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Šentjernej",
+               "short_name" : "Šentjernej",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Novo Mesto",
+               "short_name" : "Novo Mesto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8310",
+               "short_name" : "8310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8310 Šentjernej, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8503768,
+                  "lng" : 15.3516799
+               },
+               "southwest" : {
+                  "lat" : 45.8343709,
+                  "lng" : 15.3294207
+               }
+            },
+            "location" : {
+               "lat" : 45.843413,
+               "lng" : 15.3378312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8503768,
+                  "lng" : 15.3516799
+               },
+               "southwest" : {
+                  "lat" : 45.8343709,
+                  "lng" : 15.3294207
+               }
+            }
+         },
+         "place_id" : "ChIJdbtEIEesZUcRG4d6yOxO5Zw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cēsis Municipality",
+               "short_name" : "Cēsis Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cēsis Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.339033,
+                  "lng" : 25.5743079
+               },
+               "southwest" : {
+                  "lat" : 57.1554743,
+                  "lng" : 25.2135711
+               }
+            },
+            "location" : {
+               "lat" : 57.31028970000001,
+               "lng" : 25.2676125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.339033,
+                  "lng" : 25.5743079
+               },
+               "southwest" : {
+                  "lat" : 57.1554743,
+                  "lng" : 25.2135711
+               }
+            }
+         },
+         "place_id" : "ChIJk_kkTxxg6UYR0P3yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

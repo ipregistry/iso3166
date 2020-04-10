@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connaught",
+               "short_name" : "Connaught",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Connaught, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.4743667,
+                  "lng" : -7.5841682
+               },
+               "southwest" : {
+                  "lat" : 52.9681504,
+                  "lng" : -10.3023054
+               }
+            },
+            "location" : {
+               "lat" : 53.83762429999999,
+               "lng" : -8.9584481
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4743667,
+                  "lng" : -7.5841682
+               },
+               "southwest" : {
+                  "lat" : 52.9681504,
+                  "lng" : -10.3023054
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHQsMc9j9W0gRYBwUehVITfQ",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

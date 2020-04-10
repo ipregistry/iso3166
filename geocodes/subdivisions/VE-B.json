@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anzoategui",
+               "short_name" : "Anzoategui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anzoategui, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.257425,
+                  "lng" : -62.6775951
+               },
+               "southwest" : {
+                  "lat" : 7.6516839,
+                  "lng" : -65.723411
+               }
+            },
+            "location" : {
+               "lat" : 8.5913073,
+               "lng" : -63.95861110000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.257425,
+                  "lng" : -62.6775951
+               },
+               "southwest" : {
+                  "lat" : 7.6516839,
+                  "lng" : -65.723411
+               }
+            }
+         },
+         "place_id" : "ChIJM1BfCVl4LYwRqGnJCv3XWhg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

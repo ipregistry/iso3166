@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ntcheu",
+               "short_name" : "Ntcheu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ntcheu",
+               "short_name" : "Ntcheu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ntcheu, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.7955467,
+                  "lng" : 34.6578313
+               },
+               "southwest" : {
+                  "lat" : -14.8403539,
+                  "lng" : 34.6122551
+               }
+            },
+            "location" : {
+               "lat" : -14.8219765,
+               "lng" : 34.6358702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.7955467,
+                  "lng" : 34.6578313
+               },
+               "southwest" : {
+                  "lat" : -14.8403539,
+                  "lng" : 34.6122551
+               }
+            }
+         },
+         "place_id" : "ChIJc7_nEFpa3xgRg6nZdOv-E4A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

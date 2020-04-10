@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mačva District",
+               "short_name" : "Mačva District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mačva District, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.94040200000001,
+                  "lng" : 20.000317
+               },
+               "southwest" : {
+                  "lat" : 44.1124741,
+                  "lng" : 19.10721
+               }
+            },
+            "location" : {
+               "lat" : 44.5925314,
+               "lng" : 19.5082246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.94040200000001,
+                  "lng" : 20.000317
+               },
+               "southwest" : {
+                  "lat" : 44.1124741,
+                  "lng" : 19.10721
+               }
+            }
+         },
+         "place_id" : "ChIJU9QaQzbUW0cRbDOPv5LhYmM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

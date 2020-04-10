@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.434407,
+                  "lng" : 36.229223
+               },
+               "southwest" : {
+                  "lat" : 56.909813,
+                  "lng" : 29.618951
+               }
+            },
+            "location" : {
+               "lat" : 58.2427552,
+               "lng" : 32.566519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.434407,
+                  "lng" : 36.229223
+               },
+               "southwest" : {
+                  "lat" : 56.909813,
+                  "lng" : 29.618951
+               }
+            }
+         },
+         "place_id" : "ChIJZzMkg_JyuUYRYJfxg6WjAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

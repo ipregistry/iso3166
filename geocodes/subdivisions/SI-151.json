@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Braslovče",
+               "short_name" : "Braslovče",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Braslovče",
+               "short_name" : "Braslovče",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Žalec",
+               "short_name" : "Žalec",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3314",
+               "short_name" : "3314",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3314 Braslovče, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2958925,
+                  "lng" : 15.0487472
+               },
+               "southwest" : {
+                  "lat" : 46.2829951,
+                  "lng" : 15.0227904
+               }
+            },
+            "location" : {
+               "lat" : 46.2880914,
+               "lng" : 15.0397466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2958925,
+                  "lng" : 15.0487472
+               },
+               "southwest" : {
+                  "lat" : 46.2829951,
+                  "lng" : 15.0227904
+               }
+            }
+         },
+         "place_id" : "ChIJ23g0BA9oZUcR21ENRvPmF6Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

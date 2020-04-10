@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kampong Thum",
+               "short_name" : "Kampong Thum",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Krong Stueng Saen",
+               "short_name" : "Krong Stueng Saen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stueng Saen",
+               "short_name" : "Stueng Saen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kampong Thom Province",
+               "short_name" : "Kampong Thom Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kampong Thum, Krong Stueng Saen, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.7114869,
+                  "lng" : 104.8919069
+               },
+               "southwest" : {
+                  "lat" : 12.6854859,
+                  "lng" : 104.8643189
+               }
+            },
+            "location" : {
+               "lat" : 12.70787,
+               "lng" : 104.8736858
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.7114869,
+                  "lng" : 104.8919069
+               },
+               "southwest" : {
+                  "lat" : 12.6854859,
+                  "lng" : 104.8643189
+               }
+            }
+         },
+         "place_id" : "ChIJd4E661lyDjERPXzVq85Ok10",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

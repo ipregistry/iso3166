@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aguascalientes",
+               "short_name" : "Aguascalientes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aguascalientes",
+               "short_name" : "Ags.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aguascalientes, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.9521724,
+                  "lng" : -102.2270149
+               },
+               "southwest" : {
+                  "lat" : 21.8192971,
+                  "lng" : -102.3555842
+               }
+            },
+            "location" : {
+               "lat" : 21.8852562,
+               "lng" : -102.2915677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.9521724,
+                  "lng" : -102.2270149
+               },
+               "southwest" : {
+                  "lat" : 21.8192971,
+                  "lng" : -102.3555842
+               }
+            }
+         },
+         "place_id" : "ChIJ-9nkOhTsKYQRIFKcZ3hpAQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

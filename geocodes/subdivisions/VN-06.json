@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yên Bái",
+               "short_name" : "Yên Bái",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yên Bái",
+               "short_name" : "Yên Bái",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yên Bái, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.792759,
+                  "lng" : 104.954403
+               },
+               "southwest" : {
+                  "lat" : 21.651926,
+                  "lng" : 104.820303
+               }
+            },
+            "location" : {
+               "lat" : 21.7167689,
+               "lng" : 104.8985878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.792759,
+                  "lng" : 104.954403
+               },
+               "southwest" : {
+                  "lat" : 21.651926,
+                  "lng" : 104.820303
+               }
+            }
+         },
+         "place_id" : "ChIJI_bWH11aMzERG4A3xCErFUs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

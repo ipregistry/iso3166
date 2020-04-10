@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miaoli City",
+               "short_name" : "Miaoli City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Miaoli County",
+               "short_name" : "Miaoli County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "360",
+               "short_name" : "360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Miaoli City, Miaoli County, Taiwan 360",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.5991057,
+                  "lng" : 120.8451543
+               },
+               "southwest" : {
+                  "lat" : 24.5187115,
+                  "lng" : 120.7783449
+               }
+            },
+            "location" : {
+               "lat" : 24.5711502,
+               "lng" : 120.8154358
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.5991057,
+                  "lng" : 120.8451543
+               },
+               "southwest" : {
+                  "lat" : 24.5187115,
+                  "lng" : 120.7783449
+               }
+            }
+         },
+         "place_id" : "ChIJZ4pp4_iraTQRxYoQ8V4kFn8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

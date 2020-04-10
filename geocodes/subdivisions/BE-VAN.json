@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antwerp",
+               "short_name" : "Antwerp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antwerp",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flanders",
+               "short_name" : "Flanders",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antwerp, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3774301,
+                  "lng" : 4.49784
+               },
+               "southwest" : {
+                  "lat" : 51.14333999999999,
+                  "lng" : 4.217600099999999
+               }
+            },
+            "location" : {
+               "lat" : 51.2194475,
+               "lng" : 4.4024643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3774301,
+                  "lng" : 4.49784
+               },
+               "southwest" : {
+                  "lat" : 51.14333999999999,
+                  "lng" : 4.217600099999999
+               }
+            }
+         },
+         "place_id" : "ChIJfYjDv472w0cRuIqogoRErz4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

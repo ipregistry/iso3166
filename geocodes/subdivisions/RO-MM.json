@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maramureș County",
+               "short_name" : "MM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maramureș County, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0225596,
+                  "lng" : 25.0557001
+               },
+               "southwest" : {
+                  "lat" : 47.324372,
+                  "lng" : 22.965186
+               }
+            },
+            "location" : {
+               "lat" : 47.6737598,
+               "lng" : 23.7456285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0225596,
+                  "lng" : 25.0557001
+               },
+               "southwest" : {
+                  "lat" : 47.324372,
+                  "lng" : 22.965186
+               }
+            }
+         },
+         "place_id" : "ChIJN28gtHDcN0cRxh06eVc75-M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

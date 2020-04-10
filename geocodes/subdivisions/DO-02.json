@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azua",
+               "short_name" : "Azua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Azua",
+               "short_name" : "Azua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azua Province",
+               "short_name" : "Azua Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "71000",
+               "short_name" : "71000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Azua 71000, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.4683747,
+                  "lng" : -70.706486
+               },
+               "southwest" : {
+                  "lat" : 18.4351155,
+                  "lng" : -70.75877659999999
+               }
+            },
+            "location" : {
+               "lat" : 18.4531742,
+               "lng" : -70.73468869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.4683747,
+                  "lng" : -70.706486
+               },
+               "southwest" : {
+                  "lat" : 18.4351155,
+                  "lng" : -70.75877659999999
+               }
+            }
+         },
+         "place_id" : "ChIJX04RMeOjuo4RN1gSC1yFJ10",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

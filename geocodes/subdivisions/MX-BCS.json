@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baja California Sur",
+               "short_name" : "B.C.S.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baja California Sur, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0000017,
+                  "lng" : -109.413173
+               },
+               "southwest" : {
+                  "lat" : 22.8719539,
+                  "lng" : -115.2237643
+               }
+            },
+            "location" : {
+               "lat" : 26.0444446,
+               "lng" : -111.6660725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0000017,
+                  "lng" : -109.413173
+               },
+               "southwest" : {
+                  "lat" : 22.8719539,
+                  "lng" : -115.2237643
+               }
+            }
+         },
+         "place_id" : "ChIJyR6itTnTr4YRGFmnqTqz33E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

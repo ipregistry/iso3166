@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durango",
+               "short_name" : "Durango",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durango",
+               "short_name" : "Dgo.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durango, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.082259,
+                  "lng" : -104.5800918
+               },
+               "southwest" : {
+                  "lat" : 23.9631376,
+                  "lng" : -104.7153578
+               }
+            },
+            "location" : {
+               "lat" : 24.0277202,
+               "lng" : -104.6531759
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.082259,
+                  "lng" : -104.5800918
+               },
+               "southwest" : {
+                  "lat" : 23.9631376,
+                  "lng" : -104.7153578
+               }
+            }
+         },
+         "place_id" : "ChIJc9-8GKW3m4YR1EpsOqaO3b8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

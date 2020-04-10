@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Negotino",
+               "short_name" : "Municipality of Negotino",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Negotino, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6542421,
+                  "lng" : 22.3007181
+               },
+               "southwest" : {
+                  "lat" : 41.348664,
+                  "lng" : 21.9803289
+               }
+            },
+            "location" : {
+               "lat" : 41.4989985,
+               "lng" : 22.0953297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6542421,
+                  "lng" : 22.3007181
+               },
+               "southwest" : {
+                  "lat" : 41.348664,
+                  "lng" : 21.9803289
+               }
+            }
+         },
+         "place_id" : "ChIJkW1KPxNxVhMRAaQab0TqSsc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

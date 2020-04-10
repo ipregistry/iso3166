@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biliran",
+               "short_name" : "Biliran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Biliran",
+               "short_name" : "Biliran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Visayas",
+               "short_name" : "Eastern Visayas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biliran, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.5656392,
+                  "lng" : 124.5410156
+               },
+               "southwest" : {
+                  "lat" : 11.4539481,
+                  "lng" : 124.4284916
+               }
+            },
+            "location" : {
+               "lat" : 11.5106303,
+               "lng" : 124.4974405
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.5656392,
+                  "lng" : 124.5410156
+               },
+               "southwest" : {
+                  "lat" : 11.4539481,
+                  "lng" : 124.4284916
+               }
+            }
+         },
+         "place_id" : "ChIJn4O64Qz1pzMRC8GH6Azc-rs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

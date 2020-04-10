@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sinaloa de Leyva",
+               "short_name" : "Sinaloa de Leyva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sinaloa",
+               "short_name" : "Sin.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sinaloa de Leyva, Sinaloa, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.8331816,
+                  "lng" : -108.2144925
+               },
+               "southwest" : {
+                  "lat" : 25.8148799,
+                  "lng" : -108.2348756
+               }
+            },
+            "location" : {
+               "lat" : 25.8226854,
+               "lng" : -108.2216704
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.8331816,
+                  "lng" : -108.2144925
+               },
+               "southwest" : {
+                  "lat" : 25.8148799,
+                  "lng" : -108.2348756
+               }
+            }
+         },
+         "place_id" : "ChIJd3Kwy6T6u4YReeT92R3wfaQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

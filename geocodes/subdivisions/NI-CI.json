@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chinandega",
+               "short_name" : "Chinandega",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chinandega",
+               "short_name" : "Chinandega",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chinandega, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.6455727,
+                  "lng" : -87.0930434
+               },
+               "southwest" : {
+                  "lat" : 12.6019777,
+                  "lng" : -87.14857579999999
+               }
+            },
+            "location" : {
+               "lat" : 12.6234721,
+               "lng" : -87.1273253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.6455727,
+                  "lng" : -87.0930434
+               },
+               "southwest" : {
+                  "lat" : 12.6019777,
+                  "lng" : -87.14857579999999
+               }
+            }
+         },
+         "place_id" : "ChIJP-zXMuzxcI8R7AKWj1Oh4FM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

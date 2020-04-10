@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Masindi",
+               "short_name" : "Masindi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Masindi",
+               "short_name" : "Masindi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Masindi, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.7076062,
+                  "lng" : 31.7424202
+               },
+               "southwest" : {
+                  "lat" : 1.6642805,
+                  "lng" : 31.6970158
+               }
+            },
+            "location" : {
+               "lat" : 1.6873134,
+               "lng" : 31.7138458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.7076062,
+                  "lng" : 31.7424202
+               },
+               "southwest" : {
+                  "lat" : 1.6642805,
+                  "lng" : 31.6970158
+               }
+            }
+         },
+         "place_id" : "ChIJt2KmdvjRehcRz4gqPEH1vzQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

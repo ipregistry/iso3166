@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dundaga Municipality",
+               "short_name" : "Dundaga Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dundaga Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.7594219,
+                  "lng" : 22.616223
+               },
+               "southwest" : {
+                  "lat" : 57.395332,
+                  "lng" : 22.075786
+               }
+            },
+            "location" : {
+               "lat" : 57.5049167,
+               "lng" : 22.3505114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.7594219,
+                  "lng" : 22.616223
+               },
+               "southwest" : {
+                  "lat" : 57.395332,
+                  "lng" : 22.075786
+               }
+            }
+         },
+         "place_id" : "ChIJ7bt0TNgd7kYRoALzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

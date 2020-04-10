@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centre-Sud Region",
+               "short_name" : "Centre-Sud Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centre-Sud Region, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.186012,
+                  "lng" : -0.5527740000000001
+               },
+               "southwest" : {
+                  "lat" : 10.959089,
+                  "lng" : -1.995481
+               }
+            },
+            "location" : {
+               "lat" : 11.5228911,
+               "lng" : -1.0586135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.186012,
+                  "lng" : -0.5527740000000001
+               },
+               "southwest" : {
+                  "lat" : 10.959089,
+                  "lng" : -1.995481
+               }
+            }
+         },
+         "place_id" : "ChIJRVkejS9xLA4Rm09y45mVPmQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

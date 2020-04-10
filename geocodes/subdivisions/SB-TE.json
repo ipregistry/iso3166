@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Temotu Province",
+               "short_name" : "Temotu Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Solomon Islands",
+               "short_name" : "SB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Temotu Province, Solomon Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.759770899999999,
+                  "lng" : 168.8457699
+               },
+               "southwest" : {
+                  "lat" : -12.312529,
+                  "lng" : 165.650482
+               }
+            },
+            "location" : {
+               "lat" : -10.686929,
+               "lng" : 166.0623979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.759770899999999,
+                  "lng" : 168.8457699
+               },
+               "southwest" : {
+                  "lat" : -12.312529,
+                  "lng" : 165.650482
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtctVNSXq4m4RCGMpJr27vnc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Andrew Parish",
+               "short_name" : "Saint Andrew Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominica",
+               "short_name" : "DM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Andrew Parish, Dominica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.639894,
+                  "lng" : -61.272358
+               },
+               "southwest" : {
+                  "lat" : 15.453767,
+                  "lng" : -61.44272400000001
+               }
+            },
+            "location" : {
+               "lat" : 15.5542442,
+               "lng" : -61.3501856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.639894,
+                  "lng" : -61.272358
+               },
+               "southwest" : {
+                  "lat" : 15.453767,
+                  "lng" : -61.44272400000001
+               }
+            }
+         },
+         "place_id" : "ChIJ2yZIFhrLFIwR6xReoXvUpVU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

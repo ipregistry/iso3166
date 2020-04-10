@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kilis",
+               "short_name" : "Kilis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kilis Merkez",
+               "short_name" : "Kilis Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kilis",
+               "short_name" : "Kilis",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kilis, Kilis Merkez/Kilis, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.7368961,
+                  "lng" : 37.160143
+               },
+               "southwest" : {
+                  "lat" : 36.7022199,
+                  "lng" : 37.0916161
+               }
+            },
+            "location" : {
+               "lat" : 36.716477,
+               "lng" : 37.114661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7368961,
+                  "lng" : 37.160143
+               },
+               "southwest" : {
+                  "lat" : 36.7022199,
+                  "lng" : 37.0916161
+               }
+            }
+         },
+         "place_id" : "ChIJIYh5mwDOLxURJiUu6r95D1A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seoul",
+               "short_name" : "Seoul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seoul",
+               "short_name" : "Seoul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seoul, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7017495,
+                  "lng" : 127.1835899
+               },
+               "southwest" : {
+                  "lat" : 37.4259627,
+                  "lng" : 126.7645827
+               }
+            },
+            "location" : {
+               "lat" : 37.566535,
+               "lng" : 126.9779692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.6956,
+                  "lng" : 127.1823
+               },
+               "southwest" : {
+                  "lat" : 37.4346,
+                  "lng" : 126.7968
+               }
+            }
+         },
+         "place_id" : "ChIJzWXFYYuifDUR64Pq5LTtioU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

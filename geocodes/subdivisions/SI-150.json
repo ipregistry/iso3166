@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velike Bloke",
+               "short_name" : "Velike Bloke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nova Vas",
+               "short_name" : "Nova Vas",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cerknica",
+               "short_name" : "Cerknica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1385",
+               "short_name" : "1385",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1385 Velike Bloke, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8093999,
+                  "lng" : 14.5020095
+               },
+               "southwest" : {
+                  "lat" : 45.7739711,
+                  "lng" : 14.4611134
+               }
+            },
+            "location" : {
+               "lat" : 45.7851194,
+               "lng" : 14.4798793
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8093999,
+                  "lng" : 14.5020095
+               },
+               "southwest" : {
+                  "lat" : 45.7739711,
+                  "lng" : 14.4611134
+               }
+            }
+         },
+         "place_id" : "ChIJA_EjkAXRZEcR44s38eznLVI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bay",
+               "short_name" : "Bay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bay, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.543456,
+                  "lng" : 44.63283209999999
+               },
+               "southwest" : {
+                  "lat" : 1.625444,
+                  "lng" : 42.3411179
+               }
+            },
+            "location" : {
+               "lat" : 2.4825193,
+               "lng" : 43.483738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.543456,
+                  "lng" : 44.63283209999999
+               },
+               "southwest" : {
+                  "lat" : 1.625444,
+                  "lng" : 42.3411179
+               }
+            }
+         },
+         "place_id" : "ChIJTdea2NAe5BcRw8cKuc_koZo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

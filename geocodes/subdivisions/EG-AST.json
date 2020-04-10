@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asyut",
+               "short_name" : "Asyut",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Hamraa Ath Thaneyah",
+               "short_name" : "Al Hamraa Ath Thaneyah",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Al Fath",
+               "short_name" : "Al Fath",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assiut Governorate",
+               "short_name" : "Assiut Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Asyut, Al Hamraa Ath Thaneyah, Al Fath, Assiut Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1960162,
+                  "lng" : 31.2121548
+               },
+               "southwest" : {
+                  "lat" : 27.1580509,
+                  "lng" : 31.1566813
+               }
+            },
+            "location" : {
+               "lat" : 27.1783117,
+               "lng" : 31.1859257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1960162,
+                  "lng" : 31.2121548
+               },
+               "southwest" : {
+                  "lat" : 27.1580509,
+                  "lng" : 31.1566813
+               }
+            }
+         },
+         "place_id" : "ChIJzXvLB-YLRRQREhHAv2KRabo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

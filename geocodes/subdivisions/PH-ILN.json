@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilocos Norte",
+               "short_name" : "Ilocos Norte",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ilocos Region",
+               "short_name" : "Ilocos Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ilocos Norte, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.6510709,
+                  "lng" : 120.9781658
+               },
+               "southwest" : {
+                  "lat" : 17.703571,
+                  "lng" : 120.4110251
+               }
+            },
+            "location" : {
+               "lat" : 18.1647281,
+               "lng" : 120.7115592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.6510709,
+                  "lng" : 120.9781658
+               },
+               "southwest" : {
+                  "lat" : 17.703571,
+                  "lng" : 120.4110251
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC2r-hfPPjjMR8ITECUSnKr4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

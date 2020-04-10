@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beni-Mellal",
+               "short_name" : "Beni-Mellal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beni-Mellal Province",
+               "short_name" : "Beni-Mellal Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Béni Mellal-Khenifra",
+               "short_name" : "Béni Mellal-Khenifra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beni-Mellal, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.367638,
+                  "lng" : -6.3162803
+               },
+               "southwest" : {
+                  "lat" : 32.2941706,
+                  "lng" : -6.4301777
+               }
+            },
+            "location" : {
+               "lat" : 32.342443,
+               "lng" : -6.375799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.367638,
+                  "lng" : -6.3162803
+               },
+               "southwest" : {
+                  "lat" : 32.2941706,
+                  "lng" : -6.4301777
+               }
+            }
+         },
+         "place_id" : "ChIJwX-cQUmGow0R2a8roemzNmI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

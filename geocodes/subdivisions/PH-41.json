@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MIMAROPA",
+               "short_name" : "MIMAROPA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "MIMAROPA, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.89903,
+                  "lng" : 122.6986519
+               },
+               "southwest" : {
+                  "lat" : 7.501033999999999,
+                  "lng" : 112.5771771
+               }
+            },
+            "location" : {
+               "lat" : 9.843206499999999,
+               "lng" : 118.7364783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.89903,
+                  "lng" : 122.6986519
+               },
+               "southwest" : {
+                  "lat" : 7.501033999999999,
+                  "lng" : 112.5771771
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ15tKmiSnvDMRgqZLXnp65v0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

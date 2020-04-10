@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paro",
+               "short_name" : "Paro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paro",
+               "short_name" : "Paro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paro, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4484955,
+                  "lng" : 89.47488779999999
+               },
+               "southwest" : {
+                  "lat" : 27.3508044,
+                  "lng" : 89.3996143
+               }
+            },
+            "location" : {
+               "lat" : 27.428684,
+               "lng" : 89.41636539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4484955,
+                  "lng" : 89.47488779999999
+               },
+               "southwest" : {
+                  "lat" : 27.3508044,
+                  "lng" : 89.3996143
+               }
+            }
+         },
+         "place_id" : "ChIJtzlsWuid4TkRkAEHWg94-gE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

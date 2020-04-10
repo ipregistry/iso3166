@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shiselweni Region",
+               "short_name" : "Shiselweni Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Eswatini",
+               "short_name" : "SZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shiselweni Region, Eswatini",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.75172,
+                  "lng" : 31.980196
+               },
+               "southwest" : {
+                  "lat" : -27.3239663,
+                  "lng" : 30.902433
+               }
+            },
+            "location" : {
+               "lat" : -26.9827577,
+               "lng" : 31.3541631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.75172,
+                  "lng" : 31.980196
+               },
+               "southwest" : {
+                  "lat" : -27.3239663,
+                  "lng" : 30.902433
+               }
+            }
+         },
+         "place_id" : "ChIJP2-y8Zyg7x4RvG0fJwRsuPY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

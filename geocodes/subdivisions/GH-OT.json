@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oti River",
+               "short_name" : "Oti River",
+               "types" : [ "establishment", "natural_feature" ]
+            }
+         ],
+         "formatted_address" : "Oti River",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.0357959,
+                  "lng" : 0.4502368
+               },
+               "southwest" : {
+                  "lat" : 8.308816199999999,
+                  "lng" : 0.0746767
+               }
+            },
+            "location" : {
+               "lat" : 9.2238615,
+               "lng" : 0.2165508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.0357959,
+                  "lng" : 0.4502368
+               },
+               "southwest" : {
+                  "lat" : 8.308816199999999,
+                  "lng" : 0.0746767
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeYrjfETSKRARK6uwAHw56p0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

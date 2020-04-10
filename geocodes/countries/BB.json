@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.3365093,
+                  "lng" : -59.4174957
+               },
+               "southwest" : {
+                  "lat" : 13.039844,
+                  "lng" : -59.6530151
+               }
+            },
+            "location" : {
+               "lat" : 13.193887,
+               "lng" : -59.543198
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.3365093,
+                  "lng" : -59.4174957
+               },
+               "southwest" : {
+                  "lat" : 13.039844,
+                  "lng" : -59.6530151
+               }
+            }
+         },
+         "place_id" : "ChIJoxoyrvvxQ4wRKzb0jLNR7A4",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

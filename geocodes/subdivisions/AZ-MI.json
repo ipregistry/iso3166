@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mingachevir",
+               "short_name" : "Mingachevir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mingachevir, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7914869,
+                  "lng" : 47.0487139
+               },
+               "southwest" : {
+                  "lat" : 40.7165729,
+                  "lng" : 46.918909
+               }
+            },
+            "location" : {
+               "lat" : 40.7489229,
+               "lng" : 46.9872676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7914869,
+                  "lng" : 47.0487139
+               },
+               "southwest" : {
+                  "lat" : 40.7165729,
+                  "lng" : 46.918909
+               }
+            }
+         },
+         "place_id" : "ChIJjSrHn0DAOEARaoKwxas-ONU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

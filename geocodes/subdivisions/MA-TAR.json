@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taroudant",
+               "short_name" : "Taroudant",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taroudant",
+               "short_name" : "Taroudant",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Souss-Massa",
+               "short_name" : "Souss-Massa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taroudant, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.497608,
+                  "lng" : -8.8509464
+               },
+               "southwest" : {
+                  "lat" : 30.459809,
+                  "lng" : -8.902873899999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4727126,
+               "lng" : -8.874876499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.497608,
+                  "lng" : -8.8509464
+               },
+               "southwest" : {
+                  "lat" : 30.459809,
+                  "lng" : -8.902873899999999
+               }
+            }
+         },
+         "place_id" : "ChIJGXoekAlzsQ0ReiNQS0_fD5s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

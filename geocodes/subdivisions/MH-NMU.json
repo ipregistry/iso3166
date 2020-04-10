@@ -1,0 +1,51 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Namu Atoll",
+               "short_name" : "Namu Atoll",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Namu Atoll",
+               "short_name" : "Namu Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Namu Atoll, RMI",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.9761111,
+               "lng" : 168.1402778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.987161,
+                  "lng" : 168.1562852
+               },
+               "southwest" : {
+                  "lat" : 7.965060899999999,
+                  "lng" : 168.1242704
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe8jCdpHHqGURNu3egoJRv2Y",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}
+ONQo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

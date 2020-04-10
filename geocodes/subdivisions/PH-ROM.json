@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Romblon",
+               "short_name" : "Romblon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romblon",
+               "short_name" : "Romblon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "MIMAROPA",
+               "short_name" : "MIMAROPA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Romblon, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.671994,
+                  "lng" : 122.329073
+               },
+               "southwest" : {
+                  "lat" : 12.4767216,
+                  "lng" : 122.2298527
+               }
+            },
+            "location" : {
+               "lat" : 12.5778554,
+               "lng" : 122.269129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.671994,
+                  "lng" : 122.329073
+               },
+               "southwest" : {
+                  "lat" : 12.4767216,
+                  "lng" : 122.2298527
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ_LfFjSJpDMRv28K2tNPYMc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

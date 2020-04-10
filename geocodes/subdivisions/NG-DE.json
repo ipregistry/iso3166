@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delta",
+               "short_name" : "DT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delta, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.501233999999999,
+                  "lng" : 6.7694021
+               },
+               "southwest" : {
+                  "lat" : 5.0117759,
+                  "lng" : 4.976783999999999
+               }
+            },
+            "location" : {
+               "lat" : 5.704030800000001,
+               "lng" : 5.9339181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.501233999999999,
+                  "lng" : 6.7694021
+               },
+               "southwest" : {
+                  "lat" : 5.0117759,
+                  "lng" : 4.976783999999999
+               }
+            }
+         },
+         "place_id" : "ChIJIT0sDUKrQRARaXBMQG_Ahxs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5444326,
+                  "lng" : -2.4509024
+               },
+               "southwest" : {
+                  "lat" : 51.39254529999999,
+                  "lng" : -2.7305326
+               }
+            },
+            "location" : {
+               "lat" : 51.454513,
+               "lng" : -2.58791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5444326,
+                  "lng" : -2.4509024
+               },
+               "southwest" : {
+                  "lat" : 51.39254529999999,
+                  "lng" : -2.7305326
+               }
+            }
+         },
+         "place_id" : "ChIJYdizgWaDcUgRH9eaSy6y5I4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

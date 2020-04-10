@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Choiseul",
+               "short_name" : "Choiseul",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Choiseul",
+               "short_name" : "Choiseul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Lucia",
+               "short_name" : "LC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Choiseul, St Lucia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7767131,
+                  "lng" : -61.04544629999999
+               },
+               "southwest" : {
+                  "lat" : 13.7718677,
+                  "lng" : -61.05128289999999
+               }
+            },
+            "location" : {
+               "lat" : 13.7750154,
+               "lng" : -61.04859099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7767131,
+                  "lng" : -61.04544629999999
+               },
+               "southwest" : {
+                  "lat" : 13.7718677,
+                  "lng" : -61.05128289999999
+               }
+            }
+         },
+         "place_id" : "ChIJIaaajYKOQIwR96eNcRSfubo",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

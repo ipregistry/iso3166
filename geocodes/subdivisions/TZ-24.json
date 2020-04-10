@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tabora",
+               "short_name" : "Tabora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tabora Urban",
+               "short_name" : "Tabora Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tabora Region",
+               "short_name" : "Tabora Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tabora, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.9860158,
+                  "lng" : 32.8532632
+               },
+               "southwest" : {
+                  "lat" : -5.0897659,
+                  "lng" : 32.7742009
+               }
+            },
+            "location" : {
+               "lat" : -5.0424945,
+               "lng" : 32.8197329
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.9860158,
+                  "lng" : 32.8532632
+               },
+               "southwest" : {
+                  "lat" : -5.0897659,
+                  "lng" : 32.7742009
+               }
+            }
+         },
+         "place_id" : "ChIJKwKucUGRthkRuy8zDWNf-3Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

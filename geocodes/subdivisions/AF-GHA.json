@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghazni",
+               "short_name" : "Ghazni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ghazni",
+               "short_name" : "Ghazni",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ghazni, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5654995,
+                  "lng" : 68.4493732
+               },
+               "southwest" : {
+                  "lat" : 33.5313079,
+                  "lng" : 68.3921098
+               }
+            },
+            "location" : {
+               "lat" : 33.5450587,
+               "lng" : 68.4173972
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5654995,
+                  "lng" : 68.4493732
+               },
+               "southwest" : {
+                  "lat" : 33.5313079,
+                  "lng" : 68.3921098
+               }
+            }
+         },
+         "place_id" : "ChIJRyNTC-FD1DgRoqEmozxdTTY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

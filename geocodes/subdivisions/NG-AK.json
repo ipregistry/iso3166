@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akwa Ibom",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akwa Ibom, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.519353,
+                  "lng" : 8.343890999999999
+               },
+               "southwest" : {
+                  "lat" : 4.47026,
+                  "lng" : 7.460275
+               }
+            },
+            "location" : {
+               "lat" : 4.9057371,
+               "lng" : 7.853667499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.519353,
+                  "lng" : 8.343890999999999
+               },
+               "southwest" : {
+                  "lat" : 4.47026,
+                  "lng" : 7.460275
+               }
+            }
+         },
+         "place_id" : "ChIJlcPp66oTaBARgYrwXU3uEqk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

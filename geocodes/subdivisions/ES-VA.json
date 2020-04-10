@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valladolid",
+               "short_name" : "Valladolid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valladolid",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valladolid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8155086,
+                  "lng" : -4.6894439
+               },
+               "southwest" : {
+                  "lat" : 41.5909983,
+                  "lng" : -4.9281803
+               }
+            },
+            "location" : {
+               "lat" : 41.652251,
+               "lng" : -4.724532099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8155086,
+                  "lng" : -4.6894439
+               },
+               "southwest" : {
+                  "lat" : 41.5909983,
+                  "lng" : -4.9281803
+               }
+            }
+         },
+         "place_id" : "ChIJk27GCIxyRw0R72uiHNSS_7M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canelones",
+               "short_name" : "Canelones",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canelones Department",
+               "short_name" : "Canelones Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canelones, Canelones Department, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.507928,
+                  "lng" : -56.2700995
+               },
+               "southwest" : {
+                  "lat" : -34.5433481,
+                  "lng" : -56.3028774
+               }
+            },
+            "location" : {
+               "lat" : -34.5291043,
+               "lng" : -56.2873482
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.507928,
+                  "lng" : -56.2700995
+               },
+               "southwest" : {
+                  "lat" : -34.5433481,
+                  "lng" : -56.3028774
+               }
+            }
+         },
+         "place_id" : "ChIJY_0npR-0oZUR9TAjDie8rg4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

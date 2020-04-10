@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bari",
+               "short_name" : "Bari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bari",
+               "short_name" : "Bari",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Bari",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Apulia",
+               "short_name" : "Apulia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bari, Metropolitan City of Bari, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1697438,
+                  "lng" : 17.0333772
+               },
+               "southwest" : {
+                  "lat" : 41.0530106,
+                  "lng" : 16.7307831
+               }
+            },
+            "location" : {
+               "lat" : 41.1171432,
+               "lng" : 16.8718715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1697438,
+                  "lng" : 17.0333772
+               },
+               "southwest" : {
+                  "lat" : 41.0530106,
+                  "lng" : 16.7307831
+               }
+            }
+         },
+         "place_id" : "ChIJb40H8_joRxMR4Qg5agZUcgg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

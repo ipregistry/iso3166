@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gyeonggi-do",
+               "short_name" : "Gyeonggi-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gyeonggi-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.302671,
+                  "lng" : 127.8582526
+               },
+               "southwest" : {
+                  "lat" : 36.89396860000001,
+                  "lng" : 126.333561
+               }
+            },
+            "location" : {
+               "lat" : 37.41379999999999,
+               "lng" : 127.5183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.302671,
+                  "lng" : 127.8582526
+               },
+               "southwest" : {
+                  "lat" : 36.89396860000001,
+                  "lng" : 126.333561
+               }
+            }
+         },
+         "place_id" : "ChIJjbZ-5eR5fDURwrX21pgfDAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

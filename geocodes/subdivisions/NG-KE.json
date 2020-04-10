@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kebbi",
+               "short_name" : "KB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kebbi, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.2644261,
+                  "lng" : 6.2044321
+               },
+               "southwest" : {
+                  "lat" : 10.100172,
+                  "lng" : 3.493845
+               }
+            },
+            "location" : {
+               "lat" : 11.4942003,
+               "lng" : 4.2333355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.2644261,
+                  "lng" : 6.2044321
+               },
+               "southwest" : {
+                  "lat" : 10.100172,
+                  "lng" : 3.493845
+               }
+            }
+         },
+         "place_id" : "ChIJ4zA_Qk1TyhERbEeHoNSqsTI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

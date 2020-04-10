@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4931339,
+                  "lng" : -0.9284944000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4097795,
+                  "lng" : -1.0529948
+               }
+            },
+            "location" : {
+               "lat" : 51.4541984,
+               "lng" : -0.977675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4931339,
+                  "lng" : -0.9284944000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4097795,
+                  "lng" : -1.0529948
+               }
+            }
+         },
+         "place_id" : "ChIJAWJESQqbdkgR8J7toi2uDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

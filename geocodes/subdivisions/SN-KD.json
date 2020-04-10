@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kolda",
+               "short_name" : "Kolda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolda",
+               "short_name" : "Kolda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kolda Region",
+               "short_name" : "Kolda Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kolda, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9560481,
+                  "lng" : -14.9008942
+               },
+               "southwest" : {
+                  "lat" : 12.8554019,
+                  "lng" : -14.9931822
+               }
+            },
+            "location" : {
+               "lat" : 12.9107495,
+               "lng" : -14.9505671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9560481,
+                  "lng" : -14.9008942
+               },
+               "southwest" : {
+                  "lat" : 12.8554019,
+                  "lng" : -14.9931822
+               }
+            }
+         },
+         "place_id" : "ChIJ4we4rmDj5Q4RyIDsxs1o0Ps",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sharur",
+               "short_name" : "Sharur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sharur",
+               "short_name" : "Sharur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nakhchivan Autonomous Republic",
+               "short_name" : "Nakhchivan Autonomous Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sharur, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5646434,
+                  "lng" : 45.0110293
+               },
+               "southwest" : {
+                  "lat" : 39.5355237,
+                  "lng" : 44.9713326
+               }
+            },
+            "location" : {
+               "lat" : 39.5536332,
+               "lng" : 44.984568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5646434,
+                  "lng" : 45.0110293
+               },
+               "southwest" : {
+                  "lat" : 39.5355237,
+                  "lng" : 44.9713326
+               }
+            }
+         },
+         "place_id" : "ChIJAY-3WmcBFUAReFexLDm2ghE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Troms",
+               "short_name" : "Troms",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Troms Og Finnmark",
+               "short_name" : "Troms Og Finnmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Troms, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 70.7036162,
+                  "lng" : 22.8944654
+               },
+               "southwest" : {
+                  "lat" : 68.3560138,
+                  "lng" : 15.5925416
+               }
+            },
+            "location" : {
+               "lat" : 69.81782419999999,
+               "lng" : 18.7819365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70.7036162,
+                  "lng" : 22.8944654
+               },
+               "southwest" : {
+                  "lat" : 68.3560138,
+                  "lng" : 15.5925416
+               }
+            }
+         },
+         "place_id" : "ChIJE7uBNmHsxEURi6hbErxYONk",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Marino",
+               "short_name" : "San Marino",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "San Marino",
+               "short_name" : "SM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Marino",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.944432,
+                  "lng" : 12.457005
+               },
+               "southwest" : {
+                  "lat" : 43.9139852,
+                  "lng" : 12.4146916
+               }
+            },
+            "location" : {
+               "lat" : 43.9305658,
+               "lng" : 12.44379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.944432,
+                  "lng" : 12.457005
+               },
+               "southwest" : {
+                  "lat" : 43.9139852,
+                  "lng" : 12.4146916
+               }
+            }
+         },
+         "place_id" : "ChIJn_wVUEqTLBMRQCA0gpnzAAQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

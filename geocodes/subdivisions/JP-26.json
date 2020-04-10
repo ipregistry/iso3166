@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyoto",
+               "short_name" : "Kyoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto",
+               "short_name" : "Kyoto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyoto, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.321258,
+                  "lng" : 135.878769
+               },
+               "southwest" : {
+                  "lat" : 34.875222,
+                  "lng" : 135.5589789
+               }
+            },
+            "location" : {
+               "lat" : 35.011564,
+               "lng" : 135.7681489
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.321258,
+                  "lng" : 135.878769
+               },
+               "southwest" : {
+                  "lat" : 34.875222,
+                  "lng" : 135.5589789
+               }
+            }
+         },
+         "place_id" : "ChIJ8cM8zdaoAWARPR27azYdlsA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

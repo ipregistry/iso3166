@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wharekauri",
+               "short_name" : "Wharekauri",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chatham Islands",
+               "short_name" : "Chatham Islands",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wharekauri, Chatham Islands, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -43.7076245,
+                  "lng" : -176.5777159
+               },
+               "southwest" : {
+                  "lat" : -43.7142941,
+                  "lng" : -176.5899467
+               }
+            },
+            "location" : {
+               "lat" : -43.7100494,
+               "lng" : -176.5842312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -43.7076245,
+                  "lng" : -176.5777159
+               },
+               "southwest" : {
+                  "lat" : -43.7142941,
+                  "lng" : -176.5899467
+               }
+            }
+         },
+         "place_id" : "ChIJEfG02XlgsXIRmYfydBJvSrs",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

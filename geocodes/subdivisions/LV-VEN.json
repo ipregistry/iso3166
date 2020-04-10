@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ventspils",
+               "short_name" : "Ventspils",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ventspils",
+               "short_name" : "Ventspils",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ventspils, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.47072199999999,
+                  "lng" : 21.673665
+               },
+               "southwest" : {
+                  "lat" : 57.34809389999999,
+                  "lng" : 21.5157259
+               }
+            },
+            "location" : {
+               "lat" : 57.40957529999999,
+               "lng" : 21.6210593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.47072199999999,
+                  "lng" : 21.673665
+               },
+               "southwest" : {
+                  "lat" : 57.34809389999999,
+                  "lng" : 21.5157259
+               }
+            }
+         },
+         "place_id" : "ChIJ2UhCZpbI8UYRxC6oJkf7jUw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

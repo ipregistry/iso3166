@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Region",
+               "short_name" : "Southern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Region, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.87730599999999,
+                  "lng" : -17.265952
+               },
+               "southwest" : {
+                  "lat" : 63.286755,
+                  "lng" : -21.9220031
+               }
+            },
+            "location" : {
+               "lat" : 64.26614259999999,
+               "lng" : -18.8158139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.87730599999999,
+                  "lng" : -17.265952
+               },
+               "southwest" : {
+                  "lat" : 63.286755,
+                  "lng" : -21.9220031
+               }
+            }
+         },
+         "place_id" : "ChIJnQT34oM50UgRhUWJSBO8H_s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

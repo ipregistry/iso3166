@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Valley Governorate",
+               "short_name" : "New Valley Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Valley Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6761935,
+                  "lng" : 32.7377086
+               },
+               "southwest" : {
+                  "lat" : 22,
+                  "lng" : 24.999996
+               }
+            },
+            "location" : {
+               "lat" : 24.5455638,
+               "lng" : 27.1735316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6761935,
+                  "lng" : 32.7377086
+               },
+               "southwest" : {
+                  "lat" : 22,
+                  "lng" : 24.999996
+               }
+            }
+         },
+         "place_id" : "ChIJizo3_7NpRxQRv-B5djN7Zhw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lääne-Viru County",
+               "short_name" : "Lääne-Viru County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lääne-Viru County, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.8220142,
+                  "lng" : 26.9611477
+               },
+               "southwest" : {
+                  "lat" : 58.8769269,
+                  "lng" : 25.5363148
+               }
+            },
+            "location" : {
+               "lat" : 59.30188159999999,
+               "lng" : 26.3280312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8220142,
+                  "lng" : 26.9611477
+               },
+               "southwest" : {
+                  "lat" : 58.8769269,
+                  "lng" : 25.5363148
+               }
+            }
+         },
+         "place_id" : "ChIJ0zwY69Z1k0YRgGD8GG2zAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

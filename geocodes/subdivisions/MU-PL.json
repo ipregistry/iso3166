@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Louis",
+               "short_name" : "Port Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Port Louis District",
+               "short_name" : "Port Louis District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritius",
+               "short_name" : "MU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port Louis, Mauritius",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.124287,
+                  "lng" : 57.5659989
+               },
+               "southwest" : {
+                  "lat" : -20.2016751,
+                  "lng" : 57.42755409999999
+               }
+            },
+            "location" : {
+               "lat" : -20.1608912,
+               "lng" : 57.5012222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.124287,
+                  "lng" : 57.5659989
+               },
+               "southwest" : {
+                  "lat" : -20.2016751,
+                  "lng" : 57.42755409999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7wHWQUlQfCERPbu9kWwYxf0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

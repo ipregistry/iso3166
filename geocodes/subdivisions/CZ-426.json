@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Teplice",
+               "short_name" : "Teplice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teplice District",
+               "short_name" : "Teplice District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem Region",
+               "short_name" : "Ústí nad Labem Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Teplice, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6764897,
+                  "lng" : 13.8747383
+               },
+               "southwest" : {
+                  "lat" : 50.6134319,
+                  "lng" : 13.7720011
+               }
+            },
+            "location" : {
+               "lat" : 50.6444579,
+               "lng" : 13.835284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6764897,
+                  "lng" : 13.8747383
+               },
+               "southwest" : {
+                  "lat" : 50.6134319,
+                  "lng" : 13.7720011
+               }
+            }
+         },
+         "place_id" : "ChIJOX8yMYmOCUcRUPwVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

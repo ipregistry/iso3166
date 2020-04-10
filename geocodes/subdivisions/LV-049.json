@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krustpils Municipality",
+               "short_name" : "Krustpils Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krustpils Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.664949,
+                  "lng" : 26.6251828
+               },
+               "southwest" : {
+                  "lat" : 56.4082388,
+                  "lng" : 25.7354098
+               }
+            },
+            "location" : {
+               "lat" : 56.5415578,
+               "lng" : 26.2446397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.664949,
+                  "lng" : 26.6251828
+               },
+               "southwest" : {
+                  "lat" : 56.4082388,
+                  "lng" : 25.7354098
+               }
+            }
+         },
+         "place_id" : "ChIJQT3SKdfF6UYRAP_yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

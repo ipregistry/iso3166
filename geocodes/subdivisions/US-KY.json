@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kentucky, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.147458,
+                  "lng" : -81.9649708
+               },
+               "southwest" : {
+                  "lat" : 36.4971289,
+                  "lng" : -89.5715089
+               }
+            },
+            "location" : {
+               "lat" : 37.8393332,
+               "lng" : -84.2700179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.147458,
+                  "lng" : -81.9649708
+               },
+               "southwest" : {
+                  "lat" : 36.4971289,
+                  "lng" : -89.5715089
+               }
+            }
+         },
+         "place_id" : "ChIJyVMZi0xzQogR_N_MxU5vH3c",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

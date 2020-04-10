@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alajuela",
+               "short_name" : "Alajuela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alajuela Province",
+               "short_name" : "Alajuela Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alajuela Province, Alajuela, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.0539026,
+                  "lng" : -84.18012139999999
+               },
+               "southwest" : {
+                  "lat" : 10.0010779,
+                  "lng" : -84.22974239999999
+               }
+            },
+            "location" : {
+               "lat" : 10.0159394,
+               "lng" : -84.21417009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.0539026,
+                  "lng" : -84.18012139999999
+               },
+               "southwest" : {
+                  "lat" : 10.0010779,
+                  "lng" : -84.22974239999999
+               }
+            }
+         },
+         "place_id" : "ChIJs937ccj5oI8Ryza_JrwP-bE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

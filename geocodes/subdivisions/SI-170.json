@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mirna Peč",
+               "short_name" : "Mirna Peč",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mirna Peč",
+               "short_name" : "Mirna Peč",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Novo Mesto",
+               "short_name" : "Novo Mesto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8216",
+               "short_name" : "8216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8216 Mirna Peč, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8708266,
+                  "lng" : 15.1094655
+               },
+               "southwest" : {
+                  "lat" : 45.8396018,
+                  "lng" : 15.0532856
+               }
+            },
+            "location" : {
+               "lat" : 45.8594478,
+               "lng" : 15.0830457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8708266,
+                  "lng" : 15.1094655
+               },
+               "southwest" : {
+                  "lat" : 45.8396018,
+                  "lng" : 15.0532856
+               }
+            }
+         },
+         "place_id" : "ChIJ6zOoizYCZUcRMDHlbRt7J7A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

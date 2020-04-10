@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loiret",
+               "short_name" : "Loiret",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Loiret",
+               "short_name" : "Loiret",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Val de Loire",
+               "short_name" : "Centre-Val de Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loiret, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8775621,
+                  "lng" : 1.9390442
+               },
+               "southwest" : {
+                  "lat" : 47.8461754,
+                  "lng" : 1.7993451
+               }
+            },
+            "location" : {
+               "lat" : 47.8696278,
+               "lng" : 1.871864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8775621,
+                  "lng" : 1.9390442
+               },
+               "southwest" : {
+                  "lat" : 47.8461754,
+                  "lng" : 1.7993451
+               }
+            }
+         },
+         "place_id" : "ChIJqw2ZXvnu5EcRT_053YssdGc",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

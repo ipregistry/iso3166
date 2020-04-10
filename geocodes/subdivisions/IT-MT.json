@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matera",
+               "short_name" : "Matera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matera",
+               "short_name" : "Matera",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Matera",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Basilicata",
+               "short_name" : "Basilicata",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75100",
+               "short_name" : "75100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "75100 Matera, Province of Matera, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6907831,
+                  "lng" : 16.6281972
+               },
+               "southwest" : {
+                  "lat" : 40.6384299,
+                  "lng" : 16.5720606
+               }
+            },
+            "location" : {
+               "lat" : 40.666379,
+               "lng" : 16.6043199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6907831,
+                  "lng" : 16.6281972
+               },
+               "southwest" : {
+                  "lat" : 40.6384299,
+                  "lng" : 16.5720606
+               }
+            }
+         },
+         "place_id" : "ChIJKxUrSOJ-RxMRYJPaEK6k9gg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Danilovgrad",
+               "short_name" : "Danilovgrad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Danilovgrad Municipality",
+               "short_name" : "Danilovgrad Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Danilovgrad, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5631326,
+                  "lng" : 19.1203737
+               },
+               "southwest" : {
+                  "lat" : 42.5411924,
+                  "lng" : 19.0853548
+               }
+            },
+            "location" : {
+               "lat" : 42.5537532,
+               "lng" : 19.1077389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5631326,
+                  "lng" : 19.1203737
+               },
+               "southwest" : {
+                  "lat" : 42.5411924,
+                  "lng" : 19.0853548
+               }
+            }
+         },
+         "place_id" : "ChIJ9Zi1uxy8TRMRJj7hUqnEu1c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

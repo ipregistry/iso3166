@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chechnya",
+               "short_name" : "Chechnya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chechnya, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.009815,
+                  "lng" : 46.6588411
+               },
+               "southwest" : {
+                  "lat" : 42.4756874,
+                  "lng" : 44.8331171
+               }
+            },
+            "location" : {
+               "lat" : 43.4023301,
+               "lng" : 45.7187468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.009815,
+                  "lng" : 46.6588411
+               },
+               "southwest" : {
+                  "lat" : 42.4756874,
+                  "lng" : 44.8331171
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcbkTnXzVUUARO-HX6l3cqn8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

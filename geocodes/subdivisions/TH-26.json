@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nakhon Nayok",
+               "short_name" : "Nakhon Nayok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Nakhon Nayok District",
+               "short_name" : "Mueang Nakhon Nayok District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nakhon Nayok",
+               "short_name" : "จ.นครนายก",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26000",
+               "short_name" : "26000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nakhon Nayok, Mueang Nakhon Nayok District, Nakhon Nayok 26000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.210597,
+                  "lng" : 101.2307342
+               },
+               "southwest" : {
+                  "lat" : 14.1934153,
+                  "lng" : 101.2067585
+               }
+            },
+            "location" : {
+               "lat" : 14.2038387,
+               "lng" : 101.2268773
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.210597,
+                  "lng" : 101.2307342
+               },
+               "southwest" : {
+                  "lat" : 14.1934153,
+                  "lng" : 101.2067585
+               }
+            }
+         },
+         "place_id" : "ChIJMTChBCauHTERQNwMRTeSAQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

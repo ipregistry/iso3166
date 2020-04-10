@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warab",
+               "short_name" : "Warab",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warab",
+               "short_name" : "Warab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Warrap",
+               "short_name" : "Warrap",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Sudan",
+               "short_name" : "SS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warab, South Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.097470299999999,
+                  "lng" : 28.6524726
+               },
+               "southwest" : {
+                  "lat" : 8.083618999999999,
+                  "lng" : 28.6259937
+               }
+            },
+            "location" : {
+               "lat" : 8.088623799999999,
+               "lng" : 28.6410641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.097470299999999,
+                  "lng" : 28.6524726
+               },
+               "southwest" : {
+                  "lat" : 8.083618999999999,
+                  "lng" : 28.6259937
+               }
+            }
+         },
+         "place_id" : "ChIJA-1M74__IRcRG-GeRoCHfiI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

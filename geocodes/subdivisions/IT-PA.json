@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicily",
+               "short_name" : "Sicily",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palermo, Province of Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.219548,
+                  "lng" : 13.4471566
+               },
+               "southwest" : {
+                  "lat" : 38.0615392,
+                  "lng" : 13.2674205
+               }
+            },
+            "location" : {
+               "lat" : 38.11569,
+               "lng" : 13.3614868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.219548,
+                  "lng" : 13.4471566
+               },
+               "southwest" : {
+                  "lat" : 38.0615392,
+                  "lng" : 13.2674205
+               }
+            }
+         },
+         "place_id" : "ChIJmdBOgcnoGRMRgNg7IywECwo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

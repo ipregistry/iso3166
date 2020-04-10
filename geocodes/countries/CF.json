@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central African Republic",
+               "short_name" : "CF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central African Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.0179569,
+                  "lng" : 27.4583049
+               },
+               "southwest" : {
+                  "lat" : 2.2230529,
+                  "lng" : 14.4150981
+               }
+            },
+            "location" : {
+               "lat" : 6.611110999999999,
+               "lng" : 20.939444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0179569,
+                  "lng" : 27.4583049
+               },
+               "southwest" : {
+                  "lat" : 2.2230529,
+                  "lng" : 14.4150981
+               }
+            }
+         },
+         "place_id" : "ChIJt6KGjVPpuBARJIBcWgLGm7g",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

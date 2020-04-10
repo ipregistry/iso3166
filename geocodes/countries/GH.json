@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ghana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.1750308,
+                  "lng" : 1.199972
+               },
+               "southwest" : {
+                  "lat" : 4.6339001,
+                  "lng" : -3.2607859
+               }
+            },
+            "location" : {
+               "lat" : 7.946527,
+               "lng" : -1.023194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.1750308,
+                  "lng" : 1.199972
+               },
+               "southwest" : {
+                  "lat" : 4.6339001,
+                  "lng" : -3.2607859
+               }
+            }
+         },
+         "place_id" : "ChIJx9baqM1a1w8RNtKT0DDy11Q",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

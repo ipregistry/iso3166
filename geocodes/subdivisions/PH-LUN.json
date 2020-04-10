@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Union",
+               "short_name" : "La Union",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ilocos Region",
+               "short_name" : "Ilocos Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Union, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.923973,
+                  "lng" : 120.582017
+               },
+               "southwest" : {
+                  "lat" : 16.2050019,
+                  "lng" : 120.277903
+               }
+            },
+            "location" : {
+               "lat" : 16.6158906,
+               "lng" : 120.3209373
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.923973,
+                  "lng" : 120.582017
+               },
+               "southwest" : {
+                  "lat" : 16.2050019,
+                  "lng" : 120.277903
+               }
+            }
+         },
+         "place_id" : "ChIJc7uW2Z-QkTMREawSMEL1Dag",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

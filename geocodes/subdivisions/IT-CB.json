@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campobasso",
+               "short_name" : "Campobasso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campobasso",
+               "short_name" : "Campobasso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Campobasso",
+               "short_name" : "CB",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Molise",
+               "short_name" : "Molise",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86100",
+               "short_name" : "86100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "86100 Campobasso, Province of Campobasso, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5741618,
+                  "lng" : 14.6924148
+               },
+               "southwest" : {
+                  "lat" : 41.540825,
+                  "lng" : 14.643634
+               }
+            },
+            "location" : {
+               "lat" : 41.5602544,
+               "lng" : 14.6627161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5741618,
+                  "lng" : 14.6924148
+               },
+               "southwest" : {
+                  "lat" : 41.540825,
+                  "lng" : 14.643634
+               }
+            }
+         },
+         "place_id" : "ChIJ2Zwdsi8LOhMRa218xj8pMfg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

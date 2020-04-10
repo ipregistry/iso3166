@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "City of Wolverhampton District",
+               "short_name" : "City of Wolverhampton District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Midlands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "City of Wolverhampton District, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6378946,
+                  "lng" : -2.0480278
+               },
+               "southwest" : {
+                  "lat" : 52.5439297,
+                  "lng" : -2.2068816
+               }
+            },
+            "location" : {
+               "lat" : 52.5875072,
+               "lng" : -2.1287913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6378946,
+                  "lng" : -2.0480278
+               },
+               "southwest" : {
+                  "lat" : 52.5439297,
+                  "lng" : -2.2068816
+               }
+            }
+         },
+         "place_id" : "ChIJpXKzEo-bcEgREImX1COLDQQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

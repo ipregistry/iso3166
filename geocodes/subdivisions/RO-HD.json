@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hunedoara",
+               "short_name" : "Hunedoara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hunedoara",
+               "short_name" : "Hunedoara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hunedoara County",
+               "short_name" : "HD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hunedoara, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7960152,
+                  "lng" : 22.9378867
+               },
+               "southwest" : {
+                  "lat" : 45.7303145,
+                  "lng" : 22.8775477
+               }
+            },
+            "location" : {
+               "lat" : 45.7678128,
+               "lng" : 22.9072331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7960152,
+                  "lng" : 22.9378867
+               },
+               "southwest" : {
+                  "lat" : 45.7303145,
+                  "lng" : 22.8775477
+               }
+            }
+         },
+         "place_id" : "ChIJnxWWc1SKTkcROyM1PO2M8xk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

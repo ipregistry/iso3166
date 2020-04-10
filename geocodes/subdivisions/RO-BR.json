@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brăila",
+               "short_name" : "Brăila",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brăila County",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brăila, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3137327,
+                  "lng" : 28.0004168
+               },
+               "southwest" : {
+                  "lat" : 45.1678028,
+                  "lng" : 27.8928493
+               }
+            },
+            "location" : {
+               "lat" : 45.2652463,
+               "lng" : 27.9594714
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3137327,
+                  "lng" : 28.0004168
+               },
+               "southwest" : {
+                  "lat" : 45.1678028,
+                  "lng" : 27.8928493
+               }
+            }
+         },
+         "place_id" : "ChIJQZTGxSrWtkARnnx1v-k-jmg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

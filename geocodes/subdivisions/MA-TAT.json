@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tata",
+               "short_name" : "Tata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tata Province",
+               "short_name" : "Tata Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Souss-Massa",
+               "short_name" : "Souss-Massa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tata, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7831515,
+                  "lng" : -7.9531574
+               },
+               "southwest" : {
+                  "lat" : 29.7337501,
+                  "lng" : -7.996587799999999
+               }
+            },
+            "location" : {
+               "lat" : 29.750877,
+               "lng" : -7.975634299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7831515,
+                  "lng" : -7.9531574
+               },
+               "southwest" : {
+                  "lat" : 29.7337501,
+                  "lng" : -7.996587799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmQ7RU_BPtw0Rrr80uU_qpZo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

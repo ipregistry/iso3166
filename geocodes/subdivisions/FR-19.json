@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corrèze",
+               "short_name" : "Corrèze",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Correze",
+               "short_name" : "Correze",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19800",
+               "short_name" : "19800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19800 Corrèze, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.40995909999999,
+                  "lng" : 1.921707
+               },
+               "southwest" : {
+                  "lat" : 45.32584199999999,
+                  "lng" : 1.822327
+               }
+            },
+            "location" : {
+               "lat" : 45.372114,
+               "lng" : 1.873739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40995909999999,
+                  "lng" : 1.921707
+               },
+               "southwest" : {
+                  "lat" : 45.32584199999999,
+                  "lng" : 1.822327
+               }
+            }
+         },
+         "place_id" : "ChIJu4QPRbdY-EcRAHXuYJLTBQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

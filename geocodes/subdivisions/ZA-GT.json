@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pretoria",
+               "short_name" : "Pretoria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Tshwane Metropolitan Municipality",
+               "short_name" : "City of Tshwane Metropolitan Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gauteng",
+               "short_name" : "GP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pretoria, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.6015299,
+                  "lng" : 28.44532
+               },
+               "southwest" : {
+                  "lat" : -25.91577,
+                  "lng" : 27.950581
+               }
+            },
+            "location" : {
+               "lat" : -25.7478676,
+               "lng" : 28.2292712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.6015299,
+                  "lng" : 28.44532
+               },
+               "southwest" : {
+                  "lat" : -25.91577,
+                  "lng" : 27.950581
+               }
+            }
+         },
+         "place_id" : "ChIJM1DGvpxhlR4RTHuEerBiYvY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

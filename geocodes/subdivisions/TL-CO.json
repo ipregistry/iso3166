@@ -1,0 +1,95 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aileu",
+               "short_name" : "Aileu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aileu, Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.559498999999999,
+                  "lng" : 125.818058
+               },
+               "southwest" : {
+                  "lat" : -8.850384000000002,
+                  "lng" : 125.4551079
+               }
+            },
+            "location" : {
+               "lat" : -8.7043994,
+               "lng" : 125.6095474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.559498999999999,
+                  "lng" : 125.818058
+               },
+               "southwest" : {
+                  "lat" : -8.850384000000002,
+                  "lng" : 125.4551079
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ677m0ZYe_iwR-y638VDeOXk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cova-Lima",
+               "short_name" : "Cova-Lima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cova-Lima, Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.005953,
+                  "lng" : 125.5403839
+               },
+               "southwest" : {
+                  "lat" : -9.4620797,
+                  "lng" : 124.981875
+               }
+            },
+            "location" : {
+               "lat" : -9.2650375,
+               "lng" : 125.2587964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.005953,
+                  "lng" : 125.5403839
+               },
+               "southwest" : {
+                  "lat" : -9.4620797,
+                  "lng" : 124.981875
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ05oz5G9U_iwRGbg_D9WZjOs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

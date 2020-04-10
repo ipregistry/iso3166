@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sangha-Mbare",
+               "short_name" : "Sangha-Mbare",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Central African Republic",
+               "short_name" : "CF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sangha-Mbare, Central African Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.3382231,
+                  "lng" : 17.394213
+               },
+               "southwest" : {
+                  "lat" : 2.2205141,
+                  "lng" : 15.193566
+               }
+            },
+            "location" : {
+               "lat" : 3.4368607,
+               "lng" : 16.3463791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.3382231,
+                  "lng" : 17.394213
+               },
+               "southwest" : {
+                  "lat" : 2.2205141,
+                  "lng" : 15.193566
+               }
+            }
+         },
+         "place_id" : "ChIJG6Rx76YzvhARdswQZBKsUvw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+    }
+   ],
+   "status" : "OK"
+}

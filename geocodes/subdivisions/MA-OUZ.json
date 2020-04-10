@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Province of Ouezzane",
+               "short_name" : "Province of Ouezzane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sidi Kacem",
+               "short_name" : "Sidi Kacem",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tangier-Tétouan-Al Hoceima",
+               "short_name" : "Tangier-Tétouan-Al Hoceima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Province of Ouezzane, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8256713,
+                  "lng" : -5.5439962
+               },
+               "southwest" : {
+                  "lat" : 34.7870212,
+                  "lng" : -5.603885699999999
+               }
+            },
+            "location" : {
+               "lat" : 34.7953732,
+               "lng" : -5.567558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8256713,
+                  "lng" : -5.5439962
+               },
+               "southwest" : {
+                  "lat" : 34.7870212,
+                  "lng" : -5.603885699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR8KlqRTyCg0R8OqeVqa84Hg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

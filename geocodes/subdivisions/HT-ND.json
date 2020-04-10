@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nord Department",
+               "short_name" : "Nord Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Haiti",
+               "short_name" : "HT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nord Department, Haiti",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.8837179,
+                  "lng" : -71.96107099999999
+               },
+               "southwest" : {
+                  "lat" : 19.2473899,
+                  "lng" : -72.6788249
+               }
+            },
+            "location" : {
+               "lat" : 19.5687715,
+               "lng" : -72.18899999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.8837179,
+                  "lng" : -71.96107099999999
+               },
+               "southwest" : {
+                  "lat" : 19.2473899,
+                  "lng" : -72.6788249
+               }
+            }
+         },
+         "place_id" : "ChIJs8fY3gLHto4RE_Or3ZYIAEs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

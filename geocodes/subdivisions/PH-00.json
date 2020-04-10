@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Manila",
+               "short_name" : "NCR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro Manila, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.7874961,
+                  "lng" : 121.1350759
+               },
+               "southwest" : {
+                  "lat" : 14.3480961,
+                  "lng" : 120.9062111
+               }
+            },
+            "location" : {
+               "lat" : 14.6090537,
+               "lng" : 121.0222565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.7874961,
+                  "lng" : 121.1350759
+               },
+               "southwest" : {
+                  "lat" : 14.3480961,
+                  "lng" : 120.9062111
+               }
+            }
+         },
+         "place_id" : "ChIJbTgmYNLIlzMR0HiSrNoj7V8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

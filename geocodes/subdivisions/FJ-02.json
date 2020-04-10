@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bua",
+               "short_name" : "Bua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Division",
+               "short_name" : "Northern Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bua, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.545215,
+                  "lng" : 179.0742302
+               },
+               "southwest" : {
+                  "lat" : -17.0162448,
+                  "lng" : 178.4701538
+               }
+            },
+            "location" : {
+               "lat" : -16.7668752,
+               "lng" : 178.7493998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.545215,
+                  "lng" : 179.0742302
+               },
+               "southwest" : {
+                  "lat" : -17.0162448,
+                  "lng" : 178.4701538
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZd-47DyzGG4RPGscR22Utxg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

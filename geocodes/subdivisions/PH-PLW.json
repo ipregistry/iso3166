@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palawan",
+               "short_name" : "Palawan",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Palawan",
+               "short_name" : "Palawan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "MIMAROPA",
+               "short_name" : "MIMAROPA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palawan, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.4254413,
+                  "lng" : 119.7186831
+               },
+               "southwest" : {
+                  "lat" : 8.3300719,
+                  "lng" : 117.1728821
+               }
+            },
+            "location" : {
+               "lat" : 9.4462305,
+               "lng" : 118.3929417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.4254413,
+                  "lng" : 119.7186831
+               },
+               "southwest" : {
+                  "lat" : 8.3300719,
+                  "lng" : 117.1728821
+               }
+            }
+         },
+         "place_id" : "ChIJcQU_alOOyjMRoCacoKxe-FY",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

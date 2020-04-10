@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lubombo Region",
+               "short_name" : "Lubombo Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Eswatini",
+               "short_name" : "SZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lubombo Region, Eswatini",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.93021,
+                  "lng" : 32.13726
+               },
+               "southwest" : {
+                  "lat" : -27.1706039,
+                  "lng" : 31.4920601
+               }
+            },
+            "location" : {
+               "lat" : -26.7851773,
+               "lng" : 31.8107079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.93021,
+                  "lng" : 32.13726
+               },
+               "southwest" : {
+                  "lat" : -27.1706039,
+                  "lng" : 31.4920601
+               }
+            }
+         },
+         "place_id" : "ChIJhbYnTavp5R4ReSyMcA3yhI8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

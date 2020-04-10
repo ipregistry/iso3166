@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Paz",
+               "short_name" : "La Paz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Paz",
+               "short_name" : "La Paz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "La Paz Department",
+               "short_name" : "La Paz Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Honduras",
+               "short_name" : "HN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Paz, Honduras",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.3358826,
+                  "lng" : -87.6547904
+               },
+               "southwest" : {
+                  "lat" : 14.309064,
+                  "lng" : -87.6950169
+               }
+            },
+            "location" : {
+               "lat" : 14.3271237,
+               "lng" : -87.6729074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.3358826,
+                  "lng" : -87.6547904
+               },
+               "southwest" : {
+                  "lat" : 14.309064,
+                  "lng" : -87.6950169
+               }
+            }
+         },
+         "place_id" : "ChIJ36F9xtiCZY8RbQQ_BA2D-Mo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brod-Posavina County",
+               "short_name" : "Brod-Posavina County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brod-Posavina County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.39235980000001,
+                  "lng" : 18.5746296
+               },
+               "southwest" : {
+                  "lat" : 45.0434571,
+                  "lng" : 17.0736625
+               }
+            },
+            "location" : {
+               "lat" : 45.2637951,
+               "lng" : 17.3264562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.39235980000001,
+                  "lng" : 18.5746296
+               },
+               "southwest" : {
+                  "lat" : 45.0434571,
+                  "lng" : 17.0736625
+               }
+            }
+         },
+         "place_id" : "ChIJU2fhnTGWXUcR0LQrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

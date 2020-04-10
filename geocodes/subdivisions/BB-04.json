@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint James",
+               "short_name" : "Saint James",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint James, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.237683,
+                  "lng" : -59.598465
+               },
+               "southwest" : {
+                  "lat" : 13.1381931,
+                  "lng" : -59.64361599999999
+               }
+            },
+            "location" : {
+               "lat" : 13.1842181,
+               "lng" : -59.6304714
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.237683,
+                  "lng" : -59.598465
+               },
+               "southwest" : {
+                  "lat" : 13.1381931,
+                  "lng" : -59.64361599999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1WdXeDnwQ4wRyEkl3wq7hq0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

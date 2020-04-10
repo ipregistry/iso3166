@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Altai Krai",
+               "short_name" : "Altai Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Altai Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.452997,
+                  "lng" : 87.1706279
+               },
+               "southwest" : {
+                  "lat" : 50.6397749,
+                  "lng" : 77.8894129
+               }
+            },
+            "location" : {
+               "lat" : 51.7936298,
+               "lng" : 82.6758596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.452997,
+                  "lng" : 87.1706279
+               },
+               "southwest" : {
+                  "lat" : 50.6397749,
+                  "lng" : 77.8894129
+               }
+            }
+         },
+         "place_id" : "ChIJ_0EiPofU50IR1TtsjXACf-4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaffrine",
+               "short_name" : "Kaffrine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaffrine Region",
+               "short_name" : "Kaffrine Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaffrine, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.1249615,
+                  "lng" : -15.526374
+               },
+               "southwest" : {
+                  "lat" : 14.0846574,
+                  "lng" : -15.5634493
+               }
+            },
+            "location" : {
+               "lat" : 14.105202,
+               "lng" : -15.5415755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.1249615,
+                  "lng" : -15.526374
+               },
+               "southwest" : {
+                  "lat" : 14.0846574,
+                  "lng" : -15.5634493
+               }
+            }
+         },
+         "place_id" : "ChIJO-YaZ_wS6Q4RW6ffN53wxL8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

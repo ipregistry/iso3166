@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Christ Church Nichola Town Parish",
+               "short_name" : "Christ Church Nichola Town Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Christ Church Nichola Town Parish, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.38626,
+                  "lng" : -62.73767700000001
+               },
+               "southwest" : {
+                  "lat" : 17.330067,
+                  "lng" : -62.7906411
+               }
+            },
+            "location" : {
+               "lat" : 17.3604812,
+               "lng" : -62.7617837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.38626,
+                  "lng" : -62.73767700000001
+               },
+               "southwest" : {
+                  "lat" : 17.330067,
+                  "lng" : -62.7906411
+               }
+            }
+         },
+         "place_id" : "ChIJwRsFjzIDEowRwQL3uhGtrH4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

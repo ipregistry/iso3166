@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hai Phong",
+               "short_name" : "Hai Phong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hai Phong",
+               "short_name" : "Hai Phong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hai Phong, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.8792627,
+                  "lng" : 106.759901
+               },
+               "southwest" : {
+                  "lat" : 20.814211,
+                  "lng" : 106.6375924
+               }
+            },
+            "location" : {
+               "lat" : 20.8449115,
+               "lng" : 106.6880841
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.8792627,
+                  "lng" : 106.759901
+               },
+               "southwest" : {
+                  "lat" : 20.814211,
+                  "lng" : 106.6375924
+               }
+            }
+         },
+         "place_id" : "ChIJ0xo_nvN6SjER6Ad6-F_I_6U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

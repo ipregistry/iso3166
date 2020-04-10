@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Province",
+               "short_name" : "Western Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Province, Zambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.709041,
+                  "lng" : 25.52071
+               },
+               "southwest" : {
+                  "lat" : -17.6392799,
+                  "lng" : 21.999371
+               }
+            },
+            "location" : {
+               "lat" : -15.9454906,
+               "lng" : 23.3823545
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.709041,
+                  "lng" : 25.52071
+               },
+               "southwest" : {
+                  "lat" : -17.6392799,
+                  "lng" : 21.999371
+               }
+            }
+         },
+         "place_id" : "ChIJjzUdTGDzWBkRAfGrqvLUL0U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

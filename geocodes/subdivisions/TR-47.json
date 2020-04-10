@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mardin",
+               "short_name" : "Mardin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Artuklu",
+               "short_name" : "Artuklu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mardin",
+               "short_name" : "Mardin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mardin, Artuklu/Mardin, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.340449,
+                  "lng" : 40.766385
+               },
+               "southwest" : {
+                  "lat" : 37.3006559,
+                  "lng" : 40.691066
+               }
+            },
+            "location" : {
+               "lat" : 37.312903,
+               "lng" : 40.733951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.340449,
+                  "lng" : 40.766385
+               },
+               "southwest" : {
+                  "lat" : 37.3006559,
+                  "lng" : 40.691066
+               }
+            }
+         },
+         "place_id" : "ChIJ_QqvisOICkARQfiwR_wg30c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

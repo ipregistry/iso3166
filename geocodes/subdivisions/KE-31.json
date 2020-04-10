@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nakuru",
+               "short_name" : "Nakuru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nakuru County",
+               "short_name" : "Nakuru County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nakuru, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.2083106,
+                  "lng" : 36.1972372
+               },
+               "southwest" : {
+                  "lat" : -0.4233131,
+                  "lng" : 35.9604836
+               }
+            },
+            "location" : {
+               "lat" : -0.3030988,
+               "lng" : 36.080026
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.2083106,
+                  "lng" : 36.1972372
+               },
+               "southwest" : {
+                  "lat" : -0.4233131,
+                  "lng" : 35.9604836
+               }
+            }
+         },
+         "place_id" : "ChIJ7wthz5CNKRgRGsJ8vDMY8vI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

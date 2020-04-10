@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lekoumou River",
+               "short_name" : "Lekoumou River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Lekoumou",
+               "short_name" : "Lekoumou",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Republic of the Congo",
+               "short_name" : "CG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lekoumou River, Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.086738,
+                  "lng" : 13.7810579
+               },
+               "southwest" : {
+                  "lat" : -3.4281348,
+                  "lng" : 13.1682675
+               }
+            },
+            "location" : {
+               "lat" : -3.2352979,
+               "lng" : 13.4454632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.086738,
+                  "lng" : 13.7810579
+               },
+               "southwest" : {
+                  "lat" : -3.4281348,
+                  "lng" : 13.1682675
+               }
+            }
+         },
+         "place_id" : "ChIJe94hIX17bxoR2eI0OBLOyfs",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boujdour",
+               "short_name" : "Boujdour",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Boujdour",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.1565487,
+                  "lng" : -14.4467785
+               },
+               "southwest" : {
+                  "lat" : 26.0752699,
+                  "lng" : -14.5010316
+               }
+            },
+            "location" : {
+               "lat" : 26.1252493,
+               "lng" : -14.4847347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1565487,
+                  "lng" : -14.4467785
+               },
+               "southwest" : {
+                  "lat" : 26.0752699,
+                  "lng" : -14.5010316
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoUFbsSHGOwwRP1DIif7yT_Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nangarhar",
+               "short_name" : "Nangarhar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nangarhar, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.809976,
+                  "lng" : 71.17125709999999
+               },
+               "southwest" : {
+                  "lat" : 33.9433401,
+                  "lng" : 69.482636
+               }
+            },
+            "location" : {
+               "lat" : 34.1718313,
+               "lng" : 70.6216794
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.809976,
+                  "lng" : 71.17125709999999
+               },
+               "southwest" : {
+                  "lat" : 33.9433401,
+                  "lng" : 69.482636
+               }
+            }
+         },
+         "place_id" : "ChIJSQqHpM3-2TgRdRNRqQWW0Tw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

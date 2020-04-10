@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dornogovi",
+               "short_name" : "Dornogovi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dornogovi, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.62841299999999,
+                  "lng" : 111.964694
+               },
+               "southwest" : {
+                  "lat" : 42.398935,
+                  "lng" : 107.636619
+               }
+            },
+            "location" : {
+               "lat" : 43.9653889,
+               "lng" : 109.1773459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.62841299999999,
+                  "lng" : 111.964694
+               },
+               "southwest" : {
+                  "lat" : 42.398935,
+                  "lng" : 107.636619
+               }
+            }
+         },
+         "place_id" : "ChIJ2YPR2uOM910RDVmKXO8DJ2U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

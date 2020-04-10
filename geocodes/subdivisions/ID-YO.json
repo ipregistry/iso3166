@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yogyakarta",
+               "short_name" : "Yogyakarta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yogyakarta City",
+               "short_name" : "Yogyakarta City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Special Region of Yogyakarta",
+               "short_name" : "Jogja",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yogyakarta, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.7663509,
+                  "lng" : 110.405084
+               },
+               "southwest" : {
+                  "lat" : -7.840149999999999,
+                  "lng" : 110.3446059
+               }
+            },
+            "location" : {
+               "lat" : -7.7955798,
+               "lng" : 110.3694896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.7663509,
+                  "lng" : 110.405084
+               },
+               "southwest" : {
+                  "lat" : -7.840149999999999,
+                  "lng" : 110.3446059
+               }
+            }
+         },
+         "place_id" : "ChIJxWtbvYdXei4RcU9o09Q_ciE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

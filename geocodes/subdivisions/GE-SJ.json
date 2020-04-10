@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samtskhe-Javakheti",
+               "short_name" : "Samtskhe-Javakheti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samtskhe-Javakheti, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.941421,
+                  "lng" : 43.9642531
+               },
+               "southwest" : {
+                  "lat" : 41.111591,
+                  "lng" : 42.492235
+               }
+            },
+            "location" : {
+               "lat" : 41.5479296,
+               "lng" : 43.27764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.941421,
+                  "lng" : 43.9642531
+               },
+               "southwest" : {
+                  "lat" : 41.111591,
+                  "lng" : 42.492235
+               }
+            }
+         },
+         "place_id" : "ChIJWV47IJjjQkARQMgIzkkR28E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

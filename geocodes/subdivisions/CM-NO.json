@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North",
+               "short_name" : "North",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North, Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.219281,
+                  "lng" : 15.598204
+               },
+               "southwest" : {
+                  "lat" : 7.029078999999999,
+                  "lng" : 12.2255
+               }
+            },
+            "location" : {
+               "lat" : 8.580901299999999,
+               "lng" : 13.914399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.219281,
+                  "lng" : 15.598204
+               },
+               "southwest" : {
+                  "lat" : 7.029078999999999,
+                  "lng" : 12.2255
+               }
+            }
+         },
+         "place_id" : "ChIJY84g8C3I_BARzuy9UeTEQp8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

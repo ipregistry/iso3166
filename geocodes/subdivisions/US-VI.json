@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "U.S. Virgin Islands",
+               "short_name" : "VI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "U.S. Virgin Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.4239,
+                  "lng" : -64.4391
+               },
+               "southwest" : {
+                  "lat" : 17.5482999,
+                  "lng" : -65.1101
+               }
+            },
+            "location" : {
+               "lat" : 18.335765,
+               "lng" : -64.89633499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.6286677,
+                  "lng" : -64.0804819
+               },
+               "southwest" : {
+                  "lat" : 17.5048927,
+                  "lng" : -65.3968874
+               }
+            }
+         },
+         "place_id" : "ChIJuaza8mUQBYwRBRzFGx2JHfk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

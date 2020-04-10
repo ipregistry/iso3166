@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mazandaran Province",
+               "short_name" : "Mazandaran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mazandaran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.967766,
+                  "lng" : 54.23243799999999
+               },
+               "southwest" : {
+                  "lat" : 35.774562,
+                  "lng" : 50.308859
+               }
+            },
+            "location" : {
+               "lat" : 36.2262393,
+               "lng" : 52.5318604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.967766,
+                  "lng" : 54.23243799999999
+               },
+               "southwest" : {
+                  "lat" : 35.774562,
+                  "lng" : 50.308859
+               }
+            }
+         },
+         "place_id" : "ChIJB2Ts_sfuhD8RWbF24PE2JAU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,88 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guernsey",
+               "short_name" : "Guernsey",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Guernsey",
+               "short_name" : "GG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guernsey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5094108,
+                  "lng" : -2.5016885
+               },
+               "southwest" : {
+                  "lat" : 49.4167199,
+                  "lng" : -2.6745361
+               }
+            },
+            "location" : {
+               "lat" : 49.4481982,
+               "lng" : -2.58949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5094108,
+                  "lng" : -2.5016885
+               },
+               "southwest" : {
+                  "lat" : 49.4167199,
+                  "lng" : -2.6745361
+               }
+            }
+         },
+         "place_id" : "ChIJ33aRLjJyDUgRy2rAnmNjANE",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guernsey",
+               "short_name" : "GG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guernsey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7345001,
+                  "lng" : -2.1563
+               },
+               "southwest" : {
+                  "lat" : 49.3969001,
+                  "lng" : -2.6831001
+               }
+            },
+            "location" : {
+               "lat" : 49.465691,
+               "lng" : -2.585278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7345001,
+                  "lng" : -2.1563
+               },
+               "southwest" : {
+                  "lat" : 49.3969001,
+                  "lng" : -2.6831001
+               }
+            }
+         },
+         "place_id" : "ChIJ7bO_9OQgDUgRmZgNXYrVCpk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

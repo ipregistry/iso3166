@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lobatse",
+               "short_name" : "Lobatse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lobatse",
+               "short_name" : "Lobatse",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South-East District",
+               "short_name" : "South-East District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Botswana",
+               "short_name" : "BW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lobatse, Botswana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.1521217,
+                  "lng" : 25.7116986
+               },
+               "southwest" : {
+                  "lat" : -25.2404259,
+                  "lng" : 25.66123
+               }
+            },
+            "location" : {
+               "lat" : -25.2076148,
+               "lng" : 25.6805868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.1521217,
+                  "lng" : 25.7116986
+               },
+               "southwest" : {
+                  "lat" : -25.2404259,
+                  "lng" : 25.66123
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJA2pGVCbLvB4RAqufAa8J6JQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

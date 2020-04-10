@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.0387769,
+                  "lng" : -68.65232879999999
+               },
+               "southwest" : {
+                  "lat" : -18.4483,
+                  "lng" : -81.3867001
+               }
+            },
+            "location" : {
+               "lat" : -9.189966999999999,
+               "lng" : -75.015152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.0387769,
+                  "lng" : -68.65232879999999
+               },
+               "southwest" : {
+                  "lat" : -18.4483,
+                  "lng" : -81.3867001
+               }
+            }
+         },
+         "place_id" : "ChIJ9RRZwFDIBZERSAYheRIBnvI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

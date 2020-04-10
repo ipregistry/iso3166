@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Velike Lašče",
+               "short_name" : "Municipality of Velike Lašče",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Velike Lašče",
+               "short_name" : "Velike Lašče",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1315",
+               "short_name" : "1315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1315 Municipality of Velike Lašče, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.850463,
+                  "lng" : 14.6703333
+               },
+               "southwest" : {
+                  "lat" : 45.8210074,
+                  "lng" : 14.6151067
+               }
+            },
+            "location" : {
+               "lat" : 45.8336591,
+               "lng" : 14.6362363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.850463,
+                  "lng" : 14.6703333
+               },
+               "southwest" : {
+                  "lat" : 45.8210074,
+                  "lng" : 14.6151067
+               }
+            }
+         },
+         "place_id" : "ChIJw93aPRnZZEcRvLVX5MrkpK8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

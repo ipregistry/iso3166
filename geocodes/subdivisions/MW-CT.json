@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chitipa",
+               "short_name" : "Chitipa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chitipa",
+               "short_name" : "Chitipa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chitipa, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.6740303,
+                  "lng" : 33.2946682
+               },
+               "southwest" : {
+                  "lat" : -9.7162481,
+                  "lng" : 33.2463455
+               }
+            },
+            "location" : {
+               "lat" : -9.703765499999999,
+               "lng" : 33.2700253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.6740303,
+                  "lng" : 33.2946682
+               },
+               "southwest" : {
+                  "lat" : -9.7162481,
+                  "lng" : 33.2463455
+               }
+            }
+         },
+         "place_id" : "ChIJD7GYDJA6ARkR8x9maLI0bWE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

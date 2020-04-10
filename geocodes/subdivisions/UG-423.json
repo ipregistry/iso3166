@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mitooma",
+               "short_name" : "Mitooma",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mitooma, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.417886,
+                  "lng" : 30.145132
+               },
+               "southwest" : {
+                  "lat" : -0.766243,
+                  "lng" : 29.892892
+               }
+            },
+            "location" : {
+               "lat" : -0.6193276,
+               "lng" : 30.0202964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.417886,
+                  "lng" : 30.145132
+               },
+               "southwest" : {
+                  "lat" : -0.766243,
+                  "lng" : 29.892892
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ9jg1x_R3hkRq4CN5-7994g",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

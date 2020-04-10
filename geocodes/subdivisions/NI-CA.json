@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carazo",
+               "short_name" : "Carazo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carazo, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.933541,
+                  "lng" : -86.063385
+               },
+               "southwest" : {
+                  "lat" : 11.510743,
+                  "lng" : -86.495964
+               }
+            },
+            "location" : {
+               "lat" : 11.7274729,
+               "lng" : -86.21584969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.933541,
+                  "lng" : -86.063385
+               },
+               "southwest" : {
+                  "lat" : 11.510743,
+                  "lng" : -86.495964
+               }
+            }
+         },
+         "place_id" : "ChIJXx8sSk8ddI8RU9GmileemrA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

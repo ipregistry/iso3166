@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nadroga-Navosa",
+               "short_name" : "Nadroga-Navosa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Division",
+               "short_name" : "Western Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nadroga-Navosa, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.6950537,
+                  "lng" : 178.1130981
+               },
+               "southwest" : {
+                  "lat" : -18.2802146,
+                  "lng" : 177.2355652
+               }
+            },
+            "location" : {
+               "lat" : -17.9865278,
+               "lng" : 177.658113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.6950537,
+                  "lng" : 178.1130981
+               },
+               "southwest" : {
+                  "lat" : -18.2802146,
+                  "lng" : 177.2355652
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5ZsWDfD6GW4R69FWwo4v1tg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

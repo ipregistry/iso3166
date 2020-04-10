@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qazvin",
+               "short_name" : "Qazvin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Qazvin Province",
+               "short_name" : "Qazvin Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qazvin, Qazvin Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.3341591,
+                  "lng" : 50.0831509
+               },
+               "southwest" : {
+                  "lat" : 36.2282812,
+                  "lng" : 49.95022059999999
+               }
+            },
+            "location" : {
+               "lat" : 36.2736589,
+               "lng" : 49.998236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3341591,
+                  "lng" : 50.0831509
+               },
+               "southwest" : {
+                  "lat" : 36.2282812,
+                  "lng" : 49.95022059999999
+               }
+            }
+         },
+         "place_id" : "ChIJn-UaniRV8z8RtgPLjjZ2Qps",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

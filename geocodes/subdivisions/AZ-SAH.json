@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shahbuz",
+               "short_name" : "Shahbuz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shahbuz District",
+               "short_name" : "Shahbuz District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nakhchivan Autonomous Republic",
+               "short_name" : "Nakhchivan Autonomous Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shahbuz, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4185908,
+                  "lng" : 45.59763909999999
+               },
+               "southwest" : {
+                  "lat" : 39.39315759999999,
+                  "lng" : 45.5522345
+               }
+            },
+            "location" : {
+               "lat" : 39.4055769,
+               "lng" : 45.56905750000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4185908,
+                  "lng" : 45.59763909999999
+               },
+               "southwest" : {
+                  "lat" : 39.39315759999999,
+                  "lng" : 45.5522345
+               }
+            }
+         },
+         "place_id" : "ChIJTzN42QHHFUARknPUcC-oq3I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

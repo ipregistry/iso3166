@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diego Martin",
+               "short_name" : "Diego Martin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Diego Martin Regional Corporation",
+               "short_name" : "Diego Martin Regional Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Diego Martin, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.7489932,
+                  "lng" : -61.5375138
+               },
+               "southwest" : {
+                  "lat" : 10.6793436,
+                  "lng" : -61.57562249999999
+               }
+            },
+            "location" : {
+               "lat" : 10.7362286,
+               "lng" : -61.5544836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.7489932,
+                  "lng" : -61.5375138
+               },
+               "southwest" : {
+                  "lat" : 10.6793436,
+                  "lng" : -61.57562249999999
+               }
+            }
+         },
+         "place_id" : "ChIJZamUNiQJNowRhDv8vzrG8OM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

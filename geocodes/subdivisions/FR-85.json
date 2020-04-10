@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vendée",
+               "short_name" : "Vendée",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vendée, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0850081,
+                  "lng" : -0.538134
+               },
+               "southwest" : {
+                  "lat" : 46.26653899999999,
+                  "lng" : -2.400631
+               }
+            },
+            "location" : {
+               "lat" : 46.6613966,
+               "lng" : -1.4482662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0850081,
+                  "lng" : -0.538134
+               },
+               "southwest" : {
+                  "lat" : 46.26653899999999,
+                  "lng" : -2.400631
+               }
+            }
+         },
+         "place_id" : "ChIJwZ38qxQwBEgR0CoJHlI3DQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

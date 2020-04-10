@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tokyo, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8174453,
+                  "lng" : 139.9188743
+               },
+               "southwest" : {
+                  "lat" : 35.519042,
+                  "lng" : 139.5628611
+               }
+            },
+            "location" : {
+               "lat" : 35.6803997,
+               "lng" : 139.7690174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8174453,
+                  "lng" : 139.9188743
+               },
+               "southwest" : {
+                  "lat" : 35.519042,
+                  "lng" : 139.5628611
+               }
+            }
+         },
+         "place_id" : "ChIJXSModoWLGGARILWiCfeu2M0",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

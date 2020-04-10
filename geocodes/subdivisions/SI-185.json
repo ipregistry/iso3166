@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trnovska Vas",
+               "short_name" : "Trnovska Vas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trnovska vas",
+               "short_name" : "Trnovska vas",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ptuj",
+               "short_name" : "Ptuj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2254",
+               "short_name" : "2254",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2254 Trnovska Vas, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5376071,
+                  "lng" : 15.9255082
+               },
+               "southwest" : {
+                  "lat" : 46.5070018,
+                  "lng" : 15.8799778
+               }
+            },
+            "location" : {
+               "lat" : 46.5201168,
+               "lng" : 15.8866431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5376071,
+                  "lng" : 15.9255082
+               },
+               "southwest" : {
+                  "lat" : 46.5070018,
+                  "lng" : 15.8799778
+               }
+            }
+         },
+         "place_id" : "ChIJVzbjOy1vb0cRl5QNfa2n5Rk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

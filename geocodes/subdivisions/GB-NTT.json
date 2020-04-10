@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.502478,
+                  "lng" : -0.6662629999999999
+               },
+               "southwest" : {
+                  "lat" : 52.7893914,
+                  "lng" : -1.3445929
+               }
+            },
+            "location" : {
+               "lat" : 53.100319,
+               "lng" : -0.9936305999999998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.502478,
+                  "lng" : -0.6662629999999999
+               },
+               "southwest" : {
+                  "lat" : 52.7893914,
+                  "lng" : -1.3445929
+               }
+            }
+         },
+         "place_id" : "ChIJzXkHOdIyeEgREinv5XDJr1Q",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

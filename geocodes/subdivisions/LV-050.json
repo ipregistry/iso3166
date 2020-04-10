@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuldīga Municipality",
+               "short_name" : "Kuldīga Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuldīga Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.1863149,
+                  "lng" : 22.5051999
+               },
+               "southwest" : {
+                  "lat" : 56.6862328,
+                  "lng" : 21.4366608
+               }
+            },
+            "location" : {
+               "lat" : 56.9687257,
+               "lng" : 21.9613739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.1863149,
+                  "lng" : 22.5051999
+               },
+               "southwest" : {
+                  "lat" : 56.6862328,
+                  "lng" : 21.4366608
+               }
+            }
+         },
+         "place_id" : "ChIJiXwf29Xc70YR6ybmN2i8sC4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

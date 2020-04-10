@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jamalpur",
+               "short_name" : "Jamalpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jamalpur District",
+               "short_name" : "Jamalpur District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jamalpur, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9424057,
+                  "lng" : 89.96472369999999
+               },
+               "southwest" : {
+                  "lat" : 24.9113495,
+                  "lng" : 89.93236539999999
+               }
+            },
+            "location" : {
+               "lat" : 24.9249785,
+               "lng" : 89.9463408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9424057,
+                  "lng" : 89.96472369999999
+               },
+               "southwest" : {
+                  "lat" : 24.9113495,
+                  "lng" : 89.93236539999999
+               }
+            }
+         },
+         "place_id" : "ChIJWat5LUN__TkRLGj21m6aTro",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

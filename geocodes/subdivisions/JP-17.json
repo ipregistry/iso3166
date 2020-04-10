@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ishikawa",
+               "short_name" : "Ishikawa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ishikawa, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.8579593,
+                  "lng" : 137.3652437
+               },
+               "southwest" : {
+                  "lat" : 36.0674589,
+                  "lng" : 136.2436536
+               }
+            },
+            "location" : {
+               "lat" : 36.3260317,
+               "lng" : 136.5289653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8579593,
+                  "lng" : 137.3652437
+               },
+               "southwest" : {
+                  "lat" : 36.0674589,
+                  "lng" : 136.2436536
+               }
+            }
+         },
+         "place_id" : "ChIJ7xq8wV5-8V8RtJoYjRM81Es",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+    }
+   ],
+   "status" : "OK"
+}

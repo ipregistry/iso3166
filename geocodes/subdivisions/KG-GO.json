@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osh",
+               "short_name" : "Osh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kara-Suu District",
+               "short_name" : "Kara-Suu District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Osh Region",
+               "short_name" : "Osh Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Osh, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5647613,
+                  "lng" : 72.8602372
+               },
+               "southwest" : {
+                  "lat" : 40.4754848,
+                  "lng" : 72.7557564
+               }
+            },
+            "location" : {
+               "lat" : 40.5139985,
+               "lng" : 72.81609759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5647613,
+                  "lng" : 72.8602372
+               },
+               "southwest" : {
+                  "lat" : 40.4754848,
+                  "lng" : 72.7557564
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhS5afwGsvTgRlXv0xh3Go-A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

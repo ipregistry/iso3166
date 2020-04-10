@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baghdad",
+               "short_name" : "Baghdad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baghdad Governorate",
+               "short_name" : "Baghdad Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baghdad, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4350586,
+                  "lng" : 44.5558261
+               },
+               "southwest" : {
+                  "lat" : 33.1883135,
+                  "lng" : 44.1559839
+               }
+            },
+            "location" : {
+               "lat" : 33.315241,
+               "lng" : 44.3660671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4350586,
+                  "lng" : 44.5558261
+               },
+               "southwest" : {
+                  "lat" : 33.1883135,
+                  "lng" : 44.1559839
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk0GnoGd_VxURLG-xo9Kp7Z0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

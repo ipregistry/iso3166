@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Otuke",
+               "short_name" : "Otuke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Otuke",
+               "short_name" : "Otuke",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Otuke, Uganda",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.4444062,
+               "lng" : 33.5052964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.455554,
+                  "lng" : 33.5213038
+               },
+               "southwest" : {
+                  "lat" : 2.4332583,
+                  "lng" : 33.489289
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8VVFY2cXdxcRVGECGge6Ur8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ruse",
+               "short_name" : "Ruse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ruse",
+               "short_name" : "Ruse",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ruse, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8890011,
+                  "lng" : 26.0490987
+               },
+               "southwest" : {
+                  "lat" : 43.754233,
+                  "lng" : 25.8704854
+               }
+            },
+            "location" : {
+               "lat" : 43.83557130000001,
+               "lng" : 25.9656554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8890011,
+                  "lng" : 26.0490987
+               },
+               "southwest" : {
+                  "lat" : 43.754233,
+                  "lng" : 25.8704854
+               }
+            }
+         },
+         "place_id" : "ChIJhaPif7RgrkARAmgoFlLbJ74",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

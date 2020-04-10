@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kissidougou",
+               "short_name" : "Kissidougou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kissidougou Prefecture",
+               "short_name" : "Kissidougou Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Faranah",
+               "short_name" : "Faranah",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kissidougou, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.234620999999999,
+                  "lng" : -10.0576401
+               },
+               "southwest" : {
+                  "lat" : 9.1458251,
+                  "lng" : -10.1441575
+               }
+            },
+            "location" : {
+               "lat" : 9.1914538,
+               "lng" : -10.1143176
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.234620999999999,
+                  "lng" : -10.0576401
+               },
+               "southwest" : {
+                  "lat" : 9.1458251,
+                  "lng" : -10.1441575
+               }
+            }
+         },
+         "place_id" : "ChIJq278q3Ulqg8RexZyypPxCk4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

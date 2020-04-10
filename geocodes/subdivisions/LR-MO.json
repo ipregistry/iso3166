@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montserrado",
+               "short_name" : "Montserrado",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montserrado, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.8513641,
+                  "lng" : -10.3692761
+               },
+               "southwest" : {
+                  "lat" : 6.219029,
+                  "lng" : -10.95328
+               }
+            },
+            "location" : {
+               "lat" : 6.5525815,
+               "lng" : -10.5296115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.8513641,
+                  "lng" : -10.3692761
+               },
+               "southwest" : {
+                  "lat" : 6.219029,
+                  "lng" : -10.95328
+               }
+            }
+         },
+         "place_id" : "ChIJM-JsxyFepw8RFwci6PvodPY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

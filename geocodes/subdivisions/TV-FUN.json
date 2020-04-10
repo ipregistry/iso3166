@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Funafuti",
+               "short_name" : "Funafuti",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Funafuti",
+               "short_name" : "Funafuti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tuvalu",
+               "short_name" : "TV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Funafuti, Tuvalu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.422961799999999,
+                  "lng" : 179.2050108
+               },
+               "southwest" : {
+                  "lat" : -8.6493743,
+                  "lng" : 179.0181181
+               }
+            },
+            "location" : {
+               "lat" : -8.5211471,
+               "lng" : 179.1961926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.422961799999999,
+                  "lng" : 179.2050108
+               },
+               "southwest" : {
+                  "lat" : -8.6493743,
+                  "lng" : 179.0181181
+               }
+            }
+         },
+         "place_id" : "ChIJL2hUIEPi1m8RXJkNSk01h4Y",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lamwo",
+               "short_name" : "Lamwo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lamwo, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.887586,
+                  "lng" : 33.3322449
+               },
+               "southwest" : {
+                  "lat" : 3.153726,
+                  "lng" : 32.1905479
+               }
+            },
+            "location" : {
+               "lat" : 3.5707568,
+               "lng" : 32.5372741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.887586,
+                  "lng" : 33.3322449
+               },
+               "southwest" : {
+                  "lat" : 3.153726,
+                  "lng" : 32.1905479
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuXvZsGG9cxcRNKXtdniS26Y",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

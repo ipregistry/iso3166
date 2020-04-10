@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kouffo Department",
+               "short_name" : "Kouffo Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Benin",
+               "short_name" : "BJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kouffo Department, Benin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.497909899999999,
+                  "lng" : 2.086982
+               },
+               "southwest" : {
+                  "lat" : 6.664442999999999,
+                  "lng" : 1.557832
+               }
+            },
+            "location" : {
+               "lat" : 7.003589400000001,
+               "lng" : 1.7538817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.497909899999999,
+                  "lng" : 2.086982
+               },
+               "southwest" : {
+                  "lat" : 6.664442999999999,
+                  "lng" : 1.557832
+               }
+            }
+         },
+         "place_id" : "ChIJocGmvnuqJRARZthpzYquDOE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

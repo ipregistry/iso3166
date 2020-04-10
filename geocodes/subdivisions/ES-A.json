@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alicante",
+               "short_name" : "Alicante",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alicante",
+               "short_name" : "A",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valencian Community",
+               "short_name" : "Valencian Community",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alicante, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3909328,
+                  "lng" : -0.4034191
+               },
+               "southwest" : {
+                  "lat" : 38.32474879999999,
+                  "lng" : -0.5416291999999999
+               }
+            },
+            "location" : {
+               "lat" : 38.3459963,
+               "lng" : -0.4906855
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3909328,
+                  "lng" : -0.4034191
+               },
+               "southwest" : {
+                  "lat" : 38.32474879999999,
+                  "lng" : -0.5416291999999999
+               }
+            }
+         },
+         "place_id" : "ChIJS6udO9o1Yg0R44ELrHKofR0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adygea Republic",
+               "short_name" : "Adygea Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adygea Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.218032,
+                  "lng" : 40.7693811
+               },
+               "southwest" : {
+                  "lat" : 43.76013,
+                  "lng" : 38.6840489
+               }
+            },
+            "location" : {
+               "lat" : 44.8229155,
+               "lng" : 40.1754463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.218032,
+                  "lng" : 40.7693811
+               },
+               "southwest" : {
+                  "lat" : 43.76013,
+                  "lng" : 38.6840489
+               }
+            }
+         },
+         "place_id" : "ChIJsYkSDGEr8UARIJTxg6WjAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

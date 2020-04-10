@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canillo",
+               "short_name" : "Canillo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canillo",
+               "short_name" : "Canillo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Andorra",
+               "short_name" : "AD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AD100",
+               "short_name" : "AD100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AD100 Canillo, Andorra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5679867,
+                  "lng" : 1.6037142
+               },
+               "southwest" : {
+                  "lat" : 42.5650681,
+                  "lng" : 1.596212
+               }
+            },
+            "location" : {
+               "lat" : 42.5666535,
+               "lng" : 1.5994581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5679867,
+                  "lng" : 1.6037142
+               },
+               "southwest" : {
+                  "lat" : 42.5650681,
+                  "lng" : 1.596212
+               }
+            }
+         },
+         "place_id" : "ChIJ6caIYidirxIRAHGZkXCUAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

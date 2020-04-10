@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aimeliik",
+               "short_name" : "Aimeliik",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aimeliik, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.479571,
+                  "lng" : 134.540505
+               },
+               "southwest" : {
+                  "lat" : 7.393169,
+                  "lng" : 134.4686879
+               }
+            },
+            "location" : {
+               "lat" : 7.445585899999998,
+               "lng" : 134.5030878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.479571,
+                  "lng" : 134.540505
+               },
+               "southwest" : {
+                  "lat" : 7.393169,
+                  "lng" : 134.4686879
+               }
+            }
+         },
+         "place_id" : "ChIJLaGwMNxw1TIRfvH6xhyCVUk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

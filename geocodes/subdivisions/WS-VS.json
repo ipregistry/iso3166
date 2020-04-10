@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vaisigano",
+               "short_name" : "Vaisigano",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Samoa",
+               "short_name" : "WS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vaisigano, Samoa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.481321,
+                  "lng" : -172.6121061
+               },
+               "southwest" : {
+                  "lat" : -13.6072749,
+                  "lng" : -172.7985991
+               }
+            },
+            "location" : {
+               "lat" : -13.5413827,
+               "lng" : -172.7023383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.481321,
+                  "lng" : -172.6121061
+               },
+               "southwest" : {
+                  "lat" : -13.6072749,
+                  "lng" : -172.7985991
+               }
+            }
+         },
+         "place_id" : "ChIJT1Ts-EKbunERycPp5C5Lnt8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

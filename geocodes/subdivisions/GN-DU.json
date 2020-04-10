@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubreka",
+               "short_name" : "Dubreka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubréka Prefecture",
+               "short_name" : "Dubréka Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kindia",
+               "short_name" : "Kindia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubreka, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.807793799999999,
+                  "lng" : -13.472023
+               },
+               "southwest" : {
+                  "lat" : 9.769929800000002,
+                  "lng" : -13.5531284
+               }
+            },
+            "location" : {
+               "lat" : 9.790734799999999,
+               "lng" : -13.5147735
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.807793799999999,
+                  "lng" : -13.472023
+               },
+               "southwest" : {
+                  "lat" : 9.769929800000002,
+                  "lng" : -13.5531284
+               }
+            }
+         },
+         "place_id" : "ChIJ9WZAfZTSAg8RZ_JzU_Z1Qc4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

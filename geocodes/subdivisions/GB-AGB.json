@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argyll and Bute Council",
+               "short_name" : "Argyll and Bute Council",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argyll and Bute Council, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.7050831,
+                  "lng" : -4.5598516
+               },
+               "southwest" : {
+                  "lat" : 55.2744857,
+                  "lng" : -7.1124578
+               }
+            },
+            "location" : {
+               "lat" : 56.4006214,
+               "lng" : -5.480748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.7050831,
+                  "lng" : -4.5598516
+               },
+               "southwest" : {
+                  "lat" : 55.2744857,
+                  "lng" : -7.1124578
+               }
+            }
+         },
+         "place_id" : "ChIJ_14lA-YtikgRsLBCBhpoDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Changhua City",
+               "short_name" : "Changhua City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Changhua County",
+               "short_name" : "Changhua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500",
+               "short_name" : "500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Changhua City, Changhua County, Taiwan 500",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.1139398,
+                  "lng" : 120.6258758
+               },
+               "southwest" : {
+                  "lat" : 24.0377972,
+                  "lng" : 120.4997914
+               }
+            },
+            "location" : {
+               "lat" : 24.0716583,
+               "lng" : 120.5624474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.1139398,
+                  "lng" : 120.6258758
+               },
+               "southwest" : {
+                  "lat" : 24.0377972,
+                  "lng" : 120.4997914
+               }
+            }
+         },
+         "place_id" : "ChIJ1ybx8-U4aTQRfL3f1P6sN8I",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

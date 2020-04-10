@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mangrove Cay",
+               "short_name" : "Mangrove Cay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mangrove Cay, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.3015079,
+                  "lng" : -77.62340499999999
+               },
+               "southwest" : {
+                  "lat" : 24.002455,
+                  "lng" : -77.9323351
+               }
+            },
+            "location" : {
+               "lat" : 24.1481425,
+               "lng" : -77.76809519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.3015079,
+                  "lng" : -77.62340499999999
+               },
+               "southwest" : {
+                  "lat" : 24.002455,
+                  "lng" : -77.9323351
+               }
+            }
+         },
+         "place_id" : "ChIJzaS5ORHPLokRyd0THoaij7o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

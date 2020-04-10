@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "River Gee",
+               "short_name" : "River Gee",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "River Gee, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.6097129,
+                  "lng" : -7.365113
+               },
+               "southwest" : {
+                  "lat" : 4.8041949,
+                  "lng" : -8.328244999999999
+               }
+            },
+            "location" : {
+               "lat" : 5.2604894,
+               "lng" : -7.872159999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.6097129,
+                  "lng" : -7.365113
+               },
+               "southwest" : {
+                  "lat" : 4.8041949,
+                  "lng" : -8.328244999999999
+               }
+            }
+         },
+         "place_id" : "ChIJlzMQYCqyog8RFUAK8Xs9qG0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

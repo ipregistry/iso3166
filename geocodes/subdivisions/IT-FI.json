@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Florence",
+               "short_name" : "Florence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Florence",
+               "short_name" : "Florence",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Florence",
+               "short_name" : "FI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Florence, Metropolitan City of Florence, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8329368,
+                  "lng" : 11.3278993
+               },
+               "southwest" : {
+                  "lat" : 43.7269795,
+                  "lng" : 11.1540365
+               }
+            },
+            "location" : {
+               "lat" : 43.7695604,
+               "lng" : 11.2558136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8329368,
+                  "lng" : 11.3278993
+               },
+               "southwest" : {
+                  "lat" : 43.7269795,
+                  "lng" : 11.1540365
+               }
+            }
+         },
+         "place_id" : "ChIJrdbSgKZWKhMRAyrH7xd51ZM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rozaje",
+               "short_name" : "RO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rožaje Municipality",
+               "short_name" : "Rožaje Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rozaje, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8588217,
+                  "lng" : 20.1917553
+               },
+               "southwest" : {
+                  "lat" : 42.8273239,
+                  "lng" : 20.1424885
+               }
+            },
+            "location" : {
+               "lat" : 42.8408389,
+               "lng" : 20.1670628
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8588217,
+                  "lng" : 20.1917553
+               },
+               "southwest" : {
+                  "lat" : 42.8273239,
+                  "lng" : 20.1424885
+               }
+            }
+         },
+         "place_id" : "ChIJ92OKST_mUhMRN5_Z73Ia25o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

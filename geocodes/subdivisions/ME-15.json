@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pluzine",
+               "short_name" : "PŽ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plužine Municipality",
+               "short_name" : "Plužine Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pluzine, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1582202,
+                  "lng" : 18.8480115
+               },
+               "southwest" : {
+                  "lat" : 43.1508473,
+                  "lng" : 18.8326693
+               }
+            },
+            "location" : {
+               "lat" : 43.1541366,
+               "lng" : 18.8410376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1582202,
+                  "lng" : 18.8480115
+               },
+               "southwest" : {
+                  "lat" : 43.1508473,
+                  "lng" : 18.8326693
+               }
+            }
+         },
+         "place_id" : "ChIJSRFrbl4gTRMRF4MKyUdyU2M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

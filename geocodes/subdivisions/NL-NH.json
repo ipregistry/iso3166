@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purmerend",
+               "short_name" : "Purmerend",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Purmerend",
+               "short_name" : "Purmerend",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Purmerend, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5288175,
+                  "lng" : 5.0247025
+               },
+               "southwest" : {
+                  "lat" : 52.47045019999999,
+                  "lng" : 4.9204751
+               }
+            },
+            "location" : {
+               "lat" : 52.5143815,
+               "lng" : 4.964061099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5288175,
+                  "lng" : 5.0247025
+               },
+               "southwest" : {
+                  "lat" : 52.47045019999999,
+                  "lng" : 4.9204751
+               }
+            }
+         },
+         "place_id" : "ChIJ_-lUH88GxkcRQBy2zsL48TA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

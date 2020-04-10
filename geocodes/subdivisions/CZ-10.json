@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prague",
+               "short_name" : "Prague",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hlavní město Praha",
+               "short_name" : "Hlavní město Praha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prague",
+               "short_name" : "Prague",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prague, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.177403,
+                  "lng" : 14.7067945
+               },
+               "southwest" : {
+                  "lat" : 49.94193629999999,
+                  "lng" : 14.2244533
+               }
+            },
+            "location" : {
+               "lat" : 50.0755381,
+               "lng" : 14.4378005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.177403,
+                  "lng" : 14.7067945
+               },
+               "southwest" : {
+                  "lat" : 49.94193629999999,
+                  "lng" : 14.2244533
+               }
+            }
+         },
+         "place_id" : "ChIJi3lwCZyTC0cRkEAWZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

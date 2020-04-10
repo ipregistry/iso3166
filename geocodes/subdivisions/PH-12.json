@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Region XII",
+               "short_name" : "SOCCSKSARGEN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Region XII, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.682324999999999,
+                  "lng" : 125.5357859
+               },
+               "southwest" : {
+                  "lat" : 5.564068,
+                  "lng" : 124.014512
+               }
+            },
+            "location" : {
+               "lat" : 6.2706918,
+               "lng" : 124.6856509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.682324999999999,
+                  "lng" : 125.5357859
+               },
+               "southwest" : {
+                  "lat" : 5.564068,
+                  "lng" : 124.014512
+               }
+            }
+         },
+         "place_id" : "ChIJi5rGCnMU-DIR59ey-3ltPlI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

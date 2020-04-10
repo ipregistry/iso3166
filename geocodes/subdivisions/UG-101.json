@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalangala",
+               "short_name" : "Kalangala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalangala",
+               "short_name" : "Kalangala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalangala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.3067574,
+                  "lng" : 32.3186016
+               },
+               "southwest" : {
+                  "lat" : -0.3332787,
+                  "lng" : 32.2802353
+               }
+            },
+            "location" : {
+               "lat" : -0.3208374,
+               "lng" : 32.2937428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3067574,
+                  "lng" : 32.3186016
+               },
+               "southwest" : {
+                  "lat" : -0.3332787,
+                  "lng" : 32.2802353
+               }
+            }
+         },
+         "place_id" : "ChIJnZiYetq21xkR8o6u3GJP_Hw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

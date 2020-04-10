@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sadarak",
+               "short_name" : "Sadarak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sadarak",
+               "short_name" : "Sadarak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nakhchivan Autonomous Republic",
+               "short_name" : "Nakhchivan Autonomous Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sadarak, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7285114,
+                  "lng" : 44.9173451
+               },
+               "southwest" : {
+                  "lat" : 39.6878368,
+                  "lng" : 44.85340129999999
+               }
+            },
+            "location" : {
+               "lat" : 39.7105114,
+               "lng" : 44.8864277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7285114,
+                  "lng" : 44.9173451
+               },
+               "southwest" : {
+                  "lat" : 39.6878368,
+                  "lng" : 44.85340129999999
+               }
+            }
+         },
+         "place_id" : "ChIJ_6V5F2UXFUARihE77Hnb12w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

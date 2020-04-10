@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cauca",
+               "short_name" : "Cauca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Tambo",
+               "short_name" : "El Tambo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cauca",
+               "short_name" : "Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "193577",
+               "short_name" : "193577",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cauca, El Tambo, Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.5752548,
+                  "lng" : -76.7718601
+               },
+               "southwest" : {
+                  "lat" : 2.5690383,
+                  "lng" : -76.78168769999999
+               }
+            },
+            "location" : {
+               "lat" : 2.57301,
+               "lng" : -76.77915999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.5752548,
+                  "lng" : -76.7718601
+               },
+               "southwest" : {
+                  "lat" : 2.5690383,
+                  "lng" : -76.78168769999999
+               }
+            }
+         },
+         "place_id" : "ChIJoTN3swsXMI4Rk4irbx4aFpo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

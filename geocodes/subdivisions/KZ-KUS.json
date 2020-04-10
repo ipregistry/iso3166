@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kostanay",
+               "short_name" : "Kostanay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kostanay District",
+               "short_name" : "Kostanay District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kostanay Province",
+               "short_name" : "Kostanay Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110000",
+               "short_name" : "110000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kostanay 110000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2816374,
+                  "lng" : 63.71589669999999
+               },
+               "southwest" : {
+                  "lat" : 53.12926419999999,
+                  "lng" : 63.52775579999999
+               }
+            },
+            "location" : {
+               "lat" : 53.2198089,
+               "lng" : 63.6354232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2816374,
+                  "lng" : 63.71589669999999
+               },
+               "southwest" : {
+                  "lat" : 53.12926419999999,
+                  "lng" : 63.52775579999999
+               }
+            }
+         },
+         "place_id" : "ChIJj_fnLmaKzEMRA0tkABSs36Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cardiff, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5609063,
+                  "lng" : -3.1164374
+               },
+               "southwest" : {
+                  "lat" : 51.4435752,
+                  "lng" : -3.2936626
+               }
+            },
+            "location" : {
+               "lat" : 51.48158100000001,
+               "lng" : -3.17909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5609063,
+                  "lng" : -3.1164374
+               },
+               "southwest" : {
+                  "lat" : 51.4435752,
+                  "lng" : -3.2936626
+               }
+            }
+         },
+         "place_id" : "ChIJ9VPsNNQCbkgRDmeGZdsGNBQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

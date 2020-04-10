@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Katavi Region",
+               "short_name" : "Katavi Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Katavi Region, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.1356582,
+                  "lng" : 32.759552
+               },
+               "southwest" : {
+                  "lat" : -7.7669545,
+                  "lng" : 29.9036731
+               }
+            },
+            "location" : {
+               "lat" : -6.3677125,
+               "lng" : 31.2626366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.1356582,
+                  "lng" : 32.759552
+               },
+               "southwest" : {
+                  "lat" : -7.7669545,
+                  "lng" : 29.9036731
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5wD5JdLJuhkRP5avsr38dm4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jambi",
+               "short_name" : "Jambi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jambi City",
+               "short_name" : "Jambi City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jambi",
+               "short_name" : "Jambi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jambi, Jambi City, Jambi, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.5499539,
+                  "lng" : 103.680971
+               },
+               "southwest" : {
+                  "lat" : -1.6709185,
+                  "lng" : 103.538086
+               }
+            },
+            "location" : {
+               "lat" : -1.6101229,
+               "lng" : 103.6131203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.5499539,
+                  "lng" : 103.680971
+               },
+               "southwest" : {
+                  "lat" : -1.6709185,
+                  "lng" : 103.538086
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO83is5qIJS4RDdmyCseZWtE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

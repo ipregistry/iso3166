@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East New Britain Province",
+               "short_name" : "East New Britain Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East New Britain Province, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.088235,
+                  "lng" : 152.4976459
+               },
+               "southwest" : {
+                  "lat" : -6.068317899999999,
+                  "lng" : 150.5976151
+               }
+            },
+            "location" : {
+               "lat" : -4.612894300000001,
+               "lng" : 151.8877321
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.088235,
+                  "lng" : 152.4976459
+               },
+               "southwest" : {
+                  "lat" : -6.068317899999999,
+                  "lng" : 150.5976151
+               }
+            }
+         },
+         "place_id" : "ChIJS-cmKCLpw2gR2NuJ9joA9sw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

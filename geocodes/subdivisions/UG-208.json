@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kumi",
+               "short_name" : "Kumi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumi",
+               "short_name" : "Kumi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kumi, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.4952798,
+                  "lng" : 33.9476252
+               },
+               "southwest" : {
+                  "lat" : 1.4751163,
+                  "lng" : 33.9199877
+               }
+            },
+            "location" : {
+               "lat" : 1.4856295,
+               "lng" : 33.9331874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.4952798,
+                  "lng" : 33.9476252
+               },
+               "southwest" : {
+                  "lat" : 1.4751163,
+                  "lng" : 33.9199877
+               }
+            }
+         },
+         "place_id" : "ChIJGYMWrVf4eBcREQTeSjuWrTs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

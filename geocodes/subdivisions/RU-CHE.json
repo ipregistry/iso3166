@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chelyabinsk Oblast",
+               "short_name" : "Chelyabinsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chelyabinsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.367262,
+                  "lng" : 63.35167990000001
+               },
+               "southwest" : {
+                  "lat" : 51.990713,
+                  "lng" : 57.13156499999999
+               }
+            },
+            "location" : {
+               "lat" : 54.43194219999999,
+               "lng" : 60.87889629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.367262,
+                  "lng" : 63.35167990000001
+               },
+               "southwest" : {
+                  "lat" : 51.990713,
+                  "lng" : 57.13156499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeS5_7Xgj0EMRsJhFUq_GAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

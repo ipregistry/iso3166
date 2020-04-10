@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Utirik Island",
+               "short_name" : "Utirik Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Utirik Atoll",
+               "short_name" : "Utirik Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Utirik Island, Utirik Atoll, RMI",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.2318945,
+                  "lng" : 169.8606061
+               },
+               "southwest" : {
+                  "lat" : 11.2163273,
+                  "lng" : 169.8216873
+               }
+            },
+            "location" : {
+               "lat" : 11.2245362,
+               "lng" : 169.8478808
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.2318945,
+                  "lng" : 169.8606061
+               },
+               "southwest" : {
+                  "lat" : 11.2163273,
+                  "lng" : 169.8216873
+               }
+            }
+         },
+         "place_id" : "ChIJM_j4fX4J_2QRgP9-xW-ow0g",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

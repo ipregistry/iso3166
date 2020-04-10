@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton County",
+               "short_name" : "Northampton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethlehem, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6724789,
+                  "lng" : -75.301637
+               },
+               "southwest" : {
+                  "lat" : 40.578004,
+                  "lng" : -75.4304159
+               }
+            },
+            "location" : {
+               "lat" : 40.6259316,
+               "lng" : -75.37045789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6724789,
+                  "lng" : -75.301637
+               },
+               "southwest" : {
+                  "lat" : 40.578004,
+                  "lng" : -75.4304159
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFcGUzEo-xIkRg7KRHEmcxU4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

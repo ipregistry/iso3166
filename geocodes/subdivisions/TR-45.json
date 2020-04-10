@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manisa",
+               "short_name" : "Manisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yunusemre",
+               "short_name" : "Yunusemre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manisa",
+               "short_name" : "Manisa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manisa, Yunusemre/Manisa, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.645072,
+                  "lng" : 27.4787761
+               },
+               "southwest" : {
+                  "lat" : 38.602441,
+                  "lng" : 27.3085369
+               }
+            },
+            "location" : {
+               "lat" : 38.6140337,
+               "lng" : 27.4295624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.645072,
+                  "lng" : 27.4787761
+               },
+               "southwest" : {
+                  "lat" : 38.602441,
+                  "lng" : 27.3085369
+               }
+            }
+         },
+         "place_id" : "ChIJ1YkOlYmcuRQRJCkQlxxq64g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

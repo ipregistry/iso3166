@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamedan",
+               "short_name" : "Hamedan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamadan Province",
+               "short_name" : "Hamadan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamedan, Hamadan Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8825162,
+                  "lng" : 48.5836459
+               },
+               "southwest" : {
+                  "lat" : 34.74214140000001,
+                  "lng" : 48.4364891
+               }
+            },
+            "location" : {
+               "lat" : 34.7988575,
+               "lng" : 48.5150225
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8825162,
+                  "lng" : 48.5836459
+               },
+               "southwest" : {
+                  "lat" : 34.74214140000001,
+                  "lng" : 48.4364891
+               }
+            }
+         },
+         "place_id" : "ChIJk7Wqs8Ts8T8RW0sH9N2CC3s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

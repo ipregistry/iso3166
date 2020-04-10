@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lazio, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8387207,
+                  "lng" : 14.0276424
+               },
+               "southwest" : {
+                  "lat" : 40.7847377,
+                  "lng" : 11.4493842
+               }
+            },
+            "location" : {
+               "lat" : 41.6552418,
+               "lng" : 12.989615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8387207,
+                  "lng" : 14.0276424
+               },
+               "southwest" : {
+                  "lat" : 40.7847377,
+                  "lng" : 11.4493842
+               }
+            }
+         },
+         "place_id" : "ChIJNWU6NebuJBMRKYWj8WSQSm8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

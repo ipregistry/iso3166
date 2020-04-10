@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Christ Church",
+               "short_name" : "Christ Church",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Christ Church, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.125974,
+                  "lng" : -59.471954
+               },
+               "southwest" : {
+                  "lat" : 13.0446319,
+                  "lng" : -59.6110459
+               }
+            },
+            "location" : {
+               "lat" : 13.0728209,
+               "lng" : -59.5261392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.125974,
+                  "lng" : -59.471954
+               },
+               "southwest" : {
+                  "lat" : 13.0446319,
+                  "lng" : -59.6110459
+               }
+            }
+         },
+         "place_id" : "ChIJ2cyW6Qz1Q4wR-uU29mLap2U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

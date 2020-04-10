@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Batinah South Governorate",
+               "short_name" : "Al Batinah South Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Batinah South Governorate, Oman",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.8489087,
+                  "lng" : 58.057983
+               },
+               "southwest" : {
+                  "lat" : 23.141944,
+                  "lng" : 57.07975519999999
+               }
+            },
+            "location" : {
+               "lat" : 23.4314903,
+               "lng" : 57.4239796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8489087,
+                  "lng" : 58.057983
+               },
+               "southwest" : {
+                  "lat" : 23.141944,
+                  "lng" : 57.07975519999999
+               }
+            }
+         },
+         "place_id" : "ChIJQ4DUt-4rjD4Ryk7yaguCa3o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

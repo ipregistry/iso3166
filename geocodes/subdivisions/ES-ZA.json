@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamora",
+               "short_name" : "Zamora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zamora",
+               "short_name" : "Zamora",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamora, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5226013,
+                  "lng" : -5.720656399999999
+               },
+               "southwest" : {
+                  "lat" : 41.4850183,
+                  "lng" : -5.768415699999999
+               }
+            },
+            "location" : {
+               "lat" : 41.5034712,
+               "lng" : -5.7467879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5226013,
+                  "lng" : -5.720656399999999
+               },
+               "southwest" : {
+                  "lat" : 41.4850183,
+                  "lng" : -5.768415699999999
+               }
+            }
+         },
+         "place_id" : "ChIJF_iUwDseOQ0RJWswgmqlsz8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

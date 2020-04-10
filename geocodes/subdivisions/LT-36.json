@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prienai",
+               "short_name" : "Prienai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prienai District Municipality",
+               "short_name" : "Prienai District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaunas County",
+               "short_name" : "Kaunas County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prienai, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.659414,
+                  "lng" : 23.986995
+               },
+               "southwest" : {
+                  "lat" : 54.611926,
+                  "lng" : 23.923741
+               }
+            },
+            "location" : {
+               "lat" : 54.638358,
+               "lng" : 23.9468009
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.659414,
+                  "lng" : 23.986995
+               },
+               "southwest" : {
+                  "lat" : 54.611926,
+                  "lng" : 23.923741
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeWu2qE8250YRgNnpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

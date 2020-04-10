@@ -1,0 +1,97 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Havana",
+               "short_name" : "Havana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plaza de la Revolucion",
+               "short_name" : "Plaza de la Revolucion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Havana",
+               "short_name" : "Havana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Havana, Cuba",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.1207454,
+               "lng" : -82.38366839999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1220943802915,
+                  "lng" : -82.38231941970849
+               },
+               "southwest" : {
+                  "lat" : 23.1193964197085,
+                  "lng" : -82.3850173802915
+               }
+            }
+         },
+         "place_id" : "ChIJWYmK_ON5zYgRkefm363llRs",
+         "plus_code" : {
+            "compound_code" : "4JC8+7G Havana, Cuba",
+            "global_code" : "76MV4JC8+7G"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Granma",
+               "short_name" : "Granma",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Granma, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.7823959,
+                  "lng" : -76.1810461
+               },
+               "southwest" : {
+                  "lat" : 19.8280831,
+                  "lng" : -77.73912
+               }
+            },
+            "location" : {
+               "lat" : 20.3844902,
+               "lng" : -76.64127119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.7823959,
+                  "lng" : -76.1810461
+               },
+               "southwest" : {
+                  "lat" : 19.8280831,
+                  "lng" : -77.73912
+               }
+            }
+         },
+         "place_id" : "ChIJESEgfP_v0Y4RtFu5aKPaDvI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

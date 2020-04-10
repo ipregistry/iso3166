@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gard",
+               "short_name" : "Gard",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Occitanie",
+               "short_name" : "Occitanie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gard, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4596639,
+                  "lng" : 4.845564
+               },
+               "southwest" : {
+                  "lat" : 43.460159,
+                  "lng" : 3.261869
+               }
+            },
+            "location" : {
+               "lat" : 43.9446996,
+               "lng" : 4.1513764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4596639,
+                  "lng" : 4.845564
+               },
+               "southwest" : {
+                  "lat" : 43.460159,
+                  "lng" : 3.261869
+               }
+            }
+         },
+         "place_id" : "ChIJl5MqKOkVtBIRYCdlFiGIBwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

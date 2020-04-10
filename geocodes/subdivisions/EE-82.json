@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valga",
+               "short_name" : "Valga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valga County",
+               "short_name" : "Valga County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valga, Valga County, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.8039176,
+                  "lng" : 26.1235316
+               },
+               "southwest" : {
+                  "lat" : 57.75591600000001,
+                  "lng" : 26.0204265
+               }
+            },
+            "location" : {
+               "lat" : 57.78145679999999,
+               "lng" : 26.0550403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.8039176,
+                  "lng" : 26.1235316
+               },
+               "southwest" : {
+                  "lat" : 57.75591600000001,
+                  "lng" : 26.0204265
+               }
+            }
+         },
+         "place_id" : "ChIJtVY6dOGj60YREG78GG2zAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Anse",
+               "short_name" : "Grand Anse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grand Anse Praslin",
+               "short_name" : "Grand Anse Praslin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Seychelles",
+               "short_name" : "SC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Anse, Seychelles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.308595800000001,
+                  "lng" : 55.72579349999999
+               },
+               "southwest" : {
+                  "lat" : -4.3333431,
+                  "lng" : 55.6845297
+               }
+            },
+            "location" : {
+               "lat" : -4.3190725,
+               "lng" : 55.69395129999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.308595800000001,
+                  "lng" : 55.72579349999999
+               },
+               "southwest" : {
+                  "lat" : -4.3333431,
+                  "lng" : 55.6845297
+               }
+            }
+         },
+         "place_id" : "ChIJ3yW4zCnwHyMR5qLjOyBmU_E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

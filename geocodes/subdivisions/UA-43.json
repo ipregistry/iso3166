@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crimean Peninsula",
+               "short_name" : "Crimean Peninsula",
+               "types" : [ "establishment", "natural_feature" ]
+            }
+         ],
+         "formatted_address" : "Crimean Peninsula",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2292183,
+                  "lng" : 36.646746
+               },
+               "southwest" : {
+                  "lat" : 44.3864399,
+                  "lng" : 32.4792759
+               }
+            },
+            "location" : {
+               "lat" : 45.3453029,
+               "lng" : 34.4997274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2292183,
+                  "lng" : 36.646746
+               },
+               "southwest" : {
+                  "lat" : 44.3864399,
+                  "lng" : 32.4792759
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ97NxcaPC6kAR67r_KuAJbyo",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

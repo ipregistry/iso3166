@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint George Parish",
+               "short_name" : "Saint George Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominica",
+               "short_name" : "DM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint George Parish, Dominica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.3546189,
+                  "lng" : -61.2987611
+               },
+               "southwest" : {
+                  "lat" : 15.263895,
+                  "lng" : -61.3929622
+               }
+            },
+            "location" : {
+               "lat" : 15.3087847,
+               "lng" : -61.33851909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.3546189,
+                  "lng" : -61.2987611
+               },
+               "southwest" : {
+                  "lat" : 15.263895,
+                  "lng" : -61.3929622
+               }
+            }
+         },
+         "place_id" : "ChIJESZDpyTVFIwR1MSQT_vl_xo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

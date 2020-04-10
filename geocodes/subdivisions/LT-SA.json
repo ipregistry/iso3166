@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šiauliai",
+               "short_name" : "Šiauliai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Šiaulių miesto savivaldybė",
+               "short_name" : "Šiaulių m. sav.",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Šiauliai County",
+               "short_name" : "Šiauliai County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Šiauliai, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9715387,
+                  "lng" : 23.4290861
+               },
+               "southwest" : {
+                  "lat" : 55.8410099,
+                  "lng" : 23.2276569
+               }
+            },
+            "location" : {
+               "lat" : 55.9349085,
+               "lng" : 23.3136823
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9715387,
+                  "lng" : 23.4290861
+               },
+               "southwest" : {
+                  "lat" : 55.8410099,
+                  "lng" : 23.2276569
+               }
+            }
+         },
+         "place_id" : "ChIJiXzOSVzi5UYRANvpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

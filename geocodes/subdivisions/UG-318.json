@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaabong",
+               "short_name" : "Kaabong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaabong District",
+               "short_name" : "Kaabong District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaabong, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.5195678,
+                  "lng" : 34.1406263
+               },
+               "southwest" : {
+                  "lat" : 3.5059357,
+                  "lng" : 34.1279876
+               }
+            },
+            "location" : {
+               "lat" : 3.5124436,
+               "lng" : 34.1337219
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.5195678,
+                  "lng" : 34.1406263
+               },
+               "southwest" : {
+                  "lat" : 3.5059357,
+                  "lng" : 34.1279876
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw6zsBLeidRcRtkuDjsf08Mg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dokolo",
+               "short_name" : "Dokolo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dokolo, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.1115041,
+                  "lng" : 33.292803
+               },
+               "southwest" : {
+                  "lat" : 1.70636,
+                  "lng" : 32.856444
+               }
+            },
+            "location" : {
+               "lat" : 1.9636421,
+               "lng" : 33.0338767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.1115041,
+                  "lng" : 33.292803
+               },
+               "southwest" : {
+                  "lat" : 1.70636,
+                  "lng" : 32.856444
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJd69JNtIfehcRIDmDWd2i42w",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

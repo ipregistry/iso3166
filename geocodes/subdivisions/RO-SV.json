@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suceava",
+               "short_name" : "Suceava",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suceava County",
+               "short_name" : "SV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Suceava, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7191674,
+                  "lng" : 26.3217187
+               },
+               "southwest" : {
+                  "lat" : 47.6085356,
+                  "lng" : 26.2014914
+               }
+            },
+            "location" : {
+               "lat" : 47.6634521,
+               "lng" : 26.2732302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7191674,
+                  "lng" : 26.3217187
+               },
+               "southwest" : {
+                  "lat" : 47.6085356,
+                  "lng" : 26.2014914
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk-Xrxh_8NEcR3Y1YuRItxh4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

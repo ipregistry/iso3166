@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maryland, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.723037,
+                  "lng" : -74.98628189999999
+               },
+               "southwest" : {
+                  "lat" : 37.8866049,
+                  "lng" : -79.48765109999999
+               }
+            },
+            "location" : {
+               "lat" : 39.0457549,
+               "lng" : -76.64127119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.723037,
+                  "lng" : -74.98628189999999
+               },
+               "southwest" : {
+                  "lat" : 37.8866049,
+                  "lng" : -79.48765109999999
+               }
+            }
+         },
+         "place_id" : "ChIJ35Dx6etNtokRsfZVdmU3r_I",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

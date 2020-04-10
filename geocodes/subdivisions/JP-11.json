@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saitama",
+               "short_name" : "Saitama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saitama",
+               "short_name" : "Saitama",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saitama, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0024509,
+                  "lng" : 139.7574009
+               },
+               "southwest" : {
+                  "lat" : 35.828665,
+                  "lng" : 139.5403781
+               }
+            },
+            "location" : {
+               "lat" : 35.8616486,
+               "lng" : 139.6454782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0024509,
+                  "lng" : 139.7574009
+               },
+               "southwest" : {
+                  "lat" : 35.828665,
+                  "lng" : 139.5403781
+               }
+            }
+         },
+         "place_id" : "ChIJr-eHXCDBGGARXvaiv8DydIw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

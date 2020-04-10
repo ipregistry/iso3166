@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "District of Columbia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington, DC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            },
+            "location" : {
+               "lat" : 38.9071923,
+               "lng" : -77.03687069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            }
+         },
+         "place_id" : "ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aiwo",
+               "short_name" : "Aiwo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nauru",
+               "short_name" : "NR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aiwo, Nauru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.5263869999999999,
+                  "lng" : 166.918411
+               },
+               "southwest" : {
+                  "lat" : -0.5406358999999999,
+                  "lng" : 166.9090919
+               }
+            },
+            "location" : {
+               "lat" : -0.5340012,
+               "lng" : 166.9138873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.5263869999999999,
+                  "lng" : 166.918411
+               },
+               "southwest" : {
+                  "lat" : -0.5406358999999999,
+                  "lng" : 166.9090919
+               }
+            }
+         },
+         "place_id" : "ChIJL9I4GKIefW8RNRclmqLYhyo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

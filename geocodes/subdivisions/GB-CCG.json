@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Causeway Coast and Glens, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.3120151,
+                  "lng" : -5.9615756
+               },
+               "southwest" : {
+                  "lat" : 54.8200219,
+                  "lng" : -7.1596572
+               }
+            },
+            "location" : {
+               "lat" : 55.043183,
+               "lng" : -6.6741288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.3120151,
+                  "lng" : -5.9615756
+               },
+               "southwest" : {
+                  "lat" : 54.8200219,
+                  "lng" : -7.1596572
+               }
+            }
+         },
+         "place_id" : "ChIJry1VbDM6YEgRpC9fY13q-mI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

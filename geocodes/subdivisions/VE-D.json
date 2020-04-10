@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aragua",
+               "short_name" : "Aragua",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aragua, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.536462,
+                  "lng" : -66.546076
+               },
+               "southwest" : {
+                  "lat" : 9.251767899999999,
+                  "lng" : -67.881728
+               }
+            },
+            "location" : {
+               "lat" : 10.0635758,
+               "lng" : -67.28478749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.536462,
+                  "lng" : -66.546076
+               },
+               "southwest" : {
+                  "lat" : 9.251767899999999,
+                  "lng" : -67.881728
+               }
+            }
+         },
+         "place_id" : "ChIJtVOanOOtKowRQU5W0bqJKNA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

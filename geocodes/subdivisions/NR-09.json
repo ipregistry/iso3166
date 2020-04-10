@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ewa",
+               "short_name" : "Ewa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nauru",
+               "short_name" : "NR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ewa, Nauru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.502584,
+                  "lng" : 166.9437219
+               },
+               "southwest" : {
+                  "lat" : -0.5203078999999999,
+                  "lng" : 166.9306041
+               }
+            },
+            "location" : {
+               "lat" : -0.5087241,
+               "lng" : 166.9369384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.502584,
+                  "lng" : 166.9437219
+               },
+               "southwest" : {
+                  "lat" : -0.5203078999999999,
+                  "lng" : 166.9306041
+               }
+            }
+         },
+         "place_id" : "ChIJ7Wo4WfQbfW8RLzs-4Mflhrk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

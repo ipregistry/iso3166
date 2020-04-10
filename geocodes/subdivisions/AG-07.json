@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Peter",
+               "short_name" : "Saint Peter",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Antigua and Barbuda",
+               "short_name" : "AG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Peter, Antigua and Barbuda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.1489079,
+                  "lng" : -61.7124351
+               },
+               "southwest" : {
+                  "lat" : 17.062068,
+                  "lng" : -61.787629
+               }
+            },
+            "location" : {
+               "lat" : 17.0980665,
+               "lng" : -61.75903289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.1489079,
+                  "lng" : -61.7124351
+               },
+               "southwest" : {
+                  "lat" : 17.062068,
+                  "lng" : -61.787629
+               }
+            }
+         },
+         "place_id" : "ChIJeQnfs1CUEowRqWPDYcTzvfM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

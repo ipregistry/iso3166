@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lukovica pri Domžalah",
+               "short_name" : "Lukovica pri Domžalah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lukovica",
+               "short_name" : "Lukovica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Domžale",
+               "short_name" : "Domžale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1225",
+               "short_name" : "1225",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1225 Lukovica pri Domžalah, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1794056,
+                  "lng" : 14.7040913
+               },
+               "southwest" : {
+                  "lat" : 46.1629481,
+                  "lng" : 14.6788945
+               }
+            },
+            "location" : {
+               "lat" : 46.1696293,
+               "lng" : 14.6907259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1794056,
+                  "lng" : 14.7040913
+               },
+               "southwest" : {
+                  "lat" : 46.1629481,
+                  "lng" : 14.6788945
+               }
+            }
+         },
+         "place_id" : "ChIJny9Pq8w3ZUcRtVHsrUQ-Zz4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

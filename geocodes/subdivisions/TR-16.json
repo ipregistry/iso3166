@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bursa, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.276336,
+                  "lng" : 29.202363
+               },
+               "southwest" : {
+                  "lat" : 40.16702,
+                  "lng" : 28.862216
+               }
+            },
+            "location" : {
+               "lat" : 40.1885281,
+               "lng" : 29.0609636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.276336,
+                  "lng" : 29.202363
+               },
+               "southwest" : {
+                  "lat" : 40.16702,
+                  "lng" : 28.862216
+               }
+            }
+         },
+         "place_id" : "ChIJlVbU2IIVyhQRkjOX_FUFoGE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

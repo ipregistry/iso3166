@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veszprém",
+               "short_name" : "Veszprém",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Veszprém, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.205633,
+                  "lng" : 17.9937111
+               },
+               "southwest" : {
+                  "lat" : 47.0459651,
+                  "lng" : 17.8207859
+               }
+            },
+            "location" : {
+               "lat" : 47.1028087,
+               "lng" : 17.9093019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.205633,
+                  "lng" : 17.9937111
+               },
+               "southwest" : {
+                  "lat" : 47.0459651,
+                  "lng" : 17.8207859
+               }
+            }
+         },
+         "place_id" : "ChIJkS-MAt2aaUcREBIeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

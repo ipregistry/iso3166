@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "British Virgin Islands",
+               "short_name" : "VG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "British Virgin Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.7539999,
+                  "lng" : -64.2651999
+               },
+               "southwest" : {
+                  "lat" : 18.2899998,
+                  "lng" : -64.8775
+               }
+            },
+            "location" : {
+               "lat" : 18.420695,
+               "lng" : -64.639968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.7539999,
+                  "lng" : -64.2651999
+               },
+               "southwest" : {
+                  "lat" : 18.2899998,
+                  "lng" : -64.8775
+               }
+            }
+         },
+         "place_id" : "ChIJzVNkK5xzBYwRPTvsse5woG0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

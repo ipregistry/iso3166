@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burgas, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6139216,
+                  "lng" : 27.5458556
+               },
+               "southwest" : {
+                  "lat" : 42.4391223,
+                  "lng" : 27.3580761
+               }
+            },
+            "location" : {
+               "lat" : 42.50479259999999,
+               "lng" : 27.4626361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6139216,
+                  "lng" : 27.5458556
+               },
+               "southwest" : {
+                  "lat" : 42.4391223,
+                  "lng" : 27.3580761
+               }
+            }
+         },
+         "place_id" : "ChIJkZ38-WaSpkAR8E2_aRKgAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

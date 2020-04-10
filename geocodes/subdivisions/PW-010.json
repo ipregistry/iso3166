@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ngeaur Island",
+               "short_name" : "Ngeaur Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Angaur",
+               "short_name" : "Angaur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ngeaur Island, Angaur, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.925106299999999,
+                  "lng" : 134.1539668
+               },
+               "southwest" : {
+                  "lat" : 6.887742599999999,
+                  "lng" : 134.121834
+               }
+            },
+            "location" : {
+               "lat" : 6.909223,
+               "lng" : 134.1387934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.925106299999999,
+                  "lng" : 134.1539668
+               },
+               "southwest" : {
+                  "lat" : 6.887742599999999,
+                  "lng" : 134.121834
+               }
+            }
+         },
+         "place_id" : "ChIJ7c1_wa1B1DIRUzdlty_ZB5s",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

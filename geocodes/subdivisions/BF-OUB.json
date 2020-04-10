@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oubritenga",
+               "short_name" : "Oubritenga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Plateau-Central Region",
+               "short_name" : "Plateau-Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oubritenga, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.898948,
+                  "lng" : -0.8792981
+               },
+               "southwest" : {
+                  "lat" : 12.2280669,
+                  "lng" : -1.711143
+               }
+            },
+            "location" : {
+               "lat" : 12.7096087,
+               "lng" : -1.443469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.898948,
+                  "lng" : -0.8792981
+               },
+               "southwest" : {
+                  "lat" : 12.2280669,
+                  "lng" : -1.711143
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXQlBqyXOLg4RY2Kz324T8eQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

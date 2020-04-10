@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worcester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2313919,
+                  "lng" : -2.1573038
+               },
+               "southwest" : {
+                  "lat" : 52.1616362,
+                  "lng" : -2.2632029
+               }
+            },
+            "location" : {
+               "lat" : 52.193636,
+               "lng" : -2.221575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2313919,
+                  "lng" : -2.1573038
+               },
+               "southwest" : {
+                  "lat" : 52.1616362,
+                  "lng" : -2.2632029
+               }
+            }
+         },
+         "place_id" : "ChIJ1cy7AFhQcEgRHJHa0PSkmqs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

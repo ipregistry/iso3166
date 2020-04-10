@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maun",
+               "short_name" : "Maun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ngamiland East",
+               "short_name" : "Ngamiland East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North-West District",
+               "short_name" : "North-West District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Botswana",
+               "short_name" : "BW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maun, Botswana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9604414,
+                  "lng" : 23.456154
+               },
+               "southwest" : {
+                  "lat" : -20.0402891,
+                  "lng" : 23.3816529
+               }
+            },
+            "location" : {
+               "lat" : -19.9952622,
+               "lng" : 23.4180769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9604414,
+                  "lng" : 23.456154
+               },
+               "southwest" : {
+                  "lat" : -20.0402891,
+                  "lng" : 23.3816529
+               }
+            }
+         },
+         "place_id" : "ChIJmQIITAVNVBkRSy-C7SXBfK0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

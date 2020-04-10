@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Goiás",
+               "short_name" : "GO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Goiás, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.3952134,
+                  "lng" : -45.906962
+               },
+               "southwest" : {
+                  "lat" : -19.4991531,
+                  "lng" : -53.2512032
+               }
+            },
+            "location" : {
+               "lat" : -15.8270369,
+               "lng" : -49.8362237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.3952134,
+                  "lng" : -45.906962
+               },
+               "southwest" : {
+                  "lat" : -19.4991531,
+                  "lng" : -53.2512032
+               }
+            }
+         },
+         "place_id" : "ChIJ9SC5hmO5XZMR0_CMzfjYxgg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

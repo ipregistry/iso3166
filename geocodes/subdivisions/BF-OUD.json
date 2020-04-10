@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oudalan",
+               "short_name" : "Oudalan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sahel Region",
+               "short_name" : "Sahel Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oudalan, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.0825929,
+                  "lng" : 0.237572
+               },
+               "southwest" : {
+                  "lat" : 14.1614599,
+                  "lng" : -1.036602
+               }
+            },
+            "location" : {
+               "lat" : 14.471902,
+               "lng" : -0.4502368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.0825929,
+                  "lng" : 0.237572
+               },
+               "southwest" : {
+                  "lat" : 14.1614599,
+                  "lng" : -1.036602
+               }
+            }
+         },
+         "place_id" : "ChIJsSOyn50VJw4R1t1402oFrGg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nueva Vizcaya",
+               "short_name" : "Nueva Vizcaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cagayan Valley",
+               "short_name" : "Cagayan Valley",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nueva Vizcaya, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.75399,
+                  "lng" : 121.4599041
+               },
+               "southwest" : {
+                  "lat" : 15.773506,
+                  "lng" : 120.759911
+               }
+            },
+            "location" : {
+               "lat" : 16.3301107,
+               "lng" : 121.1710389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.75399,
+                  "lng" : 121.4599041
+               },
+               "southwest" : {
+                  "lat" : 15.773506,
+                  "lng" : 120.759911
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsdAHGA9YkDMRoVvn2-MsxmU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

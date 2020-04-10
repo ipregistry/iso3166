@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chimborazo",
+               "short_name" : "Chimborazo",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Guano",
+               "short_name" : "Guano",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chimborazo Province",
+               "short_name" : "Chimborazo Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chimborazo, Ecuador",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.4693018,
+               "lng" : -78.8169396
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.4581475,
+                  "lng" : -78.80093219999999
+               },
+               "southwest" : {
+                  "lat" : -1.4804561,
+                  "lng" : -78.83294699999999
+               }
+            }
+         },
+         "place_id" : "ChIJC0hqcNdy05ER_51iLm3G1Wk",
+         "plus_code" : {
+            "compound_code" : "G5JM+76 San Andres, Ecuador",
+            "global_code" : "67C3G5JM+76"
+         },
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4000",
+               "short_name" : "4000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4000 Kranj, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2704589,
+                  "lng" : 14.3992928
+               },
+               "southwest" : {
+                  "lat" : 46.198773,
+                  "lng" : 14.3060005
+               }
+            },
+            "location" : {
+               "lat" : 46.2428344,
+               "lng" : 14.3555417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2704589,
+                  "lng" : 14.3992928
+               },
+               "southwest" : {
+                  "lat" : 46.198773,
+                  "lng" : 14.3060005
+               }
+            }
+         },
+         "place_id" : "ChIJa77CvR24ekcR9D2w3Ue4w90",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

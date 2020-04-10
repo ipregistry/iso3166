@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niutao",
+               "short_name" : "Niutao",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tuvalu",
+               "short_name" : "TV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niutao, Tuvalu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.101480899999999,
+                  "lng" : 177.3541461
+               },
+               "southwest" : {
+                  "lat" : -6.1149688,
+                  "lng" : 177.3304191
+               }
+            },
+            "location" : {
+               "lat" : -6.106425799999999,
+               "lng" : 177.3438429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.101480899999999,
+                  "lng" : 177.3541461
+               },
+               "southwest" : {
+                  "lat" : -6.1149688,
+                  "lng" : 177.3304191
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj20m5FVGw28Rd5tWgw-UGI0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

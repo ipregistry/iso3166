@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Presidente Hayes Department",
+               "short_name" : "Presidente Hayes Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Presidente Hayes Department, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.041864,
+                  "lng" : -57.156029
+               },
+               "southwest" : {
+                  "lat" : -25.2917181,
+                  "lng" : -60.7787551
+               }
+            },
+            "location" : {
+               "lat" : -23.3512605,
+               "lng" : -58.73736339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.041864,
+                  "lng" : -57.156029
+               },
+               "southwest" : {
+                  "lat" : -25.2917181,
+                  "lng" : -60.7787551
+               }
+            }
+         },
+         "place_id" : "ChIJPSduk5WYXZQRsXwhvXBZW3k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

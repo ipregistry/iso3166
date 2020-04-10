@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puconci",
+               "short_name" : "Puconci",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puconci",
+               "short_name" : "Puconci",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Murska Sobota",
+               "short_name" : "Murska Sobota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9201",
+               "short_name" : "9201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9201 Puconci, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7195726,
+                  "lng" : 16.1766865
+               },
+               "southwest" : {
+                  "lat" : 46.684222,
+                  "lng" : 16.1457567
+               }
+            },
+            "location" : {
+               "lat" : 46.7046395,
+               "lng" : 16.1572755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7195726,
+                  "lng" : 16.1766865
+               },
+               "southwest" : {
+                  "lat" : 46.684222,
+                  "lng" : 16.1457567
+               }
+            }
+         },
+         "place_id" : "ChIJBUMTc8IXb0cRwPQ_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

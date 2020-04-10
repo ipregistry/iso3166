@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ústí nad Orlicí",
+               "short_name" : "Ústí nad Orlicí",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ústí nad Orlicí District",
+               "short_name" : "Ústí nad Orlicí District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pardubice Region",
+               "short_name" : "Pardubice Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ústí nad Orlicí, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9901415,
+                  "lng" : 16.5014606
+               },
+               "southwest" : {
+                  "lat" : 49.9418418,
+                  "lng" : 16.3380602
+               }
+            },
+            "location" : {
+               "lat" : 49.9721801,
+               "lng" : 16.3996617
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9901415,
+                  "lng" : 16.5014606
+               },
+               "southwest" : {
+                  "lat" : 49.9418418,
+                  "lng" : 16.3380602
+               }
+            }
+         },
+         "place_id" : "ChIJ_ZccrSDuDUcRmY-mRxYjLs4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Sveti Andraž v Slovenskih goricah",
+               "short_name" : "Municipality of Sveti Andraž v Slovenskih goricah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ptuj",
+               "short_name" : "Ptuj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Sveti Andraž v Slovenskih goricah, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5463902,
+                  "lng" : 16.0019974
+               },
+               "southwest" : {
+                  "lat" : 46.490061,
+                  "lng" : 15.920033
+               }
+            },
+            "location" : {
+               "lat" : 46.5189747,
+               "lng" : 15.9498262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5463902,
+                  "lng" : 16.0019974
+               },
+               "southwest" : {
+                  "lat" : 46.490061,
+                  "lng" : 15.920033
+               }
+            }
+         },
+         "place_id" : "ChIJiXBrPFRob0cR0Pc_ghz4AAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

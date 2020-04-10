@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Margibi",
+               "short_name" : "Margibi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Margibi, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.8118709,
+                  "lng" : -9.722208999999999
+               },
+               "southwest" : {
+                  "lat" : 6.1362009,
+                  "lng" : -10.647893
+               }
+            },
+            "location" : {
+               "lat" : 6.5151875,
+               "lng" : -10.3048897
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.8118709,
+                  "lng" : -9.722208999999999
+               },
+               "southwest" : {
+                  "lat" : 6.1362009,
+                  "lng" : -10.647893
+               }
+            }
+         },
+         "place_id" : "ChIJOckYx3Q3pw8RIOgiW0wuqgg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

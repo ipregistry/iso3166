@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Szekszárd",
+               "short_name" : "Szekszárd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7100",
+               "short_name" : "7100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Szekszárd, 7100 Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.404041,
+                  "lng" : 18.851653
+               },
+               "southwest" : {
+                  "lat" : 46.2943501,
+                  "lng" : 18.6108151
+               }
+            },
+            "location" : {
+               "lat" : 46.3474326,
+               "lng" : 18.7062293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.404041,
+                  "lng" : 18.851653
+               },
+               "southwest" : {
+                  "lat" : 46.2943501,
+                  "lng" : 18.6108151
+               }
+            }
+         },
+         "place_id" : "ChIJp8wxuz_uQkcRcBIeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

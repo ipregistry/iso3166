@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Macedonia Region",
+               "short_name" : "West Macedonia Region",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Macedonia Region, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9438438,
+                  "lng" : 22.1953187
+               },
+               "southwest" : {
+                  "lat" : 39.830359,
+                  "lng" : 20.7756329
+               }
+            },
+            "location" : {
+               "lat" : 40.3004058,
+               "lng" : 21.7903559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9438438,
+                  "lng" : 22.1953187
+               },
+               "southwest" : {
+                  "lat" : 39.830359,
+                  "lng" : 20.7756329
+               }
+            }
+         },
+         "place_id" : "ChIJ7bz-ooLdWRMR0MW54iy9AAE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

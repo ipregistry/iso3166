@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bitola",
+               "short_name" : "Bitola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Bitola",
+               "short_name" : "Municipality of Bitola",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bitola, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.048879,
+                  "lng" : 21.3622927
+               },
+               "southwest" : {
+                  "lat" : 41.0027271,
+                  "lng" : 21.2948782
+               }
+            },
+            "location" : {
+               "lat" : 41.0296773,
+               "lng" : 21.3292164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.048879,
+                  "lng" : 21.3622927
+               },
+               "southwest" : {
+                  "lat" : 41.0027271,
+                  "lng" : 21.2948782
+               }
+            }
+         },
+         "place_id" : "ChIJ_bZfNlEkVxMRSMm-Zb-7Z_o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

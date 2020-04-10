@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Province",
+               "short_name" : "Northern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Rwanda",
+               "short_name" : "RW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Province, Rwanda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.3087995,
+                  "lng" : 30.2756235
+               },
+               "southwest" : {
+                  "lat" : -1.9129595,
+                  "lng" : 29.4501021
+               }
+            },
+            "location" : {
+               "lat" : -1.656166,
+               "lng" : 29.8815203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.3087995,
+                  "lng" : 30.2756235
+               },
+               "southwest" : {
+                  "lat" : -1.9129595,
+                  "lng" : 29.4501021
+               }
+            }
+         },
+         "place_id" : "ChIJpb1zdpZC3BkRaVQqTWozpHI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

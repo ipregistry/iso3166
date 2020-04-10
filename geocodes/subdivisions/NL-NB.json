@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Brabant",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Brabant, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8307142,
+                  "lng" : 6.047724
+               },
+               "southwest" : {
+                  "lat" : 51.2209373,
+                  "lng" : 4.190081
+               }
+            },
+            "location" : {
+               "lat" : 51.4826537,
+               "lng" : 5.2321687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8307142,
+                  "lng" : 6.047724
+               },
+               "southwest" : {
+                  "lat" : 51.2209373,
+                  "lng" : 4.190081
+               }
+            }
+         },
+         "place_id" : "ChIJtanWwXa_xkcRwFwejVreAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jan Mayen",
+               "short_name" : "Jan Mayen",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Jan Mayen",
+               "short_name" : "Jan Mayen",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8099",
+               "short_name" : "8099",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jan Mayen, 8099, Svalbard and Jan Mayen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.1601058,
+                  "lng" : -7.929598200000001
+               },
+               "southwest" : {
+                  "lat" : 70.8262379,
+                  "lng" : -9.077435999999999
+               }
+            },
+            "location" : {
+               "lat" : 71.031818,
+               "lng" : -8.292034599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.1601058,
+                  "lng" : -7.929598200000001
+               },
+               "southwest" : {
+                  "lat" : 70.8262379,
+                  "lng" : -9.077435999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaUkYw6fiRE8Rq8Y7mBEkFyU",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

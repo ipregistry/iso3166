@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shiga",
+               "short_name" : "Shiga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shiga, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7037352,
+                  "lng" : 136.455016
+               },
+               "southwest" : {
+                  "lat" : 34.7905846,
+                  "lng" : 135.7635829
+               }
+            },
+            "location" : {
+               "lat" : 35.3292014,
+               "lng" : 136.0563212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7037352,
+                  "lng" : 136.455016
+               },
+               "southwest" : {
+                  "lat" : 34.7905846,
+                  "lng" : 135.7635829
+               }
+            }
+         },
+         "place_id" : "ChIJfRcKhFR_AWAR0Ih82zbkEkQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

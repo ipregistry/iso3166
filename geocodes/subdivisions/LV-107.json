@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viesīte",
+               "short_name" : "Viesīte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viesītes pilsēta",
+               "short_name" : "Viesītes pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5237",
+               "short_name" : "5237",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viesīte, Viesītes pilsēta, LV-5237, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.35363899999999,
+                  "lng" : 25.5775839
+               },
+               "southwest" : {
+                  "lat" : 56.33627449999999,
+                  "lng" : 25.5433123
+               }
+            },
+            "location" : {
+               "lat" : 56.3448609,
+               "lng" : 25.5603229
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.35363899999999,
+                  "lng" : 25.5775839
+               },
+               "southwest" : {
+                  "lat" : 56.33627449999999,
+                  "lng" : 25.5433123
+               }
+            }
+         },
+         "place_id" : "ChIJ2ceN3YJO6EYRYBDzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

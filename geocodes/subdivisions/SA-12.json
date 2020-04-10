@@ -1,0 +1,157 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sakaka",
+               "short_name" : "Sakaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Jowf",
+               "short_name" : "Al Jowf",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sakaka Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0549055,
+                  "lng" : 40.3157043
+               },
+               "southwest" : {
+                  "lat" : 29.7488786,
+                  "lng" : 39.9030304
+               }
+            },
+            "location" : {
+               "lat" : 29.87800309999999,
+               "lng" : 40.1043057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0549055,
+                  "lng" : 40.3157043
+               },
+               "southwest" : {
+                  "lat" : 29.7488786,
+                  "lng" : 39.9030304
+               }
+            }
+         },
+         "place_id" : "ChIJ-eruY0y5chURWoUiMjsEBh8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dumah Al Jandal",
+               "short_name" : "Dumah Al Jandal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dawamat Aljandal",
+               "short_name" : "Dawamat Aljandal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Al Jowf",
+               "short_name" : "Al Jowf",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dumah Al Jandal Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.8514889,
+                  "lng" : 39.9528122
+               },
+               "southwest" : {
+                  "lat" : 29.7581186,
+                  "lng" : 39.8067284
+               }
+            },
+            "location" : {
+               "lat" : 29.8107894,
+               "lng" : 39.8887661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.8514889,
+                  "lng" : 39.9528122
+               },
+               "southwest" : {
+                  "lat" : 29.7581186,
+                  "lng" : 39.8067284
+               }
+            }
+         },
+         "place_id" : "ChIJG3N3aVAuDRUREKYz0oOndKU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Jawf",
+               "short_name" : "Al Jawf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dawamat Aljandal",
+               "short_name" : "Dawamat Aljandal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Al Jowf",
+               "short_name" : "Al Jowf",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74666",
+               "short_name" : "74666",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Al Jawf 74666, Saudi Arabia",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.80299,
+               "lng" : 39.879318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.8126718,
+                  "lng" : 39.8953254
+               },
+               "southwest" : {
+                  "lat" : 29.7933073,
+                  "lng" : 39.8633106
+               }
+            }
+         },
+         "place_id" : "ChIJ3_OCxoouDRUR_ZjGdLxLRIQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

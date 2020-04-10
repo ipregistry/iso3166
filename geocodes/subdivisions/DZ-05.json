@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Batna",
+               "short_name" : "Batna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Batna",
+               "short_name" : "Batna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Batna Province",
+               "short_name" : "Batna Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Batna, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.644018,
+                  "lng" : 6.275297
+               },
+               "southwest" : {
+                  "lat" : 35.5103019,
+                  "lng" : 6.0769639
+               }
+            },
+            "location" : {
+               "lat" : 35.5634192,
+               "lng" : 6.1889996
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.644018,
+                  "lng" : 6.275297
+               },
+               "southwest" : {
+                  "lat" : 35.5103019,
+                  "lng" : 6.0769639
+               }
+            }
+         },
+         "place_id" : "ChIJn5Avv5UR9BIRwNPH7wb3Im4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

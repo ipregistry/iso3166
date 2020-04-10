@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint John",
+               "short_name" : "Saint John",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint John, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.210594,
+                  "lng" : -59.45831699999999
+               },
+               "southwest" : {
+                  "lat" : 13.1376361,
+                  "lng" : -59.54018499999999
+               }
+            },
+            "location" : {
+               "lat" : 13.1824334,
+               "lng" : -59.5033496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.210594,
+                  "lng" : -59.45831699999999
+               },
+               "southwest" : {
+                  "lat" : 13.1376361,
+                  "lng" : -59.54018499999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1arzx5PyQ4wRLGuIEAVTOME",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

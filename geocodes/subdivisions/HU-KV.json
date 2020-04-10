@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaposvár",
+               "short_name" : "Kaposvár",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaposvár, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.45050699999999,
+                  "lng" : 17.8911989
+               },
+               "southwest" : {
+                  "lat" : 46.290355,
+                  "lng" : 17.7411159
+               }
+            },
+            "location" : {
+               "lat" : 46.3593606,
+               "lng" : 17.7967639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.45050699999999,
+                  "lng" : 17.8911989
+               },
+               "southwest" : {
+                  "lat" : 46.290355,
+                  "lng" : 17.7411159
+               }
+            }
+         },
+         "place_id" : "ChIJZamrxOQ9aEcRIBIeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

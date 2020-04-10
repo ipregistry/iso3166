@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Terni",
+               "short_name" : "Terni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Terni",
+               "short_name" : "Terni",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Terni",
+               "short_name" : "TR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Umbria",
+               "short_name" : "Umbria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05100",
+               "short_name" : "05100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "05100 Terni, Province of Terni, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6010524,
+                  "lng" : 12.6876014
+               },
+               "southwest" : {
+                  "lat" : 42.5230136,
+                  "lng" : 12.5685648
+               }
+            },
+            "location" : {
+               "lat" : 42.5636168,
+               "lng" : 12.6426604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6010524,
+                  "lng" : 12.6876014
+               },
+               "southwest" : {
+                  "lat" : 42.5230136,
+                  "lng" : 12.5685648
+               }
+            }
+         },
+         "place_id" : "ChIJ8xn42kT7LhMRwo3x2vEL4Ws",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

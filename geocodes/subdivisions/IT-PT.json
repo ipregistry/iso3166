@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pistoia",
+               "short_name" : "Pistoia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pistoia",
+               "short_name" : "Pistoia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Pistoia",
+               "short_name" : "PT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "51100",
+               "short_name" : "51100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "51100 Pistoia, Province of Pistoia, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.0101074,
+                  "lng" : 10.9946041
+               },
+               "southwest" : {
+                  "lat" : 43.8804611,
+                  "lng" : 10.8661614
+               }
+            },
+            "location" : {
+               "lat" : 43.9303475,
+               "lng" : 10.9078587
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0101074,
+                  "lng" : 10.9946041
+               },
+               "southwest" : {
+                  "lat" : 43.8804611,
+                  "lng" : 10.8661614
+               }
+            }
+         },
+         "place_id" : "ChIJQwInOr2LKhMRtT1D5lY71js",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

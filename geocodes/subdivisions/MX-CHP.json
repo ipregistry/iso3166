@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ejido Chiapas",
+               "short_name" : "Ejido Chiapas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiapas",
+               "short_name" : "Chis.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ejido Chiapas, Chis., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.3906375,
+                  "lng" : -91.85291289999999
+               },
+               "southwest" : {
+                  "lat" : 16.376721,
+                  "lng" : -91.87394140000001
+               }
+            },
+            "location" : {
+               "lat" : 16.3823299,
+               "lng" : -91.86354089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.3906375,
+                  "lng" : -91.85291289999999
+               },
+               "southwest" : {
+                  "lat" : 16.376721,
+                  "lng" : -91.87394140000001
+               }
+            }
+         },
+         "place_id" : "ChIJtdCwPlMojYURCp0LoPpkuY8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

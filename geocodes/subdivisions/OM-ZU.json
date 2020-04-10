@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhofar Governorate",
+               "short_name" : "Dhofar Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhofar Governorate, Oman",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.0012252,
+                  "lng" : 56.355701
+               },
+               "southwest" : {
+                  "lat" : 16.6544006,
+                  "lng" : 52.0016924
+               }
+            },
+            "location" : {
+               "lat" : 17.0322121,
+               "lng" : 54.1425214
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.0012252,
+                  "lng" : 56.355701
+               },
+               "southwest" : {
+                  "lat" : 16.6544006,
+                  "lng" : 52.0016924
+               }
+            }
+         },
+         "place_id" : "ChIJFYjRYj-GLDwROeZRgVhWk8U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

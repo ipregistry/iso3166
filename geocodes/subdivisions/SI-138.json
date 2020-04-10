@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vodice",
+               "short_name" : "Vodice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vodice",
+               "short_name" : "Vodice",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1217",
+               "short_name" : "1217",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1217 Vodice, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2058137,
+                  "lng" : 14.5083227
+               },
+               "southwest" : {
+                  "lat" : 46.1795832,
+                  "lng" : 14.459533
+               }
+            },
+            "location" : {
+               "lat" : 46.1896643,
+               "lng" : 14.4938539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2058137,
+                  "lng" : 14.5083227
+               },
+               "southwest" : {
+                  "lat" : 46.1795832,
+                  "lng" : 14.459533
+               }
+            }
+         },
+         "place_id" : "ChIJfaOR7B3LekcRkPI_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Hamgyong",
+               "short_name" : "South Hamgyong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Korea",
+               "short_name" : "KP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Hamgyong, North Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.188465,
+                  "lng" : 129.1705781
+               },
+               "southwest" : {
+                  "lat" : 39.201327,
+                  "lng" : 126.665308
+               }
+            },
+            "location" : {
+               "lat" : 40.37253390000001,
+               "lng" : 128.298884
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.188465,
+                  "lng" : 129.1705781
+               },
+               "southwest" : {
+                  "lat" : 39.201327,
+                  "lng" : 126.665308
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4fpVvdxn0V8RZOJYc8VwYuo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

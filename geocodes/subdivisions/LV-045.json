@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kocēni Municipality",
+               "short_name" : "Kocēni Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kocēni Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.674314,
+                  "lng" : 25.4074179
+               },
+               "southwest" : {
+                  "lat" : 57.383205,
+                  "lng" : 24.893432
+               }
+            },
+            "location" : {
+               "lat" : 57.5226292,
+               "lng" : 25.3349507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.674314,
+                  "lng" : 25.4074179
+               },
+               "southwest" : {
+                  "lat" : 57.383205,
+                  "lng" : 24.893432
+               }
+            }
+         },
+         "place_id" : "ChIJf5Eg6c7w60YRMAPzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

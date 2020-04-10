@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Telemark",
+               "short_name" : "Telemark",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Vestfold Og Telemark",
+               "short_name" : "Vestfold Og Telemark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Telemark, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.1882718,
+                  "lng" : 9.9064748
+               },
+               "southwest" : {
+                  "lat" : 58.6420352,
+                  "lng" : 7.0962874
+               }
+            },
+            "location" : {
+               "lat" : 59.39139849999999,
+               "lng" : 8.3211209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.1882718,
+                  "lng" : 9.9064748
+               },
+               "southwest" : {
+                  "lat" : 58.6420352,
+                  "lng" : 7.0962874
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJybyAB_-rOEYRkByzKCZ3AQM",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meknes",
+               "short_name" : "Meknes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Ismailia",
+               "short_name" : "Al Ismailia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Fez-Meknès",
+               "short_name" : "Fez-Meknès",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meknes, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.9281185,
+                  "lng" : -5.466414599999999
+               },
+               "southwest" : {
+                  "lat" : 33.8338915,
+                  "lng" : -5.6096258
+               }
+            },
+            "location" : {
+               "lat" : 33.8730164,
+               "lng" : -5.5407299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9281185,
+                  "lng" : -5.466414599999999
+               },
+               "southwest" : {
+                  "lat" : 33.8338915,
+                  "lng" : -5.6096258
+               }
+            }
+         },
+         "place_id" : "ChIJ0Un8O9JEoA0RGN5MnqmAv_s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

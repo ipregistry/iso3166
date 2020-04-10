@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kochani",
+               "short_name" : "Kochani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Kočani",
+               "short_name" : "Municipality of Kočani",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kochani, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.93393890000001,
+                  "lng" : 22.4394573
+               },
+               "southwest" : {
+                  "lat" : 41.9041297,
+                  "lng" : 22.3931301
+               }
+            },
+            "location" : {
+               "lat" : 41.91680480000001,
+               "lng" : 22.4082849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.93393890000001,
+                  "lng" : 22.4394573
+               },
+               "southwest" : {
+                  "lat" : 41.9041297,
+                  "lng" : 22.3931301
+               }
+            }
+         },
+         "place_id" : "ChIJ4zdtUSiSVRMReRaNFVzYJZk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

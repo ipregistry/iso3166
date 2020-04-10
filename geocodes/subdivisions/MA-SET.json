@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Settat",
+               "short_name" : "Settat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Settat Province",
+               "short_name" : "Settat Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Casablanca-Settat",
+               "short_name" : "Casablanca-Settat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Settat, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.0173469,
+                  "lng" : -7.575590699999998
+               },
+               "southwest" : {
+                  "lat" : 32.9683838,
+                  "lng" : -7.663727499999998
+               }
+            },
+            "location" : {
+               "lat" : 32.99242419999999,
+               "lng" : -7.622266499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0173469,
+                  "lng" : -7.575590699999998
+               },
+               "southwest" : {
+                  "lat" : 32.9683838,
+                  "lng" : -7.663727499999998
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmZ5CqV0Fpg0REvre3pVejT8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dak Nong",
+               "short_name" : "Dak Nong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dak Nong, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.8121539,
+                  "lng" : 108.115649
+               },
+               "southwest" : {
+                  "lat" : 11.7480449,
+                  "lng" : 107.2058339
+               }
+            },
+            "location" : {
+               "lat" : 12.2646476,
+               "lng" : 107.609806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8121539,
+                  "lng" : 108.115649
+               },
+               "southwest" : {
+                  "lat" : 11.7480449,
+                  "lng" : 107.2058339
+               }
+            }
+         },
+         "place_id" : "ChIJJ6lE5uy1czERrYej9DDhMHU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

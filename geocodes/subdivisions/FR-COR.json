@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corsica",
+               "short_name" : "Corsica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Corsica, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0276781,
+                  "lng" : 9.560096
+               },
+               "southwest" : {
+                  "lat" : 41.333543,
+                  "lng" : 8.534677
+               }
+            },
+            "location" : {
+               "lat" : 42.0396042,
+               "lng" : 9.012892599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0276781,
+                  "lng" : 9.560096
+               },
+               "southwest" : {
+                  "lat" : 41.333543,
+                  "lng" : 8.534677
+               }
+            }
+         },
+         "place_id" : "ChIJcQmbsAMk1xIRjcuhcewihag",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

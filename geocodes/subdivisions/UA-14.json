@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Donetsk Oblast",
+               "short_name" : "Donetsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Donetsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.236797,
+                  "lng" : 39.0921019
+               },
+               "southwest" : {
+                  "lat" : 46.867733,
+                  "lng" : 36.541492
+               }
+            },
+            "location" : {
+               "lat" : 48.015883,
+               "lng" : 37.80285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.236797,
+                  "lng" : 39.0921019
+               },
+               "southwest" : {
+                  "lat" : 46.867733,
+                  "lng" : 36.541492
+               }
+            }
+         },
+         "place_id" : "ChIJe9U9ohib30ARJEyiBAomT7o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

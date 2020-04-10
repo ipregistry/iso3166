@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nayala",
+               "short_name" : "Nayala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Boucle du Mouhoun Region",
+               "short_name" : "Boucle du Mouhoun Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nayala, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9881389,
+                  "lng" : -2.6541769
+               },
+               "southwest" : {
+                  "lat" : 12.338824,
+                  "lng" : -3.4210301
+               }
+            },
+            "location" : {
+               "lat" : 12.6964558,
+               "lng" : -3.0175712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9881389,
+                  "lng" : -2.6541769
+               },
+               "southwest" : {
+                  "lat" : 12.338824,
+                  "lng" : -3.4210301
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdXBrilepMQ4RgAEtDTWqEHM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

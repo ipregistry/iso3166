@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northwest",
+               "short_name" : "Northwest",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northwest, Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.1616911,
+                  "lng" : 11.194967
+               },
+               "southwest" : {
+                  "lat" : 5.733760999999999,
+                  "lng" : 9.6307759
+               }
+            },
+            "location" : {
+               "lat" : 6.470373899999999,
+               "lng" : 10.439656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.1616911,
+                  "lng" : 11.194967
+               },
+               "southwest" : {
+                  "lat" : 5.733760999999999,
+                  "lng" : 9.6307759
+               }
+            }
+         },
+         "place_id" : "ChIJqzsR-j0WXxAR-_gnaMmyA28",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

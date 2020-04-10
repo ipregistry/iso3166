@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chichaoua",
+               "short_name" : "Chichaoua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chichaoua",
+               "short_name" : "Chichaoua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marrakesh-Safi",
+               "short_name" : "Marrakesh-Safi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chichaoua, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5541463,
+                  "lng" : -8.7405252
+               },
+               "southwest" : {
+                  "lat" : 31.5162154,
+                  "lng" : -8.779620999999999
+               }
+            },
+            "location" : {
+               "lat" : 31.5383581,
+               "lng" : -8.7646388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5541463,
+                  "lng" : -8.7405252
+               },
+               "southwest" : {
+                  "lat" : 31.5162154,
+                  "lng" : -8.779620999999999
+               }
+            }
+         },
+         "place_id" : "ChIJuTh6Wo48rg0RmxWoQHNNvMU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

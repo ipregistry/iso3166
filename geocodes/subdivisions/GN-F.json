@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faranah",
+               "short_name" : "Faranah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faranah Prefecture",
+               "short_name" : "Faranah Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Faranah",
+               "short_name" : "Faranah",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faranah, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.0750513,
+                  "lng" : -10.7218838
+               },
+               "southwest" : {
+                  "lat" : 10.0104814,
+                  "lng" : -10.7830811
+               }
+            },
+            "location" : {
+               "lat" : 10.0451022,
+               "lng" : -10.7492466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.0750513,
+                  "lng" : -10.7218838
+               },
+               "southwest" : {
+                  "lat" : 10.0104814,
+                  "lng" : -10.7830811
+               }
+            }
+         },
+         "place_id" : "ChIJ14sY46dzAA8R_m-VuHNu22w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

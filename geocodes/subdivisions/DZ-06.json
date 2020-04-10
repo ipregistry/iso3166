@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Béjaïa",
+               "short_name" : "Béjaïa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bejaia",
+               "short_name" : "Bejaia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Béjaïa Province",
+               "short_name" : "Béjaïa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Béjaïa, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.8347779,
+                  "lng" : 5.107347
+               },
+               "southwest" : {
+                  "lat" : 36.7053659,
+                  "lng" : 4.906611
+               }
+            },
+            "location" : {
+               "lat" : 36.7515258,
+               "lng" : 5.055683699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.8347779,
+                  "lng" : 5.107347
+               },
+               "southwest" : {
+                  "lat" : 36.7053659,
+                  "lng" : 4.906611
+               }
+            }
+         },
+         "place_id" : "ChIJxYIgqKHM8hIRbgszEx60B3g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

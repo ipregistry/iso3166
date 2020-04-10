@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iecava Municipality",
+               "short_name" : "Iecava Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iecavas novads",
+               "short_name" : "Iecavas novads",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3913",
+               "short_name" : "3913",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Iecava Municipality, Iecavas novads, LV-3913, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.712354,
+                  "lng" : 24.4016378
+               },
+               "southwest" : {
+                  "lat" : 56.5078735,
+                  "lng" : 24.000105
+               }
+            },
+            "location" : {
+               "lat" : 56.5986793,
+               "lng" : 24.1996272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.712354,
+                  "lng" : 24.4016378
+               },
+               "southwest" : {
+                  "lat" : 56.5078735,
+                  "lng" : 24.000105
+               }
+            }
+         },
+         "place_id" : "ChIJyyzFgt7T6EYRoP3yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

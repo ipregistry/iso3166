@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gedo",
+               "short_name" : "Gedo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gedo, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.2639245,
+                  "lng" : 43.004589
+               },
+               "southwest" : {
+                  "lat" : 2.28444,
+                  "lng" : 40.994374
+               }
+            },
+            "location" : {
+               "lat" : 3.5039227,
+               "lng" : 42.2362435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.2639245,
+                  "lng" : 43.004589
+               },
+               "southwest" : {
+                  "lat" : 2.28444,
+                  "lng" : 40.994374
+               }
+            }
+         },
+         "place_id" : "ChIJo-KYU4Ut7xcRuMlHgKXQKPU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

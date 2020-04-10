@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Macedonia and Thrace",
+               "short_name" : "East Macedonia and Thrace",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Macedonia and Thrace, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7490577,
+                  "lng" : 26.6352367
+               },
+               "southwest" : {
+                  "lat" : 40.3922362,
+                  "lng" : 23.6235474
+               }
+            },
+            "location" : {
+               "lat" : 41.1295126,
+               "lng" : 24.8877191
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7490577,
+                  "lng" : 26.6352367
+               },
+               "southwest" : {
+                  "lat" : 40.3922362,
+                  "lng" : 23.6235474
+               }
+            }
+         },
+         "place_id" : "ChIJT4bt9vfarRQRsMW54iy9AAE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

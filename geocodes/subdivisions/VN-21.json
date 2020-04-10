@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thanh Hóa",
+               "short_name" : "Thanh Hóa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thanh Hoa",
+               "short_name" : "Thanh Hoa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thanh Hóa, Thanh Hoa, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.8845083,
+                  "lng" : 105.8629489
+               },
+               "southwest" : {
+                  "lat" : 19.7329164,
+                  "lng" : 105.7191611
+               }
+            },
+            "location" : {
+               "lat" : 19.806692,
+               "lng" : 105.7851816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.8845083,
+                  "lng" : 105.8629489
+               },
+               "southwest" : {
+                  "lat" : 19.7329164,
+                  "lng" : 105.7191611
+               }
+            }
+         },
+         "place_id" : "ChIJdyJ-I_73NjEROiH8ezYyOKE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

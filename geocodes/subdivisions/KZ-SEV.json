@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Kazakhstan Province",
+               "short_name" : "North Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "150000",
+               "short_name" : "150000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Kazakhstan Province, 150000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.431812,
+                  "lng" : 73.96027599999999
+               },
+               "southwest" : {
+                  "lat" : 52.1932081,
+                  "lng" : 65.9671369
+               }
+            },
+            "location" : {
+               "lat" : 54.1622066,
+               "lng" : 69.9387071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.431812,
+                  "lng" : 73.96027599999999
+               },
+               "southwest" : {
+                  "lat" : 52.1932081,
+                  "lng" : 65.9671369
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm7LVRW-Xs0MR9ROu0UE-HpY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

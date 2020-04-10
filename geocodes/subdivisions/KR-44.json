@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chungcheongnam-do",
+               "short_name" : "Chungcheongnam-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chungcheongnam-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0940358,
+                  "lng" : 127.6396353
+               },
+               "southwest" : {
+                  "lat" : 35.9806573,
+                  "lng" : 125.9480213
+               }
+            },
+            "location" : {
+               "lat" : 36.5184,
+               "lng" : 126.8
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0940358,
+                  "lng" : 127.6396353
+               },
+               "southwest" : {
+                  "lat" : 35.9806573,
+                  "lng" : 125.9480213
+               }
+            }
+         },
+         "place_id" : "ChIJ_6RwHSd9ejURRWTn5Ge-sho",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

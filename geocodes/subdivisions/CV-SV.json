@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Vicente",
+               "short_name" : "São Vicente",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "São Vicente",
+               "short_name" : "São Vicente",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Vicente, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.9222019,
+                  "lng" : -24.859189
+               },
+               "southwest" : {
+                  "lat" : 16.7764425,
+                  "lng" : -25.0858461
+               }
+            },
+            "location" : {
+               "lat" : 16.8280067,
+               "lng" : -24.9754175
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.9222019,
+                  "lng" : -24.859189
+               },
+               "southwest" : {
+                  "lat" : 16.7764425,
+                  "lng" : -25.0858461
+               }
+            }
+         },
+         "place_id" : "ChIJ9Yoo0x8fTwkRGWrsLK4gxs8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

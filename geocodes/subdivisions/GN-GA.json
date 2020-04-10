@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaoual",
+               "short_name" : "Gaoual",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gaoual Prefecture",
+               "short_name" : "Gaoual Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Boké",
+               "short_name" : "Boké",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gaoual, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.7684275,
+                  "lng" : -13.1911039
+               },
+               "southwest" : {
+                  "lat" : 11.7405713,
+                  "lng" : -13.2174969
+               }
+            },
+            "location" : {
+               "lat" : 11.7561687,
+               "lng" : -13.2028753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.7684275,
+                  "lng" : -13.1911039
+               },
+               "southwest" : {
+                  "lat" : 11.7405713,
+                  "lng" : -13.2174969
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLRzWvHug_A4Rg3NfbUgGxWU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

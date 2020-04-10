@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sulu",
+               "short_name" : "Sulu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Autonomous Region in Muslim Mindanao",
+               "short_name" : "ARMM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sulu, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.4418679,
+                  "lng" : 121.949025
+               },
+               "southwest" : {
+                  "lat" : 5.436759899999999,
+                  "lng" : 119.639361
+               }
+            },
+            "location" : {
+               "lat" : 5.974901099999999,
+               "lng" : 121.03351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.4418679,
+                  "lng" : 121.949025
+               },
+               "southwest" : {
+                  "lat" : 5.436759899999999,
+                  "lng" : 119.639361
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_REKISn4RDIR7LAY1lKoGMY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

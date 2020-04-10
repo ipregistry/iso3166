@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Kalimantan",
+               "short_name" : "South Kalimantan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Kalimantan, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.315037,
+                  "lng" : 116.555961
+               },
+               "southwest" : {
+                  "lat" : -4.744812899999999,
+                  "lng" : 114.345859
+               }
+            },
+            "location" : {
+               "lat" : -3.0926415,
+               "lng" : 115.2837585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.315037,
+                  "lng" : 116.555961
+               },
+               "southwest" : {
+                  "lat" : -4.744812899999999,
+                  "lng" : 114.345859
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRbTSvTm33S0RE8GXt1C2fhQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.705709,
+                  "lng" : 74.4764881
+               },
+               "southwest" : {
+                  "lat" : 20.127954,
+                  "lng" : 68.162834
+               }
+            },
+            "location" : {
+               "lat" : 22.258652,
+               "lng" : 71.1923805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.705709,
+                  "lng" : 74.4764881
+               },
+               "southwest" : {
+                  "lat" : 20.127954,
+                  "lng" : 68.162834
+               }
+            }
+         },
+         "place_id" : "ChIJlfcOXx8FWTkRLlJU7YfYG4Y",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

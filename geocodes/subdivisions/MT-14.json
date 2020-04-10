@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gharb",
+               "short_name" : "Gharb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gharb, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0797101,
+                  "lng" : 14.2186459
+               },
+               "southwest" : {
+                  "lat" : 36.0545232,
+                  "lng" : 14.1889269
+               }
+            },
+            "location" : {
+               "lat" : 36.068909,
+               "lng" : 14.2018098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0797101,
+                  "lng" : 14.2186459
+               },
+               "southwest" : {
+                  "lat" : 36.0545232,
+                  "lng" : 14.1889269
+               }
+            }
+         },
+         "place_id" : "ChIJqXYc6dG1DxMRZLyoisccevs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

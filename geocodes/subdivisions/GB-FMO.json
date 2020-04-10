@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fermanagh And Omagh",
+               "short_name" : "Fermanagh And Omagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fermanagh And Omagh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7778443,
+                  "lng" : -6.9256258
+               },
+               "southwest" : {
+                  "lat" : 54.1137988,
+                  "lng" : -8.174443199999999
+               }
+            },
+            "location" : {
+               "lat" : 54.4513524,
+               "lng" : -7.7125018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7778443,
+                  "lng" : -6.9256258
+               },
+               "southwest" : {
+                  "lat" : 54.1137988,
+                  "lng" : -8.174443199999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2xfPteg1XkgRLw3XwmauMac",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fermanagh And Omagh",
+               "short_name" : "Fermanagh And Omagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT78",
+               "short_name" : "BT78",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Omagh BT78, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6209155,
+                  "lng" : -7.288481699999999
+               },
+               "southwest" : {
+                  "lat" : 54.5830445,
+                  "lng" : -7.3364544
+               }
+            },
+            "location" : {
+               "lat" : 54.5977149,
+               "lng" : -7.309959699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6209155,
+                  "lng" : -7.288481699999999
+               },
+               "southwest" : {
+                  "lat" : 54.5830445,
+                  "lng" : -7.3364544
+               }
+            }
+         },
+         "place_id" : "ChIJWRNxxAopXkgR0P3m_mC4gHc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

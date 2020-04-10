@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ismailli",
+               "short_name" : "Ismailli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ismailli",
+               "short_name" : "Ismailli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ismailli, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8119253,
+                  "lng" : 48.2034588
+               },
+               "southwest" : {
+                  "lat" : 40.7646814,
+                  "lng" : 48.13007349999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7871438,
+               "lng" : 48.1523426
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8119253,
+                  "lng" : 48.2034588
+               },
+               "southwest" : {
+                  "lat" : 40.7646814,
+                  "lng" : 48.13007349999999
+               }
+            }
+         },
+         "place_id" : "ChIJHXY00vm5OUARU2D7QNhLE7o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

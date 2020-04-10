@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frýdek-Místek",
+               "short_name" : "Frýdek-Místek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Frýdek-Místek District",
+               "short_name" : "Frýdek-Místek District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moravian-Silesian Region",
+               "short_name" : "Moravian-Silesian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Frýdek-Místek, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7286881,
+                  "lng" : 18.4357009
+               },
+               "southwest" : {
+                  "lat" : 49.6306997,
+                  "lng" : 18.2479598
+               }
+            },
+            "location" : {
+               "lat" : 49.6819305,
+               "lng" : 18.3673216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7286881,
+                  "lng" : 18.4357009
+               },
+               "southwest" : {
+                  "lat" : 49.6306997,
+                  "lng" : 18.2479598
+               }
+            }
+         },
+         "place_id" : "ChIJ9QqcFyX3E0cRQAQVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

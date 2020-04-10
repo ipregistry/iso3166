@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yagha",
+               "short_name" : "Yagha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sahel Region",
+               "short_name" : "Sahel Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yagha, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8406751,
+                  "lng" : 1.282974
+               },
+               "southwest" : {
+                  "lat" : 12.9720259,
+                  "lng" : 0.04778900000000001
+               }
+            },
+            "location" : {
+               "lat" : 13.3576157,
+               "lng" : 0.7532808999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8406751,
+                  "lng" : 1.282974
+               },
+               "southwest" : {
+                  "lat" : 12.9720259,
+                  "lng" : 0.04778900000000001
+               }
+            }
+         },
+         "place_id" : "ChIJOR54YXp41xERRvXuarYaQzQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blue Nile",
+               "short_name" : "Blue Nile",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sudan",
+               "short_name" : "SD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blue Nile, Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.56568,
+                  "lng" : 35.0827559
+               },
+               "southwest" : {
+                  "lat" : 9.500371699999999,
+                  "lng" : 33.136397
+               }
+            },
+            "location" : {
+               "lat" : 11.5860078,
+               "lng" : 34.1531947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.56568,
+                  "lng" : 35.0827559
+               },
+               "southwest" : {
+                  "lat" : 9.500371699999999,
+                  "lng" : 33.136397
+               }
+            }
+         },
+         "place_id" : "ChIJry4qRM0y9hYRUejUU3FDX98",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calderdale",
+               "short_name" : "Calderdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HX1",
+               "short_name" : "HX1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Calderdale, Halifax HX1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7226175,
+                  "lng" : -1.8557794
+               },
+               "southwest" : {
+                  "lat" : 53.7188657,
+                  "lng" : -1.8618025
+               }
+            },
+            "location" : {
+               "lat" : 53.7204868,
+               "lng" : -1.8594856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7226175,
+                  "lng" : -1.8557794
+               },
+               "southwest" : {
+                  "lat" : 53.7188657,
+                  "lng" : -1.8618025
+               }
+            }
+         },
+         "place_id" : "ChIJk3kTdlPde0gRWmfVgd3sJyI",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

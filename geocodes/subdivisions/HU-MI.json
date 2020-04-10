@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miskolc",
+               "short_name" : "Miskolc",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Miskolc, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.154998,
+                  "lng" : 20.8697789
+               },
+               "southwest" : {
+                  "lat" : 48.0233119,
+                  "lng" : 20.4817199
+               }
+            },
+            "location" : {
+               "lat" : 48.1034775,
+               "lng" : 20.7784384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.154998,
+                  "lng" : 20.8697789
+               },
+               "southwest" : {
+                  "lat" : 48.0233119,
+                  "lng" : 20.4817199
+               }
+            }
+         },
+         "place_id" : "ChIJ5-tyjYeeQEcRsBEeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ravenna, Province of Ravenna, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4405473,
+                  "lng" : 12.2342168
+               },
+               "southwest" : {
+                  "lat" : 44.3841368,
+                  "lng" : 12.1668015
+               }
+            },
+            "location" : {
+               "lat" : 44.4183598,
+               "lng" : 12.2035294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4405473,
+                  "lng" : 12.2342168
+               },
+               "southwest" : {
+                  "lat" : 44.3841368,
+                  "lng" : 12.1668015
+               }
+            }
+         },
+         "place_id" : "ChIJF9okWlD5fUcRdqdUnDyjdCo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

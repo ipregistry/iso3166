@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prague-West District",
+               "short_name" : "Prague-West District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prague-West District, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2135076,
+                  "lng" : 14.5809417
+               },
+               "southwest" : {
+                  "lat" : 49.7825303,
+                  "lng" : 14.1195188
+               }
+            },
+            "location" : {
+               "lat" : 49.8935235,
+               "lng" : 14.3293779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2135076,
+                  "lng" : 14.5809417
+               },
+               "southwest" : {
+                  "lat" : 49.7825303,
+                  "lng" : 14.1195188
+               }
+            }
+         },
+         "place_id" : "ChIJ-ZOjQFqWC0cRoKkUZg-vAAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

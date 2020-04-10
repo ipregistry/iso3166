@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sidi Ifni",
+               "short_name" : "Sidi Ifni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guelmim-Oued Noun",
+               "short_name" : "Guelmim-Oued Noun",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sidi Ifni, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4105437,
+                  "lng" : -10.1402092
+               },
+               "southwest" : {
+                  "lat" : 29.3226248,
+                  "lng" : -10.2114488
+               }
+            },
+            "location" : {
+               "lat" : 29.3701124,
+               "lng" : -10.1759285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4105437,
+                  "lng" : -10.1402092
+               },
+               "southwest" : {
+                  "lat" : 29.3226248,
+                  "lng" : -10.2114488
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6XUofVnrtA0R5Qq3zfuQY04",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

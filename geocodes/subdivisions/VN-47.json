@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kien Giang",
+               "short_name" : "Kien Giang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kien Giang, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.539606,
+                  "lng" : 105.5390449
+               },
+               "southwest" : {
+                  "lat" : 9.2545629,
+                  "lng" : 103.4583964
+               }
+            },
+            "location" : {
+               "lat" : 9.8249587,
+               "lng" : 105.1258955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.539606,
+                  "lng" : 105.5390449
+               },
+               "southwest" : {
+                  "lat" : 9.2545629,
+                  "lng" : 103.4583964
+               }
+            }
+         },
+         "place_id" : "ChIJzXUakhzaCTERevNfMyZB54c",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

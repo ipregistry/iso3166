@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sissili",
+               "short_name" : "Sissili",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sissili, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.2918647,
+                  "lng" : -1.4048249
+               },
+               "southwest" : {
+                  "lat" : 11.0112543,
+                  "lng" : -1.9294681
+               }
+            },
+            "location" : {
+               "lat" : 11.1624872,
+               "lng" : -1.6618538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.2918647,
+                  "lng" : -1.4048249
+               },
+               "southwest" : {
+                  "lat" : 11.0112543,
+                  "lng" : -1.9294681
+               }
+            }
+         },
+         "place_id" : "ChIJZYn9yPnvLA4R7F2gXQk3bDs",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

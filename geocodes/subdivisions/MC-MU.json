@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Route Nationale 7",
+               "short_name" : "N7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Moulins",
+               "short_name" : "Moulins",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allier",
+               "short_name" : "Allier",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03000",
+               "short_name" : "03000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Centre Commercial Carrefour, N7, 03000 Moulins, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5405081,
+               "lng" : 3.3431445
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.54185708029149,
+                  "lng" : 3.344493480291502
+               },
+               "southwest" : {
+                  "lat" : 46.53915911970849,
+                  "lng" : 3.341795519708498
+               }
+            }
+         },
+         "place_id" : "ChIJhzRfK0cc8UcRMoUZCpQZVnM",
+         "plus_code" : {
+            "compound_code" : "G8RV+67 Moulins, France",
+            "global_code" : "8FR5G8RV+67"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

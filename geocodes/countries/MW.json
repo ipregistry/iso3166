@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.3672272,
+                  "lng" : 35.91857299999999
+               },
+               "southwest" : {
+                  "lat" : -17.1295216,
+                  "lng" : 32.6725205
+               }
+            },
+            "location" : {
+               "lat" : -13.254308,
+               "lng" : 34.301525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.3672272,
+                  "lng" : 35.91857299999999
+               },
+               "southwest" : {
+                  "lat" : -17.1295216,
+                  "lng" : 32.6725205
+               }
+            }
+         },
+         "place_id" : "ChIJ18ATk91b2BgRQ4VmKRcuo0Q",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

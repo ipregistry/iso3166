@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delchevo",
+               "short_name" : "Delchevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Delcevo",
+               "short_name" : "Municipality of Delcevo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delchevo, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9899275,
+                  "lng" : 22.7877689
+               },
+               "southwest" : {
+                  "lat" : 41.9538413,
+                  "lng" : 22.7602601
+               }
+            },
+            "location" : {
+               "lat" : 41.9708736,
+               "lng" : 22.7739599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9899275,
+                  "lng" : 22.7877689
+               },
+               "southwest" : {
+                  "lat" : 41.9538413,
+                  "lng" : 22.7602601
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkwelXx17qhQRLJ-KeZ8wMhs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

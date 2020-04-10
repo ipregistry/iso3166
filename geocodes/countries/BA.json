@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bosnia and Herzegovina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2766262,
+                  "lng" : 19.6237016
+               },
+               "southwest" : {
+                  "lat" : 42.5564808,
+                  "lng" : 15.7223665
+               }
+            },
+            "location" : {
+               "lat" : 43.915886,
+               "lng" : 17.679076
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2766262,
+                  "lng" : 19.6237016
+               },
+               "southwest" : {
+                  "lat" : 42.5564808,
+                  "lng" : 15.7223665
+               }
+            }
+         },
+         "place_id" : "ChIJ16k3xxWiSxMRDOm3QwPi920",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

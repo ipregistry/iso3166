@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sint Maarten",
+               "short_name" : "SX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sint Maarten",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.0641707,
+                  "lng" : -62.9784
+               },
+               "southwest" : {
+                  "lat" : 17.9941,
+                  "lng" : -63.13979990000001
+               }
+            },
+            "location" : {
+               "lat" : 18.04248,
+               "lng" : -63.05483
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.0641707,
+                  "lng" : -62.9784
+               },
+               "southwest" : {
+                  "lat" : 17.9941,
+                  "lng" : -63.13979990000001
+               }
+            }
+         },
+         "place_id" : "ChIJw5D41mJuDowRQo8zJsIsi3I",
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Martin",
+               "short_name" : "Saint Martin",
+               "types" : [ "establishment", "natural_feature" ]
+            }
+         ],
+         "formatted_address" : "Saint Martin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.1244516,
+                  "lng" : -63.01004179999999
+               },
+               "southwest" : {
+                  "lat" : 18.0050985,
+                  "lng" : -63.1535899
+               }
+            },
+            "location" : {
+               "lat" : 18.0708298,
+               "lng" : -63.0500809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1244516,
+                  "lng" : -63.01004179999999
+               },
+               "southwest" : {
+                  "lat" : 18.0050985,
+                  "lng" : -63.1535899
+               }
+            }
+         },
+         "place_id" : "ChIJDRIsQgFvDowRDoJZqcp_5D0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

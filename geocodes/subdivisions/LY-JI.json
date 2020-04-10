@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jafara District",
+               "short_name" : "Jafara District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jafara District, Libya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.756192,
+                  "lng" : 13.1125019
+               },
+               "southwest" : {
+                  "lat" : 32.236122,
+                  "lng" : 12.678772
+               }
+            },
+            "location" : {
+               "lat" : 32.4525904,
+               "lng" : 12.9435536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.756192,
+                  "lng" : 13.1125019
+               },
+               "southwest" : {
+                  "lat" : 32.236122,
+                  "lng" : 12.678772
+               }
+            }
+         },
+         "place_id" : "ChIJc37A6qPUqBMRE4ReU_-yXj4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

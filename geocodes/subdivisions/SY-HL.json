@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleppo",
+               "short_name" : "Aleppo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mount Simeon",
+               "short_name" : "Mount Simeon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aleppo Governorate",
+               "short_name" : "Aleppo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aleppo, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.27915369999999,
+                  "lng" : 37.2462273
+               },
+               "southwest" : {
+                  "lat" : 36.1337156,
+                  "lng" : 37.0509429
+               }
+            },
+            "location" : {
+               "lat" : 36.2021047,
+               "lng" : 37.1342603
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.27915369999999,
+                  "lng" : 37.2462273
+               },
+               "southwest" : {
+                  "lat" : 36.1337156,
+                  "lng" : 37.0509429
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrzWBuRP4LxURKsNCxV9efpY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

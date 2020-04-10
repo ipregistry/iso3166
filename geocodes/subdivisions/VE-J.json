@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guárico",
+               "short_name" : "Guárico",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guárico, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.040505,
+                  "lng" : -64.7742981
+               },
+               "southwest" : {
+                  "lat" : 7.622942,
+                  "lng" : -68.0304799
+               }
+            },
+            "location" : {
+               "lat" : 8.7489309,
+               "lng" : -66.2367172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.040505,
+                  "lng" : -64.7742981
+               },
+               "southwest" : {
+                  "lat" : 7.622942,
+                  "lng" : -68.0304799
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsREEdiCqKowRe3mPgc0KeCY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jura",
+               "short_name" : "JU",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jura, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.50452,
+                  "lng" : 7.55821
+               },
+               "southwest" : {
+                  "lat" : 47.15047999999999,
+                  "lng" : 6.84042
+               }
+            },
+            "location" : {
+               "lat" : 47.3444474,
+               "lng" : 7.143060800000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.50452,
+                  "lng" : 7.55821
+               },
+               "southwest" : {
+                  "lat" : 47.15047999999999,
+                  "lng" : 6.84042
+               }
+            }
+         },
+         "place_id" : "ChIJtV6GwMXkkUcRkNgYQIj_AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kostroma Oblast",
+               "short_name" : "Kostroma Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kostroma Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.625175,
+                  "lng" : 47.64173
+               },
+               "southwest" : {
+                  "lat" : 57.273677,
+                  "lng" : 40.39249
+               }
+            },
+            "location" : {
+               "lat" : 58.5501069,
+               "lng" : 43.9541102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.625175,
+                  "lng" : 47.64173
+               },
+               "southwest" : {
+                  "lat" : 57.273677,
+                  "lng" : 40.39249
+               }
+            }
+         },
+         "place_id" : "ChIJ7QHRPpCTVEERe127GtBI0hc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

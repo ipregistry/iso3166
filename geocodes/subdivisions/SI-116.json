@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Sveti Jurij",
+               "short_name" : "Municipality of Sveti Jurij",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sveti Jurij ob Ščavnici",
+               "short_name" : "Sveti Jurij ob Ščavnici",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gornja Radgona",
+               "short_name" : "Gornja Radgona",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9244",
+               "short_name" : "9244",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Sveti Jurij, 9244 Sveti Jurij ob Ščavnici, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6108184,
+                  "lng" : 16.089564
+               },
+               "southwest" : {
+                  "lat" : 46.512767,
+                  "lng" : 15.9638282
+               }
+            },
+            "location" : {
+               "lat" : 46.5628433,
+               "lng" : 16.02284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6108184,
+                  "lng" : 16.089564
+               },
+               "southwest" : {
+                  "lat" : 46.512767,
+                  "lng" : 15.9638282
+               }
+            }
+         },
+         "place_id" : "ChIJf9YsjgVqb0cRUPE_ghz4AAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kigoma",
+               "short_name" : "Kigoma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kigoma Rural",
+               "short_name" : "Kigoma Rural",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kigoma Region",
+               "short_name" : "Kigoma Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kigoma, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.8398476,
+                  "lng" : 29.7011989
+               },
+               "southwest" : {
+                  "lat" : -4.9241075,
+                  "lng" : 29.5995595
+               }
+            },
+            "location" : {
+               "lat" : -4.8824092,
+               "lng" : 29.6615055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.8398476,
+                  "lng" : 29.7011989
+               },
+               "southwest" : {
+                  "lat" : -4.9241075,
+                  "lng" : 29.5995595
+               }
+            }
+         },
+         "place_id" : "ChIJQbLGKQwbvxkRGa2ulTA9dtw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

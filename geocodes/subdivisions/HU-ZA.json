@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zala",
+               "short_name" : "Zala",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zala, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7073057,
+                  "lng" : 17.2721939
+               },
+               "southwest" : {
+                  "lat" : 46.6278717,
+                  "lng" : 17.1375678
+               }
+            },
+            "location" : {
+               "lat" : 46.6599324,
+               "lng" : 17.2101621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7073057,
+                  "lng" : 17.2721939
+               },
+               "southwest" : {
+                  "lat" : 46.6278717,
+                  "lng" : 17.1375678
+               }
+            }
+         },
+         "place_id" : "ChIJyyeQIJX8aEcRIhi4I0ZthLc",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

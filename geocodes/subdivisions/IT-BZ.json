@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolzano",
+               "short_name" : "Bolzano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolzano",
+               "short_name" : "Bolzano",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "South Tyrol",
+               "short_name" : "BZ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trentino-South Tyrol",
+               "short_name" : "Trentino-South Tyrol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39100",
+               "short_name" : "39100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "39100 Bolzano, South Tyrol, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5154347,
+                  "lng" : 11.3806479
+               },
+               "southwest" : {
+                  "lat" : 46.4630385,
+                  "lng" : 11.3136675
+               }
+            },
+            "location" : {
+               "lat" : 46.4982953,
+               "lng" : 11.3547582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5154347,
+                  "lng" : 11.3806479
+               },
+               "southwest" : {
+                  "lat" : 46.4630385,
+                  "lng" : 11.3136675
+               }
+            }
+         },
+         "place_id" : "ChIJSXCeQSucgkcRKkOLNE9pK2U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

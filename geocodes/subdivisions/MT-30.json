@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mellieha",
+               "short_name" : "Mellieha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mellieha, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9981303,
+                  "lng" : 14.3977761
+               },
+               "southwest" : {
+                  "lat" : 35.9306305,
+                  "lng" : 14.3187002
+               }
+            },
+            "location" : {
+               "lat" : 35.9523529,
+               "lng" : 14.3500975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9981303,
+                  "lng" : 14.3977761
+               },
+               "southwest" : {
+                  "lat" : 35.9306305,
+                  "lng" : 14.3187002
+               }
+            }
+         },
+         "place_id" : "ChIJWQGj4TJMDhMRsFdF-12l0Os",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

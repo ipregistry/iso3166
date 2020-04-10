@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ragusa",
+               "short_name" : "Ragusa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ragusa",
+               "short_name" : "Ragusa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Free municipal consortium of Ragusa",
+               "short_name" : "RG",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicily",
+               "short_name" : "Sicily",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97100",
+               "short_name" : "97100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "97100 Ragusa, Free municipal consortium of Ragusa, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9387,
+                  "lng" : 14.7500679
+               },
+               "southwest" : {
+                  "lat" : 36.8986672,
+                  "lng" : 14.6705082
+               }
+            },
+            "location" : {
+               "lat" : 36.9269273,
+               "lng" : 14.7255129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9387,
+                  "lng" : 14.7500679
+               },
+               "southwest" : {
+                  "lat" : 36.8986672,
+                  "lng" : 14.6705082
+               }
+            }
+         },
+         "place_id" : "ChIJqVQuu62ZERMRrfPODIGY6Cc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hauts-de-Seine",
+               "short_name" : "Hauts-de-Seine",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hauts-de-Seine, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9509619,
+                  "lng" : 2.336941
+               },
+               "southwest" : {
+                  "lat" : 48.729351,
+                  "lng" : 2.145702
+               }
+            },
+            "location" : {
+               "lat" : 48.828508,
+               "lng" : 2.2188068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9509619,
+                  "lng" : 2.336941
+               },
+               "southwest" : {
+                  "lat" : 48.729351,
+                  "lng" : 2.145702
+               }
+            }
+         },
+         "place_id" : "ChIJIX9UJN165kcRQCuLaMOCCwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

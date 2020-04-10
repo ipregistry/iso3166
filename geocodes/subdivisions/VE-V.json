@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zulia",
+               "short_name" : "Zulia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zulia, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.8505268,
+                  "lng" : -70.667565
+               },
+               "southwest" : {
+                  "lat" : 8.363389,
+                  "lng" : -73.36703899999999
+               }
+            },
+            "location" : {
+               "lat" : 10.2910237,
+               "lng" : -72.14161319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.8505268,
+                  "lng" : -70.667565
+               },
+               "southwest" : {
+                  "lat" : 8.363389,
+                  "lng" : -73.36703899999999
+               }
+            }
+         },
+         "place_id" : "ChIJjfSyPOzSY44Rw2-PTQ5qD-s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

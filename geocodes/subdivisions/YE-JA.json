@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Jawf Governorate",
+               "short_name" : "Al Jawf Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Yemen",
+               "short_name" : "YE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Jawf Governorate, Yemen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4335349,
+                  "lng" : 47.0087311
+               },
+               "southwest" : {
+                  "lat" : 15.722451,
+                  "lng" : 44.067691
+               }
+            },
+            "location" : {
+               "lat" : 16.7901819,
+               "lng" : 45.29938620000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4335349,
+                  "lng" : 47.0087311
+               },
+               "southwest" : {
+                  "lat" : 15.722451,
+                  "lng" : 44.067691
+               }
+            }
+         },
+         "place_id" : "ChIJbwDFneKBAD4RTSsBjG2K_7Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

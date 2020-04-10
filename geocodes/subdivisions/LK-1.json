@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Province, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.330474,
+                  "lng" : 80.38140989999999
+               },
+               "southwest" : {
+                  "lat" : 6.324857,
+                  "lng" : 79.81655599999999
+               }
+            },
+            "location" : {
+               "lat" : 6.901608599999999,
+               "lng" : 80.0087746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.330474,
+                  "lng" : 80.38140989999999
+               },
+               "southwest" : {
+                  "lat" : 6.324857,
+                  "lng" : 79.81655599999999
+               }
+            }
+         },
+         "place_id" : "ChIJmZuWSbRS4joRJjAclJYvwKc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

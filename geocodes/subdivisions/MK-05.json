@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogdantsi",
+               "short_name" : "Bogdantsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Bogdanci",
+               "short_name" : "Municipality of Bogdanci",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogdantsi, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2095342,
+                  "lng" : 22.5874615
+               },
+               "southwest" : {
+                  "lat" : 41.1964168,
+                  "lng" : 22.5654031
+               }
+            },
+            "location" : {
+               "lat" : 41.203138,
+               "lng" : 22.5754421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2095342,
+                  "lng" : 22.5874615
+               },
+               "southwest" : {
+                  "lat" : 41.1964168,
+                  "lng" : 22.5654031
+               }
+            }
+         },
+         "place_id" : "ChIJ0VySxBcgVhMRsETGU_QGAQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khost",
+               "short_name" : "Khost",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khost",
+               "short_name" : "Khost",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khost",
+               "short_name" : "Khost",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khost, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.3512149,
+                  "lng" : 69.9688982
+               },
+               "southwest" : {
+                  "lat" : 33.3239304,
+                  "lng" : 69.90062
+               }
+            },
+            "location" : {
+               "lat" : 33.3338472,
+               "lng" : 69.9371673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.3512149,
+                  "lng" : 69.9688982
+               },
+               "southwest" : {
+                  "lat" : 33.3239304,
+                  "lng" : 69.90062
+               }
+            }
+         },
+         "place_id" : "ChIJna5BkA-71zgRv7R0jOoRatA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

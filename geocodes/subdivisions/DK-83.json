@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Region of Southern Denmark",
+               "short_name" : "Region of Southern Denmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Region of Southern Denmark, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.956633,
+                  "lng" : 10.9557689
+               },
+               "southwest" : {
+                  "lat" : 54.7218369,
+                  "lng" : 8.072558899999999
+               }
+            },
+            "location" : {
+               "lat" : 55.3307714,
+               "lng" : 9.0924903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.956633,
+                  "lng" : 10.9557689
+               },
+               "southwest" : {
+                  "lat" : 54.7218369,
+                  "lng" : 8.072558899999999
+               }
+            }
+         },
+         "place_id" : "ChIJF0eXAaulTEYRQFSorMmvAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

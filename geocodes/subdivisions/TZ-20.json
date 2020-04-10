@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake Rukwa",
+               "short_name" : "Lake Rukwa",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lake Rukwa, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.4111351,
+                  "lng" : 32.933997
+               },
+               "southwest" : {
+                  "lat" : -8.508773699999999,
+                  "lng" : 31.5383507
+               }
+            },
+            "location" : {
+               "lat" : -8.016651,
+               "lng" : 32.2653887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.4111351,
+                  "lng" : 32.933997
+               },
+               "southwest" : {
+                  "lat" : -8.508773699999999,
+                  "lng" : 31.5383507
+               }
+            }
+         },
+         "place_id" : "ChIJQa-xAXvaqBkRud338br4IcM",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

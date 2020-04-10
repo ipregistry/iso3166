@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aceh",
+               "short_name" : "Aceh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aceh, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.07694,
+                  "lng" : 98.2881589
+               },
+               "southwest" : {
+                  "lat" : 2.004787,
+                  "lng" : 95.00970699999999
+               }
+            },
+            "location" : {
+               "lat" : 4.695135,
+               "lng" : 96.74939929999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.07694,
+                  "lng" : 98.2881589
+               },
+               "southwest" : {
+                  "lat" : 2.004787,
+                  "lng" : 95.00970699999999
+               }
+            }
+         },
+         "place_id" : "ChIJvcR8UN-bOTARYMogsoCdAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

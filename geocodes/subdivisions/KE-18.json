@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kitui",
+               "short_name" : "Kitui",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kitui County",
+               "short_name" : "Kitui County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kitui, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.3617571,
+                  "lng" : 38.0146485
+               },
+               "southwest" : {
+                  "lat" : -1.3822437,
+                  "lng" : 37.9733849
+               }
+            },
+            "location" : {
+               "lat" : -1.3750813,
+               "lng" : 37.9952144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.3617571,
+                  "lng" : 38.0146485
+               },
+               "southwest" : {
+                  "lat" : -1.3822437,
+                  "lng" : 37.9733849
+               }
+            }
+         },
+         "place_id" : "ChIJJWlkhA1TJBgR--aEnGaM9Lg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

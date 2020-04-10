@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nisporeni",
+               "short_name" : "Nisporeni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nisporeni District",
+               "short_name" : "Nisporeni District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nisporeni, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0984671,
+                  "lng" : 28.2123756
+               },
+               "southwest" : {
+                  "lat" : 47.04796109999999,
+                  "lng" : 28.1466293
+               }
+            },
+            "location" : {
+               "lat" : 47.07513489999999,
+               "lng" : 28.1768155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0984671,
+                  "lng" : 28.2123756
+               },
+               "southwest" : {
+                  "lat" : 47.04796109999999,
+                  "lng" : 28.1466293
+               }
+            }
+         },
+         "place_id" : "ChIJA7zR_3g2ykARi8zg-wFlzIM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

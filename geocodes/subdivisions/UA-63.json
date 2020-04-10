@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.459388,
+                  "lng" : 38.09530609999999
+               },
+               "southwest" : {
+                  "lat" : 48.531375,
+                  "lng" : 34.8563339
+               }
+            },
+            "location" : {
+               "lat" : 49.9935,
+               "lng" : 36.230383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.459388,
+                  "lng" : 38.09530609999999
+               },
+               "southwest" : {
+                  "lat" : 48.531375,
+                  "lng" : 34.8563339
+               }
+            }
+         },
+         "place_id" : "ChIJAfZeLutYJ0ERoEH2iIQGAQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

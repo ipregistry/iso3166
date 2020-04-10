@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mchinji",
+               "short_name" : "Mchinji",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mchinji",
+               "short_name" : "Mchinji",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mchinji, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.7765674,
+                  "lng" : 32.90946
+               },
+               "southwest" : {
+                  "lat" : -13.8171608,
+                  "lng" : 32.8671455
+               }
+            },
+            "location" : {
+               "lat" : -13.8000058,
+               "lng" : 32.8930441
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.7765674,
+                  "lng" : 32.90946
+               },
+               "southwest" : {
+                  "lat" : -13.8171608,
+                  "lng" : 32.8671455
+               }
+            }
+         },
+         "place_id" : "ChIJJ5eTeom6GBkRiVGqjShJ_c8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

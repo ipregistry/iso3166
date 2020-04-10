@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Ver.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Veracruz, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4717509,
+                  "lng" : -93.6079398
+               },
+               "southwest" : {
+                  "lat" : 17.1369649,
+                  "lng" : -98.68154659999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2601605,
+               "lng" : -96.57833869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4717509,
+                  "lng" : -93.6079398
+               },
+               "southwest" : {
+                  "lat" : 17.1369649,
+                  "lng" : -98.68154659999999
+               }
+            }
+         },
+         "place_id" : "ChIJbVJUr9BVw4URs7kQZwp_dy0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cundinamarca",
+               "short_name" : "Cundinamarca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cundinamarca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.8372401,
+                  "lng" : -73.05116
+               },
+               "southwest" : {
+                  "lat" : 3.727751,
+                  "lng" : -74.89025199999999
+               }
+            },
+            "location" : {
+               "lat" : 5.026002999999999,
+               "lng" : -74.0300122
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.8372401,
+                  "lng" : -73.05116
+               },
+               "southwest" : {
+                  "lat" : 3.727751,
+                  "lng" : -74.89025199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK68WFusoP44R7QjR-rW8PJM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

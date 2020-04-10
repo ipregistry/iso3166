@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norte de Santander",
+               "short_name" : "Nte. de Santander",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Carmen",
+               "short_name" : "El Carmen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Norte de Santander",
+               "short_name" : "Norte de Santander",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "547079",
+               "short_name" : "547079",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nte. de Santander, El Carmen, Norte de Santander, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.7100864,
+                  "lng" : -73.4572507
+               },
+               "southwest" : {
+                  "lat" : 8.695959999999999,
+                  "lng" : -73.46969609999999
+               }
+            },
+            "location" : {
+               "lat" : 8.6999099,
+               "lng" : -73.46146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.7100864,
+                  "lng" : -73.4572507
+               },
+               "southwest" : {
+                  "lat" : 8.695959999999999,
+                  "lng" : -73.46969609999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgb5HPidWZ44RlHHH-jaRM_U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kretinga",
+               "short_name" : "Kretinga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kretinga District Municipality",
+               "short_name" : "Kretinga District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Klaipėda County",
+               "short_name" : "Klaipėda County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kretinga, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.90324829999999,
+                  "lng" : 21.279459
+               },
+               "southwest" : {
+                  "lat" : 55.856624,
+                  "lng" : 21.1903819
+               }
+            },
+            "location" : {
+               "lat" : 55.883842,
+               "lng" : 21.2350919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.90324829999999,
+                  "lng" : 21.279459
+               },
+               "southwest" : {
+                  "lat" : 55.856624,
+                  "lng" : 21.1903819
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp3-dS50m5UYRe6USn7dF3qY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

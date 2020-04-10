@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aktobe",
+               "short_name" : "Aktobe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aktobe Province",
+               "short_name" : "Aktobe Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aktobe, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3603564,
+                  "lng" : 57.34793529999999
+               },
+               "southwest" : {
+                  "lat" : 50.1870111,
+                  "lng" : 57.0396422
+               }
+            },
+            "location" : {
+               "lat" : 50.2839339,
+               "lng" : 57.166978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3603564,
+                  "lng" : 57.34793529999999
+               },
+               "southwest" : {
+                  "lat" : 50.1870111,
+                  "lng" : 57.0396422
+               }
+            }
+         },
+         "place_id" : "ChIJ-YkcuEshgkERLXxMcoE_4P8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

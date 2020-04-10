@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trang",
+               "short_name" : "Trang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Trang District",
+               "short_name" : "Mueang Trang District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trang",
+               "short_name" : "จ.ตรัง",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trang, Mueang Trang District, Trang, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.5877895,
+                  "lng" : 99.6402899
+               },
+               "southwest" : {
+                  "lat" : 7.5336061,
+                  "lng" : 99.5924876
+               }
+            },
+            "location" : {
+               "lat" : 7.564483299999999,
+               "lng" : 99.6239334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.5877895,
+                  "lng" : 99.6402899
+               },
+               "southwest" : {
+                  "lat" : 7.5336061,
+                  "lng" : 99.5924876
+               }
+            }
+         },
+         "place_id" : "ChIJSQ5rIUiMTTARJDHvFL0jAiY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Razgrad",
+               "short_name" : "Razgrad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Razgrad",
+               "short_name" : "Razgrad",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Razgrad, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.5504861,
+                  "lng" : 26.5636871
+               },
+               "southwest" : {
+                  "lat" : 43.5089142,
+                  "lng" : 26.4945974
+               }
+            },
+            "location" : {
+               "lat" : 43.53367189999999,
+               "lng" : 26.5411165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5504861,
+                  "lng" : 26.5636871
+               },
+               "southwest" : {
+                  "lat" : 43.5089142,
+                  "lng" : 26.4945974
+               }
+            }
+         },
+         "place_id" : "ChIJk2qc9pwOr0ARh2DS1gUde-c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

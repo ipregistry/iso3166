@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bilaspur",
+               "short_name" : "Bilaspur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bilaspur",
+               "short_name" : "Bilaspur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chhattisgarh",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "495001",
+               "short_name" : "495001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bilaspur, Chhattisgarh 495001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.0796545,
+               "lng" : 82.14091519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.0899938,
+                  "lng" : 82.1569226
+               },
+               "southwest" : {
+                  "lat" : 22.0693144,
+                  "lng" : 82.1249078
+               }
+            }
+         },
+         "place_id" : "ChIJp7aaexELKDoRr3ysnp3488Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

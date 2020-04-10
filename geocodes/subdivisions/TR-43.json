@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kütahya",
+               "short_name" : "Kütahya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kütahya Merkez",
+               "short_name" : "Kütahya Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kütahya",
+               "short_name" : "Kütahya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kütahya, Kütahya Merkez/Kütahya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.448665,
+                  "lng" : 30.0531131
+               },
+               "southwest" : {
+                  "lat" : 39.3834734,
+                  "lng" : 29.9209689
+               }
+            },
+            "location" : {
+               "lat" : 39.4199547,
+               "lng" : 29.985732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.448665,
+                  "lng" : 30.0531131
+               },
+               "southwest" : {
+                  "lat" : 39.3834734,
+                  "lng" : 29.9209689
+               }
+            }
+         },
+         "place_id" : "ChIJI-RiFRdIyRQRPLnh7efEV3M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

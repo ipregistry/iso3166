@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Afyonkarahisar",
+               "short_name" : "Afyonkarahisar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Afyonkarahisar Merkez",
+               "short_name" : "Afyonkarahisar Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Afyonkarahisar",
+               "short_name" : "Afyonkarahisar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Afyonkarahisar, Afyonkarahisar Merkez/Afyonkarahisar, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.796503,
+                  "lng" : 30.597951
+               },
+               "southwest" : {
+                  "lat" : 38.7165769,
+                  "lng" : 30.51211799999999
+               }
+            },
+            "location" : {
+               "lat" : 38.7568852,
+               "lng" : 30.5387038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.796503,
+                  "lng" : 30.597951
+               },
+               "southwest" : {
+                  "lat" : 38.7165769,
+                  "lng" : 30.51211799999999
+               }
+            }
+         },
+         "place_id" : "ChIJW9jsFX49zxQRFkvamvsByfA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

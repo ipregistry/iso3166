@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Fernando",
+               "short_name" : "San Fernando",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Fernando City Corporation",
+               "short_name" : "San Fernando City Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Fernando, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.3126155,
+                  "lng" : -61.432979
+               },
+               "southwest" : {
+                  "lat" : 10.263973,
+                  "lng" : -61.4721699
+               }
+            },
+            "location" : {
+               "lat" : 10.3015828,
+               "lng" : -61.44904529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.3126155,
+                  "lng" : -61.432979
+               },
+               "southwest" : {
+                  "lat" : 10.263973,
+                  "lng" : -61.4721699
+               }
+            }
+         },
+         "place_id" : "ChIJh7LAtvuMNYwR9kOLxnOl9PE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Telenesti",
+               "short_name" : "Telenesti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Telenești District",
+               "short_name" : "TL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Telenesti, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5191427,
+                  "lng" : 28.3877493
+               },
+               "southwest" : {
+                  "lat" : 47.484497,
+                  "lng" : 28.3377098
+               }
+            },
+            "location" : {
+               "lat" : 47.4983962,
+               "lng" : 28.3676019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5191427,
+                  "lng" : 28.3877493
+               },
+               "southwest" : {
+                  "lat" : 47.484497,
+                  "lng" : 28.3377098
+               }
+            }
+         },
+         "place_id" : "ChIJq4BGUEqay0ARNIZy6FBs3JM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

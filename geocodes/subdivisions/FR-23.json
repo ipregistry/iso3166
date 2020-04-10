@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Creuse",
+               "short_name" : "Creuse",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Creuse, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.45536999999999,
+                  "lng" : 2.6112931
+               },
+               "southwest" : {
+                  "lat" : 45.663551,
+                  "lng" : 1.3726041
+               }
+            },
+            "location" : {
+               "lat" : 46.03776329999999,
+               "lng" : 2.0627832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.45536999999999,
+                  "lng" : 2.6112931
+               },
+               "southwest" : {
+                  "lat" : 45.663551,
+                  "lng" : 1.3726041
+               }
+            }
+         },
+         "place_id" : "ChIJ0fUXP5iE-UcR0CbnYJLTBQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Artemisa",
+               "short_name" : "Artemisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Artemisa",
+               "short_name" : "Artemisa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Artemisa Province",
+               "short_name" : "Artemisa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Artemisa, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.8316458,
+                  "lng" : -82.7406979
+               },
+               "southwest" : {
+                  "lat" : 22.7981802,
+                  "lng" : -82.7880763
+               }
+            },
+            "location" : {
+               "lat" : 22.8159074,
+               "lng" : -82.7589859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.8316458,
+                  "lng" : -82.7406979
+               },
+               "southwest" : {
+                  "lat" : 22.7981802,
+                  "lng" : -82.7880763
+               }
+            }
+         },
+         "place_id" : "ChIJo0Lye5IizYgRiTvPWdKamgM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

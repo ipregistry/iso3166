@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Comoros",
+               "short_name" : "KM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Comoros",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.3373321,
+                  "lng" : 44.5646666
+               },
+               "southwest" : {
+                  "lat" : -12.4687602,
+                  "lng" : 43.1968689
+               }
+            },
+            "location" : {
+               "lat" : -11.6455,
+               "lng" : 43.3333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.3373321,
+                  "lng" : 44.5646666
+               },
+               "southwest" : {
+                  "lat" : -12.4687602,
+                  "lng" : 43.1968689
+               }
+            }
+         },
+         "place_id" : "ChIJjaQIZAPjmBgR29Tf5L5_Cvc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

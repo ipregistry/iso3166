@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belfast, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.65920999999999,
+                  "lng" : -5.808004599999999
+               },
+               "southwest" : {
+                  "lat" : 54.53055,
+                  "lng" : -6.04526
+               }
+            },
+            "location" : {
+               "lat" : 54.59728500000001,
+               "lng" : -5.93012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.65920999999999,
+                  "lng" : -5.808004599999999
+               },
+               "southwest" : {
+                  "lat" : 54.53055,
+                  "lng" : -6.04526
+               }
+            }
+         },
+         "place_id" : "ChIJO4rQ1_3_YEgRMcXH7ywWVy4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Il-Kampanella",
+               "short_name" : "Il-Kampanella",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Ġwann",
+               "short_name" : "San Ġwann",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Il-Kampanella, San Ġwann, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9102634,
+                  "lng" : 14.4753174
+               },
+               "southwest" : {
+                  "lat" : 35.9096039,
+                  "lng" : 14.4742016
+               }
+            },
+            "location" : {
+               "lat" : 35.909876,
+               "lng" : 14.4747867
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9112826302915,
+                  "lng" : 14.4761084802915
+               },
+               "southwest" : {
+                  "lat" : 35.9085846697085,
+                  "lng" : 14.4734105197085
+               }
+            }
+         },
+         "place_id" : "ChIJq5q4hVdFDhMR9lOYqSonTEs",
+         "types" : [ "establishment", "point_of_interest", "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

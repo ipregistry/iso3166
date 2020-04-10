@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Jahra",
+               "short_name" : "Al Jahra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Jahra Governorate",
+               "short_name" : "Al Jahra Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kuwait",
+               "short_name" : "KW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Jahra, Kuwait",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3745747,
+                  "lng" : 47.7926787
+               },
+               "southwest" : {
+                  "lat" : 29.2811337,
+                  "lng" : 47.6289382
+               }
+            },
+            "location" : {
+               "lat" : 29.3365728,
+               "lng" : 47.6755291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3745747,
+                  "lng" : 47.7926787
+               },
+               "southwest" : {
+                  "lat" : 29.2811337,
+                  "lng" : 47.6289382
+               }
+            }
+         },
+         "place_id" : "ChIJ12OkvRD0zz8RKyAvptR53k0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

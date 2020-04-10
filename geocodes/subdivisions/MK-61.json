@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plasnitsa",
+               "short_name" : "Plasnitsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plasnica Municipality",
+               "short_name" : "Plasnica Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Plasnitsa, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.483875,
+                  "lng" : 21.1287045
+               },
+               "southwest" : {
+                  "lat" : 41.46282009999999,
+                  "lng" : 21.1110234
+               }
+            },
+            "location" : {
+               "lat" : 41.471841,
+               "lng" : 21.1220478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.483875,
+                  "lng" : 21.1287045
+               },
+               "southwest" : {
+                  "lat" : 41.46282009999999,
+                  "lng" : 21.1110234
+               }
+            }
+         },
+         "place_id" : "ChIJ_VRMyfrKVhMRjFpvv1XndVY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

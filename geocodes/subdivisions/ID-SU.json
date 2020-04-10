@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Sumatra",
+               "short_name" : "North Sumatra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Sumatra, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.3013449,
+                  "lng" : 100.4257811
+               },
+               "southwest" : {
+                  "lat" : -0.6387609,
+                  "lng" : 97.0575619
+               }
+            },
+            "location" : {
+               "lat" : 2.1153547,
+               "lng" : 99.54509739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.3013449,
+                  "lng" : 100.4257811
+               },
+               "southwest" : {
+                  "lat" : -0.6387609,
+                  "lng" : 97.0575619
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhxxy61r51y8RC8vXCYE-p6w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

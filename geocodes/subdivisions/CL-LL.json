@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Lagos",
+               "short_name" : "Los Lagos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Lagos, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -40.2364883,
+                  "lng" : -71.5807487
+               },
+               "southwest" : {
+                  "lat" : -44.0668097,
+                  "lng" : -74.85119879999999
+               }
+            },
+            "location" : {
+               "lat" : -41.9197779,
+               "lng" : -72.14161319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.2364883,
+                  "lng" : -71.5807487
+               },
+               "southwest" : {
+                  "lat" : -44.0668097,
+                  "lng" : -74.85119879999999
+               }
+            }
+         },
+         "place_id" : "ChIJ6fJlCK47GJYRi_izE_gxn28",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

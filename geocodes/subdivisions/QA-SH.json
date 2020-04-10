@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ash-Shahaniyah",
+               "short_name" : "Ash-Shahaniyah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "الريان, Al Rayyan, Ар Раян, Αρ Ραϊάν, אראיאן, अर रायन, ラヤーン, Arajana, Ar Rayyan, Ar Rayyān, Ar-Rajjan, Ар-Райян, Ar Raqqah, Ар-Рајан, อาร์รอยยัน, 赖...ray",
+               "short_name" : "الريان, Al Rayyan, Ар Раян, Αρ Ραϊάν, אראיאן, अर रायन, ラヤーン, Arajana, Ar Rayyan, Ar Rayyān, Ar-Rajjan, Ар-Райян, Ar Raqqah, Ар-Рајан, อาร์รอยยัน, 赖...ray",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ash-Shahaniyah, Qatar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.4460917,
+                  "lng" : 51.2383461
+               },
+               "southwest" : {
+                  "lat" : 25.3299851,
+                  "lng" : 51.1589527
+               }
+            },
+            "location" : {
+               "lat" : 25.4106386,
+               "lng" : 51.1846025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.4460917,
+                  "lng" : 51.2383461
+               },
+               "southwest" : {
+                  "lat" : 25.3299851,
+                  "lng" : 51.1589527
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF9JAwt8NRj4RLXUXO7K8toE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

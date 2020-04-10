@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Škofljica",
+               "short_name" : "Škofljica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Škofljica",
+               "short_name" : "Škofljica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1291",
+               "short_name" : "1291",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1291 Škofljica, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9968959,
+                  "lng" : 14.5893571
+               },
+               "southwest" : {
+                  "lat" : 45.9709285,
+                  "lng" : 14.5509336
+               }
+            },
+            "location" : {
+               "lat" : 45.98596510000001,
+               "lng" : 14.5721903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9968959,
+                  "lng" : 14.5893571
+               },
+               "southwest" : {
+                  "lat" : 45.9709285,
+                  "lng" : 14.5509336
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWRac5MAuZUcRa2nkGW24nGw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

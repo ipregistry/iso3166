@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kėdainiai",
+               "short_name" : "Kėdainiai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kėdainiai District Municipality",
+               "short_name" : "Kėdainiai District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaunas County",
+               "short_name" : "Kaunas County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kėdainiai, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.3479939,
+                  "lng" : 24.03106
+               },
+               "southwest" : {
+                  "lat" : 55.2488069,
+                  "lng" : 23.935451
+               }
+            },
+            "location" : {
+               "lat" : 55.2881309,
+               "lng" : 23.9577279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.3479939,
+                  "lng" : 24.03106
+               },
+               "southwest" : {
+                  "lat" : 55.2488069,
+                  "lng" : 23.935451
+               }
+            }
+         },
+         "place_id" : "ChIJO1-aibBV5kYRb8yyC1TwswQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

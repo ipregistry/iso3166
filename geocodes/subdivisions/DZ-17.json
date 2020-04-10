@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Djelfa",
+               "short_name" : "Djelfa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Djelfa",
+               "short_name" : "Djelfa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Djelfa Province",
+               "short_name" : "Djelfa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Djelfa, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.80406,
+                  "lng" : 3.3521249
+               },
+               "southwest" : {
+                  "lat" : 34.526039,
+                  "lng" : 3.0620448
+               }
+            },
+            "location" : {
+               "lat" : 34.6703956,
+               "lng" : 3.2503761
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.80406,
+                  "lng" : 3.3521249
+               },
+               "southwest" : {
+                  "lat" : 34.526039,
+                  "lng" : 3.0620448
+               }
+            }
+         },
+         "place_id" : "ChIJiSEEmoTPiRIRuvsnTXlALZM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

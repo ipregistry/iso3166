@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ogooue-Ivindo",
+               "short_name" : "Ogooue-Ivindo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Gabon",
+               "short_name" : "GA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ogooue-Ivindo, Gabon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.4366602,
+                  "lng" : 14.4989947
+               },
+               "southwest" : {
+                  "lat" : -0.7536951,
+                  "lng" : 11.260839
+               }
+            },
+            "location" : {
+               "lat" : 0.8818311,
+               "lng" : 13.1740348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.4366602,
+                  "lng" : 14.4989947
+               },
+               "southwest" : {
+                  "lat" : -0.7536951,
+                  "lng" : 11.260839
+               }
+            }
+         },
+         "place_id" : "ChIJhZ42oU7-ghARQUidDo6BXME",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karaman",
+               "short_name" : "Karaman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karaman Merkez",
+               "short_name" : "Karaman Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karaman",
+               "short_name" : "Karaman",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karaman, Karaman Merkez/Karaman, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.212325,
+                  "lng" : 33.271025
+               },
+               "southwest" : {
+                  "lat" : 37.146256,
+                  "lng" : 33.179099
+               }
+            },
+            "location" : {
+               "lat" : 37.181009,
+               "lng" : 33.22224300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.212325,
+                  "lng" : 33.271025
+               },
+               "southwest" : {
+                  "lat" : 37.146256,
+                  "lng" : 33.179099
+               }
+            }
+         },
+         "place_id" : "ChIJ6-_rgGeN2RQRvCaue-jivTE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

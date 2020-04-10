@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bas-Sassandra District",
+               "short_name" : "Bas-Sassandra District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Côte d'Ivoire",
+               "short_name" : "CI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bas-Sassandra District, Côte d'Ivoire",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.5634699,
+                  "lng" : -5.7198118
+               },
+               "southwest" : {
+                  "lat" : 4.357067,
+                  "lng" : -7.596900099999999
+               }
+            },
+            "location" : {
+               "lat" : 5.356791599999999,
+               "lng" : -6.749399299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.5634699,
+                  "lng" : -5.7198118
+               },
+               "southwest" : {
+                  "lat" : 4.357067,
+                  "lng" : -7.596900099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV032TdrLlw8R-DH04Ep5XPg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

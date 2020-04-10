@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pemba South Region",
+               "short_name" : "Pemba South Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pemba South Region, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.1587894,
+                  "lng" : 39.8557178
+               },
+               "southwest" : {
+                  "lat" : -5.4870455,
+                  "lng" : 39.5627365
+               }
+            },
+            "location" : {
+               "lat" : -5.3146961,
+               "lng" : 39.7549511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.1587894,
+                  "lng" : 39.8557178
+               },
+               "southwest" : {
+                  "lat" : -5.4870455,
+                  "lng" : 39.5627365
+               }
+            }
+         },
+         "place_id" : "ChIJM1sHjv5AQhgRb3JryGuyvDY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tobi Island",
+               "short_name" : "Tobi Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Hatohobei",
+               "short_name" : "Hatohobei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tobi Island, Hatohobei, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.0129627,
+                  "lng" : 131.1286068
+               },
+               "southwest" : {
+                  "lat" : 2.9991202,
+                  "lng" : 131.1201097
+               }
+            },
+            "location" : {
+               "lat" : 3.0070658,
+               "lng" : 131.1237781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.0129627,
+                  "lng" : 131.1286068
+               },
+               "southwest" : {
+                  "lat" : 2.9991202,
+                  "lng" : 131.1201097
+               }
+            }
+         },
+         "place_id" : "ChIJx2wqvFS3vjIRJLXPczMon_0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

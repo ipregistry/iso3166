@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kayin State",
+               "short_name" : "Kayin State",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kayin State, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5090609,
+                  "lng" : 98.9191982
+               },
+               "southwest" : {
+                  "lat" : 15.2226375,
+                  "lng" : 96.3916048
+               }
+            },
+            "location" : {
+               "lat" : 16.9459346,
+               "lng" : 97.9592863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5090609,
+                  "lng" : 98.9191982
+               },
+               "southwest" : {
+                  "lat" : 15.2226375,
+                  "lng" : 96.3916048
+               }
+            }
+         },
+         "place_id" : "ChIJhcpNh9SvwjARnCFPG1AZvFE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

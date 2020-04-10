@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pattani",
+               "short_name" : "Pattani",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sabarang",
+               "short_name" : "Sabarang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Pattani District",
+               "short_name" : "อ.เมืองปัตตานี",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pattani",
+               "short_name" : "จ.ปัตตานี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94000",
+               "short_name" : "94000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pattani, Sabarang, Mueang Pattani District, Pattani 94000, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.869516,
+               "lng" : 101.2504562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.8805938,
+                  "lng" : 101.2664636
+               },
+               "southwest" : {
+                  "lat" : 6.858438,
+                  "lng" : 101.2344488
+               }
+            }
+         },
+         "place_id" : "ChIJlboulgEEszERcx9Z7n9v0u4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

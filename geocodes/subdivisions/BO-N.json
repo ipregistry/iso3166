@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pando Department",
+               "short_name" : "Pando Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bolivia",
+               "short_name" : "BO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pando Department, Bolivia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.669632999999999,
+                  "lng" : -65.28681019999999
+               },
+               "southwest" : {
+                  "lat" : -12.4984398,
+                  "lng" : -69.57474760000001
+               }
+            },
+            "location" : {
+               "lat" : -10.7988901,
+               "lng" : -66.99880109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.669632999999999,
+                  "lng" : -65.28681019999999
+               },
+               "southwest" : {
+                  "lat" : -12.4984398,
+                  "lng" : -69.57474760000001
+               }
+            }
+         },
+         "place_id" : "ChIJheWF34ABfpERd-zzIHoGxLo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

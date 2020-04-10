@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Pierre and Miquelon",
+               "short_name" : "PM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Pierre and Miquelon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.21579999999999,
+                  "lng" : -55.98249999999999
+               },
+               "southwest" : {
+                  "lat" : 46.7003,
+                  "lng" : -56.5233
+               }
+            },
+            "location" : {
+               "lat" : 46.8852,
+               "lng" : -56.3159
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.21579999999999,
+                  "lng" : -55.98249999999999
+               },
+               "southwest" : {
+                  "lat" : 46.7003,
+                  "lng" : -56.5233
+               }
+            }
+         },
+         "place_id" : "ChIJ0VcO-0tLbEsREVxs6jdncZw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

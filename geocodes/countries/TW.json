@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4545,
+                  "lng" : 123.5021012
+               },
+               "southwest" : {
+                  "lat" : 20.5170001,
+                  "lng" : 116.6665
+               }
+            },
+            "location" : {
+               "lat" : 23.69781,
+               "lng" : 120.960515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4545,
+                  "lng" : 123.5021012
+               },
+               "southwest" : {
+                  "lat" : 20.5170001,
+                  "lng" : 116.6665
+               }
+            }
+         },
+         "place_id" : "ChIJL1cHXAbzbjQRaVScvwTwEec",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

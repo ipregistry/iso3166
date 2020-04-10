@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Development Region",
+               "short_name" : "Eastern Development Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Koshi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.954189,
+                  "lng" : 87.75552399999999
+               },
+               "southwest" : {
+                  "lat" : 26.356712,
+                  "lng" : 86.91220899999999
+               }
+            },
+            "location" : {
+               "lat" : 27.0536524,
+               "lng" : 87.30161319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.954189,
+                  "lng" : 87.75552399999999
+               },
+               "southwest" : {
+                  "lat" : 26.356712,
+                  "lng" : 86.91220899999999
+               }
+            }
+         },
+         "place_id" : "ChIJrd080a5B7zkRRDUYOeQpwRw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penama Province",
+               "short_name" : "Penama Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vanuatu",
+               "short_name" : "VU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Penama Province, Vanuatu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.891066,
+                  "lng" : 168.276847
+               },
+               "southwest" : {
+                  "lat" : -16.013864,
+                  "lng" : 167.6664911
+               }
+            },
+            "location" : {
+               "lat" : -15.3795758,
+               "lng" : 167.9053182
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.891066,
+                  "lng" : 168.276847
+               },
+               "southwest" : {
+                  "lat" : -16.013864,
+                  "lng" : 167.6664911
+               }
+            }
+         },
+         "place_id" : "ChIJnW2t8-i59G4R3ewTZcSumKI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

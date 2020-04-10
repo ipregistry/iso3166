@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "แม่ฮ่องสอน",
+               "short_name" : "แม่ฮ่องสอน",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "ตำบล ปางหมู",
+               "short_name" : "ตำบล ปางหมู",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "อำเภอเมืองแม่ฮ่องสอน",
+               "short_name" : "อำเภอเมืองแม่ฮ่องสอน",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "แม่ฮ่องสอน",
+               "short_name" : "แม่ฮ่องสอน",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "58000",
+               "short_name" : "58000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "แม่ฮ่องสอน ตำบล ปางหมู อำเภอเมืองแม่ฮ่องสอน แม่ฮ่องสอน 58000, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.3012591,
+               "lng" : 97.97060860000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3117896,
+                  "lng" : 97.986616
+               },
+               "southwest" : {
+                  "lat" : 19.2907279,
+                  "lng" : 97.9546012
+               }
+            }
+         },
+         "place_id" : "ChIJ8wxCcQim2jARVKXfS9GN9ow",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

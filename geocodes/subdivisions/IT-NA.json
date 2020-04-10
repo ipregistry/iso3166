@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naples, Metropolitan City of Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7912795,
+                  "lng" : 14.132299
+               }
+            },
+            "location" : {
+               "lat" : 40.8517983,
+               "lng" : 14.26812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7912795,
+                  "lng" : 14.132299
+               }
+            }
+         },
+         "place_id" : "ChIJmX5sak8IOxMRHRl4O8Es9T0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

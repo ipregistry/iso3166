@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milne Bay Province",
+               "short_name" : "Milne Bay Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milne Bay Province, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.3170173,
+                  "lng" : 154.2840087
+               },
+               "southwest" : {
+                  "lat" : -11.657854,
+                  "lng" : 148.9655501
+               }
+            },
+            "location" : {
+               "lat" : -9.522145099999999,
+               "lng" : 150.6749653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.3170173,
+                  "lng" : 154.2840087
+               },
+               "southwest" : {
+                  "lat" : -11.657854,
+                  "lng" : 148.9655501
+               }
+            }
+         },
+         "place_id" : "ChIJ6yYys5zoIGkRD8NYavAvatI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Machinga",
+               "short_name" : "Machinga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Machinga",
+               "short_name" : "Machinga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Southern Region",
+               "short_name" : "Southern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Machinga, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.1613515,
+                  "lng" : 35.31739719999999
+               },
+               "southwest" : {
+                  "lat" : -15.1822628,
+                  "lng" : 35.2879491
+               }
+            },
+            "location" : {
+               "lat" : -15.1699934,
+               "lng" : 35.2999779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.1613515,
+                  "lng" : 35.31739719999999
+               },
+               "southwest" : {
+                  "lat" : -15.1822628,
+                  "lng" : 35.2879491
+               }
+            }
+         },
+         "place_id" : "ChIJnS9PX9Uj2RgR33-M2wD3jdY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

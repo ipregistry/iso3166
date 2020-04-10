@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kabul",
+               "short_name" : "Kabul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kabul",
+               "short_name" : "Kabul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kabul, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.7619227,
+                  "lng" : 69.44595339999999
+               },
+               "southwest" : {
+                  "lat" : 34.3454912,
+                  "lng" : 68.9495086
+               }
+            },
+            "location" : {
+               "lat" : 34.5553494,
+               "lng" : 69.207486
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7619227,
+                  "lng" : 69.44595339999999
+               },
+               "southwest" : {
+                  "lat" : 34.3454912,
+                  "lng" : 68.9495086
+               }
+            }
+         },
+         "place_id" : "ChIJSW0ePExp0TgRKUQheDVH3-s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

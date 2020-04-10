@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kachin",
+               "short_name" : "Kachin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kachin, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5468371,
+                  "lng" : 98.782304
+               },
+               "southwest" : {
+                  "lat" : 23.632082,
+                  "lng" : 95.8061721
+               }
+            },
+            "location" : {
+               "lat" : 25.850904,
+               "lng" : 97.4381355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5468371,
+                  "lng" : 98.782304
+               },
+               "southwest" : {
+                  "lat" : 23.632082,
+                  "lng" : 95.8061721
+               }
+            }
+         },
+         "place_id" : "ChIJt_N254ZzMDcRAv9omvt07J0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

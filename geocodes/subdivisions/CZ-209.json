@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prague-East District",
+               "short_name" : "Prague-East District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prague-East District, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2931434,
+                  "lng" : 14.944305
+               },
+               "southwest" : {
+                  "lat" : 49.8726643,
+                  "lng" : 14.3516401
+               }
+            },
+            "location" : {
+               "lat" : 49.9389307,
+               "lng" : 14.7924472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2931434,
+                  "lng" : 14.944305
+               },
+               "southwest" : {
+                  "lat" : 49.8726643,
+                  "lng" : 14.3516401
+               }
+            }
+         },
+         "place_id" : "ChIJ3WW5Tw2NC0cRkKkUZg-vAAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Telford and Wrekin",
+               "short_name" : "Telford and Wrekin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shropshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Telford and Wrekin, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8283724,
+                  "lng" : -2.3122116
+               },
+               "southwest" : {
+                  "lat" : 52.6145437,
+                  "lng" : -2.6673647
+               }
+            },
+            "location" : {
+               "lat" : 52.7409916,
+               "lng" : -2.4868586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8283724,
+                  "lng" : -2.3122116
+               },
+               "southwest" : {
+                  "lat" : 52.6145437,
+                  "lng" : -2.6673647
+               }
+            }
+         },
+         "place_id" : "ChIJoXQ7uHWBekgRQKBv7Z75DAM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

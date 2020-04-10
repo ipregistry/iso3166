@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ennedi Est",
+               "short_name" : "Ennedi Est",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Borkou",
+               "short_name" : "Borkou",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ennedi Est, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.0436553,
+                  "lng" : 23.9996337
+               },
+               "southwest" : {
+                  "lat" : 15.5701278,
+                  "lng" : 22.0632935
+               }
+            },
+            "location" : {
+               "lat" : 16.3420496,
+               "lng" : 23.0011989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.0436553,
+                  "lng" : 23.9996337
+               },
+               "southwest" : {
+                  "lat" : 15.5701278,
+                  "lng" : 22.0632935
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgS8-c-7qtBYRdzDY0jPmQgY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

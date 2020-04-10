@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marrakesh",
+               "short_name" : "Marrakesh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marrakesh",
+               "short_name" : "Marrakesh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marrakesh-Safi",
+               "short_name" : "Marrakesh-Safi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marrakesh, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7162668,
+                  "lng" : -7.887625799999999
+               },
+               "southwest" : {
+                  "lat" : 31.5529761,
+                  "lng" : -8.1280804
+               }
+            },
+            "location" : {
+               "lat" : 31.6294723,
+               "lng" : -7.981084500000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7162668,
+                  "lng" : -7.887625799999999
+               },
+               "southwest" : {
+                  "lat" : 31.5529761,
+                  "lng" : -8.1280804
+               }
+            }
+         },
+         "place_id" : "ChIJUZ4Xlo3urw0RuK2HT1O2UFk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

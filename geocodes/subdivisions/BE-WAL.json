@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wallonia",
+               "short_name" : "Wallonia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wallonia, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.81192,
+                  "lng" : 6.40782
+               },
+               "southwest" : {
+                  "lat" : 49.497013,
+                  "lng" : 2.8421299
+               }
+            },
+            "location" : {
+               "lat" : 50.4175637,
+               "lng" : 4.451006599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.81192,
+                  "lng" : 6.40782
+               },
+               "southwest" : {
+                  "lat" : 49.497013,
+                  "lng" : 2.8421299
+               }
+            }
+         },
+         "place_id" : "ChIJlzHhZWvxwUcRQIBML6uZAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

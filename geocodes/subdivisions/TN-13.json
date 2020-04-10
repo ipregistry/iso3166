@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ben Arous",
+               "short_name" : "Ben Arous",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "delegation of Ben Arous",
+               "short_name" : "delegation of Ben Arous",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ben Arous",
+               "short_name" : "Ben Arous",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ben Arous, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.7632374,
+                  "lng" : 10.2602512
+               },
+               "southwest" : {
+                  "lat" : 36.7297301,
+                  "lng" : 10.2090426
+               }
+            },
+            "location" : {
+               "lat" : 36.7435003,
+               "lng" : 10.2319757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7632374,
+                  "lng" : 10.2602512
+               },
+               "southwest" : {
+                  "lat" : 36.7297301,
+                  "lng" : 10.2090426
+               }
+            }
+         },
+         "place_id" : "ChIJCUE_I29J_RIRe2nMDCuC_Ts",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

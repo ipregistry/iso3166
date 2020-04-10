@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Botoșani",
+               "short_name" : "Botoșani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Botosani",
+               "short_name" : "Botosani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Botoșani County",
+               "short_name" : "BT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Botoșani, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7705485,
+                  "lng" : 26.709298
+               },
+               "southwest" : {
+                  "lat" : 47.7045958,
+                  "lng" : 26.609519
+               }
+            },
+            "location" : {
+               "lat" : 47.7406537,
+               "lng" : 26.6658127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7705485,
+                  "lng" : 26.709298
+               },
+               "southwest" : {
+                  "lat" : 47.7045958,
+                  "lng" : 26.609519
+               }
+            }
+         },
+         "place_id" : "ChIJEatP0tfrNEcRq_jEFnQ_Cfw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

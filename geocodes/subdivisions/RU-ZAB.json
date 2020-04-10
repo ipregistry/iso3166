@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Petrovsk-Zabaykalsky",
+               "short_name" : "Petrovsk-Zabaykalsky",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Petrovsk-Zabaykalsky District",
+               "short_name" : "Petrovsk-Zabaykalsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zabaykalsky Krai",
+               "short_name" : "Zabaykalsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Petrovsk-Zabaykalsky, Zabaykalsky Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.336521,
+                  "lng" : 108.9119511
+               },
+               "southwest" : {
+                  "lat" : 51.221096,
+                  "lng" : 108.7728329
+               }
+            },
+            "location" : {
+               "lat" : 51.2589417,
+               "lng" : 108.8330089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.336521,
+                  "lng" : 108.9119511
+               },
+               "southwest" : {
+                  "lat" : 51.221096,
+                  "lng" : 108.7728329
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi3NaZhGbsF0RWhXUyU1cGZY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

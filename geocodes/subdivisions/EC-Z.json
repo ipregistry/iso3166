@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chinchipe",
+               "short_name" : "Chinchipe",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zamora",
+               "short_name" : "Zamora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zamora",
+               "short_name" : "Zamora",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provincia de Zamora Chinchipe",
+               "short_name" : "Provincia de Zamora Chinchipe",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chinchipe, Zamora, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.0628128,
+                  "lng" : -78.9623206
+               },
+               "southwest" : {
+                  "lat" : -4.063778,
+                  "lng" : -78.96258569999999
+               }
+            },
+            "location" : {
+               "lat" : -4.0632626,
+               "lng" : -78.9624688
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.061946419708498,
+                  "lng" : -78.96110416970849
+               },
+               "southwest" : {
+                  "lat" : -4.064644380291503,
+                  "lng" : -78.96380213029151
+               }
+            }
+         },
+         "place_id" : "ChIJjWC3njoUy5ERg2nyalYyYH8",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

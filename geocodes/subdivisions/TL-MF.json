@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manufahi",
+               "short_name" : "Manufahi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manufahi, Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.738135,
+                  "lng" : 126.0595401
+               },
+               "southwest" : {
+                  "lat" : -9.198385999999999,
+                  "lng" : 125.587778
+               }
+            },
+            "location" : {
+               "lat" : -9.014549499999999,
+               "lng" : 125.8279959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.738135,
+                  "lng" : 126.0595401
+               },
+               "southwest" : {
+                  "lat" : -9.198385999999999,
+                  "lng" : 125.587778
+               }
+            }
+         },
+         "place_id" : "ChIJryemO2Vz_iwRzbmb_1Ohx3o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

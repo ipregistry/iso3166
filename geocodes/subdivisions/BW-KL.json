@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kgatleng",
+               "short_name" : "Kgatleng",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kgatleng District",
+               "short_name" : "Kgatleng District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Botswana",
+               "short_name" : "BW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kgatleng, Botswana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5624137,
+                  "lng" : 26.9604493
+               },
+               "southwest" : {
+                  "lat" : -24.6919435,
+                  "lng" : 25.9028879
+               }
+            },
+            "location" : {
+               "lat" : -24.1970445,
+               "lng" : 26.2304616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5624137,
+                  "lng" : 26.9604493
+               },
+               "southwest" : {
+                  "lat" : -24.6919435,
+                  "lng" : 25.9028879
+               }
+            }
+         },
+         "place_id" : "ChIJGdzUrjqoux4RRXV8A9SJXkw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tapoa",
+               "short_name" : "Tapoa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Est Region",
+               "short_name" : "Est Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tapoa, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.835267,
+                  "lng" : 2.405395
+               },
+               "southwest" : {
+                  "lat" : 11.390404,
+                  "lng" : 1.188077
+               }
+            },
+            "location" : {
+               "lat" : 12.2497072,
+               "lng" : 1.6760691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.835267,
+                  "lng" : 2.405395
+               },
+               "southwest" : {
+                  "lat" : 11.390404,
+                  "lng" : 1.188077
+               }
+            }
+         },
+         "place_id" : "ChIJbbenpfd90RER906Z4rLwQT4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

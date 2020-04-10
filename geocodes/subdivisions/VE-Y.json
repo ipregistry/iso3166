@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delta Amacuro",
+               "short_name" : "Delta Amacuro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delta Amacuro, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.05898,
+                  "lng" : -59.74104000000001
+               },
+               "southwest" : {
+                  "lat" : 7.761990000000001,
+                  "lng" : -62.5749229
+               }
+            },
+            "location" : {
+               "lat" : 8.8499307,
+               "lng" : -61.14031960000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.05898,
+                  "lng" : -59.74104000000001
+               },
+               "southwest" : {
+                  "lat" : 7.761990000000001,
+                  "lng" : -62.5749229
+               }
+            }
+         },
+         "place_id" : "ChIJnZee-HzwNIwRAO5y_rOF_WY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

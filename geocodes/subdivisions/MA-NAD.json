@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nador",
+               "short_name" : "Nador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nador Province",
+               "short_name" : "Nador Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oriental",
+               "short_name" : "Oriental",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nador, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2065182,
+                  "lng" : -2.8974305
+               },
+               "southwest" : {
+                  "lat" : 35.1237717,
+                  "lng" : -2.9779407
+               }
+            },
+            "location" : {
+               "lat" : 35.1686165,
+               "lng" : -2.9275836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2065182,
+                  "lng" : -2.8974305
+               },
+               "southwest" : {
+                  "lat" : 35.1237717,
+                  "lng" : -2.9779407
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG-TmK_andw0Rrr7-iAqo8QY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

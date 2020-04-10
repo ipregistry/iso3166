@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandar Bushehr",
+               "short_name" : "Bandar Bushehr",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bushehr Province",
+               "short_name" : "Bushehr Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bandar Bushehr, Bushehr Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0048376,
+                  "lng" : 50.9981918
+               },
+               "southwest" : {
+                  "lat" : 28.817003,
+                  "lng" : 50.8019318
+               }
+            },
+            "location" : {
+               "lat" : 28.9233837,
+               "lng" : 50.820314
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0048376,
+                  "lng" : 50.9981918
+               },
+               "southwest" : {
+                  "lat" : 28.817003,
+                  "lng" : 50.8019318
+               }
+            }
+         },
+         "place_id" : "ChIJ3XBRBE1PtD8RpnsnDhBcJmw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

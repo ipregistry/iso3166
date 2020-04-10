@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yerevan",
+               "short_name" : "Yerevan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yerevan",
+               "short_name" : "Yerevan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Armenia",
+               "short_name" : "AM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yerevan, Armenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2426667,
+                  "lng" : 44.6150493
+               },
+               "southwest" : {
+                  "lat" : 40.0641141,
+                  "lng" : 44.3620849
+               }
+            },
+            "location" : {
+               "lat" : 40.1872023,
+               "lng" : 44.515209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2426667,
+                  "lng" : 44.6150493
+               },
+               "southwest" : {
+                  "lat" : 40.0641141,
+                  "lng" : 44.3620849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW4v8uNqiakARalLah655FD0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

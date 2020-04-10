@@ -1,0 +1,358 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Svalbard",
+               "short_name" : "Svalbard",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Svalbard, Svalbard and Jan Mayen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 80.9180674,
+                  "lng" : 36.4074913
+               },
+               "southwest" : {
+                  "lat" : 73.92855279999999,
+                  "lng" : 10.3820801
+               }
+            },
+            "location" : {
+               "lat" : 77.8749725,
+               "lng" : 20.9751821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 80.9180674,
+                  "lng" : 36.4074913
+               },
+               "southwest" : {
+                  "lat" : 73.92855279999999,
+                  "lng" : 10.3820801
+               }
+            }
+         },
+         "place_id" : "ChIJScCjT9zPoUURdeg1G-dz8ys",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Longyearbyen",
+               "short_name" : "Longyearbyen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Svalbard",
+               "short_name" : "Svalbard",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Longyearbyen, Svalbard and Jan Mayen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 78.2522963,
+                  "lng" : 15.7220368
+               },
+               "southwest" : {
+                  "lat" : 78.1984382,
+                  "lng" : 15.3938198
+               }
+            },
+            "location" : {
+               "lat" : 78.22317220000001,
+               "lng" : 15.6267229
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 78.2522963,
+                  "lng" : 15.7220368
+               },
+               "southwest" : {
+                  "lat" : 78.1984382,
+                  "lng" : 15.3938198
+               }
+            }
+         },
+         "place_id" : "ChIJ31dFT9hSnEUR7JVkocqyhto",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Svalbard and Jan Mayen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 80.92842569999999,
+                  "lng" : 34.8046879
+               },
+               "southwest" : {
+                  "lat" : 70.4662074,
+                  "lng" : -10.5468752
+               }
+            },
+            "location" : {
+               "lat" : 77.55360399999999,
+               "lng" : 23.6702719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 80.92842569999999,
+                  "lng" : 34.8046879
+               },
+               "southwest" : {
+                  "lat" : 70.4662074,
+                  "lng" : -10.5468752
+               }
+            }
+         },
+         "place_id" : "ChIJgQmY0JVjd0URQdKkzJ42A4U",
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Svalbard Airport",
+               "short_name" : "Svalbard Airport",
+               "types" : [ "airport", "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Longyearbyen",
+               "short_name" : "Longyearbyen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Svalbard",
+               "short_name" : "Svalbard",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Svalbard Airport, Longyearbyen, Svalbard and Jan Mayen",
+         "geometry" : {
+            "location" : {
+               "lat" : 78.24608409999999,
+               "lng" : 15.4655628
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 78.2474330802915,
+                  "lng" : 15.4669117802915
+               },
+               "southwest" : {
+                  "lat" : 78.24473511970848,
+                  "lng" : 15.4642138197085
+               }
+            }
+         },
+         "place_id" : "ChIJsW9tK6RSnEURlya2A_vCWuQ",
+         "plus_code" : {
+            "compound_code" : "6FW8+C6 Longyearbyen, Svalbard & Jan Mayen",
+            "global_code" : "CFCQ6FW8+C6"
+         },
+         "types" : [ "airport", "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Svalbard",
+               "short_name" : "Svalbard",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Svalbard and Jan Mayen",
+         "geometry" : {
+            "location" : {
+               "lat" : 78.2356772,
+               "lng" : 15.4913249
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 78.23702618029149,
+                  "lng" : 15.4926738802915
+               },
+               "southwest" : {
+                  "lat" : 78.23432821970849,
+                  "lng" : 15.4899759197085
+               }
+            }
+         },
+         "place_id" : "ChIJ8e8Z3qtUnEURYkaSpXBG-hU",
+         "plus_code" : {
+            "compound_code" : "6FPR+7G Longyearbyen, Svalbard & Jan Mayen",
+            "global_code" : "CFCQ6FPR+7G"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Longyearbyen",
+               "short_name" : "Longyearbyen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Svalbard",
+               "short_name" : "Svalbard",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Longyearbyen, Svalbard and Jan Mayen",
+         "geometry" : {
+            "location" : {
+               "lat" : 78.22279,
+               "lng" : 15.6257581
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 78.22413898029151,
+                  "lng" : 15.6271070802915
+               },
+               "southwest" : {
+                  "lat" : 78.22144101970851,
+                  "lng" : 15.6244091197085
+               }
+            }
+         },
+         "place_id" : "ChIJ8YfBvShTnEUR52fgkLpW-B0",
+         "plus_code" : {
+            "compound_code" : "6JFG+48 Longyearbyen, Svalbard & Jan Mayen",
+            "global_code" : "CFCQ6JFG+48"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Longyearbyen",
+               "short_name" : "Longyearbyen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Svalbard",
+               "short_name" : "Svalbard",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Longyearbyen, Svalbard and Jan Mayen",
+         "geometry" : {
+            "location" : {
+               "lat" : 78.2226819,
+               "lng" : 15.6516987
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 78.22403088029151,
+                  "lng" : 15.6530476802915
+               },
+               "southwest" : {
+                  "lat" : 78.2213329197085,
+                  "lng" : 15.6503497197085
+               }
+            }
+         },
+         "place_id" : "ChIJwfobutdSnEUR3c3Z6F2CEsE",
+         "plus_code" : {
+            "compound_code" : "6MF2+3M Longyearbyen, Svalbard & Jan Mayen",
+            "global_code" : "CFCQ6MF2+3M"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spitsbergen",
+               "short_name" : "Spitsbergen",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Svalbard",
+               "short_name" : "Svalbard",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spitsbergen, Svalbard and Jan Mayen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 80.0623267,
+                  "lng" : 21.4986979
+               },
+               "southwest" : {
+                  "lat" : 76.5609166,
+                  "lng" : 10.644833
+               }
+            },
+            "location" : {
+               "lat" : 78.90136,
+               "lng" : 13.4838877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 80.0623267,
+                  "lng" : 21.4986979
+               },
+               "southwest" : {
+                  "lat" : 76.5609166,
+                  "lng" : 10.644833
+               }
+            }
+         },
+         "place_id" : "ChIJndWJieyxnUURajw783fyZ2M",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

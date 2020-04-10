@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tver Oblast",
+               "short_name" : "Tver Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tver Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.863195,
+                  "lng" : 38.327015
+               },
+               "southwest" : {
+                  "lat" : 55.6314649,
+                  "lng" : 30.77031
+               }
+            },
+            "location" : {
+               "lat" : 57.0021654,
+               "lng" : 33.9853142
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.863195,
+                  "lng" : 38.327015
+               },
+               "southwest" : {
+                  "lat" : 55.6314649,
+                  "lng" : 30.77031
+               }
+            }
+         },
+         "place_id" : "ChIJAS4yugIKt0YRizHZ99vDWRY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London Borough of Tower Hamlets",
+               "short_name" : "London Borough of Tower Hamlets",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London Borough of Tower Hamlets, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5446859,
+                  "lng" : 0.0098639
+               },
+               "southwest" : {
+                  "lat" : 51.484503,
+                  "lng" : -0.08018989999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.52026069999999,
+               "lng" : -0.0293396
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5446859,
+                  "lng" : 0.0098639
+               },
+               "southwest" : {
+                  "lat" : 51.484503,
+                  "lng" : -0.08018989999999999
+               }
+            }
+         },
+         "place_id" : "ChIJqdKqVc0CdkgRgGe-JsaFEQQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

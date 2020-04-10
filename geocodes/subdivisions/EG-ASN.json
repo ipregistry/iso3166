@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aswan",
+               "short_name" : "Aswan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aswan Governorate",
+               "short_name" : "Aswan Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aswan, Aswan Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.1131931,
+                  "lng" : 32.9207739
+               },
+               "southwest" : {
+                  "lat" : 24.0714761,
+                  "lng" : 32.8794385
+               }
+            },
+            "location" : {
+               "lat" : 24.088938,
+               "lng" : 32.8998293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.1131931,
+                  "lng" : 32.9207739
+               },
+               "southwest" : {
+                  "lat" : 24.0714761,
+                  "lng" : 32.8794385
+               }
+            }
+         },
+         "place_id" : "ChIJXw6jsVp7NhQRy7zKN-OfEPs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

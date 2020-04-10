@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borovnica",
+               "short_name" : "Borovnica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borovnica",
+               "short_name" : "Borovnica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Vrhnika",
+               "short_name" : "Vrhnika",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1353",
+               "short_name" : "1353",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1353 Borovnica, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9358871,
+                  "lng" : 14.3847739
+               },
+               "southwest" : {
+                  "lat" : 45.9012234,
+                  "lng" : 14.345481
+               }
+            },
+            "location" : {
+               "lat" : 45.9193034,
+               "lng" : 14.3640682
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9358871,
+                  "lng" : 14.3847739
+               },
+               "southwest" : {
+                  "lat" : 45.9012234,
+                  "lng" : 14.345481
+               }
+            }
+         },
+         "place_id" : "ChIJOYEW3mLVekcRBBLQRRHW7yU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

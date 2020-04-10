@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rason",
+               "short_name" : "Rason",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rason",
+               "short_name" : "Rason",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Korea",
+               "short_name" : "KP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rason, North Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.27367659999999,
+                  "lng" : 130.332437
+               },
+               "southwest" : {
+                  "lat" : 42.2286445,
+                  "lng" : 130.2705527
+               }
+            },
+            "location" : {
+               "lat" : 42.2569063,
+               "lng" : 130.2977186
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.27367659999999,
+                  "lng" : 130.332437
+               },
+               "southwest" : {
+                  "lat" : 42.2286445,
+                  "lng" : 130.2705527
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3QdcN1x2yl8RlZt6MFFief0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

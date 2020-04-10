@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qala",
+               "short_name" : "Qala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qala, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0515066,
+                  "lng" : 14.3370749
+               },
+               "southwest" : {
+                  "lat" : 36.0250908,
+                  "lng" : 14.2952699
+               }
+            },
+            "location" : {
+               "lat" : 36.0388628,
+               "lng" : 14.318101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0515066,
+                  "lng" : 14.3370749
+               },
+               "southwest" : {
+                  "lat" : 36.0250908,
+                  "lng" : 14.2952699
+               }
+            }
+         },
+         "place_id" : "ChIJVzM03RlLDhMRgdq-1_-oOSQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viqueque",
+               "short_name" : "Viqueque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viqueque",
+               "short_name" : "Viqueque",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Viqueque, Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.851022499999999,
+                  "lng" : 126.3705826
+               },
+               "southwest" : {
+                  "lat" : -8.8733266,
+                  "lng" : 126.3552189
+               }
+            },
+            "location" : {
+               "lat" : -8.8597918,
+               "lng" : 126.3633516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.851022499999999,
+                  "lng" : 126.3705826
+               },
+               "southwest" : {
+                  "lat" : -8.8733266,
+                  "lng" : 126.3552189
+               }
+            }
+         },
+         "place_id" : "ChIJEdvJxQyW_SwRwdFkXUQAEFE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

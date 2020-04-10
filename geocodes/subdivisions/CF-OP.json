@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ouham-Pendé",
+               "short_name" : "Ouham-Pendé",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Central African Republic",
+               "short_name" : "CF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ouham-Pendé, Central African Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.880190000000001,
+                  "lng" : 17.0902031
+               },
+               "southwest" : {
+                  "lat" : 5.642713,
+                  "lng" : 15.1015139
+               }
+            },
+            "location" : {
+               "lat" : 6.4850984,
+               "lng" : 16.1580937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.880190000000001,
+                  "lng" : 17.0902031
+               },
+               "southwest" : {
+                  "lat" : 5.642713,
+                  "lng" : 15.1015139
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxYG1DzPl6RARt2ILnmAjMec",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

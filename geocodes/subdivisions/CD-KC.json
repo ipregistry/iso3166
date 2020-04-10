@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lulua",
+               "short_name" : "Lulua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kasai Occidental",
+               "short_name" : "Kasai Occidental",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lulua, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.2194799,
+                  "lng" : 23.6618043
+               },
+               "southwest" : {
+                  "lat" : -7.950436799999999,
+                  "lng" : 21.5953445
+               }
+            },
+            "location" : {
+               "lat" : -6.2514921,
+               "lng" : 22.2384017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.2194799,
+                  "lng" : 23.6618043
+               },
+               "southwest" : {
+                  "lat" : -7.950436799999999,
+                  "lng" : 21.5953445
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrU3n_7ldJxoReygORQXHMko",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

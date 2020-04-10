@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mueang Phrae District",
+               "short_name" : "Mueang Phrae District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Phrae",
+               "short_name" : "จ.แพร่",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mueang Phrae District, Phrae, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.2783299,
+                  "lng" : 100.4176679
+               },
+               "southwest" : {
+                  "lat" : 17.8889343,
+                  "lng" : 100.0366218
+               }
+            },
+            "location" : {
+               "lat" : 18.144543,
+               "lng" : 100.1402831
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.2783299,
+                  "lng" : 100.4176679
+               },
+               "southwest" : {
+                  "lat" : 17.8889343,
+                  "lng" : 100.0366218
+               }
+            }
+         },
+         "place_id" : "ChIJv7Q5psLA2DARUHGK-sVGAwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

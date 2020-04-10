@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnsley",
+               "short_name" : "Barnsley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnsley",
+               "short_name" : "Barnsley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barnsley, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6013373,
+                  "lng" : -1.3683433
+               },
+               "southwest" : {
+                  "lat" : 53.5271566,
+                  "lng" : -1.5282373
+               }
+            },
+            "location" : {
+               "lat" : 53.55263,
+               "lng" : -1.479726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6013373,
+                  "lng" : -1.3683433
+               },
+               "southwest" : {
+                  "lat" : 53.5271566,
+                  "lng" : -1.5282373
+               }
+            }
+         },
+         "place_id" : "ChIJw2i3wbdieUgRitBTvwJsR8I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

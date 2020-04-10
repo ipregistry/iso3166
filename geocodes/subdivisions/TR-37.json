@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kastamonu",
+               "short_name" : "Kastamonu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kastamonu Merkez",
+               "short_name" : "Kastamonu Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kastamonu",
+               "short_name" : "Kastamonu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kastamonu, Kastamonu Merkez/Kastamonu, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.437135,
+                  "lng" : 33.8178501
+               },
+               "southwest" : {
+                  "lat" : 41.358148,
+                  "lng" : 33.758489
+               }
+            },
+            "location" : {
+               "lat" : 41.376625,
+               "lng" : 33.776497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.437135,
+                  "lng" : 33.8178501
+               },
+               "southwest" : {
+                  "lat" : 41.358148,
+                  "lng" : 33.758489
+               }
+            }
+         },
+         "place_id" : "ChIJkTgWQBL6hEARMtURKaCwGdg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

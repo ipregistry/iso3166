@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wigan",
+               "short_name" : "Wigan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wigan",
+               "short_name" : "Wigan",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wigan, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.57304329999999,
+                  "lng" : -2.6003479
+               },
+               "southwest" : {
+                  "lat" : 53.5014838,
+                  "lng" : -2.70243
+               }
+            },
+            "location" : {
+               "lat" : 53.5450645,
+               "lng" : -2.6325074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57304329999999,
+                  "lng" : -2.6003479
+               },
+               "southwest" : {
+                  "lat" : 53.5014838,
+                  "lng" : -2.70243
+               }
+            }
+         },
+         "place_id" : "ChIJ06QXVTQEe0gRU9nyA2umAlc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

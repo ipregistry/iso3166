@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marinduque",
+               "short_name" : "Marinduque",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "MIMAROPA",
+               "short_name" : "MIMAROPA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marinduque, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5704072,
+                  "lng" : 122.151661
+               },
+               "southwest" : {
+                  "lat" : 13.1991699,
+                  "lng" : 121.8086814
+               }
+            },
+            "location" : {
+               "lat" : 13.3642287,
+               "lng" : 121.947311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5704072,
+                  "lng" : 122.151661
+               },
+               "southwest" : {
+                  "lat" : 13.1991699,
+                  "lng" : 121.8086814
+               }
+            }
+         },
+         "place_id" : "ChIJ-84eHxIiozMRp-sYaMJZgz4",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

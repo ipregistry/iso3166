@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Żebbuġ",
+               "short_name" : "Żebbuġ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Żebbuġ, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.082903,
+                  "lng" : 14.266588
+               },
+               "southwest" : {
+                  "lat" : 36.0490571,
+                  "lng" : 14.2263722
+               }
+            },
+            "location" : {
+               "lat" : 36.0716403,
+               "lng" : 14.245408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.082903,
+                  "lng" : 14.266588
+               },
+               "southwest" : {
+                  "lat" : 36.0490571,
+                  "lng" : 14.2263722
+               }
+            }
+         },
+         "place_id" : "ChIJbz3i9AW1DxMRIlw85gnMsV8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

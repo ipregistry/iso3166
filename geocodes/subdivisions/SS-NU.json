@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Nile",
+               "short_name" : "Upper Nile",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Sudan",
+               "short_name" : "SS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Nile, South Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.2363889,
+                  "lng" : 34.1455171
+               },
+               "southwest" : {
+                  "lat" : 7.980002,
+                  "lng" : 30.7607
+               }
+            },
+            "location" : {
+               "lat" : 9.8894202,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.2363889,
+                  "lng" : 34.1455171
+               },
+               "southwest" : {
+                  "lat" : 7.980002,
+                  "lng" : 30.7607
+               }
+            }
+         },
+         "place_id" : "ChIJQZ1Nj3vX4hYRcByAdppfNj0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

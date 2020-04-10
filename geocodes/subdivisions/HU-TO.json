@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tolna",
+               "short_name" : "Tolna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tolna, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5007989,
+                  "lng" : 18.8259429
+               },
+               "southwest" : {
+                  "lat" : 46.3655339,
+                  "lng" : 18.7066851
+               }
+            },
+            "location" : {
+               "lat" : 46.4258265,
+               "lng" : 18.7752069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5007989,
+                  "lng" : 18.8259429
+               },
+               "southwest" : {
+                  "lat" : 46.3655339,
+                  "lng" : 18.7066851
+               }
+            }
+         },
+         "place_id" : "ChIJE-9QLDvxQkcRNIiaxgVfkpM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

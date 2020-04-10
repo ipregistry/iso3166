@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emberá-Wounaan Comarca",
+               "short_name" : "Emberá-Wounaan Comarca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Panama",
+               "short_name" : "PA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Emberá-Wounaan Comarca, Panama",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.778977899999999,
+                  "lng" : -77.2487153
+               },
+               "southwest" : {
+                  "lat" : 7.586934999999999,
+                  "lng" : -78.3392571
+               }
+            },
+            "location" : {
+               "lat" : 8.376698299999999,
+               "lng" : -77.65361249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.778977899999999,
+                  "lng" : -77.2487153
+               },
+               "southwest" : {
+                  "lat" : 7.586934999999999,
+                  "lng" : -78.3392571
+               }
+            }
+         },
+         "place_id" : "ChIJzWQPV2YQUo4RQWmnp-tuN48",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

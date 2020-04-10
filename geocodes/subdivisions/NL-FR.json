@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Friesland",
+               "short_name" : "FR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Friesland, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5145975,
+                  "lng" : 6.4274762
+               },
+               "southwest" : {
+                  "lat" : 52.8006928,
+                  "lng" : 4.8455655
+               }
+            },
+            "location" : {
+               "lat" : 53.1641642,
+               "lng" : 5.7817542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5145975,
+                  "lng" : 6.4274762
+               },
+               "southwest" : {
+                  "lat" : 52.8006928,
+                  "lng" : 4.8455655
+               }
+            }
+         },
+         "place_id" : "ChIJleoU4ozkyEcRQFwejVreAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

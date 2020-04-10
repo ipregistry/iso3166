@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kočevje",
+               "short_name" : "Kočevje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kočevje",
+               "short_name" : "Kočevje",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kočevje",
+               "short_name" : "Kočevje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1330",
+               "short_name" : "1330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1330 Kočevje, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6612108,
+                  "lng" : 14.8861107
+               },
+               "southwest" : {
+                  "lat" : 45.6119211,
+                  "lng" : 14.8144785
+               }
+            },
+            "location" : {
+               "lat" : 45.6409009,
+               "lng" : 14.8633128
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6612108,
+                  "lng" : 14.8861107
+               },
+               "southwest" : {
+                  "lat" : 45.6119211,
+                  "lng" : 14.8144785
+               }
+            }
+         },
+         "place_id" : "ChIJM4Ih6GvuZEcRcTAV2aB4eW0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

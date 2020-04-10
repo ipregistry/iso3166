@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biombo",
+               "short_name" : "Biombo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea-Bissau",
+               "short_name" : "GW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biombo, Guinea-Bissau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.026648,
+                  "lng" : -15.6145911
+               },
+               "southwest" : {
+                  "lat" : 11.7344639,
+                  "lng" : -15.972078
+               }
+            },
+            "location" : {
+               "lat" : 11.8529061,
+               "lng" : -15.7351171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.026648,
+                  "lng" : -15.6145911
+               },
+               "southwest" : {
+                  "lat" : 11.7344639,
+                  "lng" : -15.972078
+               }
+            }
+         },
+         "place_id" : "ChIJ09Et2K3d5g4RDlV2uD2gYmU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

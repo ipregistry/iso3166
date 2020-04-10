@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9919939,
+                  "lng" : -3.0776588
+               },
+               "southwest" : {
+                  "lat" : 55.8904228,
+                  "lng" : -3.3330187
+               }
+            },
+            "location" : {
+               "lat" : 55.953252,
+               "lng" : -3.188267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9919939,
+                  "lng" : -3.0776588
+               },
+               "southwest" : {
+                  "lat" : 55.8904228,
+                  "lng" : -3.3330187
+               }
+            }
+         },
+         "place_id" : "ChIJIyaYpQC4h0gRJxfnfHsU8mQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fukushima",
+               "short_name" : "Fukushima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fukushima",
+               "short_name" : "Fukushima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fukushima, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.976602,
+                  "lng" : 140.57134
+               },
+               "southwest" : {
+                  "lat" : 37.624212,
+                  "lng" : 140.2293318
+               }
+            },
+            "location" : {
+               "lat" : 37.7607991,
+               "lng" : 140.4747855
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.976602,
+                  "lng" : 140.57134
+               },
+               "southwest" : {
+                  "lat" : 37.624212,
+                  "lng" : 140.2293318
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2U06KtGOil8RRuNPwQ9NBgw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canar",
+               "short_name" : "Canar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cañar",
+               "short_name" : "Cañar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cañar Province",
+               "short_name" : "Cañar Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canar, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -2.5385129,
+                  "lng" : -78.9242364
+               },
+               "southwest" : {
+                  "lat" : -2.5782558,
+                  "lng" : -78.9535904
+               }
+            },
+            "location" : {
+               "lat" : -2.555695,
+               "lng" : -78.9344814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.5385129,
+                  "lng" : -78.9242364
+               },
+               "southwest" : {
+                  "lat" : -2.5782558,
+                  "lng" : -78.9535904
+               }
+            }
+         },
+         "place_id" : "ChIJrUF4-NlgzZERhtm9zfPtgw8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

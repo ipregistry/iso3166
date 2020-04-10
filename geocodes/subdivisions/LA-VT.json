@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vientiane",
+               "short_name" : "Vientiane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vientiane Prefecture",
+               "short_name" : "เวียงจันทน์",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Laos",
+               "short_name" : "LA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vientiane, Laos",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.0361139,
+                  "lng" : 102.6774216
+               },
+               "southwest" : {
+                  "lat" : 17.8847653,
+                  "lng" : 102.5341096
+               }
+            },
+            "location" : {
+               "lat" : 17.9757058,
+               "lng" : 102.6331035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.0361139,
+                  "lng" : 102.6774216
+               },
+               "southwest" : {
+                  "lat" : 17.8847653,
+                  "lng" : 102.5341096
+               }
+            }
+         },
+         "place_id" : "ChIJIXvtBoZoJDER3-7BGIaxkx8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

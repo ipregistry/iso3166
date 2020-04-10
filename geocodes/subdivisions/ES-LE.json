@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "León, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.623248,
+                  "lng" : -5.554772499999999
+               },
+               "southwest" : {
+                  "lat" : 42.5839633,
+                  "lng" : -5.6000101
+               }
+            },
+            "location" : {
+               "lat" : 42.5987263,
+               "lng" : -5.5670959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.623248,
+                  "lng" : -5.554772499999999
+               },
+               "southwest" : {
+                  "lat" : 42.5839633,
+                  "lng" : -5.6000101
+               }
+            }
+         },
+         "place_id" : "ChIJ2RteDZqaNw0R8-7x1PqfhH0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kerala, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.7883001,
+                  "lng" : 77.3956369
+               },
+               "southwest" : {
+                  "lat" : 8.2929599,
+                  "lng" : 74.861
+               }
+            },
+            "location" : {
+               "lat" : 10.8505159,
+               "lng" : 76.2710833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.7883001,
+                  "lng" : 77.3956369
+               },
+               "southwest" : {
+                  "lat" : 8.2929599,
+                  "lng" : 74.861
+               }
+            }
+         },
+         "place_id" : "ChIJW_Wc1P8SCDsRmXw47fuQvWQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

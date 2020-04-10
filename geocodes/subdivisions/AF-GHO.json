@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghor",
+               "short_name" : "Ghor",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ghor, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.276925,
+                  "lng" : 66.736645
+               },
+               "southwest" : {
+                  "lat" : 33.133217,
+                  "lng" : 63.19821899999999
+               }
+            },
+            "location" : {
+               "lat" : 34.0995776,
+               "lng" : 64.90595499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.276925,
+                  "lng" : 66.736645
+               },
+               "southwest" : {
+                  "lat" : 33.133217,
+                  "lng" : 63.19821899999999
+               }
+            }
+         },
+         "place_id" : "ChIJ6d-j9sWRLz8R7f9Wmxx2ptU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

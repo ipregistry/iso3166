@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Abaco",
+               "short_name" : "South Abaco",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Abaco, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.2823889,
+                  "lng" : -77.11476089999999
+               },
+               "southwest" : {
+                  "lat" : 25.8434705,
+                  "lng" : -77.54620790000001
+               }
+            },
+            "location" : {
+               "lat" : 26.0640591,
+               "lng" : -77.2635038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2823889,
+                  "lng" : -77.11476089999999
+               },
+               "southwest" : {
+                  "lat" : 25.8434705,
+                  "lng" : -77.54620790000001
+               }
+            }
+         },
+         "place_id" : "ChIJ85nYGAxZJIkRn47WtyOyi0o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

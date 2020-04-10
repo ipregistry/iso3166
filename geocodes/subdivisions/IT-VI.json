@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vicenza",
+               "short_name" : "Vicenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vicenza",
+               "short_name" : "Vicenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Vicenza",
+               "short_name" : "VI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "36100",
+               "short_name" : "36100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "36100 Vicenza, Province of Vicenza, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6039311,
+                  "lng" : 11.6108189
+               },
+               "southwest" : {
+                  "lat" : 45.4965127,
+                  "lng" : 11.4910099
+               }
+            },
+            "location" : {
+               "lat" : 45.5454787,
+               "lng" : 11.5354214
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6039311,
+                  "lng" : 11.6108189
+               },
+               "southwest" : {
+                  "lat" : 45.4965127,
+                  "lng" : 11.4910099
+               }
+            }
+         },
+         "place_id" : "ChIJb1HS5H0xf0cRvECEC5PAjmo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

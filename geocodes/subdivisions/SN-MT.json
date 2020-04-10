@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matam",
+               "short_name" : "Matam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matam",
+               "short_name" : "Matam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Matam Region",
+               "short_name" : "Matam Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matam, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.6690317,
+                  "lng" : -13.2462503
+               },
+               "southwest" : {
+                  "lat" : 15.6390722,
+                  "lng" : -13.2636738
+               }
+            },
+            "location" : {
+               "lat" : 15.6600225,
+               "lng" : -13.2576906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.6690317,
+                  "lng" : -13.2462503
+               },
+               "southwest" : {
+                  "lat" : 15.6390722,
+                  "lng" : -13.2636738
+               }
+            }
+         },
+         "place_id" : "ChIJu3v1lwCU8g4R3U2x_FeyMlo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

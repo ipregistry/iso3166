@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basilan",
+               "short_name" : "Basilan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Basilan",
+               "short_name" : "Basilan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zamboanga Peninsula",
+               "short_name" : "Zamboanga Peninsula",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Basilan, Philippines",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.706642,
+               "lng" : 121.973673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.7177235,
+                  "lng" : 121.9896804
+               },
+               "southwest" : {
+                  "lat" : 6.6955602,
+                  "lng" : 121.9576656
+               }
+            }
+         },
+         "place_id" : "ChIJ4VXMEb8MUDIRGvJ_xlLMIgA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

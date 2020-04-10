@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mohales Hoek",
+               "short_name" : "Mohales Hoek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mohale's Hoek",
+               "short_name" : "Mohale's Hoek",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lesotho",
+               "short_name" : "LS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mohales Hoek, Lesotho",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.1215401,
+                  "lng" : 27.4988436
+               },
+               "southwest" : {
+                  "lat" : -30.1672616,
+                  "lng" : 27.4296428
+               }
+            },
+            "location" : {
+               "lat" : -30.1425917,
+               "lng" : 27.4673845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.1215401,
+                  "lng" : 27.4988436
+               },
+               "southwest" : {
+                  "lat" : -30.1672616,
+                  "lng" : 27.4296428
+               }
+            }
+         },
+         "place_id" : "ChIJORyoM0jyix4RJmZygaVlGwk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

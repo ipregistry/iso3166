@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mandoul",
+               "short_name" : "Mandoul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mandoul, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.598262,
+                  "lng" : 18.1614563
+               },
+               "southwest" : {
+                  "lat" : 7.785258,
+                  "lng" : 17.0344641
+               }
+            },
+            "location" : {
+               "lat" : 8.603090999999999,
+               "lng" : 17.4795173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.598262,
+                  "lng" : 18.1614563
+               },
+               "southwest" : {
+                  "lat" : 7.785258,
+                  "lng" : 17.0344641
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp5p2hUCK2xAR3D9CvtSbOfs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

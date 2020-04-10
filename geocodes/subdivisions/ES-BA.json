@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Badajoz",
+               "short_name" : "Badajoz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Badajoz",
+               "short_name" : "Badajoz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Extremadura",
+               "short_name" : "EX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Badajoz, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9069928,
+                  "lng" : -6.9406957
+               },
+               "southwest" : {
+                  "lat" : 38.8517673,
+                  "lng" : -7.0346625
+               }
+            },
+            "location" : {
+               "lat" : 38.8794495,
+               "lng" : -6.9706535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9069928,
+                  "lng" : -6.9406957
+               },
+               "southwest" : {
+                  "lat" : 38.8517673,
+                  "lng" : -7.0346625
+               }
+            }
+         },
+         "place_id" : "ChIJTTVfrD7kFg0RqaQUlzV-jGg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

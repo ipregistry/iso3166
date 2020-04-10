@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jammu and Kashmir",
+               "short_name" : "J & K",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Jammu and Kashmir",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.50542739999999,
+                  "lng" : 79.3058506
+               },
+               "southwest" : {
+                  "lat" : 32.2922694,
+                  "lng" : 73.750507
+               }
+            },
+            "location" : {
+               "lat" : 33.778175,
+               "lng" : 76.57617139999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.50542739999999,
+                  "lng" : 79.3058506
+               },
+               "southwest" : {
+                  "lat" : 32.2922694,
+                  "lng" : 73.750507
+               }
+            }
+         },
+         "place_id" : "ChIJnaj_mSQJ4TgR8eeXRm16VgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

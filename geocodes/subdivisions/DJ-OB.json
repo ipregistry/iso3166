@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Obock",
+               "short_name" : "Obock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Obock",
+               "short_name" : "Obock",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Obock",
+               "short_name" : "Obock",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Djibouti",
+               "short_name" : "DJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Obock, Djibouti",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.9751386,
+                  "lng" : 43.2950915
+               },
+               "southwest" : {
+                  "lat" : 11.9593636,
+                  "lng" : 43.2825709
+               }
+            },
+            "location" : {
+               "lat" : 11.9647465,
+               "lng" : 43.2884071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.9751386,
+                  "lng" : 43.2950915
+               },
+               "southwest" : {
+                  "lat" : 11.9593636,
+                  "lng" : 43.2825709
+               }
+            }
+         },
+         "place_id" : "ChIJaxh7DWJmIhYRGyDBB7EucTc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

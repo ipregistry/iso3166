@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tirana",
+               "short_name" : "Tirana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tirana",
+               "short_name" : "Tirana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tirana County",
+               "short_name" : "Tirana County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tirana, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.36684109999999,
+                  "lng" : 19.8820782
+               },
+               "southwest" : {
+                  "lat" : 41.29512330000001,
+                  "lng" : 19.7535682
+               }
+            },
+            "location" : {
+               "lat" : 41.3275459,
+               "lng" : 19.8186982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.36684109999999,
+                  "lng" : 19.8820782
+               },
+               "southwest" : {
+                  "lat" : 41.29512330000001,
+                  "lng" : 19.7535682
+               }
+            }
+         },
+         "place_id" : "ChIJ28X6cAQxUBMRIDdlEK-SAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

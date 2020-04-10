@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.2309455,
+                  "lng" : -22.665018
+               },
+               "southwest" : {
+                  "lat" : 15.9679838,
+                  "lng" : -22.9658216
+               }
+            },
+            "location" : {
+               "lat" : 16.0950108,
+               "lng" : -22.8078335
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.2309455,
+                  "lng" : -22.665018
+               },
+               "southwest" : {
+                  "lat" : 15.9679838,
+                  "lng" : -22.9658216
+               }
+            }
+         },
+         "place_id" : "ChIJb8GQbv4lSwkRs2rhl6MXei0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

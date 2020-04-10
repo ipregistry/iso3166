@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ar-Rayyan",
+               "short_name" : "Ar-Rayyan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Rayyan Municipality",
+               "short_name" : "Al Rayyan Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ar-Rayyan, Qatar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.3666654,
+                  "lng" : 51.4581606
+               },
+               "southwest" : {
+                  "lat" : 25.1378804,
+                  "lng" : 51.3468362
+               }
+            },
+            "location" : {
+               "lat" : 25.2862157,
+               "lng" : 51.4204044
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3666654,
+                  "lng" : 51.4581606
+               },
+               "southwest" : {
+                  "lat" : 25.1378804,
+                  "lng" : 51.3468362
+               }
+            }
+         },
+         "place_id" : "ChIJVbd-OynaRT4RJc7sNgjIVHw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

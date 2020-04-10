@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anabar",
+               "short_name" : "Anabar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anabar",
+               "short_name" : "Anabar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nauru",
+               "short_name" : "NR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anabar, Nauru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.5061584,
+                  "lng" : 166.9585419
+               },
+               "southwest" : {
+                  "lat" : -0.5168653,
+                  "lng" : 166.9499803
+               }
+            },
+            "location" : {
+               "lat" : -0.5110616,
+               "lng" : 166.954224
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.5061584,
+                  "lng" : 166.9585419
+               },
+               "southwest" : {
+                  "lat" : -0.5168653,
+                  "lng" : 166.9499803
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3fDIkocbfW8R9DG1Oqz2O_Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

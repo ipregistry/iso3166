@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Makedonska Kamenitsa",
+               "short_name" : "Makedonska Kamenitsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Makedonska Kamenica",
+               "short_name" : "Municipality of Makedonska Kamenica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Makedonska Kamenitsa, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0301294,
+                  "lng" : 22.5955296
+               },
+               "southwest" : {
+                  "lat" : 42.0103066,
+                  "lng" : 22.5755525
+               }
+            },
+            "location" : {
+               "lat" : 42.0214425,
+               "lng" : 22.5870873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0301294,
+                  "lng" : 22.5955296
+               },
+               "southwest" : {
+                  "lat" : 42.0103066,
+                  "lng" : 22.5755525
+               }
+            }
+         },
+         "place_id" : "ChIJCeWkHBeHVRMRhzJeKdRpOqk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

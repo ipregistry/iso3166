@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kasanda",
+               "short_name" : "Kasanda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mubende",
+               "short_name" : "Mubende",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kasanda, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.5509387,
+                  "lng" : 31.8247318
+               },
+               "southwest" : {
+                  "lat" : 0.5416694,
+                  "lng" : 31.8172645
+               }
+            },
+            "location" : {
+               "lat" : 0.5463013999999999,
+               "lng" : 31.8206743
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.5509387,
+                  "lng" : 31.8247318
+               },
+               "southwest" : {
+                  "lat" : 0.5416694,
+                  "lng" : 31.8172645
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYYfSrmPXfBcRZHX4ut0en3I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Savonia",
+               "short_name" : "Southern Savonia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Savonia, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.65700289999999,
+                  "lng" : 29.6962903
+               },
+               "southwest" : {
+                  "lat" : 61.1516606,
+                  "lng" : 26.2201779
+               }
+            },
+            "location" : {
+               "lat" : 61.6945148,
+               "lng" : 27.8005015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.65700289999999,
+                  "lng" : 29.6962903
+               },
+               "southwest" : {
+                  "lat" : 61.1516606,
+                  "lng" : 26.2201779
+               }
+            }
+         },
+         "place_id" : "ChIJhwNHEP3smkYRDXGpHIAbKM8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

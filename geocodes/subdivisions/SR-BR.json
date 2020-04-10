@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brokopondo",
+               "short_name" : "Brokopondo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Centrum",
+               "short_name" : "Centrum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brokopondo District",
+               "short_name" : "Brokopondo District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Suriname",
+               "short_name" : "SR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brokopondo, Suriname",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.0322083,
+                  "lng" : -54.9880315
+               },
+               "southwest" : {
+                  "lat" : 5.019383299999999,
+                  "lng" : -54.9991035
+               }
+            },
+            "location" : {
+               "lat" : 5.0252271,
+               "lng" : -54.99285330000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.0322083,
+                  "lng" : -54.9880315
+               },
+               "southwest" : {
+                  "lat" : 5.019383299999999,
+                  "lng" : -54.9991035
+               }
+            }
+         },
+         "place_id" : "ChIJf_GpsnY6Co0RPFq7bK9F-IA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

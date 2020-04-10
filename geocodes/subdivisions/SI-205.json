@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sveti Tomaž",
+               "short_name" : "Sveti Tomaž",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sv.Tomaž",
+               "short_name" : "Sv.Tomaž",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ormož",
+               "short_name" : "Ormož",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2258",
+               "short_name" : "2258",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2258 Sveti Tomaž, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4877782,
+                  "lng" : 16.0874049
+               },
+               "southwest" : {
+                  "lat" : 46.4768802,
+                  "lng" : 16.0732959
+               }
+            },
+            "location" : {
+               "lat" : 46.4835846,
+               "lng" : 16.0801157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4877782,
+                  "lng" : 16.0874049
+               },
+               "southwest" : {
+                  "lat" : 46.4768802,
+                  "lng" : 16.0732959
+               }
+            }
+         },
+         "place_id" : "ChIJh5QOxkNDb0cRVQmFgNlbdSw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

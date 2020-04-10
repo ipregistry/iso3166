@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.51842809999999,
+                  "lng" : -2.2451382
+               },
+               "southwest" : {
+                  "lat" : 53.4648608,
+                  "lng" : -2.3310829
+               }
+            },
+            "location" : {
+               "lat" : 53.48752349999999,
+               "lng" : -2.2901264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.51842809999999,
+                  "lng" : -2.2451382
+               },
+               "southwest" : {
+                  "lat" : 53.4648608,
+                  "lng" : -2.3310829
+               }
+            }
+         },
+         "place_id" : "ChIJEVdF_g2ue0gRFtj1WL_-9G0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

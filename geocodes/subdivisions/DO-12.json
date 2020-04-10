@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Romana",
+               "short_name" : "La Romana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Romana Province",
+               "short_name" : "La Romana Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Romana, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.4692704,
+                  "lng" : -68.8850681
+               },
+               "southwest" : {
+                  "lat" : 18.3961488,
+                  "lng" : -69.0599727
+               }
+            },
+            "location" : {
+               "lat" : 18.4338645,
+               "lng" : -68.9658817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.4692704,
+                  "lng" : -68.8850681
+               },
+               "southwest" : {
+                  "lat" : 18.3961488,
+                  "lng" : -69.0599727
+               }
+            }
+         },
+         "place_id" : "ChIJK8xQ8mhUr44R2ZnryF_lSxc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

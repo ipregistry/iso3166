@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Republic of Dagestan",
+               "short_name" : "Republic of Dagestan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Republic of Dagestan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.992521,
+                  "lng" : 48.5955711
+               },
+               "southwest" : {
+                  "lat" : 41.185455,
+                  "lng" : 45.1039111
+               }
+            },
+            "location" : {
+               "lat" : 42.14318859999999,
+               "lng" : 47.0949799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.992521,
+                  "lng" : 48.5955711
+               },
+               "southwest" : {
+                  "lat" : 41.185455,
+                  "lng" : 45.1039111
+               }
+            }
+         },
+         "place_id" : "ChIJJ7wfNCRiTkARlWe8YPJG1dE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

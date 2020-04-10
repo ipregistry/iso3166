@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wemyss Bight",
+               "short_name" : "Wemyss Bight",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Eleuthera",
+               "short_name" : "South Eleuthera",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wemyss Bight, The Bahamas",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.734908,
+               "lng" : -76.21827850000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7450419,
+                  "lng" : -76.20227109999999
+               },
+               "southwest" : {
+                  "lat" : 24.7247733,
+                  "lng" : -76.2342859
+               }
+            }
+         },
+         "place_id" : "ChIJV8fpZ9MWMIkRhx8dIsuZCBY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

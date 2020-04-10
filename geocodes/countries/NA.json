@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.9634849,
+                  "lng" : 25.261752
+               },
+               "southwest" : {
+                  "lat" : -28.97063889999999,
+                  "lng" : 11.4696999
+               }
+            },
+            "location" : {
+               "lat" : -22.95764,
+               "lng" : 18.49041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.9634849,
+                  "lng" : 25.261752
+               },
+               "southwest" : {
+                  "lat" : -28.97063889999999,
+                  "lng" : 11.4696999
+               }
+            }
+         },
+         "place_id" : "ChIJIXXTbn489RsRYbLsqKXludM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

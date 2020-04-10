@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower River",
+               "short_name" : "Lower River",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Gambia",
+               "short_name" : "GM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lower River, The Gambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.554205,
+                  "lng" : -15.1728712
+               },
+               "southwest" : {
+                  "lat" : 13.237656,
+                  "lng" : -16.2324239
+               }
+            },
+            "location" : {
+               "lat" : 13.3553306,
+               "lng" : -15.92299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.554205,
+                  "lng" : -15.1728712
+               },
+               "southwest" : {
+                  "lat" : 13.237656,
+                  "lng" : -16.2324239
+               }
+            }
+         },
+         "place_id" : "ChIJ-UVD7wft6A4Ro8-CXDJ5K7M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

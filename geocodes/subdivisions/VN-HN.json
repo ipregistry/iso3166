@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanoi",
+               "short_name" : "Hanoi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hoàn Kiếm",
+               "short_name" : "Hoàn Kiếm",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hanoi",
+               "short_name" : "Hanoi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hanoi, Hoàn Kiếm, Hanoi, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.0503801,
+                  "lng" : 105.8764459
+               },
+               "southwest" : {
+                  "lat" : 20.9950991,
+                  "lng" : 105.7974815
+               }
+            },
+            "location" : {
+               "lat" : 21.0277644,
+               "lng" : 105.8341598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.0503801,
+                  "lng" : 105.8764459
+               },
+               "southwest" : {
+                  "lat" : 20.9950991,
+                  "lng" : 105.7974815
+               }
+            }
+         },
+         "place_id" : "ChIJoRyG2ZurNTERqRfKcnt_iOc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

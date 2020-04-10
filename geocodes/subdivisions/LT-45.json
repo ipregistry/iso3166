@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šilalė",
+               "short_name" : "Šilalė",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Šilalė District Municipality",
+               "short_name" : "Šilalė District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tauragė County",
+               "short_name" : "Tauragė County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Šilalė, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.50529299999999,
+                  "lng" : 22.206046
+               },
+               "southwest" : {
+                  "lat" : 55.4812739,
+                  "lng" : 22.162826
+               }
+            },
+            "location" : {
+               "lat" : 55.49268,
+               "lng" : 22.1845559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.50529299999999,
+                  "lng" : 22.206046
+               },
+               "southwest" : {
+                  "lat" : 55.4812739,
+                  "lng" : 22.162826
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4QdLLwFM5EYRINvpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

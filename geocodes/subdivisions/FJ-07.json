@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Macuata",
+               "short_name" : "Macuata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Division",
+               "short_name" : "Northern Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Macuata, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.1068443,
+                  "lng" : -179.9368286
+               },
+               "southwest" : {
+                  "lat" : -16.730249,
+                  "lng" : 178.7166595
+               }
+            },
+            "location" : {
+               "lat" : -16.4864922,
+               "lng" : 179.2847251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.1068443,
+                  "lng" : -179.9368286
+               },
+               "southwest" : {
+                  "lat" : -16.730249,
+                  "lng" : 178.7166595
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8yQtZEjTIW4RjNaZH6Hz9OU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

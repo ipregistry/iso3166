@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toplica District",
+               "short_name" : "Toplica District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toplica District, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4087109,
+                  "lng" : 21.836189
+               },
+               "southwest" : {
+                  "lat" : 42.868147,
+                  "lng" : 20.9121709
+               }
+            },
+            "location" : {
+               "lat" : 43.1906592,
+               "lng" : 21.3407762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4087109,
+                  "lng" : 21.836189
+               },
+               "southwest" : {
+                  "lat" : 42.868147,
+                  "lng" : 20.9121709
+               }
+            }
+         },
+         "place_id" : "ChIJUfrz2cjlVUcRmCbJxU95XAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

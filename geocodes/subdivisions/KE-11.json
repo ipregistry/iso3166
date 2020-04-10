@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kakamega",
+               "short_name" : "Kakamega",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kakamega County",
+               "short_name" : "Kakamega County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kakamega, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3027994,
+                  "lng" : 34.7710968
+               },
+               "southwest" : {
+                  "lat" : 0.2609216,
+                  "lng" : 34.7211562
+               }
+            },
+            "location" : {
+               "lat" : 0.2827307,
+               "lng" : 34.7518631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3027994,
+                  "lng" : 34.7710968
+               },
+               "southwest" : {
+                  "lat" : 0.2609216,
+                  "lng" : 34.7211562
+               }
+            }
+         },
+         "place_id" : "ChIJEXe6zTc8gBcRaoqQ3AYKONc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

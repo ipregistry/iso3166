@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daugavpils Municipality",
+               "short_name" : "Daugavpils Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Daugavpils Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.207735,
+                  "lng" : 26.9844788
+               },
+               "southwest" : {
+                  "lat" : 55.6747769,
+                  "lng" : 26.230777
+               }
+            },
+            "location" : {
+               "lat" : 55.8991783,
+               "lng" : 26.6102012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.207735,
+                  "lng" : 26.9844788
+               },
+               "southwest" : {
+                  "lat" : 55.6747769,
+                  "lng" : 26.230777
+               }
+            }
+         },
+         "place_id" : "ChIJY59FZ2eXwkYRcPzyaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

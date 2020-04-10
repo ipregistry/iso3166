@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bumthang",
+               "short_name" : "Bumthang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bumthang, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.080781,
+                  "lng" : 91.0160089
+               },
+               "southwest" : {
+                  "lat" : 27.320946,
+                  "lng" : 90.48443499999999
+               }
+            },
+            "location" : {
+               "lat" : 27.641839,
+               "lng" : 90.6773046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.080781,
+                  "lng" : 91.0160089
+               },
+               "southwest" : {
+                  "lat" : 27.320946,
+                  "lng" : 90.48443499999999
+               }
+            }
+         },
+         "place_id" : "ChIJ09XIZQqvXzcRePACZYLAzww",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

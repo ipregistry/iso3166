@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ajman",
+               "short_name" : "Ajman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ajman",
+               "short_name" : "Ajman",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Arab Emirates",
+               "short_name" : "AE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ajman - United Arab Emirates",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.450004,
+                  "lng" : 55.644483
+               },
+               "southwest" : {
+                  "lat" : 25.3570543,
+                  "lng" : 55.4218416
+               }
+            },
+            "location" : {
+               "lat" : 25.4052165,
+               "lng" : 55.5136433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.450004,
+                  "lng" : 55.644483
+               },
+               "southwest" : {
+                  "lat" : 25.3570543,
+                  "lng" : 55.4218416
+               }
+            }
+         },
+         "place_id" : "ChIJeb6P3WRXXz4RGahFZN6QoM0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

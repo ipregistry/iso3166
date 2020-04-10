@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plateau Department",
+               "short_name" : "Plateau Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Benin",
+               "short_name" : "BJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Plateau Department, Benin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.6579461,
+                  "lng" : 2.799681
+               },
+               "southwest" : {
+                  "lat" : 6.5454279,
+                  "lng" : 2.4065919
+               }
+            },
+            "location" : {
+               "lat" : 7.3445141,
+               "lng" : 2.539603
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.6579461,
+                  "lng" : 2.799681
+               },
+               "southwest" : {
+                  "lat" : 6.5454279,
+                  "lng" : 2.4065919
+               }
+            }
+         },
+         "place_id" : "ChIJteOzh0jXOhARAnO00dnN50w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

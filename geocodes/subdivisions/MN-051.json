@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sühbaatar",
+               "short_name" : "Sühbaatar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sukhbaatar",
+               "short_name" : "Sukhbaatar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sükhbaatar",
+               "short_name" : "Sükhbaatar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sühbaatar, Mongolia",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.89658,
+               "lng" : 113.4338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9042039,
+                  "lng" : 113.4498074
+               },
+               "southwest" : {
+                  "lat" : 46.888955,
+                  "lng" : 113.4177926
+               }
+            }
+         },
+         "place_id" : "ChIJsWyqcA3-5l0RHaL1JJscDh8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

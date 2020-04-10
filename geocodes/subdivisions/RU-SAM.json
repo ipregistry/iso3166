@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samara Oblast",
+               "short_name" : "Samara Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samara Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6787721,
+                  "lng" : 52.567809
+               },
+               "southwest" : {
+                  "lat" : 51.7723618,
+                  "lng" : 47.92699589999999
+               }
+            },
+            "location" : {
+               "lat" : 53.41838389999999,
+               "lng" : 50.4725528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6787721,
+                  "lng" : 52.567809
+               },
+               "southwest" : {
+                  "lat" : 51.7723618,
+                  "lng" : 47.92699589999999
+               }
+            }
+         },
+         "place_id" : "ChIJu61Uz18ZZkERmE1NRiHorHI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

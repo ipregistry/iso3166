@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tanintharyi",
+               "short_name" : "Tanintharyi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Myeik",
+               "short_name" : "Myeik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tanintharyi Region",
+               "short_name" : "Tanintharyi Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tanintharyi, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.0930387,
+                  "lng" : 99.020505
+               },
+               "southwest" : {
+                  "lat" : 12.0778055,
+                  "lng" : 99.0061711
+               }
+            },
+            "location" : {
+               "lat" : 12.0896327,
+               "lng" : 99.0115113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.0930387,
+                  "lng" : 99.020505
+               },
+               "southwest" : {
+                  "lat" : 12.0778055,
+                  "lng" : 99.0061711
+               }
+            }
+         },
+         "place_id" : "ChIJU-yKJcj6-zARvozhlhLZONo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

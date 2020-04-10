@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seville",
+               "short_name" : "Seville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seville",
+               "short_name" : "Seville",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seville, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4355212,
+                  "lng" : -5.8884587
+               },
+               "southwest" : {
+                  "lat" : 37.3152203,
+                  "lng" : -6.0216578
+               }
+            },
+            "location" : {
+               "lat" : 37.3890924,
+               "lng" : -5.9844589
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4355212,
+                  "lng" : -5.8884587
+               },
+               "southwest" : {
+                  "lat" : 37.3152203,
+                  "lng" : -6.0216578
+               }
+            }
+         },
+         "place_id" : "ChIJkWK-FBFsEg0RSFb-HGIY8DQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

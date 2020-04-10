@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Davao Region",
+               "short_name" : "Davao Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Davao Region, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.002145000000001,
+                  "lng" : 126.605766
+               },
+               "southwest" : {
+                  "lat" : 5.3651269,
+                  "lng" : 125.100829
+               }
+            },
+            "location" : {
+               "lat" : 7.3041622,
+               "lng" : 126.0893406
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.002145000000001,
+                  "lng" : 126.605766
+               },
+               "southwest" : {
+                  "lat" : 5.3651269,
+                  "lng" : 125.100829
+               }
+            }
+         },
+         "place_id" : "ChIJM7RB5XuJ-TIRzHI3okcr4PM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

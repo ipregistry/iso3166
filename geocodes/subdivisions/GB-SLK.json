@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8444391,
+                  "lng" : -3.396407
+               },
+               "southwest" : {
+                  "lat" : 55.2907676,
+                  "lng" : -4.2825719
+               }
+            },
+            "location" : {
+               "lat" : 55.6735909,
+               "lng" : -3.7819661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8444391,
+                  "lng" : -3.396407
+               },
+               "southwest" : {
+                  "lat" : 55.2907676,
+                  "lng" : -4.2825719
+               }
+            }
+         },
+         "place_id" : "ChIJfUCdedcaiEgRsLNCBhpoDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

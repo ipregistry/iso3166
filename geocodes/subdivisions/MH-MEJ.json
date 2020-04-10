@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mejit",
+               "short_name" : "Mejit",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Mejit Island",
+               "short_name" : "Mejit Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mejit, Mejit Island, RMI",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.2843057,
+               "lng" : 170.8699744
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.2952842,
+                  "lng" : 170.8859818
+               },
+               "southwest" : {
+                  "lat" : 10.2733268,
+                  "lng" : 170.853967
+               }
+            }
+         },
+         "place_id" : "ChIJ2X79H2IbAmURnp-dYlim3y0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhaka, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.9000025,
+                  "lng" : 90.50910469999999
+               },
+               "southwest" : {
+                  "lat" : 23.6612704,
+                  "lng" : 90.3295468
+               }
+            },
+            "location" : {
+               "lat" : 23.810332,
+               "lng" : 90.4125181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.9000025,
+                  "lng" : 90.50910469999999
+               },
+               "southwest" : {
+                  "lat" : 23.6612704,
+                  "lng" : 90.3295468
+               }
+            }
+         },
+         "place_id" : "ChIJgWsCh7C4VTcRwgRZ3btjpY8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

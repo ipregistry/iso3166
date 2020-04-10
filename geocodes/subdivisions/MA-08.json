@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Drâa-Tafilalet",
+               "short_name" : "Drâa-Tafilalet",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Drâa-Tafilalet, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.095922,
+                  "lng" : -3.11508
+               },
+               "southwest" : {
+                  "lat" : 29.686181,
+                  "lng" : -7.736634
+               }
+            },
+            "location" : {
+               "lat" : 31.1499538,
+               "lng" : -5.393955099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.095922,
+                  "lng" : -3.11508
+               },
+               "southwest" : {
+                  "lat" : 29.686181,
+                  "lng" : -7.736634
+               }
+            }
+         },
+         "place_id" : "ChIJY0kN5EfpvA0R9JinkcrVwm4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

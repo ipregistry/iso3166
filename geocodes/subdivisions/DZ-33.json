@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Illizi",
+               "short_name" : "VVZ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Illizi",
+               "short_name" : "Illizi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illizi Province",
+               "short_name" : "Illizi Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Illizi, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8289259,
+                  "lng" : 10.034432
+               },
+               "southwest" : {
+                  "lat" : 25.1465129,
+                  "lng" : 6.1396079
+               }
+            },
+            "location" : {
+               "lat" : 26.4775863,
+               "lng" : 8.4776326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8289259,
+                  "lng" : 10.034432
+               },
+               "southwest" : {
+                  "lat" : 25.1465129,
+                  "lng" : 6.1396079
+               }
+            }
+         },
+         "place_id" : "ChIJUyJM5CjgMBIRIgEOsXABwC4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

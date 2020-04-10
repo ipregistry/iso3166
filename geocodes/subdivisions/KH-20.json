@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krong Svay Rieng",
+               "short_name" : "Krong Svay Rieng",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Svay Rieng",
+               "short_name" : "Svay Rieng",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Svay Rieng Province",
+               "short_name" : "Svay Rieng Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krong Svay Rieng, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.1564031,
+                  "lng" : 105.8909941
+               },
+               "southwest" : {
+                  "lat" : 11.024966,
+                  "lng" : 105.7366598
+               }
+            },
+            "location" : {
+               "lat" : 11.0877866,
+               "lng" : 105.800951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.1564031,
+                  "lng" : 105.8909941
+               },
+               "southwest" : {
+                  "lat" : 11.024966,
+                  "lng" : 105.7366598
+               }
+            }
+         },
+         "place_id" : "ChIJCfdb1r0HCzERZhAWytH0knA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

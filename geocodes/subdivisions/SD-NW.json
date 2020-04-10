@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "White Nile",
+               "short_name" : "White Nile",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sudan",
+               "short_name" : "SD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "White Nile, Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.250874,
+                  "lng" : 33.2549571
+               },
+               "southwest" : {
+                  "lat" : 11.9465411,
+                  "lng" : 31.525822
+               }
+            },
+            "location" : {
+               "lat" : 13.2403881,
+               "lng" : 32.5372741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.250874,
+                  "lng" : 33.2549571
+               },
+               "southwest" : {
+                  "lat" : 11.9465411,
+                  "lng" : 31.525822
+               }
+            }
+         },
+         "place_id" : "ChIJpWlnrmkd8xYRnTiS23ytzt0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

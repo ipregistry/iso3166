@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fria",
+               "short_name" : "Fria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fria Prefecture",
+               "short_name" : "Fria Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kindia",
+               "short_name" : "Kindia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fria, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.3925134,
+                  "lng" : -13.5586739
+               },
+               "southwest" : {
+                  "lat" : 10.3439033,
+                  "lng" : -13.5969328
+               }
+            },
+            "location" : {
+               "lat" : 10.3674543,
+               "lng" : -13.5841871
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.3925134,
+                  "lng" : -13.5586739
+               },
+               "southwest" : {
+                  "lat" : 10.3439033,
+                  "lng" : -13.5969328
+               }
+            }
+         },
+         "place_id" : "ChIJDVTwUOOq4g4REwsYPQj51Yg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

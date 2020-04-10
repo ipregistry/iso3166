@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Esmeraldas",
+               "short_name" : "Esmeraldas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Esmeraldas Province",
+               "short_name" : "Esmeraldas Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Esmeraldas, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.997903,
+                  "lng" : -79.6095084
+               },
+               "southwest" : {
+                  "lat" : 0.9292910000000001,
+                  "lng" : -79.672122
+               }
+            },
+            "location" : {
+               "lat" : 0.9681789,
+               "lng" : -79.6517202
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.997903,
+                  "lng" : -79.6095084
+               },
+               "southwest" : {
+                  "lat" : 0.9292910000000001,
+                  "lng" : -79.672122
+               }
+            }
+         },
+         "place_id" : "ChIJea79irC-1I8R9nZAFRcljgU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

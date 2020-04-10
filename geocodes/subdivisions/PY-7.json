@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Itapúa Department",
+               "short_name" : "Itapúa Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Itapúa Department, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.089293,
+                  "lng" : -54.6497041
+               },
+               "southwest" : {
+                  "lat" : -27.6087381,
+                  "lng" : -56.710255
+               }
+            },
+            "location" : {
+               "lat" : -26.7923623,
+               "lng" : -55.6689636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.089293,
+                  "lng" : -54.6497041
+               },
+               "southwest" : {
+                  "lat" : -27.6087381,
+                  "lng" : -56.710255
+               }
+            }
+         },
+         "place_id" : "ChIJueD1AwN_V5QRz-IlHCn7nXQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

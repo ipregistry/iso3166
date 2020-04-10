@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kagadi",
+               "short_name" : "Kagadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kibale",
+               "short_name" : "Kibale",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kagadi, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.9480424000000001,
+                  "lng" : 30.8225728
+               },
+               "southwest" : {
+                  "lat" : 0.9310075,
+                  "lng" : 30.8048916
+               }
+            },
+            "location" : {
+               "lat" : 0.9400761,
+               "lng" : 30.8125638
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.9480424000000001,
+                  "lng" : 30.8225728
+               },
+               "southwest" : {
+                  "lat" : 0.9310075,
+                  "lng" : 30.8048916
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPcdCpnuDYxcRJ85ra6-jIqk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

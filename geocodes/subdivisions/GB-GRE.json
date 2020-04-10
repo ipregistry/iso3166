@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenwich",
+               "short_name" : "Greenwich",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greenwich, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5067681,
+                  "lng" : 0.0354978
+               },
+               "southwest" : {
+                  "lat" : 51.4680364,
+                  "lng" : -0.0264087
+               }
+            },
+            "location" : {
+               "lat" : 51.4933675,
+               "lng" : 0.009821399999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5067681,
+                  "lng" : 0.0354978
+               },
+               "southwest" : {
+                  "lat" : 51.4680364,
+                  "lng" : -0.0264087
+               }
+            }
+         },
+         "place_id" : "ChIJ83WZp86p2EcRbMrkYqGncBQ",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

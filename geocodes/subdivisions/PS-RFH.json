@@ -1,0 +1,35 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rafah",
+               "short_name" : "Rafah",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Rafah",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.29677999999999,
+               "lng" : 34.243482
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3063139,
+                  "lng" : 34.2594894
+               },
+               "southwest" : {
+                  "lat" : 31.2872451,
+                  "lng" : 34.2274746
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK-jM2Y-T_RQRf7RMkGJoBfg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

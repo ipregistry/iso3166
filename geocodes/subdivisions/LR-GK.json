@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Kru",
+               "short_name" : "Grand Kru",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Kru, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.233399899999999,
+                  "lng" : -7.759545999999999
+               },
+               "southwest" : {
+                  "lat" : 4.434164,
+                  "lng" : -8.6776371
+               }
+            },
+            "location" : {
+               "lat" : 4.7613862,
+               "lng" : -8.2212979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.233399899999999,
+                  "lng" : -7.759545999999999
+               },
+               "southwest" : {
+                  "lat" : 4.434164,
+                  "lng" : -8.6776371
+               }
+            }
+         },
+         "place_id" : "ChIJrfsfDxlsmA8RUKQiY4zzcYg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

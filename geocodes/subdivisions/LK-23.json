@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuwara Eliya",
+               "short_name" : "Nuwara Eliya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nuwara Eliya",
+               "short_name" : "Nuwara Eliya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Province",
+               "short_name" : "CP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nuwara Eliya, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.9898532,
+                  "lng" : 80.8216953
+               },
+               "southwest" : {
+                  "lat" : 6.912879200000001,
+                  "lng" : 80.74019869999999
+               }
+            },
+            "location" : {
+               "lat" : 6.949716599999999,
+               "lng" : 80.7891068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.9898532,
+                  "lng" : 80.8216953
+               },
+               "southwest" : {
+                  "lat" : 6.912879200000001,
+                  "lng" : 80.74019869999999
+               }
+            }
+         },
+         "place_id" : "ChIJx1QVTkOA4zoRnH2TTEAIFik",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

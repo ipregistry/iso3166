@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jönköping",
+               "short_name" : "Jönköping",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jonkoping County",
+               "short_name" : "Jonkoping County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jönköping, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.82649900000001,
+                  "lng" : 14.2832891
+               },
+               "southwest" : {
+                  "lat" : 57.6854951,
+                  "lng" : 14.0932189
+               }
+            },
+            "location" : {
+               "lat" : 57.78261370000001,
+               "lng" : 14.1617876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.82649900000001,
+                  "lng" : 14.2832891
+               },
+               "southwest" : {
+                  "lat" : 57.6854951,
+                  "lng" : 14.0932189
+               }
+            }
+         },
+         "place_id" : "ChIJLdFbVjGAUEYRbfbC3Fe-AYs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

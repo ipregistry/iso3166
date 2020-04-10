@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vysocina Region",
+               "short_name" : "Vysocina Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vysocina Region, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8611195,
+                  "lng" : 16.4184401
+               },
+               "southwest" : {
+                  "lat" : 48.9375446,
+                  "lng" : 14.8887667
+               }
+            },
+            "location" : {
+               "lat" : 49.44900519999999,
+               "lng" : 15.6405934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8611195,
+                  "lng" : 16.4184401
+               },
+               "southwest" : {
+                  "lat" : 48.9375446,
+                  "lng" : 14.8887667
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVf0Z3PAQDUcRsKgUZg-vAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

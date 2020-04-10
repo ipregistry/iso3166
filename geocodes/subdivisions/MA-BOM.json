@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boulemane",
+               "short_name" : "Boulemane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boulemane Province",
+               "short_name" : "Boulemane Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Fez-Meknès",
+               "short_name" : "Fez-Meknès",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boulemane, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.3740471,
+                  "lng" : -4.720602
+               },
+               "southwest" : {
+                  "lat" : 33.3536884,
+                  "lng" : -4.7400855
+               }
+            },
+            "location" : {
+               "lat" : 33.3625159,
+               "lng" : -4.7303397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.3740471,
+                  "lng" : -4.720602
+               },
+               "southwest" : {
+                  "lat" : 33.3536884,
+                  "lng" : -4.7400855
+               }
+            }
+         },
+         "place_id" : "ChIJm0L977Rqnw0RZJP4W4paz4I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

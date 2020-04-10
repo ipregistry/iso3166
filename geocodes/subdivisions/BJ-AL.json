@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alibori",
+               "short_name" : "Alibori",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Benin",
+               "short_name" : "BJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alibori, Benin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.0555797,
+                  "lng" : 3.3388917
+               },
+               "southwest" : {
+                  "lat" : 10.0738109,
+                  "lng" : 2.0665197
+               }
+            },
+            "location" : {
+               "lat" : 11.0750673,
+               "lng" : 2.561445200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.0555797,
+                  "lng" : 3.3388917
+               },
+               "southwest" : {
+                  "lat" : 10.0738109,
+                  "lng" : 2.0665197
+               }
+            }
+         },
+         "place_id" : "ChIJSd_SKh23zRERZnUNrf-1TpE",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

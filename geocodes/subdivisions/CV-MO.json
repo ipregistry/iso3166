@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mosteiros",
+               "short_name" : "Mosteiros",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mosteiros",
+               "short_name" : "Mosteiros",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mosteiros, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.0376849,
+                  "lng" : -24.3176365
+               },
+               "southwest" : {
+                  "lat" : 15.0274477,
+                  "lng" : -24.3318845
+               }
+            },
+            "location" : {
+               "lat" : 15.0311753,
+               "lng" : -24.3252291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.0376849,
+                  "lng" : -24.3176365
+               },
+               "southwest" : {
+                  "lat" : 15.0274477,
+                  "lng" : -24.3318845
+               }
+            }
+         },
+         "place_id" : "ChIJU4sGy7cENgkRp1bQyXvCZUk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

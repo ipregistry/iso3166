@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mandalay",
+               "short_name" : "Mandalay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mandalay",
+               "short_name" : "Mandalay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mandalay Region",
+               "short_name" : "Mandalay Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mandalay, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.0261394,
+                  "lng" : 96.14041019999999
+               },
+               "southwest" : {
+                  "lat" : 21.8545804,
+                  "lng" : 96.0112381
+               }
+            },
+            "location" : {
+               "lat" : 21.9588282,
+               "lng" : 96.0891032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.0261394,
+                  "lng" : 96.14041019999999
+               },
+               "southwest" : {
+                  "lat" : 21.8545804,
+                  "lng" : 96.0112381
+               }
+            }
+         },
+         "place_id" : "ChIJEXTS8CNtyzARRlZOHuBrFCQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

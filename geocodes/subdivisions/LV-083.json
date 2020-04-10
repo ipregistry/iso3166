@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rundāle Municipality",
+               "short_name" : "Rundāle Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rundāle Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.5058439,
+                  "lng" : 24.177612
+               },
+               "southwest" : {
+                  "lat" : 56.329669,
+                  "lng" : 23.827212
+               }
+            },
+            "location" : {
+               "lat" : 56.4200403,
+               "lng" : 23.984649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5058439,
+                  "lng" : 24.177612
+               },
+               "southwest" : {
+                  "lat" : 56.329669,
+                  "lng" : 23.827212
+               }
+            }
+         },
+         "place_id" : "ChIJbw4qSj3K6EYRsP3yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

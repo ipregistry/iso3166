@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orange Walk",
+               "short_name" : "Orange Walk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange Walk District",
+               "short_name" : "Orange Walk District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belize",
+               "short_name" : "BZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orange Walk, Belize",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.1086555,
+                  "lng" : -88.5544395
+               },
+               "southwest" : {
+                  "lat" : 18.066066,
+                  "lng" : -88.58104709999999
+               }
+            },
+            "location" : {
+               "lat" : 18.0842472,
+               "lng" : -88.5710266
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1086555,
+                  "lng" : -88.5544395
+               },
+               "southwest" : {
+                  "lat" : 18.066066,
+                  "lng" : -88.58104709999999
+               }
+            }
+         },
+         "place_id" : "ChIJq5kvA272W48RB6ZBmIJfO1c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

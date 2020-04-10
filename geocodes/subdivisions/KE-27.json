@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Migori",
+               "short_name" : "Migori",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Migori County",
+               "short_name" : "Migori County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Migori, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.0427853,
+                  "lng" : 34.4938945
+               },
+               "southwest" : {
+                  "lat" : -1.0923009,
+                  "lng" : 34.4460011
+               }
+            },
+            "location" : {
+               "lat" : -1.0706976,
+               "lng" : 34.4752715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.0427853,
+                  "lng" : 34.4938945
+               },
+               "southwest" : {
+                  "lat" : -1.0923009,
+                  "lng" : 34.4460011
+               }
+            }
+         },
+         "place_id" : "ChIJTWORK39T0xkRCavfLF-CJXI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

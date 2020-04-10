@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South-Kivu",
+               "short_name" : "South-Kivu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South-Kivu, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.568222,
+                  "lng" : 29.39431
+               },
+               "southwest" : {
+                  "lat" : -5.000003299999999,
+                  "lng" : 26.798393
+               }
+            },
+            "location" : {
+               "lat" : -3.011658,
+               "lng" : 28.299435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.568222,
+                  "lng" : 29.39431
+               },
+               "southwest" : {
+                  "lat" : -5.000003299999999,
+                  "lng" : 26.798393
+               }
+            }
+         },
+         "place_id" : "ChIJmUwEH8Iu6hkRJUYjbkpK_ZU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

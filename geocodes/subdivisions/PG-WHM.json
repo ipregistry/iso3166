@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Highlands Province",
+               "short_name" : "Western Highlands Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Highlands Province, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.2128599,
+                  "lng" : 144.5993042
+               },
+               "southwest" : {
+                  "lat" : -6.3646218,
+                  "lng" : 143.771268
+               }
+            },
+            "location" : {
+               "lat" : -5.6268128,
+               "lng" : 144.2593118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.2128599,
+                  "lng" : 144.5993042
+               },
+               "southwest" : {
+                  "lat" : -6.3646218,
+                  "lng" : 143.771268
+               }
+            }
+         },
+         "place_id" : "ChIJSURuCdkPWWgRafcR8JbbbyQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

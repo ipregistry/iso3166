@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ķekava Municipality",
+               "short_name" : "Ķekava Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ķekava Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.910107,
+                  "lng" : 24.5441338
+               },
+               "southwest" : {
+                  "lat" : 56.7176159,
+                  "lng" : 23.9976149
+               }
+            },
+            "location" : {
+               "lat" : 56.80643509999999,
+               "lng" : 24.1939493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.910107,
+                  "lng" : 24.5441338
+               },
+               "southwest" : {
+                  "lat" : 56.7176159,
+                  "lng" : 23.9976149
+               }
+            }
+         },
+         "place_id" : "ChIJ7evHmlgr6UYRcAHzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

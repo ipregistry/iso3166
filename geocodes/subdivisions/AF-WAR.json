@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wardak",
+               "short_name" : "Wardak",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wardak, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.797575,
+                  "lng" : 68.97261899999999
+               },
+               "southwest" : {
+                  "lat" : 33.683571,
+                  "lng" : 67.23220499999999
+               }
+            },
+            "location" : {
+               "lat" : 34.3513494,
+               "lng" : 68.23853389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.797575,
+                  "lng" : 68.97261899999999
+               },
+               "southwest" : {
+                  "lat" : 33.683571,
+                  "lng" : 67.23220499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXxxWsQyW0zgRwkYzvYZ9WWs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

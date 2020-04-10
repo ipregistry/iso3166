@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nong Bua",
+               "short_name" : "Nong Bua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Nong Bua Lam Phu District",
+               "short_name" : "Mueang Nong Bua Lam Phu District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nong Bua Lam Phu",
+               "short_name" : "จ.หนองบัวลำภู",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nong Bua, Mueang Nong Bua Lam Phu District, Nong Bua Lam Phu, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.2084531,
+                  "lng" : 102.5134638
+               },
+               "southwest" : {
+                  "lat" : 17.1229268,
+                  "lng" : 102.3679575
+               }
+            },
+            "location" : {
+               "lat" : 17.1739533,
+               "lng" : 102.4495221
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.2084531,
+                  "lng" : 102.5134638
+               },
+               "southwest" : {
+                  "lat" : 17.1229268,
+                  "lng" : 102.3679575
+               }
+            }
+         },
+         "place_id" : "ChIJ2wqjVaC4IzEREDXfyM9pBAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

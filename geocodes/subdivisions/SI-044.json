@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanal ob Soči",
+               "short_name" : "Kanal ob Soči",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanal",
+               "short_name" : "Kanal",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nova Gorica",
+               "short_name" : "Nova Gorica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5213",
+               "short_name" : "5213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5213 Kanal ob Soči, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.096127,
+                  "lng" : 13.6614195
+               },
+               "southwest" : {
+                  "lat" : 46.0728802,
+                  "lng" : 13.6281754
+               }
+            },
+            "location" : {
+               "lat" : 46.0853803,
+               "lng" : 13.634308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.096127,
+                  "lng" : 13.6614195
+               },
+               "southwest" : {
+                  "lat" : 46.0728802,
+                  "lng" : 13.6281754
+               }
+            }
+         },
+         "place_id" : "ChIJV29gnQdWekcRImI8lAHqUKg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

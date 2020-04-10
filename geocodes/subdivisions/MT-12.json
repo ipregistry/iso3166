@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gzira",
+               "short_name" : "Gzira",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gzira, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9097691,
+                  "lng" : 14.5083903
+               },
+               "southwest" : {
+                  "lat" : 35.9004619,
+                  "lng" : 14.4872762
+               }
+            },
+            "location" : {
+               "lat" : 35.905897,
+               "lng" : 14.4953338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9097691,
+                  "lng" : 14.5083903
+               },
+               "southwest" : {
+                  "lat" : 35.9004619,
+                  "lng" : 14.4872762
+               }
+            }
+         },
+         "place_id" : "ChIJb_aOyUlFDhMRYzQzLdgw8qg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

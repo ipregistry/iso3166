@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Friuli-Venezia Giulia",
+               "short_name" : "Friuli-Venezia Giulia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Friuli-Venezia Giulia, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6478092,
+                  "lng" : 13.9188525
+               },
+               "southwest" : {
+                  "lat" : 45.5809283,
+                  "lng" : 12.3209406
+               }
+            },
+            "location" : {
+               "lat" : 46.2259177,
+               "lng" : 13.1033646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6478092,
+                  "lng" : 13.9188525
+               },
+               "southwest" : {
+                  "lat" : 45.5809283,
+                  "lng" : 12.3209406
+               }
+            }
+         },
+         "place_id" : "ChIJ67q-XqQzekcRgHyQFYcJBwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

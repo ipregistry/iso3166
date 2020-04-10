@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fahs Anjra",
+               "short_name" : "Fahs Anjra",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tangier-Tétouan-Al Hoceima",
+               "short_name" : "Tangier-Tétouan-Al Hoceima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fahs Anjra, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8949256,
+                  "lng" : -5.485782599999999
+               },
+               "southwest" : {
+                  "lat" : 35.657817,
+                  "lng" : -5.8326474
+               }
+            },
+            "location" : {
+               "lat" : 35.7601992,
+               "lng" : -5.6668306
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8949256,
+                  "lng" : -5.485782599999999
+               },
+               "southwest" : {
+                  "lat" : 35.657817,
+                  "lng" : -5.8326474
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRykIFPV-Cw0RjD9wjMybnRI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

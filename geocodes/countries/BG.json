@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2153059,
+                  "lng" : 28.7292001
+               },
+               "southwest" : {
+                  "lat" : 41.2354469,
+                  "lng" : 22.3573446
+               }
+            },
+            "location" : {
+               "lat" : 42.733883,
+               "lng" : 25.48583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2153059,
+                  "lng" : 28.7292001
+               },
+               "southwest" : {
+                  "lat" : 41.2354469,
+                  "lng" : 22.3573446
+               }
+            }
+         },
+         "place_id" : "ChIJifBbyMH-qEAREEy_aRKgAAA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

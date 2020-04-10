@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Denmark Region",
+               "short_name" : "Central Denmark Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Denmark Region, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.84671900000001,
+                  "lng" : 11.6613
+               },
+               "southwest" : {
+                  "lat" : 55.668859,
+                  "lng" : 8.0970701
+               }
+            },
+            "location" : {
+               "lat" : 56.302139,
+               "lng" : 9.302776999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.84671900000001,
+                  "lng" : 11.6613
+               },
+               "southwest" : {
+                  "lat" : 55.668859,
+                  "lng" : 8.0970701
+               }
+            }
+         },
+         "place_id" : "ChIJdQCVe2YPTEYRMFSorMmvAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

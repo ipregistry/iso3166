@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kecskemét",
+               "short_name" : "Kecskemét",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kecskemét, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0012541,
+                  "lng" : 19.8515029
+               },
+               "southwest" : {
+                  "lat" : 46.769863,
+                  "lng" : 19.5066109
+               }
+            },
+            "location" : {
+               "lat" : 46.8963711,
+               "lng" : 19.6896861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0012541,
+                  "lng" : 19.8515029
+               },
+               "southwest" : {
+                  "lat" : 46.769863,
+                  "lng" : 19.5066109
+               }
+            }
+         },
+         "place_id" : "ChIJPxz2CGHaQ0cRgBEeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

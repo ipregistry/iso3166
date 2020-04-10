@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kongo Central",
+               "short_name" : "Kongo Central",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kongo Central, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.279237999999999,
+                  "lng" : 16.2585949
+               },
+               "southwest" : {
+                  "lat" : -6.059711,
+                  "lng" : 12.206631
+               }
+            },
+            "location" : {
+               "lat" : -5.2365685,
+               "lng" : 13.914399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.279237999999999,
+                  "lng" : 16.2585949
+               },
+               "southwest" : {
+                  "lat" : -6.059711,
+                  "lng" : 12.206631
+               }
+            }
+         },
+         "place_id" : "ChIJXST7G2ZEXBoRSw-ShdaVL0o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

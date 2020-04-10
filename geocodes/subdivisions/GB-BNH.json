@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton and Hove",
+               "short_name" : "Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton and Hove, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.892374,
+                  "lng" : -0.0160306
+               },
+               "southwest" : {
+                  "lat" : 50.7985131,
+                  "lng" : -0.2450771
+               }
+            },
+            "location" : {
+               "lat" : 50.8226288,
+               "lng" : -0.137047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.892374,
+                  "lng" : -0.0160306
+               },
+               "southwest" : {
+                  "lat" : 50.7985131,
+                  "lng" : -0.2450771
+               }
+            }
+         },
+         "place_id" : "ChIJfRLCXYeFdUgRsJ7toi2uDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hove",
+               "short_name" : "Hove",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton and Hove",
+               "short_name" : "Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hove, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8583773,
+                  "lng" : -0.1473823
+               },
+               "southwest" : {
+                  "lat" : 50.8214351,
+                  "lng" : -0.2109698
+               }
+            },
+            "location" : {
+               "lat" : 50.8279319,
+               "lng" : -0.168749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8583773,
+                  "lng" : -0.1473823
+               },
+               "southwest" : {
+                  "lat" : 50.8214351,
+                  "lng" : -0.2109698
+               }
+            }
+         },
+         "place_id" : "ChIJ24FB81OFdUgRKxfjNM_q-2g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

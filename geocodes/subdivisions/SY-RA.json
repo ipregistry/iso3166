@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ar Raqqah",
+               "short_name" : "Ar Raqqah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ar-Raqqah District",
+               "short_name" : "Ar-Raqqah District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ar-Raqqah",
+               "short_name" : "Ar-Raqqah",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ar Raqqah, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9821736,
+                  "lng" : 39.0682411
+               },
+               "southwest" : {
+                  "lat" : 35.9272857,
+                  "lng" : 38.9259338
+               }
+            },
+            "location" : {
+               "lat" : 35.9594106,
+               "lng" : 38.9981052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9821736,
+                  "lng" : 39.0682411
+               },
+               "southwest" : {
+                  "lat" : 35.9272857,
+                  "lng" : 38.9259338
+               }
+            }
+         },
+         "place_id" : "ChIJ-7W3AcsZNxUR4881zxivvcg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

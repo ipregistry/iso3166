@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faridpur",
+               "short_name" : "Faridpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faridpur District",
+               "short_name" : "Faridpur District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faridpur, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.6210523,
+                  "lng" : 89.87019069999999
+               },
+               "southwest" : {
+                  "lat" : 23.5816087,
+                  "lng" : 89.81220250000001
+               }
+            },
+            "location" : {
+               "lat" : 23.6018691,
+               "lng" : 89.8333382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.6210523,
+                  "lng" : 89.87019069999999
+               },
+               "southwest" : {
+                  "lat" : 23.5816087,
+                  "lng" : 89.81220250000001
+               }
+            }
+         },
+         "place_id" : "ChIJf_ykqjQl_jkRjqIZ2_9Dr00",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

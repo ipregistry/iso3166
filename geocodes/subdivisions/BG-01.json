@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blagoevgrad",
+               "short_name" : "Blagoevgrad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blagoevgrad Province",
+               "short_name" : "Blagoevgrad Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blagoevgrad, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0296711,
+                  "lng" : 23.1195894
+               },
+               "southwest" : {
+                  "lat" : 41.9978951,
+                  "lng" : 23.0698939
+               }
+            },
+            "location" : {
+               "lat" : 42.0208569,
+               "lng" : 23.0943385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0296711,
+                  "lng" : 23.1195894
+               },
+               "southwest" : {
+                  "lat" : 41.9978951,
+                  "lng" : 23.0698939
+               }
+            }
+         },
+         "place_id" : "ChIJYw9_jwD2qhQRjfVAhLbcfEE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

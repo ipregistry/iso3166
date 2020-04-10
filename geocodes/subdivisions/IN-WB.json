@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.220707,
+                  "lng" : 89.880039
+               },
+               "southwest" : {
+                  "lat" : 21.524921,
+                  "lng" : 85.82095799999999
+               }
+            },
+            "location" : {
+               "lat" : 22.9867569,
+               "lng" : 87.85497549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.220707,
+                  "lng" : 89.880039
+               },
+               "southwest" : {
+                  "lat" : 21.524921,
+                  "lng" : 85.82095799999999
+               }
+            }
+         },
+         "place_id" : "ChIJh-iXE_8W-jkRCqLnwz06VHE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

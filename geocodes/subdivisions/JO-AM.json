@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amman",
+               "short_name" : "Amman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amman Governorate",
+               "short_name" : "Amman Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amman, Jordan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0886118,
+                  "lng" : 36.2155321
+               },
+               "southwest" : {
+                  "lat" : 31.5829089,
+                  "lng" : 35.6797295
+               }
+            },
+            "location" : {
+               "lat" : 31.9539494,
+               "lng" : 35.910635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0886118,
+                  "lng" : 36.2155321
+               },
+               "southwest" : {
+                  "lat" : 31.5829089,
+                  "lng" : 35.6797295
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJr4F5XbhfGxUR6GXc-MAwHGM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

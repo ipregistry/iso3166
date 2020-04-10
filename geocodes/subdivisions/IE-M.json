@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Munster",
+               "short_name" : "Munster",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Munster, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1687693,
+                  "lng" : -6.949995599999999
+               },
+               "southwest" : {
+                  "lat" : 51.41989659999999,
+                  "lng" : -10.6186596
+               }
+            },
+            "location" : {
+               "lat" : 52.2217725,
+               "lng" : -8.556663799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1687693,
+                  "lng" : -6.949995599999999
+               },
+               "southwest" : {
+                  "lat" : 51.41989659999999,
+                  "lng" : -10.6186596
+               }
+            }
+         },
+         "place_id" : "ChIJYx5S1OO1REgRgePyssIWJjU",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilfov River",
+               "short_name" : "Ilfov River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ilfov River, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7432708,
+                  "lng" : 25.9373161
+               },
+               "southwest" : {
+                  "lat" : 44.4734101,
+                  "lng" : 25.5911764
+               }
+            },
+            "location" : {
+               "lat" : 44.6014165,
+               "lng" : 25.7616789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7432708,
+                  "lng" : 25.9373161
+               },
+               "southwest" : {
+                  "lat" : 44.4734101,
+                  "lng" : 25.5911764
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJc_0wWlENskAR4DVWAakKnm4",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

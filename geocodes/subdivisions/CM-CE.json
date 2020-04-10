@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centre, Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.262233999999999,
+                  "lng" : 13.248086
+               },
+               "southwest" : {
+                  "lat" : 3.139809,
+                  "lng" : 10.2618951
+               }
+            },
+            "location" : {
+               "lat" : 4.6298411,
+               "lng" : 11.7068294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.262233999999999,
+                  "lng" : 13.248086
+               },
+               "southwest" : {
+                  "lat" : 3.139809,
+                  "lng" : 10.2618951
+               }
+            }
+         },
+         "place_id" : "ChIJd3maMHrPixARaSVjg0STQEc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

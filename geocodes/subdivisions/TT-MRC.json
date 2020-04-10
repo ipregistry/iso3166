@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayaro Rio Claro Regional Corporation",
+               "short_name" : "Mayaro Rio Claro Regional Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mayaro Rio Claro Regional Corporation, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4406099,
+                  "lng" : -60.9645109
+               },
+               "southwest" : {
+                  "lat" : 10.0719549,
+                  "lng" : -61.23980999999999
+               }
+            },
+            "location" : {
+               "lat" : 10.2412832,
+               "lng" : -61.09372059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4406099,
+                  "lng" : -60.9645109
+               },
+               "southwest" : {
+                  "lat" : 10.0719549,
+                  "lng" : -61.23980999999999
+               }
+            }
+         },
+         "place_id" : "ChIJZz5rzCRtSowR7XcEkDxKndw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

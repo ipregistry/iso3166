@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šmarje pri Jelšah",
+               "short_name" : "Šmarje pri Jelšah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Šmarje pri Jelšah",
+               "short_name" : "Šmarje pri Jelšah",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Šmarje pri Jelšah",
+               "short_name" : "Šmarje pri Jelšah",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3240",
+               "short_name" : "3240",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3240 Šmarje pri Jelšah, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2359701,
+                  "lng" : 15.5324245
+               },
+               "southwest" : {
+                  "lat" : 46.2236306,
+                  "lng" : 15.5001446
+               }
+            },
+            "location" : {
+               "lat" : 46.2287025,
+               "lng" : 15.5190353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2359701,
+                  "lng" : 15.5324245
+               },
+               "southwest" : {
+                  "lat" : 46.2236306,
+                  "lng" : 15.5001446
+               }
+            }
+         },
+         "place_id" : "ChIJnTIrXKucZUcRnxfZjSyHJ2I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

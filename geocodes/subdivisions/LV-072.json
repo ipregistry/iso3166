@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pļaviņas",
+               "short_name" : "Pļaviņas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pļaviņu pilsēta",
+               "short_name" : "Pļaviņu pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pļaviņas, Pļaviņu pilsēta, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6291084,
+                  "lng" : 25.7846346
+               },
+               "southwest" : {
+                  "lat" : 56.598921,
+                  "lng" : 25.6660208
+               }
+            },
+            "location" : {
+               "lat" : 56.6182449,
+               "lng" : 25.725792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6291084,
+                  "lng" : 25.7846346
+               },
+               "southwest" : {
+                  "lat" : 56.598921,
+                  "lng" : 25.6660208
+               }
+            }
+         },
+         "place_id" : "ChIJC0oQek6l6UYR4P7yaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

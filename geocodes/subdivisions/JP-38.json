@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ehime",
+               "short_name" : "Ehime",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ehime, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.30157640000001,
+                  "lng" : 133.692784
+               },
+               "southwest" : {
+                  "lat" : 32.8850058,
+                  "lng" : 132.0123104
+               }
+            },
+            "location" : {
+               "lat" : 33.6025306,
+               "lng" : 132.7857583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.30157640000001,
+                  "lng" : 133.692784
+               },
+               "southwest" : {
+                  "lat" : 32.8850058,
+                  "lng" : 132.0123104
+               }
+            }
+         },
+         "place_id" : "ChIJraqWR5CVTzUR272f78CTlP8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

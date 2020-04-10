@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centre-Ouest Region",
+               "short_name" : "Centre-Ouest Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centre-Ouest Region, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.8316141,
+                  "lng" : -1.288668
+               },
+               "southwest" : {
+                  "lat" : 10.976135,
+                  "lng" : -2.9356
+               }
+            },
+            "location" : {
+               "lat" : 11.8798466,
+               "lng" : -2.302446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8316141,
+                  "lng" : -1.288668
+               },
+               "southwest" : {
+                  "lat" : 10.976135,
+                  "lng" : -2.9356
+               }
+            }
+         },
+         "place_id" : "ChIJI065StTdLQ4R4WyQ4d-wKxs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

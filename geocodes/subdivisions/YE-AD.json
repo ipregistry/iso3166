@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aden",
+               "short_name" : "Aden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "'Adan Governorate",
+               "short_name" : "'Adan Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Yemen",
+               "short_name" : "YE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aden, Yemen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.8697836,
+                  "lng" : 45.0626126
+               },
+               "southwest" : {
+                  "lat" : 12.7507991,
+                  "lng" : 44.9685216
+               }
+            },
+            "location" : {
+               "lat" : 12.7854969,
+               "lng" : 45.0186548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8697836,
+                  "lng" : 45.0626126
+               },
+               "southwest" : {
+                  "lat" : 12.7507991,
+                  "lng" : 44.9685216
+               }
+            }
+         },
+         "place_id" : "ChIJL8JeUdYcHhYR6W9pI8OzX5Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

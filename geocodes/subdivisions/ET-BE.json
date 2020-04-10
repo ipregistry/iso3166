@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Benishangul-Gumuz",
+               "short_name" : "Benishangul-Gumuz",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Benishangul-Gumuz, Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.054975,
+                  "lng" : 37.0327991
+               },
+               "southwest" : {
+                  "lat" : 8.783433,
+                  "lng" : 34.106831
+               }
+            },
+            "location" : {
+               "lat" : 10.7802889,
+               "lng" : 35.5657862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.054975,
+                  "lng" : 37.0327991
+               },
+               "southwest" : {
+                  "lat" : 8.783433,
+                  "lng" : 34.106831
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3eG2bPvjVhYRlKD4EoZwQ6g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

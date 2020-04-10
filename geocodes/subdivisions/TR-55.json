@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samsun",
+               "short_name" : "Samsun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Samsun",
+               "short_name" : "Samsun",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samsun, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.343598,
+                  "lng" : 36.384526
+               },
+               "southwest" : {
+                  "lat" : 41.239349,
+                  "lng" : 36.242871
+               }
+            },
+            "location" : {
+               "lat" : 41.2797031,
+               "lng" : 36.3360667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.343598,
+                  "lng" : 36.384526
+               },
+               "southwest" : {
+                  "lat" : 41.239349,
+                  "lng" : 36.242871
+               }
+            }
+         },
+         "place_id" : "ChIJY9YHdul3iEARUuv9ZcKckws",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luang Prabang",
+               "short_name" : "Luang Prabang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luang Prabang Province",
+               "short_name" : "Luang Prabang Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Laos",
+               "short_name" : "LA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luang Prabang, Laos",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.9060928,
+                  "lng" : 102.1730264
+               },
+               "southwest" : {
+                  "lat" : 19.8651358,
+                  "lng" : 102.1182632
+               }
+            },
+            "location" : {
+               "lat" : 19.883285,
+               "lng" : 102.1387166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.9060928,
+                  "lng" : 102.1730264
+               },
+               "southwest" : {
+                  "lat" : 19.8651358,
+                  "lng" : 102.1182632
+               }
+            }
+         },
+         "place_id" : "ChIJoxs9QT8qLzERVmqOYKlJl6w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

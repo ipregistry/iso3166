@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahdia",
+               "short_name" : "Mahdia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahdia",
+               "short_name" : "Mahdia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mahdia",
+               "short_name" : "Mahdia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mahdia, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.516999,
+                  "lng" : 11.0821596
+               },
+               "southwest" : {
+                  "lat" : 35.4924656,
+                  "lng" : 11.0219544
+               }
+            },
+            "location" : {
+               "lat" : 35.5024461,
+               "lng" : 11.045721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.516999,
+                  "lng" : 11.0821596
+               },
+               "southwest" : {
+                  "lat" : 35.4924656,
+                  "lng" : 11.0219544
+               }
+            }
+         },
+         "place_id" : "ChIJ-WxsGPUjAhMRu6X_TXN7X2c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

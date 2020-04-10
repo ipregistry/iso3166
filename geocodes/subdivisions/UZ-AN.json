@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andijan",
+               "short_name" : "Andijan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Andijan District",
+               "short_name" : "Andijan District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andijan region",
+               "short_name" : "Andijan region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andijan, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8773096,
+                  "lng" : 72.42169269999999
+               },
+               "southwest" : {
+                  "lat" : 40.6814191,
+                  "lng" : 72.2175981
+               }
+            },
+            "location" : {
+               "lat" : 40.8153561,
+               "lng" : 72.28375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8773096,
+                  "lng" : 72.42169269999999
+               },
+               "southwest" : {
+                  "lat" : 40.6814191,
+                  "lng" : 72.2175981
+               }
+            }
+         },
+         "place_id" : "ChIJ79QTax2QvDgRrN9zeaq8Rfw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

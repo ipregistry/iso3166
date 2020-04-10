@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurdistan Province",
+               "short_name" : "Kurdistan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kurdistan Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.510781,
+                  "lng" : 48.221637
+               },
+               "southwest" : {
+                  "lat" : 34.757877,
+                  "lng" : 45.5092349
+               }
+            },
+            "location" : {
+               "lat" : 35.9553579,
+               "lng" : 47.1362125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.510781,
+                  "lng" : 48.221637
+               },
+               "southwest" : {
+                  "lat" : 34.757877,
+                  "lng" : 45.5092349
+               }
+            }
+         },
+         "place_id" : "ChIJo8K7qBFQ-D8RsJZu_remze4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

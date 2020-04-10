@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alsunga Municipality",
+               "short_name" : "Alsunga Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Alsungas novads",
+               "short_name" : "Alsungas novads",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3306",
+               "short_name" : "3306",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alsunga Municipality, Alsungas novads, LV-3306, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.0764489,
+                  "lng" : 21.7005618
+               },
+               "southwest" : {
+                  "lat" : 56.8919139,
+                  "lng" : 21.394481
+               }
+            },
+            "location" : {
+               "lat" : 56.9828531,
+               "lng" : 21.5555919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.0764489,
+                  "lng" : 21.7005618
+               },
+               "southwest" : {
+                  "lat" : 56.8919139,
+                  "lng" : 21.394481
+               }
+            }
+         },
+         "place_id" : "ChIJsVQSB2ok8EYRcP_yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

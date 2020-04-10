@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dong Nai",
+               "short_name" : "Dong Nai",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tân Phú",
+               "short_name" : "Tân Phú",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Đồng Nai",
+               "short_name" : "Đồng Nai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dong Nai, Tân Phú, Đồng Nai, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.580995,
+                  "lng" : 107.471528
+               },
+               "southwest" : {
+                  "lat" : 11.358402,
+                  "lng" : 107.175657
+               }
+            },
+            "location" : {
+               "lat" : 11.4741607,
+               "lng" : 107.3139304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.580995,
+                  "lng" : 107.471528
+               },
+               "southwest" : {
+                  "lat" : 11.358402,
+                  "lng" : 107.175657
+               }
+            }
+         },
+         "place_id" : "ChIJCeaQ6Gh-dDER0sT-d0DeXuA",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

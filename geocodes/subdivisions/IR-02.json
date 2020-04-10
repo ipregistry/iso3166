@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Azerbaijan Province",
+               "short_name" : "West Azerbaijan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Azerbaijan Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7772221,
+                  "lng" : 47.3370221
+               },
+               "southwest" : {
+                  "lat" : 35.972786,
+                  "lng" : 44.0472641
+               }
+            },
+            "location" : {
+               "lat" : 37.4550062,
+               "lng" : 45
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7772221,
+                  "lng" : 47.3370221
+               },
+               "southwest" : {
+                  "lat" : 35.972786,
+                  "lng" : 44.0472641
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGUx6jEahGkARq-FePo7xAuo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

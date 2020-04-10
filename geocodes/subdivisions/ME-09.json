@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kolasin",
+               "short_name" : "KL",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolašin Municipality",
+               "short_name" : "Kolašin Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kolasin, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8338702,
+                  "lng" : 19.5420171
+               },
+               "southwest" : {
+                  "lat" : 42.8146069,
+                  "lng" : 19.5110321
+               }
+            },
+            "location" : {
+               "lat" : 42.8204751,
+               "lng" : 19.5240814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8338702,
+                  "lng" : 19.5420171
+               },
+               "southwest" : {
+                  "lat" : 42.8146069,
+                  "lng" : 19.5110321
+               }
+            }
+         },
+         "place_id" : "ChIJU8uzw_58TRMR235NJagMNrs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

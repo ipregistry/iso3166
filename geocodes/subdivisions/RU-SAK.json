@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sakhalin Oblast",
+               "short_name" : "Sakhalin Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sakhalin Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.4254512,
+                  "lng" : 156.511782
+               },
+               "southwest" : {
+                  "lat" : 43.3603055,
+                  "lng" : 141.2077978
+               }
+            },
+            "location" : {
+               "lat" : 49.9807847,
+               "lng" : 143.373813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4254512,
+                  "lng" : 156.511782
+               },
+               "southwest" : {
+                  "lat" : 43.3603055,
+                  "lng" : 141.2077978
+               }
+            }
+         },
+         "place_id" : "ChIJCWD1VFIvLF8RIJhvOTRYBAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strenči Municipality",
+               "short_name" : "Strenči Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Strenči Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.74710589999999,
+                  "lng" : 25.9942357
+               },
+               "southwest" : {
+                  "lat" : 57.470193,
+                  "lng" : 25.505302
+               }
+            },
+            "location" : {
+               "lat" : 57.6225471,
+               "lng" : 25.8048086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.74710589999999,
+                  "lng" : 25.9942357
+               },
+               "southwest" : {
+                  "lat" : 57.470193,
+                  "lng" : 25.505302
+               }
+            }
+         },
+         "place_id" : "ChIJs5noF9W_60YRIAPzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

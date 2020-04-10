@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suphan Buri",
+               "short_name" : "จ.สุพรรณบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Suphan Buri, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.0823024,
+                  "lng" : 100.2832801
+               },
+               "southwest" : {
+                  "lat" : 14.0566785,
+                  "lng" : 99.28135119999999
+               }
+            },
+            "location" : {
+               "lat" : 14.4744892,
+               "lng" : 100.1177128
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.0823024,
+                  "lng" : 100.2832801
+               },
+               "southwest" : {
+                  "lat" : 14.0566785,
+                  "lng" : 99.28135119999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7Yh-0iuI4TARlYmRmbPHbBg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

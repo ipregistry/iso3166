@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UP Mindanao",
+               "short_name" : "UP Mindanao",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tugbok",
+               "short_name" : "Tugbok",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Davao City",
+               "short_name" : "Davao City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Davao del Sur",
+               "short_name" : "Davao del Sur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Davao Region",
+               "short_name" : "Davao Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8000",
+               "short_name" : "8000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "UP Mindanao, Tugbok, Davao City, 8000 Davao del Sur, Philippines",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.0837688,
+               "lng" : 125.4773368
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.085117780291502,
+                  "lng" : 125.4786857802915
+               },
+               "southwest" : {
+                  "lat" : 7.082419819708497,
+                  "lng" : 125.4759878197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm4E2CPYR-TIRYdCAKtdDy5g",
+         "plus_code" : {
+            "compound_code" : "3FMG+GW Davao City, Davao del Sur, Philippines",
+            "global_code" : "6QV73FMG+GW"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

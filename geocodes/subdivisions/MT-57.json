@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swieqi",
+               "short_name" : "Swieqi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swieqi, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.933632,
+                  "lng" : 14.4870293
+               },
+               "southwest" : {
+                  "lat" : 35.91263240000001,
+                  "lng" : 14.4549179
+               }
+            },
+            "location" : {
+               "lat" : 35.9191182,
+               "lng" : 14.4694186
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.933632,
+                  "lng" : 14.4870293
+               },
+               "southwest" : {
+                  "lat" : 35.91263240000001,
+                  "lng" : 14.4549179
+               }
+            }
+         },
+         "place_id" : "ChIJfZ1LLotPDhMRfSzDbgOTADI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

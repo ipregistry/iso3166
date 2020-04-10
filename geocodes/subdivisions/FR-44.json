@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loire-Atlantique",
+               "short_name" : "Loire-Atlantique",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loire-Atlantique, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.835927,
+                  "lng" : -0.9232159999999998
+               },
+               "southwest" : {
+                  "lat" : 46.860073,
+                  "lng" : -2.559609
+               }
+            },
+            "location" : {
+               "lat" : 47.27804680000001,
+               "lng" : -1.8157647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.835927,
+                  "lng" : -0.9232159999999998
+               },
+               "southwest" : {
+                  "lat" : 46.860073,
+                  "lng" : -2.559609
+               }
+            }
+         },
+         "place_id" : "ChIJnbJ5rKiOBUgRQCgJHlI3DQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rabat",
+               "short_name" : "Rabat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rabat, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9101514,
+                  "lng" : 14.41697
+               },
+               "southwest" : {
+                  "lat" : 35.8615393,
+                  "lng" : 14.3277516
+               }
+            },
+            "location" : {
+               "lat" : 35.8854994,
+               "lng" : 14.373372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9101514,
+                  "lng" : 14.41697
+               },
+               "southwest" : {
+                  "lat" : 35.8615393,
+                  "lng" : 14.3277516
+               }
+            }
+         },
+         "place_id" : "ChIJt7PV7ZZRDhMRSVtye-QRXCM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

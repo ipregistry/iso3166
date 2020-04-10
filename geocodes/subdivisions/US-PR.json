@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monacillo",
+               "short_name" : "Monacillo",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "PR",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00926",
+               "short_name" : "00926",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Urb. La Cumbre 173 Calle Los Andes, Suite 1, San Juan, PR 00926",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.363063,
+               "lng" : -66.074726
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.3644119802915,
+                  "lng" : -66.07337701970849
+               },
+               "southwest" : {
+                  "lat" : 18.3617140197085,
+                  "lng" : -66.07607498029151
+               }
+            }
+         },
+         "place_id" : "ChIJO7PumCNoA4wR2rrLV6BGIoA",
+         "plus_code" : {
+            "compound_code" : "9W7G+64 San Juan, Puerto Rico",
+            "global_code" : "77CM9W7G+64"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

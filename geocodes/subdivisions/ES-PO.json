@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pontevedra",
+               "short_name" : "Pontevedra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pontevedra",
+               "short_name" : "PO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pontevedra, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4517667,
+                  "lng" : -8.613833699999999
+               },
+               "southwest" : {
+                  "lat" : 42.4159549,
+                  "lng" : -8.664857599999999
+               }
+            },
+            "location" : {
+               "lat" : 42.4298846,
+               "lng" : -8.6446202
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4517667,
+                  "lng" : -8.613833699999999
+               },
+               "southwest" : {
+                  "lat" : 42.4159549,
+                  "lng" : -8.664857599999999
+               }
+            }
+         },
+         "place_id" : "ChIJ16adM89xLw0R1DHkGzoWW20",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

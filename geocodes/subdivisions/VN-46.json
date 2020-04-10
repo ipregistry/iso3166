@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tien Giang",
+               "short_name" : "Tien Giang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tien Giang, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.586974,
+                  "lng" : 106.801602
+               },
+               "southwest" : {
+                  "lat" : 10.189435,
+                  "lng" : 105.8195049
+               }
+            },
+            "location" : {
+               "lat" : 10.4493324,
+               "lng" : 106.3420504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.586974,
+                  "lng" : 106.801602
+               },
+               "southwest" : {
+                  "lat" : 10.189435,
+                  "lng" : 105.8195049
+               }
+            }
+         },
+         "place_id" : "ChIJgSaoteuvCjERdWM3wQen4zw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurdamir",
+               "short_name" : "Kurdamir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kurdamir",
+               "short_name" : "Kurdamir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kurdamir, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3976794,
+                  "lng" : 48.2148742
+               },
+               "southwest" : {
+                  "lat" : 40.3172317,
+                  "lng" : 48.120718
+               }
+            },
+            "location" : {
+               "lat" : 40.3698651,
+               "lng" : 48.1644626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3976794,
+                  "lng" : 48.2148742
+               },
+               "southwest" : {
+                  "lat" : 40.3172317,
+                  "lng" : 48.120718
+               }
+            }
+         },
+         "place_id" : "ChIJ022vjM1iOUARim5jxRls07M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

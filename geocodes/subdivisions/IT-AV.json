@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avellino",
+               "short_name" : "Avellino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Avellino",
+               "short_name" : "Avellino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Avellino",
+               "short_name" : "AV",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83100",
+               "short_name" : "83100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "83100 Avellino, Province of Avellino, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9458888,
+                  "lng" : 14.8314412
+               },
+               "southwest" : {
+                  "lat" : 40.8984426,
+                  "lng" : 14.7588462
+               }
+            },
+            "location" : {
+               "lat" : 40.914388,
+               "lng" : 14.7906121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9458888,
+                  "lng" : 14.8314412
+               },
+               "southwest" : {
+                  "lat" : 40.8984426,
+                  "lng" : 14.7588462
+               }
+            }
+         },
+         "place_id" : "ChIJ3dhaElXMOxMR2k5gul0noQA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

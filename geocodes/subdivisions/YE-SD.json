@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sa'dah",
+               "short_name" : "Sa'dah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saada Governorate",
+               "short_name" : "Saada Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Yemen",
+               "short_name" : "YE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sa'dah, Yemen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.9842336,
+                  "lng" : 43.7776101
+               },
+               "southwest" : {
+                  "lat" : 16.9213471,
+                  "lng" : 43.7216377
+               }
+            },
+            "location" : {
+               "lat" : 16.9509413,
+               "lng" : 43.7477743
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.9842336,
+                  "lng" : 43.7776101
+               },
+               "southwest" : {
+                  "lat" : 16.9213471,
+                  "lng" : 43.7216377
+               }
+            }
+         },
+         "place_id" : "ChIJP09Y7kTi_RURNPheZ9YIGgE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

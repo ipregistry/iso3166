@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Youssoufia",
+               "short_name" : "Youssoufia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Safi",
+               "short_name" : "Safi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Casablanca-Settat",
+               "short_name" : "Casablanca-Settat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Youssoufia, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2671803,
+                  "lng" : -8.496752899999999
+               },
+               "southwest" : {
+                  "lat" : 32.2244194,
+                  "lng" : -8.5545185
+               }
+            },
+            "location" : {
+               "lat" : 32.2438426,
+               "lng" : -8.5226706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2671803,
+                  "lng" : -8.496752899999999
+               },
+               "southwest" : {
+                  "lat" : 32.2244194,
+                  "lng" : -8.5545185
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpZSszdP8rg0RjVGeBX7mzwI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

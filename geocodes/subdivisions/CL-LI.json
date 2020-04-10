@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "O'Higgins",
+               "short_name" : "O'Higgins",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "O'Higgins, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.8537681,
+                  "lng" : -70.00913009999999
+               },
+               "southwest" : {
+                  "lat" : -35.006672,
+                  "lng" : -72.0692203
+               }
+            },
+            "location" : {
+               "lat" : -34.5755374,
+               "lng" : -71.0022311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.8537681,
+                  "lng" : -70.00913009999999
+               },
+               "southwest" : {
+                  "lat" : -35.006672,
+                  "lng" : -72.0692203
+               }
+            }
+         },
+         "place_id" : "ChIJKZ0BY11DY5YRqX7hWhgM3Rc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

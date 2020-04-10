@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zagorje ob Savi",
+               "short_name" : "Zagorje ob Savi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zagorje ob Savi",
+               "short_name" : "Zagorje ob Savi",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Zagorje ob Savi",
+               "short_name" : "Zagorje ob Savi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1410",
+               "short_name" : "1410",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1410 Zagorje ob Savi, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1428459,
+                  "lng" : 15.0149749
+               },
+               "southwest" : {
+                  "lat" : 46.1116695,
+                  "lng" : 14.9775918
+               }
+            },
+            "location" : {
+               "lat" : 46.1345186,
+               "lng" : 14.9945975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1428459,
+                  "lng" : 15.0149749
+               },
+               "southwest" : {
+                  "lat" : 46.1116695,
+                  "lng" : 14.9775918
+               }
+            }
+         },
+         "place_id" : "ChIJ0eKL62gVZUcRsPI_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

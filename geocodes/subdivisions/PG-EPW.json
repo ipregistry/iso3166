@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enga Province",
+               "short_name" : "Enga Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Enga Province, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.0077089,
+                  "lng" : 144.2541971
+               },
+               "southwest" : {
+                  "lat" : -5.9661789,
+                  "lng" : 142.7393411
+               }
+            },
+            "location" : {
+               "lat" : -5.3005849,
+               "lng" : 143.5635637
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.0077089,
+                  "lng" : 144.2541971
+               },
+               "southwest" : {
+                  "lat" : -5.9661789,
+                  "lng" : 142.7393411
+               }
+            }
+         },
+         "place_id" : "ChIJs03HHYaXW2gRB07axhkvoXk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

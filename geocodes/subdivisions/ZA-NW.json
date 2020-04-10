@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North West",
+               "short_name" : "NW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North West, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -24.6366783,
+                  "lng" : 28.2983488
+               },
+               "southwest" : {
+                  "lat" : -28.1132199,
+                  "lng" : 22.6290299
+               }
+            },
+            "location" : {
+               "lat" : -26.6638599,
+               "lng" : 25.2837585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -24.6366783,
+                  "lng" : 28.2983488
+               },
+               "southwest" : {
+                  "lat" : -28.1132199,
+                  "lng" : 22.6290299
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ612A6EIKmB4R_5BkMf6qLUc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

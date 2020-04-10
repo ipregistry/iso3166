@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.49087670000001,
+                  "lng" : 74.8898619
+               },
+               "southwest" : {
+                  "lat" : 29.3772,
+                  "lng" : 60.5170005
+               }
+            },
+            "location" : {
+               "lat" : 33.93911,
+               "lng" : 67.709953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.49087670000001,
+                  "lng" : 74.8898619
+               },
+               "southwest" : {
+                  "lat" : 29.3772,
+                  "lng" : 60.5170005
+               }
+            }
+         },
+         "place_id" : "ChIJbQL_-LZu0TgReNqWvg1GtfM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

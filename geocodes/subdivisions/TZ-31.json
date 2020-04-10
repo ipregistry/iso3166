@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Songwe Region",
+               "short_name" : "Songwe Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Songwe Region, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.9276914,
+                  "lng" : 33.6894813
+               },
+               "southwest" : {
+                  "lat" : -9.626159699999999,
+                  "lng" : 31.9759305
+               }
+            },
+            "location" : {
+               "lat" : -8.5238219,
+               "lng" : 32.5372741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.9276914,
+                  "lng" : 33.6894813
+               },
+               "southwest" : {
+                  "lat" : -9.626159699999999,
+                  "lng" : 31.9759305
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLXVK5oYyqRkRFmYQFYfDJ8c",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

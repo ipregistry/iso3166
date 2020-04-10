@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Entre Rios",
+               "short_name" : "Entre Rios",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Entre Rios, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.1601613,
+                  "lng" : -57.81191139999999
+               },
+               "southwest" : {
+                  "lat" : -34.0391275,
+                  "lng" : -60.7680611
+               }
+            },
+            "location" : {
+               "lat" : -31.7746654,
+               "lng" : -60.49564609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.1601613,
+                  "lng" : -57.81191139999999
+               },
+               "southwest" : {
+                  "lat" : -34.0391275,
+                  "lng" : -60.7680611
+               }
+            }
+         },
+         "place_id" : "ChIJvy9Iut1RpZURgmPU3PBLKGk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

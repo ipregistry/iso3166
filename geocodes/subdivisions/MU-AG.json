@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agaléga",
+               "short_name" : "Agaléga",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Agaléga District",
+               "short_name" : "Agaléga District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritius",
+               "short_name" : "MU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Agaléga, Mauritius",
+         "geometry" : {
+            "location" : {
+               "lat" : -10.4,
+               "lng" : 56.6166667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.3890251,
+                  "lng" : 56.6326741
+               },
+               "southwest" : {
+                  "lat" : -10.4109745,
+                  "lng" : 56.6006593
+               }
+            }
+         },
+         "place_id" : "ChIJF-qnlK0VrCMR_3XllKLpgsU",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

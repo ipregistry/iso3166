@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint George",
+               "short_name" : "Saint George",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Antigua and Barbuda",
+               "short_name" : "AG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint George, Antigua and Barbuda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.1695731,
+                  "lng" : -61.74554920000001
+               },
+               "southwest" : {
+                  "lat" : 17.0828211,
+                  "lng" : -61.8104881
+               }
+            },
+            "location" : {
+               "lat" : 17.1078489,
+               "lng" : -61.7882743
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.1695731,
+                  "lng" : -61.74554920000001
+               },
+               "southwest" : {
+                  "lat" : 17.0828211,
+                  "lng" : -61.8104881
+               }
+            }
+         },
+         "place_id" : "ChIJ6cF5YfGWEowRmpa8eUBRPOo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

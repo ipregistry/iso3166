@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ica",
+               "short_name" : "Ica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ica",
+               "short_name" : "Ica",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ica",
+               "short_name" : "Ica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ica, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.0361765,
+                  "lng" : -75.7176231
+               },
+               "southwest" : {
+                  "lat" : -14.1313319,
+                  "lng" : -75.773692
+               }
+            },
+            "location" : {
+               "lat" : -14.07546,
+               "lng" : -75.7341811
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.0361765,
+                  "lng" : -75.7176231
+               },
+               "southwest" : {
+                  "lat" : -14.1313319,
+                  "lng" : -75.773692
+               }
+            }
+         },
+         "place_id" : "ChIJPU_HzsPiEJERzX7mkLWi4Vw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wiltz",
+               "short_name" : "Wiltz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wiltz",
+               "short_name" : "Wiltz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Diekirch",
+               "short_name" : "Diekirch",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wiltz, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.99431,
+                  "lng" : 5.9710801
+               },
+               "southwest" : {
+                  "lat" : 49.93436,
+                  "lng" : 5.877949999999999
+               }
+            },
+            "location" : {
+               "lat" : 49.96622,
+               "lng" : 5.932430600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.99431,
+                  "lng" : 5.9710801
+               },
+               "southwest" : {
+                  "lat" : 49.93436,
+                  "lng" : 5.877949999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk4XyJxMEwEcREHQF0dbRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

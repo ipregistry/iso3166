@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "Kansas City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wyandotte County",
+               "short_name" : "Wyandotte County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kansas City, KS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.202911,
+                  "lng" : -94.588387
+               },
+               "southwest" : {
+                  "lat" : 39.0435589,
+                  "lng" : -94.90846499999999
+               }
+            },
+            "location" : {
+               "lat" : 39.11553139999999,
+               "lng" : -94.62678729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.202911,
+                  "lng" : -94.588387
+               },
+               "southwest" : {
+                  "lat" : 39.0435589,
+                  "lng" : -94.90846499999999
+               }
+            }
+         },
+         "place_id" : "ChIJFTXPJ-SMwIcRBR7DcHt3d9w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

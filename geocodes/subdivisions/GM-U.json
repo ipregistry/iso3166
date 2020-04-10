@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper River",
+               "short_name" : "Upper River",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Gambia",
+               "short_name" : "GM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper River, The Gambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5734001,
+                  "lng" : -13.7977931
+               },
+               "southwest" : {
+                  "lat" : 13.2180684,
+                  "lng" : -14.5447511
+               }
+            },
+            "location" : {
+               "lat" : 13.4257366,
+               "lng" : -14.0072348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5734001,
+                  "lng" : -13.7977931
+               },
+               "southwest" : {
+                  "lat" : 13.2180684,
+                  "lng" : -14.5447511
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJP8qsXipt7w4RNORwYCx3Lqg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

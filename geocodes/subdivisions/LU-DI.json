@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diekirch",
+               "short_name" : "Diekirch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Diekirch",
+               "short_name" : "Diekirch",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Diekirch",
+               "short_name" : "Diekirch",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Diekirch, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8987,
+                  "lng" : 6.180689999999999
+               },
+               "southwest" : {
+                  "lat" : 49.83493,
+                  "lng" : 6.1175201
+               }
+            },
+            "location" : {
+               "lat" : 49.8671784,
+               "lng" : 6.159563299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8987,
+                  "lng" : 6.180689999999999
+               },
+               "southwest" : {
+                  "lat" : 49.83493,
+                  "lng" : 6.1175201
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOYG-6ZP9v0cR290JmtLxEss",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

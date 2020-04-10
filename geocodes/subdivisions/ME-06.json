@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cetinje",
+               "short_name" : "Cetinje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cetinje Municipality",
+               "short_name" : "Cetinje Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cetinje, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4086289,
+                  "lng" : 18.9402152
+               },
+               "southwest" : {
+                  "lat" : 42.3725432,
+                  "lng" : 18.8862705
+               }
+            },
+            "location" : {
+               "lat" : 42.3930959,
+               "lng" : 18.9115964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4086289,
+                  "lng" : 18.9402152
+               },
+               "southwest" : {
+                  "lat" : 42.3725432,
+                  "lng" : 18.8862705
+               }
+            }
+         },
+         "place_id" : "ChIJSzfRr3zOTRMRVkyL2mtBHWo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

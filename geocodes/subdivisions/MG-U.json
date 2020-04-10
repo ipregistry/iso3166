@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toliara",
+               "short_name" : "Toliara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toliara I",
+               "short_name" : "Toliara I",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Toliara Province",
+               "short_name" : "Toliara Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Madagascar",
+               "short_name" : "MG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toliara, Madagascar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.314592,
+                  "lng" : 43.73601439999999
+               },
+               "southwest" : {
+                  "lat" : -23.3970146,
+                  "lng" : 43.6393261
+               }
+            },
+            "location" : {
+               "lat" : -23.3516191,
+               "lng" : 43.6854936
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.314592,
+                  "lng" : 43.73601439999999
+               },
+               "southwest" : {
+                  "lat" : -23.3970146,
+                  "lng" : 43.6393261
+               }
+            }
+         },
+         "place_id" : "ChIJyXTMUkZ8ZB8RpVQ2cug8YNE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

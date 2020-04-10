@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Qalyubia Governorate",
+               "short_name" : "Al Qalyubia Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Qalyubia Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6058598,
+                  "lng" : 31.6498692
+               },
+               "southwest" : {
+                  "lat" : 30.1055899,
+                  "lng" : 31.0545343
+               }
+            },
+            "location" : {
+               "lat" : 30.3292368,
+               "lng" : 31.2168466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6058598,
+                  "lng" : 31.6498692
+               },
+               "southwest" : {
+                  "lat" : 30.1055899,
+                  "lng" : 31.0545343
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRc1M4GNzWBQRTOP2Z4a2_yw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

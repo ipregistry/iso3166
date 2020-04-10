@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adıyaman",
+               "short_name" : "Adıyaman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Adıyaman Merkez",
+               "short_name" : "Adıyaman Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adıyaman",
+               "short_name" : "Adıyaman",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adıyaman, Adıyaman Merkez/Adıyaman, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.793365,
+                  "lng" : 38.320623
+               },
+               "southwest" : {
+                  "lat" : 37.741438,
+                  "lng" : 38.231205
+               }
+            },
+            "location" : {
+               "lat" : 37.76365,
+               "lng" : 38.2772592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.793365,
+                  "lng" : 38.320623
+               },
+               "southwest" : {
+                  "lat" : 37.741438,
+                  "lng" : 38.231205
+               }
+            }
+         },
+         "place_id" : "ChIJq7Gl2ogTMxURflRfTG5ZsQ0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Allier",
+               "short_name" : "Allier",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Allier, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 4.0057391
+               },
+               "southwest" : {
+                  "lat" : 45.9307329,
+                  "lng" : 2.2767951
+               }
+            },
+            "location" : {
+               "lat" : 46.3115552,
+               "lng" : 3.4167655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 4.0057391
+               },
+               "southwest" : {
+                  "lat" : 45.9307329,
+                  "lng" : 2.2767951
+               }
+            }
+         },
+         "place_id" : "ChIJLwz0cLrb8EcRoCXjy688CQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

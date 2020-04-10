@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kie-Ntem",
+               "short_name" : "Kie-Ntem",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Equatorial Guinea",
+               "short_name" : "GQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kie-Ntem, Equatorial Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.1722224,
+                  "lng" : 11.3333
+               },
+               "southwest" : {
+                  "lat" : 1.7260761,
+                  "lng" : 10.401541
+               }
+            },
+            "location" : {
+               "lat" : 2.028093,
+               "lng" : 11.0711758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.1722224,
+                  "lng" : 11.3333
+               },
+               "southwest" : {
+                  "lat" : 1.7260761,
+                  "lng" : 10.401541
+               }
+            }
+         },
+         "place_id" : "ChIJtRMxE0bGhxAR9USwNx7Jwy8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

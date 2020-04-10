@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horjul",
+               "short_name" : "Horjul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horjul",
+               "short_name" : "Horjul",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1354",
+               "short_name" : "1354",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1354 Horjul, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0321054,
+                  "lng" : 14.3166555
+               },
+               "southwest" : {
+                  "lat" : 46.0030247,
+                  "lng" : 14.2826504
+               }
+            },
+            "location" : {
+               "lat" : 46.02253779999999,
+               "lng" : 14.2986269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0321054,
+                  "lng" : 14.3166555
+               },
+               "southwest" : {
+                  "lat" : 46.0030247,
+                  "lng" : 14.2826504
+               }
+            }
+         },
+         "place_id" : "ChIJ6aRQ1yDRekcR4xEcoI-1d88",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brežice",
+               "short_name" : "Brežice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brežice",
+               "short_name" : "Brežice",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Brežice",
+               "short_name" : "Brežice",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8250",
+               "short_name" : "8250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8250 Brežice, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9408957,
+                  "lng" : 15.6281685
+               },
+               "southwest" : {
+                  "lat" : 45.8930075,
+                  "lng" : 15.5797608
+               }
+            },
+            "location" : {
+               "lat" : 45.9088102,
+               "lng" : 15.5964652
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9408957,
+                  "lng" : 15.6281685
+               },
+               "southwest" : {
+                  "lat" : 45.8930075,
+                  "lng" : 15.5797608
+               }
+            }
+         },
+         "place_id" : "ChIJ8ZzlbWW3ZUcR8DeoveA86O0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fizuli",
+               "short_name" : "Fizuli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ardabil Province",
+               "short_name" : "Ardabil Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fizuli, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7426819,
+                  "lng" : 47.636347
+               },
+               "southwest" : {
+                  "lat" : 39.35503,
+                  "lng" : 47.017422
+               }
+            },
+            "location" : {
+               "lat" : 39.5378605,
+               "lng" : 47.30338769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7426819,
+                  "lng" : 47.636347
+               },
+               "southwest" : {
+                  "lat" : 39.35503,
+                  "lng" : 47.017422
+               }
+            }
+         },
+         "place_id" : "ChIJxa8EdU20PUARNtA-N0DQqUo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

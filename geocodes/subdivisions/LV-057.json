@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lubāna",
+               "short_name" : "Lubāna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lubānas pilsēta",
+               "short_name" : "Lubānas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4830",
+               "short_name" : "4830",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lubāna, Lubānas pilsēta, LV-4830, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.91055670000001,
+                  "lng" : 26.7425218
+               },
+               "southwest" : {
+                  "lat" : 56.88109710000001,
+                  "lng" : 26.697097
+               }
+            },
+            "location" : {
+               "lat" : 56.8999269,
+               "lng" : 26.7198789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.91055670000001,
+                  "lng" : 26.7425218
+               },
+               "southwest" : {
+                  "lat" : 56.88109710000001,
+                  "lng" : 26.697097
+               }
+            }
+         },
+         "place_id" : "ChIJpcBXPnv36UYR4BnzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

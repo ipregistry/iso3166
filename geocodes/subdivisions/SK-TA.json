@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trnava Region",
+               "short_name" : "Trnava Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trnava Region, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8782091,
+                  "lng" : 17.9854499
+               },
+               "southwest" : {
+                  "lat" : 47.7574508,
+                  "lng" : 16.933916
+               }
+            },
+            "location" : {
+               "lat" : 48.3943898,
+               "lng" : 17.7216205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8782091,
+                  "lng" : 17.9854499
+               },
+               "southwest" : {
+                  "lat" : 47.7574508,
+                  "lng" : 16.933916
+               }
+            }
+         },
+         "place_id" : "ChIJqRGA5COfbEcRYIyXxtH3AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

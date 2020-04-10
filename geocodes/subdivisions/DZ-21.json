@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Skikda",
+               "short_name" : "Skikda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skikda",
+               "short_name" : "Skikda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Skikda Province",
+               "short_name" : "Skikda Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skikda, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.917643,
+                  "lng" : 7.026653899999999
+               },
+               "southwest" : {
+                  "lat" : 36.82839790000001,
+                  "lng" : 6.843102
+               }
+            },
+            "location" : {
+               "lat" : 36.8662658,
+               "lng" : 6.9062556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.917643,
+                  "lng" : 7.026653899999999
+               },
+               "southwest" : {
+                  "lat" : 36.82839790000001,
+                  "lng" : 6.843102
+               }
+            }
+         },
+         "place_id" : "ChIJTdsyJJzF8RIR12W-Bn_8BpQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

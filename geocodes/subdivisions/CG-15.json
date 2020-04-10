@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cuvette-Ouest",
+               "short_name" : "Cuvette-Ouest",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Republic of the Congo",
+               "short_name" : "CG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cuvette-Ouest, Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.3734011,
+                  "lng" : 15.387269
+               },
+               "southwest" : {
+                  "lat" : -1.2823715,
+                  "lng" : 13.88563
+               }
+            },
+            "location" : {
+               "lat" : 0.144755,
+               "lng" : 14.4723301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.3734011,
+                  "lng" : 15.387269
+               },
+               "southwest" : {
+                  "lat" : -1.2823715,
+                  "lng" : 13.88563
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJzYlpKij1nRARFpoaG66VPhM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

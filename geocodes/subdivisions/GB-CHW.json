@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cheshire West and Chester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3446648,
+                  "lng" : -2.3463547
+               },
+               "southwest" : {
+                  "lat" : 52.98291570000001,
+                  "lng" : -3.128278
+               }
+            },
+            "location" : {
+               "lat" : 53.2302974,
+               "lng" : -2.7151117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3446648,
+                  "lng" : -2.3463547
+               },
+               "southwest" : {
+                  "lat" : 52.98291570000001,
+                  "lng" : -3.128278
+               }
+            }
+         },
+         "place_id" : "ChIJjZkTmD_vekgRsKdrWLxiEAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

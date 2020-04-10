@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midlands Province",
+               "short_name" : "Midlands Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Midlands Province, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.132798,
+                  "lng" : 30.8542231
+               },
+               "southwest" : {
+                  "lat" : -21.045869,
+                  "lng" : 27.989973
+               }
+            },
+            "location" : {
+               "lat" : -19.0552009,
+               "lng" : 29.6035495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.132798,
+                  "lng" : 30.8542231
+               },
+               "southwest" : {
+                  "lat" : -21.045869,
+                  "lng" : 27.989973
+               }
+            }
+         },
+         "place_id" : "ChIJb7hyxL5kyx4Ru9ER3JioNRc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

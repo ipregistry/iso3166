@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarthe",
+               "short_name" : "Sarthe",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarthe, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.60807810000001,
+                  "lng" : 0.4672291
+               },
+               "southwest" : {
+                  "lat" : 47.4869472,
+                  "lng" : -0.5759263
+               }
+            },
+            "location" : {
+               "lat" : 47.9088444,
+               "lng" : -0.0190582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.60807810000001,
+                  "lng" : 0.4672291
+               },
+               "southwest" : {
+                  "lat" : 47.4869472,
+                  "lng" : -0.5759263
+               }
+            }
+         },
+         "place_id" : "ChIJbeyVB6cS4kcRPCluN_Q-4UQ",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

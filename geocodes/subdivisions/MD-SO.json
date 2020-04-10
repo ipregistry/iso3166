@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soroca",
+               "short_name" : "Soroca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Soroca District",
+               "short_name" : "Soroca District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Soroca, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1874054,
+                  "lng" : 28.3286762
+               },
+               "southwest" : {
+                  "lat" : 48.1209551,
+                  "lng" : 28.2504846
+               }
+            },
+            "location" : {
+               "lat" : 48.1549743,
+               "lng" : 28.2870783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1874054,
+                  "lng" : 28.3286762
+               },
+               "southwest" : {
+                  "lat" : 48.1209551,
+                  "lng" : 28.2504846
+               }
+            }
+         },
+         "place_id" : "ChIJb_z-2XHqzEARanCY6OOzV7w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

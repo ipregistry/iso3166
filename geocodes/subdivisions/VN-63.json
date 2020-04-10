@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hà Nam",
+               "short_name" : "Hà Nam",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hà Nam, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.70496,
+                  "lng" : 106.183059
+               },
+               "southwest" : {
+                  "lat" : 20.3626391,
+                  "lng" : 105.769326
+               }
+            },
+            "location" : {
+               "lat" : 20.5835196,
+               "lng" : 105.92299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.70496,
+                  "lng" : 106.183059
+               },
+               "southwest" : {
+                  "lat" : 20.3626391,
+                  "lng" : 105.769326
+               }
+            }
+         },
+         "place_id" : "ChIJ4WQZGBHFNTERUmgyOw25qXQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

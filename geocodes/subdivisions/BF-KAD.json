@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kadiogo",
+               "short_name" : "Kadiogo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre Region",
+               "short_name" : "Centre Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kadiogo, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.651055,
+                  "lng" : -1.061279
+               },
+               "southwest" : {
+                  "lat" : 12.0280849,
+                  "lng" : -1.838807
+               }
+            },
+            "location" : {
+               "lat" : 12.3425897,
+               "lng" : -1.443469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.651055,
+                  "lng" : -1.061279
+               },
+               "southwest" : {
+                  "lat" : 12.0280849,
+                  "lng" : -1.838807
+               }
+            }
+         },
+         "place_id" : "ChIJu6OyQ76-Lg4R1tUv9_tCXR4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

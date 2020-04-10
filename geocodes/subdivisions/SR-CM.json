@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Commewijne",
+               "short_name" : "Commewijne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Suriname",
+               "short_name" : "SR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Commewijne, Suriname",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.0045461,
+                  "lng" : -54.6201869
+               },
+               "southwest" : {
+                  "lat" : 5.483816,
+                  "lng" : -55.16375009999999
+               }
+            },
+            "location" : {
+               "lat" : 5.740211,
+               "lng" : -54.8731219
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.0045461,
+                  "lng" : -54.6201869
+               },
+               "southwest" : {
+                  "lat" : 5.483816,
+                  "lng" : -55.16375009999999
+               }
+            }
+         },
+         "place_id" : "ChIJkcJ6ampJCI0R2h07gI9xjNg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

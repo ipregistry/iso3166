@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jashore",
+               "short_name" : "Jashore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jessore District",
+               "short_name" : "Jessore District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jashore, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2052549,
+                  "lng" : 89.2536016
+               },
+               "southwest" : {
+                  "lat" : 23.1249888,
+                  "lng" : 89.1334974
+               }
+            },
+            "location" : {
+               "lat" : 23.1777682,
+               "lng" : 89.1801225
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2052549,
+                  "lng" : 89.2536016
+               },
+               "southwest" : {
+                  "lat" : 23.1249888,
+                  "lng" : 89.1334974
+               }
+            }
+         },
+         "place_id" : "ChIJZW3qh40Q_zkRz2Ey-U4DfWI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

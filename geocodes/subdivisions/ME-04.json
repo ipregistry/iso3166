@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bijelo Polje",
+               "short_name" : "BP",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bijelo Polje Municipality",
+               "short_name" : "BP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bijelo Polje, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.065439,
+                  "lng" : 19.7872352
+               },
+               "southwest" : {
+                  "lat" : 43.0089153,
+                  "lng" : 19.7273254
+               }
+            },
+            "location" : {
+               "lat" : 43.0369422,
+               "lng" : 19.7561911
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.065439,
+                  "lng" : 19.7872352
+               },
+               "southwest" : {
+                  "lat" : 43.0089153,
+                  "lng" : 19.7273254
+               }
+            }
+         },
+         "place_id" : "ChIJ6Qx0ZVejUhMRidALEpksQnI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Comoe",
+               "short_name" : "Comoe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cascades Region",
+               "short_name" : "Cascades Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Comoe, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.906152,
+                  "lng" : -3.677724
+               },
+               "southwest" : {
+                  "lat" : 9.594068999999999,
+                  "lng" : -5.131688
+               }
+            },
+            "location" : {
+               "lat" : 10.4072992,
+               "lng" : -4.5624426
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.906152,
+                  "lng" : -3.677724
+               },
+               "southwest" : {
+                  "lat" : 9.594068999999999,
+                  "lng" : -5.131688
+               }
+            }
+         },
+         "place_id" : "ChIJe0mq_xXfyg8RF61lPY0ewHU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kitgum",
+               "short_name" : "Kitgum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kitgum",
+               "short_name" : "Kitgum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kitgum, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.311252,
+                  "lng" : 32.8989887
+               },
+               "southwest" : {
+                  "lat" : 3.271503,
+                  "lng" : 32.8665876
+               }
+            },
+            "location" : {
+               "lat" : 3.2884847,
+               "lng" : 32.8789499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.311252,
+                  "lng" : 32.8989887
+               },
+               "southwest" : {
+                  "lat" : 3.271503,
+                  "lng" : 32.8665876
+               }
+            }
+         },
+         "place_id" : "ChIJM_XljVHlcxcRSWTyNmSthvE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

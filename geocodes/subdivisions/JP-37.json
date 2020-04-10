@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kagawa",
+               "short_name" : "Kagawa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kagawa, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.5646136,
+                  "lng" : 134.4474078
+               },
+               "southwest" : {
+                  "lat" : 34.0123081,
+                  "lng" : 133.4465942
+               }
+            },
+            "location" : {
+               "lat" : 34.2225915,
+               "lng" : 134.0199152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.5646136,
+                  "lng" : 134.4474078
+               },
+               "southwest" : {
+                  "lat" : 34.0123081,
+                  "lng" : 133.4465942
+               }
+            }
+         },
+         "place_id" : "ChIJr363rNTcUzURsdqbibLWgS0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

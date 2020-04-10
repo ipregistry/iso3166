@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matabeleland South",
+               "short_name" : "Matabeleland South",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Matabeleland South Province",
+               "short_name" : "Matabeleland South Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matabeleland South, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.3526771,
+                  "lng" : 28.2887893
+               },
+               "southwest" : {
+                  "lat" : -20.3702214,
+                  "lng" : 28.2808914
+               }
+            },
+            "location" : {
+               "lat" : -20.3574734,
+               "lng" : 28.2840891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.3526771,
+                  "lng" : 28.2887893
+               },
+               "southwest" : {
+                  "lat" : -20.3702214,
+                  "lng" : 28.2808914
+               }
+            }
+         },
+         "place_id" : "ChIJEXLjd2M4tR4RyDzsuNJAxyM",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

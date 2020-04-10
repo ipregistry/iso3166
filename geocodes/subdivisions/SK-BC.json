@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banská Bystrica Region",
+               "short_name" : "Banská Bystrica Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banská Bystrica Region, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.946956,
+                  "lng" : 20.469993
+               },
+               "southwest" : {
+                  "lat" : 48.0536532,
+                  "lng" : 18.4786941
+               }
+            },
+            "location" : {
+               "lat" : 48.5312499,
+               "lng" : 19.382874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.946956,
+                  "lng" : 20.469993
+               },
+               "southwest" : {
+                  "lat" : 48.0536532,
+                  "lng" : 18.4786941
+               }
+            }
+         },
+         "place_id" : "ChIJG2vvS7FQFUcREIyXxtH3AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Domžale",
+               "short_name" : "Domžale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Domžale",
+               "short_name" : "Domžale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Domžale",
+               "short_name" : "Domžale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1230",
+               "short_name" : "1230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1230 Domžale, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1514012,
+                  "lng" : 14.6112884
+               },
+               "southwest" : {
+                  "lat" : 46.112468,
+                  "lng" : 14.5766171
+               }
+            },
+            "location" : {
+               "lat" : 46.1419417,
+               "lng" : 14.5944171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1514012,
+                  "lng" : 14.6112884
+               },
+               "southwest" : {
+                  "lat" : 46.112468,
+                  "lng" : 14.5766171
+               }
+            }
+         },
+         "place_id" : "ChIJT7Mnczk0ZUcR6WHVA-Ao4vo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

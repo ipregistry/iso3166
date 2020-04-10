@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tissemsilt",
+               "short_name" : "Tissemsilt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tissemsilt",
+               "short_name" : "Tissemsilt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tissemsilt Province",
+               "short_name" : "Tissemsilt Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tissemsilt, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.685385,
+                  "lng" : 1.9523999
+               },
+               "southwest" : {
+                  "lat" : 35.539234,
+                  "lng" : 1.7026121
+               }
+            },
+            "location" : {
+               "lat" : 35.6053781,
+               "lng" : 1.813098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.685385,
+                  "lng" : 1.9523999
+               },
+               "southwest" : {
+                  "lat" : 35.539234,
+                  "lng" : 1.7026121
+               }
+            }
+         },
+         "place_id" : "ChIJ7V5YZkKKhhIRaBzBvBriaqQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

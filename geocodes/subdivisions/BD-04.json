@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brahmanbaria",
+               "short_name" : "Brahmanbaria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brahmanbaria District",
+               "short_name" : "Brahmanbaria District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brahmanbaria, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.0358036,
+                  "lng" : 91.1508178
+               },
+               "southwest" : {
+                  "lat" : 23.9256993,
+                  "lng" : 91.0727119
+               }
+            },
+            "location" : {
+               "lat" : 23.9675393,
+               "lng" : 91.11191479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.0358036,
+                  "lng" : 91.1508178
+               },
+               "southwest" : {
+                  "lat" : 23.9256993,
+                  "lng" : 91.0727119
+               }
+            }
+         },
+         "place_id" : "ChIJI0-7ML0FVDcRI_Ymzh8uOxs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Petén Department",
+               "short_name" : "Petén Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Petén Department, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.815697,
+                  "lng" : -89.15143940000002
+               },
+               "southwest" : {
+                  "lat" : 15.8455002,
+                  "lng" : -91.43907489999999
+               }
+            },
+            "location" : {
+               "lat" : 16.912033,
+               "lng" : -90.2995785
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.815697,
+                  "lng" : -89.15143940000002
+               },
+               "southwest" : {
+                  "lat" : 15.8455002,
+                  "lng" : -91.43907489999999
+               }
+            }
+         },
+         "place_id" : "ChIJYUHc3aVA9YURjUZ6_YSSEbk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minya",
+               "short_name" : "Minya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Qism Minya",
+               "short_name" : "Qism Minya",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Minya",
+               "short_name" : "Minya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Menia Governorate",
+               "short_name" : "Menia Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minya, Qism Minya, Minya, Menia Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1318404,
+                  "lng" : 30.7843728
+               },
+               "southwest" : {
+                  "lat" : 28.058606,
+                  "lng" : 30.7170696
+               }
+            },
+            "location" : {
+               "lat" : 28.0870967,
+               "lng" : 30.7618397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1318404,
+                  "lng" : 30.7843728
+               },
+               "southwest" : {
+                  "lat" : 28.058606,
+                  "lng" : 30.7170696
+               }
+            }
+         },
+         "place_id" : "ChIJX9SOygElWxQRgIChQweXghY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

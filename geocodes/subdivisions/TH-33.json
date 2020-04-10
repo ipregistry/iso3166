@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Si Sa Ket",
+               "short_name" : "จ.ศรีสะเกษ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Si Sa Ket, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.5683691,
+                  "lng" : 104.9076399
+               },
+               "southwest" : {
+                  "lat" : 14.3422407,
+                  "lng" : 103.9019555
+               }
+            },
+            "location" : {
+               "lat" : 15.1186009,
+               "lng" : 104.3220095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.5683691,
+                  "lng" : 104.9076399
+               },
+               "southwest" : {
+                  "lat" : 14.3422407,
+                  "lng" : 103.9019555
+               }
+            }
+         },
+         "place_id" : "ChIJ2ZxSrf_bFjERww-4eJTbhHs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

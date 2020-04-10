@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Castellón de la Plana",
+               "short_name" : "Castellón de la Plana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castellón",
+               "short_name" : "Castellón",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valencian Community",
+               "short_name" : "Valencian Community",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Castellón de la Plana, Castellón, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0041729,
+                  "lng" : -0.0163697
+               },
+               "southwest" : {
+                  "lat" : 39.970746,
+                  "lng" : -0.0797563
+               }
+            },
+            "location" : {
+               "lat" : 39.9863563,
+               "lng" : -0.0513246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0041729,
+                  "lng" : -0.0163697
+               },
+               "southwest" : {
+                  "lat" : 39.970746,
+                  "lng" : -0.0797563
+               }
+            }
+         },
+         "place_id" : "ChIJl8EruCv-Xw0RSU_G4Usgib8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

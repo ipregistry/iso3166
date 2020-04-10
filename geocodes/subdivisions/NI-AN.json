@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Caribbean Coast Autonomous Region",
+               "short_name" : "RAAN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Caribbean Coast Autonomous Region, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.0259089,
+                  "lng" : -82.592072
+               },
+               "southwest" : {
+                  "lat" : 13.028599,
+                  "lng" : -85.483689
+               }
+            },
+            "location" : {
+               "lat" : 13.8394456,
+               "lng" : -83.93208059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.0259089,
+                  "lng" : -82.592072
+               },
+               "southwest" : {
+                  "lat" : 13.028599,
+                  "lng" : -85.483689
+               }
+            }
+         },
+         "place_id" : "ChIJ828chdnkEI8RfB3WTR7D8Do",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

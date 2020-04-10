@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cosenza",
+               "short_name" : "Cosenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cosenza",
+               "short_name" : "Cosenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Cosenza",
+               "short_name" : "CS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87100",
+               "short_name" : "87100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "87100 Cosenza, Province of Cosenza, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3326104,
+                  "lng" : 16.2850572
+               },
+               "southwest" : {
+                  "lat" : 39.2769898,
+                  "lng" : 16.2195601
+               }
+            },
+            "location" : {
+               "lat" : 39.2982629,
+               "lng" : 16.2537357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3326104,
+                  "lng" : 16.2850572
+               },
+               "southwest" : {
+                  "lat" : 39.2769898,
+                  "lng" : 16.2195601
+               }
+            }
+         },
+         "place_id" : "ChIJKV5ezUqXPxMR-ibEPGPIGVY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

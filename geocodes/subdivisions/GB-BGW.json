@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blaenau Gwent",
+               "short_name" : "Blaenau Gwent",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Ebbw Vale",
+               "short_name" : "Ebbw Vale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Blaenau Gwent",
+               "short_name" : "Blaenau Gwent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP23 5BB",
+               "short_name" : "NP23 5BB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Blaenau Gwent, Ebbw Vale NP23 5BB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.777,
+               "lng" : -3.195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7839032,
+                  "lng" : -3.1789926
+               },
+               "southwest" : {
+                  "lat" : 51.7700958,
+                  "lng" : -3.2110074
+               }
+            }
+         },
+         "place_id" : "ChIJt3Q-NFsmbkgR4ceoFtkgZjw",
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

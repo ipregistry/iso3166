@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monaghan",
+               "short_name" : "Monaghan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Monaghan",
+               "short_name" : "County Monaghan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monaghan, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.26408,
+                  "lng" : -6.942600000000001
+               },
+               "southwest" : {
+                  "lat" : 54.22737,
+                  "lng" : -6.9994099
+               }
+            },
+            "location" : {
+               "lat" : 54.2492434,
+               "lng" : -6.9683082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.26408,
+                  "lng" : -6.942600000000001
+               },
+               "southwest" : {
+                  "lat" : 54.22737,
+                  "lng" : -6.9994099
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXQivX0KfYEgRkHIxl6nHAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

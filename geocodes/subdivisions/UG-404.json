@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kabale",
+               "short_name" : "Kabale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kabale",
+               "short_name" : "Kabale",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kabale, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.2280573,
+                  "lng" : 30.01499179999999
+               },
+               "southwest" : {
+                  "lat" : -1.2719921,
+                  "lng" : 29.9646521
+               }
+            },
+            "location" : {
+               "lat" : -1.241956,
+               "lng" : 29.9856157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.2280573,
+                  "lng" : 30.01499179999999
+               },
+               "southwest" : {
+                  "lat" : -1.2719921,
+                  "lng" : 29.9646521
+               }
+            }
+         },
+         "place_id" : "ChIJXQxEteEN3BkR35XkYwT0Nto",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

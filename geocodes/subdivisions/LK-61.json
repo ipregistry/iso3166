@@ -1,0 +1,62 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurunegala",
+               "short_name" : "Kurunegala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Western Province",
+               "short_name" : "NW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kurunegala, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.198060099999999,
+                  "lng" : 80.5779311
+               },
+               "southwest" : {
+                  "lat" : 7.257962099999999,
+                  "lng" : 79.900588
+               }
+            },
+            "location" : {
+               "lat" : 7.487106900000001,
+               "lng" : 80.36492129999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.198060099999999,
+                  "lng" : 80.5779311
+               },
+               "southwest" : {
+                  "lat" : 7.257962099999999,
+                  "lng" : 79.900588
+               }
+            }
+         },
+         "place_id" : "ChIJMbHoF8zg4joRZl9EJS768yc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+  }
+         },
+         "place_id" : "ChIJuehrsIo54zoRUlCIHufkkB8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

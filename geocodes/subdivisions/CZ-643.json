@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brno-Country District",
+               "short_name" : "Brno-Country District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Moravian Region",
+               "short_name" : "South Moravian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brno-Country District, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4752482,
+                  "lng" : 16.8529038
+               },
+               "southwest" : {
+                  "lat" : 48.8758503,
+                  "lng" : 16.2032842
+               }
+            },
+            "location" : {
+               "lat" : 49.1250138,
+               "lng" : 16.4558824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4752482,
+                  "lng" : 16.8529038
+               },
+               "southwest" : {
+                  "lat" : 48.8758503,
+                  "lng" : 16.2032842
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTfxlwhKWEkcRkKwUZg-vAAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

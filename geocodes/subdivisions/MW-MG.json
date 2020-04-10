@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mangochi",
+               "short_name" : "Mangochi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mangochi",
+               "short_name" : "Mangochi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Southern Region",
+               "short_name" : "Southern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mangochi, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.4638539,
+                  "lng" : 35.2740097
+               },
+               "southwest" : {
+                  "lat" : -14.5005024,
+                  "lng" : 35.2314378
+               }
+            },
+            "location" : {
+               "lat" : -14.4861733,
+               "lng" : 35.253304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.4638539,
+                  "lng" : 35.2740097
+               },
+               "southwest" : {
+                  "lat" : -14.5005024,
+                  "lng" : 35.2314378
+               }
+            }
+         },
+         "place_id" : "ChIJlYZrBTbi3hgRlw3y_RY_pms",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

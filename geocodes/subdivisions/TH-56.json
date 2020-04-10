@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phayao",
+               "short_name" : "Phayao",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phayao, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.7350889,
+                  "lng" : 100.6289514
+               },
+               "southwest" : {
+                  "lat" : 18.8063029,
+                  "lng" : 99.68283769999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2154367,
+               "lng" : 100.2023692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.7350889,
+                  "lng" : 100.6289514
+               },
+               "southwest" : {
+                  "lat" : 18.8063029,
+                  "lng" : 99.68283769999999
+               }
+            }
+         },
+         "place_id" : "ChIJGzA39CAh2DARjGrJ9iFLWhk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

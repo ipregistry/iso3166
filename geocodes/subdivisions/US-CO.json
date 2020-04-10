@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colorado, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0034439,
+                  "lng" : -102.040878
+               },
+               "southwest" : {
+                  "lat" : 36.992424,
+                  "lng" : -109.060256
+               }
+            },
+            "location" : {
+               "lat" : 39.5500507,
+               "lng" : -105.7820674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0034439,
+                  "lng" : -102.040878
+               },
+               "southwest" : {
+                  "lat" : 36.992424,
+                  "lng" : -109.060256
+               }
+            }
+         },
+         "place_id" : "ChIJt1YYm3QUQIcR_6eQSTGDVMc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harar",
+               "short_name" : "Harar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Hararghe",
+               "short_name" : "East Hararghe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Harari",
+               "short_name" : "Harari",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harar, Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.3325417,
+                  "lng" : 42.1492195
+               },
+               "southwest" : {
+                  "lat" : 9.293156399999999,
+                  "lng" : 42.087078
+               }
+            },
+            "location" : {
+               "lat" : 9.3125556,
+               "lng" : 42.1226825
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.3325417,
+                  "lng" : 42.1492195
+               },
+               "southwest" : {
+                  "lat" : 9.293156399999999,
+                  "lng" : 42.087078
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnVA6x6O9MRYR1p7p6YKtoEc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

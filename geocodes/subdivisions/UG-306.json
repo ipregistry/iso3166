@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kotido",
+               "short_name" : "Kotido",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kotido",
+               "short_name" : "Kotido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kotido, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.0211803,
+                  "lng" : 34.1233742
+               },
+               "southwest" : {
+                  "lat" : 2.9930987,
+                  "lng" : 34.101026
+               }
+            },
+            "location" : {
+               "lat" : 3.0062022,
+               "lng" : 34.1114621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.0211803,
+                  "lng" : 34.1233742
+               },
+               "southwest" : {
+                  "lat" : 2.9930987,
+                  "lng" : 34.101026
+               }
+            }
+         },
+         "place_id" : "ChIJNVqRjwRzdhcRk-dfIaB9bQA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

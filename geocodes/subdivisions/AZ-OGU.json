@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oghuz",
+               "short_name" : "Oghuz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oghuz",
+               "short_name" : "Oghuz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oghuz, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0923544,
+                  "lng" : 47.4782753
+               },
+               "southwest" : {
+                  "lat" : 41.0595502,
+                  "lng" : 47.4506378
+               }
+            },
+            "location" : {
+               "lat" : 41.0727924,
+               "lng" : 47.4650672
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0923544,
+                  "lng" : 47.4782753
+               },
+               "southwest" : {
+                  "lat" : 41.0595502,
+                  "lng" : 47.4506378
+               }
+            }
+         },
+         "place_id" : "ChIJ8ShYu1xvOEARNOHCRVEGJRc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

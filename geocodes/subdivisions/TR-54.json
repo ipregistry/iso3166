@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adapazarı",
+               "short_name" : "Adapazarı",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karaosman",
+               "short_name" : "Karaosman",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Adapazarı",
+               "short_name" : "Adapazarı",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sakarya",
+               "short_name" : "Sakarya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54100",
+               "short_name" : "54100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Adapazarı, Karaosman, 54100 Adapazarı/Sakarya, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788855,
+               "lng" : 30.405954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7973024,
+                  "lng" : 30.4219614
+               },
+               "southwest" : {
+                  "lat" : 40.7804065,
+                  "lng" : 30.3899466
+               }
+            }
+         },
+         "place_id" : "ChIJ51r72zP2nUARKnLKITxPq50",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

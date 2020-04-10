@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lviv Oblast",
+               "short_name" : "Lviv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lviv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6406759
+               }
+            },
+            "location" : {
+               "lat" : 49.839683,
+               "lng" : 24.029717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6406759
+               }
+            }
+         },
+         "place_id" : "ChIJb5xjPmndOkcRYj26h4iMDWM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

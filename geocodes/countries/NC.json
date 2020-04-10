@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Caledonia",
+               "short_name" : "NC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Caledonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.1607355,
+                  "lng" : 168.3325194
+               },
+               "southwest" : {
+                  "lat" : -23.2514406,
+                  "lng" : 163.3557129
+               }
+            },
+            "location" : {
+               "lat" : -20.904305,
+               "lng" : 165.618042
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.1607355,
+                  "lng" : 168.3325194
+               },
+               "southwest" : {
+                  "lat" : -23.2514406,
+                  "lng" : 163.3557129
+               }
+            }
+         },
+         "place_id" : "ChIJyzIaP2niJ2wR7HqT1Y_20PY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

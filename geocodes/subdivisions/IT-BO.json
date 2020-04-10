@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bologna",
+               "short_name" : "Bologna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bologna",
+               "short_name" : "Bologna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Bologna",
+               "short_name" : "BO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bologna, Metropolitan City of Bologna, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5561987,
+                  "lng" : 11.4337169
+               },
+               "southwest" : {
+                  "lat" : 44.4420377,
+                  "lng" : 11.2296541
+               }
+            },
+            "location" : {
+               "lat" : 44.494887,
+               "lng" : 11.3426162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5561987,
+                  "lng" : 11.4337169
+               },
+               "southwest" : {
+                  "lat" : 44.4420377,
+                  "lng" : 11.2296541
+               }
+            }
+         },
+         "place_id" : "ChIJC8RR6ZjUf0cRQZSkWwF84aI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

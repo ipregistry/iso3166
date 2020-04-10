@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Preah Sihanouk",
+               "short_name" : "Preah Sihanouk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sihanoukville",
+               "short_name" : "Sihanoukville",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Preah Sihanouk, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.7808661,
+                  "lng" : 103.5925877
+               },
+               "southwest" : {
+                  "lat" : 10.5426649,
+                  "lng" : 103.1813621
+               }
+            },
+            "location" : {
+               "lat" : 10.6267867,
+               "lng" : 103.5115545
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.7808661,
+                  "lng" : 103.5925877
+               },
+               "southwest" : {
+                  "lat" : 10.5426649,
+                  "lng" : 103.1813621
+               }
+            }
+         },
+         "place_id" : "ChIJRUxWL93hBzER7WJDJdr48RM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

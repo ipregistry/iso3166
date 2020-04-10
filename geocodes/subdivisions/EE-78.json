@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tartu",
+               "short_name" : "Tartu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tartu County",
+               "short_name" : "Tartu County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tartu, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.41088429999999,
+                  "lng" : 26.7980148
+               },
+               "southwest" : {
+                  "lat" : 58.3390198,
+                  "lng" : 26.6670753
+               }
+            },
+            "location" : {
+               "lat" : 58.37798299999999,
+               "lng" : 26.7290383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.41088429999999,
+                  "lng" : 26.7980148
+               },
+               "southwest" : {
+                  "lat" : 58.3390198,
+                  "lng" : 26.6670753
+               }
+            }
+         },
+         "place_id" : "ChIJ9z1d1dg260YREG38GG2zAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

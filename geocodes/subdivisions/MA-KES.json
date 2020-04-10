@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Kelaa des Sraghna",
+               "short_name" : "El Kelaa des Sraghna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Kelaa of Sraghna",
+               "short_name" : "El Kelaa of Sraghna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marrakesh-Safi",
+               "short_name" : "Marrakesh-Safi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Kelaa des Sraghna, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0710322,
+                  "lng" : -7.3746578
+               },
+               "southwest" : {
+                  "lat" : 32.0310284,
+                  "lng" : -7.431478500000001
+               }
+            },
+            "location" : {
+               "lat" : 32.0550961,
+               "lng" : -7.400287199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0710322,
+                  "lng" : -7.3746578
+               },
+               "southwest" : {
+                  "lat" : 32.0310284,
+                  "lng" : -7.431478500000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZxbzCX0LpQ0RSg1XmDASork",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

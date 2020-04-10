@@ -1,0 +1,127 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "187",
+               "short_name" : "187",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Los Cedros",
+               "short_name" : "Los Cedros",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Miraflores",
+               "short_name" : "Miraflores",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Piura",
+               "short_name" : "Piura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Piura",
+               "short_name" : "Piura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piura",
+               "short_name" : "Piura",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20002",
+               "short_name" : "20002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Los Cedros 187, Piura 20002, Peru",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.1901768,
+               "lng" : -80.615938
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.188827819708497,
+                  "lng" : -80.6145890197085
+               },
+               "southwest" : {
+                  "lat" : -5.191525780291502,
+                  "lng" : -80.61728698029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKVJ812UQSpARM_fEyTFZbqM",
+         "plus_code" : {
+            "compound_code" : "R95M+WJ Piura, Peru",
+            "global_code" : "666XR95M+WJ"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "travel_agency"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Libertad",
+               "short_name" : "La Libertad",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Libertad, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.9414529,
+                  "lng" : -76.9012429
+               },
+               "southwest" : {
+                  "lat" : -8.9708899,
+                  "lng" : -79.69044989999999
+               }
+            },
+            "location" : {
+               "lat" : -8.143593300000001,
+               "lng" : -78.4751945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.9414529,
+                  "lng" : -76.9012429
+               },
+               "southwest" : {
+                  "lat" : -8.9708899,
+                  "lng" : -79.69044989999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtb_q012uUpARxw1viFESX04",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

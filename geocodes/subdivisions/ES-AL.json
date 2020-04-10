@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almería",
+               "short_name" : "Almería",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Almería",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almería, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.8658532,
+                  "lng" : -2.4286886
+               },
+               "southwest" : {
+                  "lat" : 36.817203,
+                  "lng" : -2.4855446
+               }
+            },
+            "location" : {
+               "lat" : 36.834047,
+               "lng" : -2.4637136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.8658532,
+                  "lng" : -2.4286886
+               },
+               "southwest" : {
+                  "lat" : 36.817203,
+                  "lng" : -2.4855446
+               }
+            }
+         },
+         "place_id" : "ChIJwfLM7ACeeg0RXki8jh-gnY0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

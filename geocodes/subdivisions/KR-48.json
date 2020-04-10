@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gyeongsangnam-do",
+               "short_name" : "Gyeongsangnam-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gyeongsangnam-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9099572,
+                  "lng" : 129.2198763
+               },
+               "southwest" : {
+                  "lat" : 34.4531494,
+                  "lng" : 127.5622163
+               }
+            },
+            "location" : {
+               "lat" : 35.4606,
+               "lng" : 128.2132
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9099572,
+                  "lng" : 129.2198763
+               },
+               "southwest" : {
+                  "lat" : 34.4531494,
+                  "lng" : 127.5622163
+               }
+            }
+         },
+         "place_id" : "ChIJNc0j6G3raDURX_k4U2Vg0Oo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

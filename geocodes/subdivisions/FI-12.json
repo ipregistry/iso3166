@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ostrobothnia",
+               "short_name" : "Ostrobothnia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ostrobothnia, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.93769219999999,
+                  "lng" : 23.7442586
+               },
+               "southwest" : {
+                  "lat" : 61.95383999999999,
+                  "lng" : 20.5804038
+               }
+            },
+            "location" : {
+               "lat" : 63.1181757,
+               "lng" : 21.9061062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.93769219999999,
+                  "lng" : 23.7442586
+               },
+               "southwest" : {
+                  "lat" : 61.95383999999999,
+                  "lng" : 20.5804038
+               }
+            }
+         },
+         "place_id" : "ChIJlQo1P37th0YRRzJEfMgAGso",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

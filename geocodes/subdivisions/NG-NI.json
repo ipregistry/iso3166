@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niger",
+               "short_name" : "NG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niger, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.390633,
+                  "lng" : 7.378644899999999
+               },
+               "southwest" : {
+                  "lat" : 8.1830061,
+                  "lng" : 3.5764251
+               }
+            },
+            "location" : {
+               "lat" : 9.930922400000002,
+               "lng" : 5.598320999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.390633,
+                  "lng" : 7.378644899999999
+               },
+               "southwest" : {
+                  "lat" : 8.1830061,
+                  "lng" : 3.5764251
+               }
+            }
+         },
+         "place_id" : "ChIJDxTO8DxBNRARuFlBY8npUqw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Musandam Peninsula",
+               "short_name" : "Musandam Peninsula",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Musandam Governorate",
+               "short_name" : "Musandam Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Musandam Peninsula, Oman",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.2705556,
+               "lng" : 56.3891667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2805607,
+                  "lng" : 56.4051741
+               },
+               "southwest" : {
+                  "lat" : 26.2605496,
+                  "lng" : 56.3731593
+               }
+            }
+         },
+         "place_id" : "ChIJW-BG9CXu9j4RV6FZXOzVy0E",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Aegean Region",
+               "short_name" : "North Aegean Region",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Aegean Region, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0361365,
+                  "lng" : 27.0697659
+               },
+               "southwest" : {
+                  "lat" : 37.5034763,
+                  "lng" : 24.9705296
+               }
+            },
+            "location" : {
+               "lat" : 39.1069632,
+               "lng" : 26.5579824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0361365,
+                  "lng" : 27.0697659
+               },
+               "southwest" : {
+                  "lat" : 37.5034763,
+                  "lng" : 24.9705296
+               }
+            }
+         },
+         "place_id" : "ChIJe5y5K0pduxQRIMa54iy9AAE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

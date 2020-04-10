@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ourense",
+               "short_name" : "Ourense",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Province of Ourense",
+               "short_name" : "Province of Ourense",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ourense, Province of Ourense, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.35829409999999,
+                  "lng" : -7.8470722
+               },
+               "southwest" : {
+                  "lat" : 42.3184311,
+                  "lng" : -7.880299
+               }
+            },
+            "location" : {
+               "lat" : 42.33578929999999,
+               "lng" : -7.863880999999998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.35829409999999,
+                  "lng" : -7.8470722
+               },
+               "southwest" : {
+                  "lat" : 42.3184311,
+                  "lng" : -7.880299
+               }
+            }
+         },
+         "place_id" : "ChIJ63hTvLX-Lw0RnKO8dKMmUyk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

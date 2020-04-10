@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hauts-Bassins Region",
+               "short_name" : "Hauts-Bassins Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hauts-Bassins Region, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.0947281,
+                  "lng" : -2.831935
+               },
+               "southwest" : {
+                  "lat" : 10.6684769,
+                  "lng" : -5.496531
+               }
+            },
+            "location" : {
+               "lat" : 11.4942003,
+               "lng" : -4.2333355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.0947281,
+                  "lng" : -2.831935
+               },
+               "southwest" : {
+                  "lat" : 10.6684769,
+                  "lng" : -5.496531
+               }
+            }
+         },
+         "place_id" : "ChIJwbK8rllXNA4Rj0mf7N5Tros",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

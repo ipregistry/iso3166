@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kırşehir",
+               "short_name" : "Kırşehir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kırşehir Merkez",
+               "short_name" : "Kırşehir Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kırşehir",
+               "short_name" : "Kırşehir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kırşehir, Kırşehir Merkez/Kırşehir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.1997119,
+                  "lng" : 34.2196201
+               },
+               "southwest" : {
+                  "lat" : 39.083829,
+                  "lng" : 34.1197739
+               }
+            },
+            "location" : {
+               "lat" : 39.146078,
+               "lng" : 34.1594989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1997119,
+                  "lng" : 34.2196201
+               },
+               "southwest" : {
+                  "lat" : 39.083829,
+                  "lng" : 34.1197739
+               }
+            }
+         },
+         "place_id" : "ChIJgxPSkMBy1RQRBj0cJpmR0m0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Sulawesi",
+               "short_name" : "Central Sulawesi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Sulawesi, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.375153,
+                  "lng" : 124.1825231
+               },
+               "southwest" : {
+                  "lat" : -3.640744,
+                  "lng" : 119.446937
+               }
+            },
+            "location" : {
+               "lat" : -1.4300254,
+               "lng" : 121.4456179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.375153,
+                  "lng" : 124.1825231
+               },
+               "southwest" : {
+                  "lat" : -3.640744,
+                  "lng" : 119.446937
+               }
+            }
+         },
+         "place_id" : "ChIJPS2aZckJiC0RmWLbjP0zbkM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

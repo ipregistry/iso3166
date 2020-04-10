@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thaba-Tseka",
+               "short_name" : "Thaba-Tseka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thaba-Tseka",
+               "short_name" : "Thaba-Tseka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lesotho",
+               "short_name" : "LS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thaba-Tseka, Lesotho",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.4945316,
+                  "lng" : 28.6257792
+               },
+               "southwest" : {
+                  "lat" : -29.5404569,
+                  "lng" : 28.579216
+               }
+            },
+            "location" : {
+               "lat" : -29.5238975,
+               "lng" : 28.6089752
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.4945316,
+                  "lng" : 28.6257792
+               },
+               "southwest" : {
+                  "lat" : -29.5404569,
+                  "lng" : 28.579216
+               }
+            }
+         },
+         "place_id" : "ChIJD4sahPSzjB4RYCqMvILPAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

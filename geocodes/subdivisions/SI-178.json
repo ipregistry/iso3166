@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selnica ob Dravi",
+               "short_name" : "Selnica ob Dravi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Selnica ob Dravi",
+               "short_name" : "Selnica ob Dravi",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ruše",
+               "short_name" : "Ruše",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2352",
+               "short_name" : "2352",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2352 Selnica ob Dravi, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.56129259999999,
+                  "lng" : 15.510273
+               },
+               "southwest" : {
+                  "lat" : 46.54081970000001,
+                  "lng" : 15.4809647
+               }
+            },
+            "location" : {
+               "lat" : 46.5513918,
+               "lng" : 15.492941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.56129259999999,
+                  "lng" : 15.510273
+               },
+               "southwest" : {
+                  "lat" : 46.54081970000001,
+                  "lng" : 15.4809647
+               }
+            }
+         },
+         "place_id" : "ChIJ7wz1q62cb0cRQex0T0KuBCQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

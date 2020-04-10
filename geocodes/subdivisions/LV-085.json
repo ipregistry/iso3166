@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sala Municipality",
+               "short_name" : "Sala Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sala Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.615558,
+                  "lng" : 25.84901
+               },
+               "southwest" : {
+                  "lat" : 56.356763,
+                  "lng" : 25.5502009
+               }
+            },
+            "location" : {
+               "lat" : 56.5092219,
+               "lng" : 25.7635891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.615558,
+                  "lng" : 25.84901
+               },
+               "southwest" : {
+                  "lat" : 56.356763,
+                  "lng" : 25.5502009
+               }
+            }
+         },
+         "place_id" : "ChIJUSET9cmz6UYREP_yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lebap",
+               "short_name" : "Lebap",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkmenistan",
+               "short_name" : "TM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lebap, Turkmenistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2915379,
+                  "lng" : 66.68430309999999
+               },
+               "southwest" : {
+                  "lat" : 36.850881,
+                  "lng" : 60.18987389999999
+               }
+            },
+            "location" : {
+               "lat" : 38.12724619999999,
+               "lng" : 64.7162415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2915379,
+                  "lng" : 66.68430309999999
+               },
+               "southwest" : {
+                  "lat" : 36.850881,
+                  "lng" : 60.18987389999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-z2ejiPgRD8R8ynVfO4H4gs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sefton",
+               "short_name" : "Sefton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Merseyside",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L29",
+               "short_name" : "L29",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Sefton, Liverpool L29, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5053989,
+                  "lng" : -2.9676319
+               },
+               "southwest" : {
+                  "lat" : 53.50027739999999,
+                  "lng" : -2.9772958
+               }
+            },
+            "location" : {
+               "lat" : 53.5034449,
+               "lng" : -2.970359
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5053989,
+                  "lng" : -2.9676319
+               },
+               "southwest" : {
+                  "lat" : 53.50027739999999,
+                  "lng" : -2.9772958
+               }
+            }
+         },
+         "place_id" : "ChIJKX130BYje0gRn-oXeNkNWaY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

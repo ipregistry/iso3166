@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Mary Parish",
+               "short_name" : "St. Mary Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "JM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Mary Parish, Jamaica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.4221861,
+                  "lng" : -76.7010619
+               },
+               "southwest" : {
+                  "lat" : 18.1388119,
+                  "lng" : -77.071198
+               }
+            },
+            "location" : {
+               "lat" : 18.3092711,
+               "lng" : -76.96430599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.4221861,
+                  "lng" : -76.7010619
+               },
+               "southwest" : {
+                  "lat" : 18.1388119,
+                  "lng" : -77.071198
+               }
+            }
+         },
+         "place_id" : "ChIJ-51miJTh2o4RjUo8l1lKaRw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

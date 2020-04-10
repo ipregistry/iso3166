@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2216,
+                  "lng" : 11.9999992
+               },
+               "southwest" : {
+                  "lat" : 18.9681469,
+                  "lng" : -8.6676111
+               }
+            },
+            "location" : {
+               "lat" : 28.033886,
+               "lng" : 1.659626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2216,
+                  "lng" : 11.9999992
+               },
+               "southwest" : {
+                  "lat" : 18.9681469,
+                  "lng" : -8.6676111
+               }
+            }
+         },
+         "place_id" : "ChIJ0XsDKGqKfg0RovjXq-O-QHE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

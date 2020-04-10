@@ -1,0 +1,88 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkana County",
+               "short_name" : "Turkana County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkana County, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.5010715,
+                  "lng" : 36.7107527
+               },
+               "southwest" : {
+                  "lat" : 0.9189826999999999,
+                  "lng" : 33.98522440000001
+               }
+            },
+            "location" : {
+               "lat" : 3.3122477,
+               "lng" : 35.5657862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.5010715,
+                  "lng" : 36.7107527
+               },
+               "southwest" : {
+                  "lat" : 0.9189826999999999,
+                  "lng" : 33.98522440000001
+               }
+            }
+         },
+         "place_id" : "ChIJwVIOk8legxcRlbPqCGr27WE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake Turkana",
+               "short_name" : "Lake Turkana",
+               "types" : [ "establishment", "natural_feature" ]
+            }
+         ],
+         "formatted_address" : "Lake Turkana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.5163055,
+                  "lng" : 36.7078897
+               },
+               "southwest" : {
+                  "lat" : 2.3973318,
+                  "lng" : 35.8291818
+               }
+            },
+            "location" : {
+               "lat" : 3.6267946,
+               "lng" : 36.0022946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.5163055,
+                  "lng" : 36.7078897
+               },
+               "southwest" : {
+                  "lat" : 2.3973318,
+                  "lng" : 35.8291818
+               }
+            }
+         },
+         "place_id" : "ChIJ8Yth3KbgmBcRezld5czC_5Y",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

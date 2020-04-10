@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soroti",
+               "short_name" : "Soroti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Soroti",
+               "short_name" : "Soroti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Soroti, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.7504162,
+                  "lng" : 33.6426258
+               },
+               "southwest" : {
+                  "lat" : 1.6942225,
+                  "lng" : 33.5904408
+               }
+            },
+            "location" : {
+               "lat" : 1.7131812,
+               "lng" : 33.6063855
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.7504162,
+                  "lng" : 33.6426258
+               },
+               "southwest" : {
+                  "lat" : 1.6942225,
+                  "lng" : 33.5904408
+               }
+            }
+         },
+         "place_id" : "ChIJVzXWw_-5eRcR-S68lCiiI3k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

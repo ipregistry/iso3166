@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vĩnh Long",
+               "short_name" : "Vĩnh Long",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vinh Long",
+               "short_name" : "Vinh Long",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vĩnh Long, Vinh Long, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.2833201,
+                  "lng" : 106.0012829
+               },
+               "southwest" : {
+                  "lat" : 10.220459,
+                  "lng" : 105.8769039
+               }
+            },
+            "location" : {
+               "lat" : 10.239574,
+               "lng" : 105.9571928
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.2833201,
+                  "lng" : 106.0012829
+               },
+               "southwest" : {
+                  "lat" : 10.220459,
+                  "lng" : 105.8769039
+               }
+            }
+         },
+         "place_id" : "ChIJpafxW82CCjERhs0OpHvAG1s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

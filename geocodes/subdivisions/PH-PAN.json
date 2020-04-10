@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pangasinan",
+               "short_name" : "Pangasinan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ilocos Region",
+               "short_name" : "Ilocos Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pangasinan, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.44377,
+                  "lng" : 120.9185899
+               },
+               "southwest" : {
+                  "lat" : 15.623404,
+                  "lng" : 119.750264
+               }
+            },
+            "location" : {
+               "lat" : 15.8949055,
+               "lng" : 120.2863183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.44377,
+                  "lng" : 120.9185899
+               },
+               "southwest" : {
+                  "lat" : 15.623404,
+                  "lng" : 119.750264
+               }
+            }
+         },
+         "place_id" : "ChIJYwRUz55gkTMR40ADRhicvEQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

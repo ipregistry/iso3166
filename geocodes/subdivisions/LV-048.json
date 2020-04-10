@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krimulda Municipality",
+               "short_name" : "Krimulda Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krimulda Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.409888,
+                  "lng" : 24.952042
+               },
+               "southwest" : {
+                  "lat" : 57.1275698,
+                  "lng" : 24.6161898
+               }
+            },
+            "location" : {
+               "lat" : 57.1791273,
+               "lng" : 24.7140127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.409888,
+                  "lng" : 24.952042
+               },
+               "southwest" : {
+                  "lat" : 57.1275698,
+                  "lng" : 24.6161898
+               }
+            }
+         },
+         "place_id" : "ChIJZbqinJ1T6UYREALzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

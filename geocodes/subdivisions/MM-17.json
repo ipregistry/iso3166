@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shan",
+               "short_name" : "Shan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shan, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.159067,
+                  "lng" : 101.1695888
+               },
+               "southwest" : {
+                  "lat" : 19.2993179,
+                  "lng" : 96.15106899999999
+               }
+            },
+            "location" : {
+               "lat" : 22.0361985,
+               "lng" : 98.13385580000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.159067,
+                  "lng" : 101.1695888
+               },
+               "southwest" : {
+                  "lat" : 19.2993179,
+                  "lng" : 96.15106899999999
+               }
+            }
+         },
+         "place_id" : "ChIJadHi9y2L0jARsah-c_kKs0U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

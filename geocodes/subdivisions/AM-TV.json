@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tavush Province",
+               "short_name" : "Tavush Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Armenia",
+               "short_name" : "AM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tavush Province, Armenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3018379,
+                  "lng" : 45.5956799
+               },
+               "southwest" : {
+                  "lat" : 40.648954,
+                  "lng" : 44.766082
+               }
+            },
+            "location" : {
+               "lat" : 40.8866296,
+               "lng" : 45.339349
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3018379,
+                  "lng" : 45.5956799
+               },
+               "southwest" : {
+                  "lat" : 40.648954,
+                  "lng" : 44.766082
+               }
+            }
+         },
+         "place_id" : "ChIJI79HxcesQUARIv3KOpnZKWA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

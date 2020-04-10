@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iklin",
+               "short_name" : "Iklin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iklin, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9167553,
+                  "lng" : 14.4635223
+               },
+               "southwest" : {
+                  "lat" : 35.9022261,
+                  "lng" : 14.4474291
+               }
+            },
+            "location" : {
+               "lat" : 35.9098774,
+               "lng" : 14.4577732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9167553,
+                  "lng" : 14.4635223
+               },
+               "southwest" : {
+                  "lat" : 35.9022261,
+                  "lng" : 14.4474291
+               }
+            }
+         },
+         "place_id" : "ChIJg6wp8-ZPDhMRvMMAd6PSd00",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

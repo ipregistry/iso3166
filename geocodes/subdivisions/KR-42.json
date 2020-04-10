@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gangwon-do",
+               "short_name" : "Gangwon-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gangwon-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7026473,
+                  "lng" : 129.4476592
+               },
+               "southwest" : {
+                  "lat" : 37.0303905,
+                  "lng" : 127.0478551
+               }
+            },
+            "location" : {
+               "lat" : 37.8228,
+               "lng" : 128.1555
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7026473,
+                  "lng" : 129.4476592
+               },
+               "southwest" : {
+                  "lat" : 37.0303905,
+                  "lng" : 127.0478551
+               }
+            }
+         },
+         "place_id" : "ChIJiY2WWew3YjURbnqgJX0MFQ4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

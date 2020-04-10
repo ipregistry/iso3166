@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Botswana",
+               "short_name" : "BW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Botswana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.7781369,
+                  "lng" : 29.375304
+               },
+               "southwest" : {
+                  "lat" : -26.9075448,
+                  "lng" : 19.998903
+               }
+            },
+            "location" : {
+               "lat" : -22.328474,
+               "lng" : 24.684866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.7781369,
+                  "lng" : 29.375304
+               },
+               "southwest" : {
+                  "lat" : -26.9075448,
+                  "lng" : 19.998903
+               }
+            }
+         },
+         "place_id" : "ChIJESJF0SFDpB4Re68Vhyp8ZPE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

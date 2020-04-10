@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ludza Municipality",
+               "short_name" : "Ludza Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ludza Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.5770828,
+                  "lng" : 28.1953449
+               },
+               "southwest" : {
+                  "lat" : 56.177295,
+                  "lng" : 27.4861588
+               }
+            },
+            "location" : {
+               "lat" : 56.5440252,
+               "lng" : 27.7186285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5770828,
+                  "lng" : 28.1953449
+               },
+               "southwest" : {
+                  "lat" : 56.177295,
+                  "lng" : 27.4861588
+               }
+            }
+         },
+         "place_id" : "ChIJi5l2kY00wkYRMADzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

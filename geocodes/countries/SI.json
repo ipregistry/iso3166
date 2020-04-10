@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.876659,
+                  "lng" : 16.6107038
+               },
+               "southwest" : {
+                  "lat" : 45.4218356,
+                  "lng" : 13.3753355
+               }
+            },
+            "location" : {
+               "lat" : 46.151241,
+               "lng" : 14.995463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.876659,
+                  "lng" : 16.6107038
+               },
+               "southwest" : {
+                  "lat" : 45.4218356,
+                  "lng" : 13.3753355
+               }
+            }
+         },
+         "place_id" : "ChIJYYOWXuckZUcRZdTiJR5FQOc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ħal Safi",
+               "short_name" : "Ħal Safi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ħal Safi, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8437126,
+                  "lng" : 14.5058208
+               },
+               "southwest" : {
+                  "lat" : 35.8260471,
+                  "lng" : 14.479385
+               }
+            },
+            "location" : {
+               "lat" : 35.8362202,
+               "lng" : 14.492712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8437126,
+                  "lng" : 14.5058208
+               },
+               "southwest" : {
+                  "lat" : 35.8260471,
+                  "lng" : 14.479385
+               }
+            }
+         },
+         "place_id" : "ChIJrRhG3mpaDhMRzsPFHkPtBgw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

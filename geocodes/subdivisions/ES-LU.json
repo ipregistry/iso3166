@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lugo, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.03479859999999,
+                  "lng" : -7.536812100000001
+               },
+               "southwest" : {
+                  "lat" : 42.9897687,
+                  "lng" : -7.5761881
+               }
+            },
+            "location" : {
+               "lat" : 43.0097384,
+               "lng" : -7.5567582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.03479859999999,
+                  "lng" : -7.536812100000001
+               },
+               "southwest" : {
+                  "lat" : 42.9897687,
+                  "lng" : -7.5761881
+               }
+            }
+         },
+         "place_id" : "ChIJbYcwsYDOMQ0RDAVnKL9fMB8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

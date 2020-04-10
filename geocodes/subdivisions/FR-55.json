@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meuse",
+               "short_name" : "Meuse",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meuse, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.616864,
+                  "lng" : 5.8542058
+               },
+               "southwest" : {
+                  "lat" : 48.4089919,
+                  "lng" : 4.8883769
+               }
+            },
+            "location" : {
+               "lat" : 49.0824319,
+               "lng" : 5.282399700000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.616864,
+                  "lng" : 5.8542058
+               },
+               "southwest" : {
+                  "lat" : 48.4089919,
+                  "lng" : 4.8883769
+               }
+            }
+         },
+         "place_id" : "ChIJna44A7QW60cR8Cg3mrlfCgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.199239,
+                  "lng" : 29.4288049
+               },
+               "southwest" : {
+                  "lat" : 40.811404,
+                  "lng" : 28.595554
+               }
+            },
+            "location" : {
+               "lat" : 41.0082376,
+               "lng" : 28.9783589
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.199239,
+                  "lng" : 29.4288049
+               },
+               "southwest" : {
+                  "lat" : 40.811404,
+                  "lng" : 28.595554
+               }
+            }
+         },
+         "place_id" : "ChIJawhoAASnyhQR0LABvJj-zOE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

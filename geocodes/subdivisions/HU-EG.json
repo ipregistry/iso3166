@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eger",
+               "short_name" : "Eger",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eger, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.001331,
+                  "lng" : 20.471507
+               },
+               "southwest" : {
+                  "lat" : 47.857033,
+                  "lng" : 20.3113128
+               }
+            },
+            "location" : {
+               "lat" : 47.9025348,
+               "lng" : 20.3772284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.001331,
+                  "lng" : 20.471507
+               },
+               "southwest" : {
+                  "lat" : 47.857033,
+                  "lng" : 20.3113128
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI0CwlHiNQEcRJByNlFmyrWM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

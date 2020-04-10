@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sóc Trăng",
+               "short_name" : "Sóc Trăng",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Soc Trang",
+               "short_name" : "Soc Trang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sóc Trăng, Soc Trang, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.6597732,
+                  "lng" : 106.0268426
+               },
+               "southwest" : {
+                  "lat" : 9.559639199999999,
+                  "lng" : 105.928781
+               }
+            },
+            "location" : {
+               "lat" : 9.602520999999999,
+               "lng" : 105.9739049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.6597732,
+                  "lng" : 106.0268426
+               },
+               "southwest" : {
+                  "lat" : 9.559639199999999,
+                  "lng" : 105.928781
+               }
+            }
+         },
+         "place_id" : "ChIJVx29zP1NoDERGBLnZWkoaPo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yangon",
+               "short_name" : "Yangon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yangon Region",
+               "short_name" : "Yangon Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yangon, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.090006,
+                  "lng" : 96.36833009999999
+               },
+               "southwest" : {
+                  "lat" : 16.5882789,
+                  "lng" : 95.994815
+               }
+            },
+            "location" : {
+               "lat" : 16.840939,
+               "lng" : 96.173526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.090006,
+                  "lng" : 96.36833009999999
+               },
+               "southwest" : {
+                  "lat" : 16.5882789,
+                  "lng" : 95.994815
+               }
+            }
+         },
+         "place_id" : "ChIJaxk-Ip6UwTARtAsI-HHS-1Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

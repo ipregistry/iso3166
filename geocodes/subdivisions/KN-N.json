@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nevis",
+               "short_name" : "Nevis",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nevis, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.2077366,
+                  "lng" : -62.5396309
+               },
+               "southwest" : {
+                  "lat" : 17.0941117,
+                  "lng" : -62.6335216
+               }
+            },
+            "location" : {
+               "lat" : 17.1553558,
+               "lng" : -62.57960259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.2077366,
+                  "lng" : -62.5396309
+               },
+               "southwest" : {
+                  "lat" : 17.0941117,
+                  "lng" : -62.6335216
+               }
+            }
+         },
+         "place_id" : "ChIJxR3SHZw9EowRMLjDuFFLGVk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

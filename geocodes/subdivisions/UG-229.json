@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kiyunga",
+               "short_name" : "Kiyunga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iganga",
+               "short_name" : "Iganga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kiyunga, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.7685907,
+                  "lng" : 33.3354379
+               },
+               "southwest" : {
+                  "lat" : 0.7589357,
+                  "lng" : 33.3279276
+               }
+            },
+            "location" : {
+               "lat" : 0.7636914,
+               "lng" : 33.3303764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.7685907,
+                  "lng" : 33.3354379
+               },
+               "southwest" : {
+                  "lat" : 0.7589357,
+                  "lng" : 33.3279276
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz_qj85W9fhcRANp-CwqTy7A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

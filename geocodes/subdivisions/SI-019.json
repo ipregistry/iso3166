@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Divača",
+               "short_name" : "Divača",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Divača",
+               "short_name" : "Divača",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Sežana",
+               "short_name" : "Sežana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6215",
+               "short_name" : "6215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6215 Divača, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7069151,
+                  "lng" : 14.0009139
+               },
+               "southwest" : {
+                  "lat" : 45.6697414,
+                  "lng" : 13.9333018
+               }
+            },
+            "location" : {
+               "lat" : 45.68291319999999,
+               "lng" : 13.9697218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7069151,
+                  "lng" : 14.0009139
+               },
+               "southwest" : {
+                  "lat" : 45.6697414,
+                  "lng" : 13.9333018
+               }
+            }
+         },
+         "place_id" : "ChIJlaBUXi4_e0cR08hyoCHrELQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

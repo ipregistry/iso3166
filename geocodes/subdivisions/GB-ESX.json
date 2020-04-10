@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Sussex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1474564,
+                  "lng" : 0.8678558
+               },
+               "southwest" : {
+                  "lat" : 50.7334348,
+                  "lng" : -0.1358669
+               }
+            },
+            "location" : {
+               "lat" : 50.9085955,
+               "lng" : 0.2494166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1474564,
+                  "lng" : 0.8678558
+               },
+               "southwest" : {
+                  "lat" : 50.7334348,
+                  "lng" : -0.1358669
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuVE1OiXg3kcRcGvgEoRu2pQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

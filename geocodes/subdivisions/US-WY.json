@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wyoming, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.005904,
+                  "lng" : -104.0522449
+               },
+               "southwest" : {
+                  "lat" : 40.994746,
+                  "lng" : -111.056889
+               }
+            },
+            "location" : {
+               "lat" : 43.0759678,
+               "lng" : -107.2902839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.005904,
+                  "lng" : -104.0522449
+               },
+               "southwest" : {
+                  "lat" : 40.994746,
+                  "lng" : -111.056889
+               }
+            }
+         },
+         "place_id" : "ChIJaS7hSDTiXocRLzh90nkisCY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

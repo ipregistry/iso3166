@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carchi Province",
+               "short_name" : "Carchi Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carchi Province, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.1977716,
+                  "lng" : -77.5311973
+               },
+               "southwest" : {
+                  "lat" : 0.3566159,
+                  "lng" : -78.54945979999999
+               }
+            },
+            "location" : {
+               "lat" : 0.5026912,
+               "lng" : -77.90425209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.1977716,
+                  "lng" : -77.5311973
+               },
+               "southwest" : {
+                  "lat" : 0.3566159,
+                  "lng" : -78.54945979999999
+               }
+            }
+         },
+         "place_id" : "ChIJTevV57poKY4RceQ97kvAIjY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

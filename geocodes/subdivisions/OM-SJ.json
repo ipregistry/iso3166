@@ -1,0 +1,95 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ash Sharqiyah North Governorate",
+               "short_name" : "Ash Sharqiyah North Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ash Sharqiyah North Governorate, Oman",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.3408271,
+                  "lng" : 59.4309743
+               },
+               "southwest" : {
+                  "lat" : 20.7500535,
+                  "lng" : 57.90900800000001
+               }
+            },
+            "location" : {
+               "lat" : 22.7141196,
+               "lng" : 58.5308064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.3408271,
+                  "lng" : 59.4309743
+               },
+               "southwest" : {
+                  "lat" : 20.7500535,
+                  "lng" : 57.90900800000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ177_yJyinD4RuQbz4c2dlEg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ash Sharqiyah South Governorate",
+               "short_name" : "Ash Sharqiyah South Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ash Sharqiyah South Governorate, Oman",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6427162,
+                  "lng" : 59.836578
+               },
+               "southwest" : {
+                  "lat" : 20.164228,
+                  "lng" : 58.19372599999999
+               }
+            },
+            "location" : {
+               "lat" : 22.0158249,
+               "lng" : 59.3251922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6427162,
+                  "lng" : 59.836578
+               },
+               "southwest" : {
+                  "lat" : 20.164228,
+                  "lng" : 58.19372599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT7UXoH8Lmz4RJhpjUdtTxLU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ticino",
+               "short_name" : "TI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ticino, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.63241,
+                  "lng" : 9.159730000000001
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 8.38218
+               }
+            },
+            "location" : {
+               "lat" : 46.331734,
+               "lng" : 8.800452900000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.63241,
+                  "lng" : 9.159730000000001
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 8.38218
+               }
+            }
+         },
+         "place_id" : "ChIJg946LtqXhUcRuN5YORraPgw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

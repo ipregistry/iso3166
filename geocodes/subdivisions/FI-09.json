@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kymenlaakso",
+               "short_name" : "Kymenlaakso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kymenlaakso, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.2925399,
+                  "lng" : 27.9905977
+               },
+               "southwest" : {
+                  "lat" : 60.2122642,
+                  "lng" : 26.0398964
+               }
+            },
+            "location" : {
+               "lat" : 60.780512,
+               "lng" : 26.8829336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.2925399,
+                  "lng" : 27.9905977
+               },
+               "southwest" : {
+                  "lat" : 60.2122642,
+                  "lng" : 26.0398964
+               }
+            }
+         },
+         "place_id" : "ChIJd7TWb-GpkUYR_G_Gfb0PW7M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

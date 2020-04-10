@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elias Pina",
+               "short_name" : "Elias Pina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comendador",
+               "short_name" : "Comendador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Elías Piña Province",
+               "short_name" : "Elías Piña Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Elias Pina, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.8846859,
+                  "lng" : -71.6910266
+               },
+               "southwest" : {
+                  "lat" : 18.8692959,
+                  "lng" : -71.71033849999999
+               }
+            },
+            "location" : {
+               "lat" : 18.8766964,
+               "lng" : -71.7044138
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8846859,
+                  "lng" : -71.6910266
+               },
+               "southwest" : {
+                  "lat" : 18.8692959,
+                  "lng" : -71.71033849999999
+               }
+            }
+         },
+         "place_id" : "ChIJZzeVDwe7sI4RgpnnEeYzTLE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

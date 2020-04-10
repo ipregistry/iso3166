@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Var",
+               "short_name" : "Var",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Var, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.808881,
+                  "lng" : 6.933462
+               },
+               "southwest" : {
+                  "lat" : 42.98199810000001,
+                  "lng" : 5.6559
+               }
+            },
+            "location" : {
+               "lat" : 43.46764599999999,
+               "lng" : 6.2375947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.808881,
+                  "lng" : 6.933462
+               },
+               "southwest" : {
+                  "lat" : 42.98199810000001,
+                  "lng" : 5.6559
+               }
+            }
+         },
+         "place_id" : "ChIJCQMoGM9OyRIRsCqP_aUZCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

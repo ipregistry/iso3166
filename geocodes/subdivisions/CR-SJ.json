@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San José Province",
+               "short_name" : "San José Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San José Province, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.200303,
+                  "lng" : -83.415778
+               },
+               "southwest" : {
+                  "lat" : 9.068209,
+                  "lng" : -84.577308
+               }
+            },
+            "location" : {
+               "lat" : 9.912972699999999,
+               "lng" : -84.07682939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.200303,
+                  "lng" : -83.415778
+               },
+               "southwest" : {
+                  "lat" : 9.068209,
+                  "lng" : -84.577308
+               }
+            }
+         },
+         "place_id" : "ChIJxRUNxULjoI8RNuhDZCmsjv8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

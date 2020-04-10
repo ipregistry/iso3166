@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Hoceima",
+               "short_name" : "El Hoceima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Hoceima Province",
+               "short_name" : "Al Hoceima Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tangier-Tétouan-Al Hoceima",
+               "short_name" : "Tangier-Tétouan-Al Hoceima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Hoceima, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.261985,
+                  "lng" : -3.9091588
+               },
+               "southwest" : {
+                  "lat" : 35.2178035,
+                  "lng" : -3.9661073
+               }
+            },
+            "location" : {
+               "lat" : 35.2445589,
+               "lng" : -3.9317468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.261985,
+                  "lng" : -3.9091588
+               },
+               "southwest" : {
+                  "lat" : 35.2178035,
+                  "lng" : -3.9661073
+               }
+            }
+         },
+         "place_id" : "ChIJf7I7V4UxdA0R9MUZroGNwwE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

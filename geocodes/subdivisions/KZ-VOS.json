@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Kazakhstan Province",
+               "short_name" : "ВКО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "070000",
+               "short_name" : "070000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East Kazakhstan Province, 070000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.399576,
+                  "lng" : 87.29922289999999
+               },
+               "southwest" : {
+                  "lat" : 45.566072,
+                  "lng" : 76.76924199999999
+               }
+            },
+            "location" : {
+               "lat" : 48.7062687,
+               "lng" : 80.79225339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.399576,
+                  "lng" : 87.29922289999999
+               },
+               "southwest" : {
+                  "lat" : 45.566072,
+                  "lng" : 76.76924199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJf0PBxdl9i0IR2DBo7b4azKA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

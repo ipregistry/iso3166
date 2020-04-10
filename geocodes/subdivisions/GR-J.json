@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peloponnese",
+               "short_name" : "Peloponnese",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arcadia",
+               "short_name" : "Arcadia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "220 16",
+               "short_name" : "220 16",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peloponnese 220 16, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.349722,
+               "lng" : 22.352222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3585915,
+                  "lng" : 22.3682294
+               },
+               "southwest" : {
+                  "lat" : 37.3408515,
+                  "lng" : 22.3362146
+               }
+            }
+         },
+         "place_id" : "ChIJ00VfUMs7YBMR702kpqcaRGI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

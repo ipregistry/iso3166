@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huila",
+               "short_name" : "Huila",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huila, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.8309479,
+                  "lng" : -74.41139799999999
+               },
+               "southwest" : {
+                  "lat" : 1.513708,
+                  "lng" : -76.623713
+               }
+            },
+            "location" : {
+               "lat" : 2.5359349,
+               "lng" : -75.52766989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.8309479,
+                  "lng" : -74.41139799999999
+               },
+               "southwest" : {
+                  "lat" : 1.513708,
+                  "lng" : -76.623713
+               }
+            }
+         },
+         "place_id" : "ChIJCzCnagAjO44Rvf5euiPn0bo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

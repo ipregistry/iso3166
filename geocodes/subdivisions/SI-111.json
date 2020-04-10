@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sežana",
+               "short_name" : "Sežana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sežana",
+               "short_name" : "Sežana",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Sežana",
+               "short_name" : "Sežana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6210",
+               "short_name" : "6210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6210 Sežana, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7290231,
+                  "lng" : 13.8946603
+               },
+               "southwest" : {
+                  "lat" : 45.68053279999999,
+                  "lng" : 13.8292526
+               }
+            },
+            "location" : {
+               "lat" : 45.7093519,
+               "lng" : 13.8738185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7290231,
+                  "lng" : 13.8946603
+               },
+               "southwest" : {
+                  "lat" : 45.68053279999999,
+                  "lng" : 13.8292526
+               }
+            }
+         },
+         "place_id" : "ChIJj95kpHYVe0cRGqLiHkoUOzQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

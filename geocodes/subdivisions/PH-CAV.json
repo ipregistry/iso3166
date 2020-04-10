@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cavite City",
+               "short_name" : "Cavite City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cavite",
+               "short_name" : "Cavite",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabarzon",
+               "short_name" : "Calabarzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cavite City, Cavite, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.5009596,
+                  "lng" : 120.9213854
+               },
+               "southwest" : {
+                  "lat" : 14.3047499,
+                  "lng" : 120.5212855
+               }
+            },
+            "location" : {
+               "lat" : 14.4791297,
+               "lng" : 120.8969634
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.5009596,
+                  "lng" : 120.9213854
+               },
+               "southwest" : {
+                  "lat" : 14.3047499,
+                  "lng" : 120.5212855
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo8wQgTXNlzMRpBRwdNhL4FY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ohio, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.323374,
+                  "lng" : -80.51819999999999
+               },
+               "southwest" : {
+                  "lat" : 38.4034229,
+                  "lng" : -84.8203049
+               }
+            },
+            "location" : {
+               "lat" : 40.4172871,
+               "lng" : -82.90712300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.323374,
+                  "lng" : -80.51819999999999
+               },
+               "southwest" : {
+                  "lat" : 38.4034229,
+                  "lng" : -84.8203049
+               }
+            }
+         },
+         "place_id" : "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

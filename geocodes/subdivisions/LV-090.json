@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sēja Municipality",
+               "short_name" : "Sēja Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sējas novads",
+               "short_name" : "Sējas novads",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sēja Municipality, Sējas novads, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.321457,
+                  "lng" : 24.6849099
+               },
+               "southwest" : {
+                  "lat" : 57.107601,
+                  "lng" : 24.366094
+               }
+            },
+            "location" : {
+               "lat" : 57.20069950000001,
+               "lng" : 24.5922821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.321457,
+                  "lng" : 24.6849099
+               },
+               "southwest" : {
+                  "lat" : 57.107601,
+                  "lng" : 24.366094
+               }
+            }
+         },
+         "place_id" : "ChIJkTGOz0Oy7kYRUALzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

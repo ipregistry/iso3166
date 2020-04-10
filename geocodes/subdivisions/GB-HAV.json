@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London Borough of Havering",
+               "short_name" : "London Borough of Havering",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London Borough of Havering, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6317344,
+                  "lng" : 0.3339957
+               },
+               "southwest" : {
+                  "lat" : 51.48415,
+                  "lng" : 0.1381596
+               }
+            },
+            "location" : {
+               "lat" : 51.577924,
+               "lng" : 0.2120829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6317344,
+                  "lng" : 0.3339957
+               },
+               "southwest" : {
+                  "lat" : 51.48415,
+                  "lng" : 0.1381596
+               }
+            }
+         },
+         "place_id" : "ChIJ1bfreqq72EcRUGjsoi2uDgQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

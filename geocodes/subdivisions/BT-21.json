@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tsirang",
+               "short_name" : "Tsirang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tsirang, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.177361,
+                  "lng" : 90.357412
+               },
+               "southwest" : {
+                  "lat" : 26.8187539,
+                  "lng" : 90.00392509999999
+               }
+            },
+            "location" : {
+               "lat" : 27.032207,
+               "lng" : 90.18696439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.177361,
+                  "lng" : 90.357412
+               },
+               "southwest" : {
+                  "lat" : 26.8187539,
+                  "lng" : 90.00392509999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ11w47yoWDcRy4Ikn0ohsa8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

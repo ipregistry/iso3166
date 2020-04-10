@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redcar",
+               "short_name" : "Redcar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Redcar",
+               "short_name" : "Redcar",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Redcar and Cleveland",
+               "short_name" : "Redcar and Cleveland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Redcar, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6223798,
+                  "lng" : -1.0343724
+               },
+               "southwest" : {
+                  "lat" : 54.58321189999999,
+                  "lng" : -1.1128379
+               }
+            },
+            "location" : {
+               "lat" : 54.5974636,
+               "lng" : -1.0779515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6223798,
+                  "lng" : -1.0343724
+               },
+               "southwest" : {
+                  "lat" : 54.58321189999999,
+                  "lng" : -1.1128379
+               }
+            }
+         },
+         "place_id" : "ChIJbWBkN8PkfkgR0EPYJTH4vu4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

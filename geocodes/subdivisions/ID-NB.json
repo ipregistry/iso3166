@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Nusa Tenggara",
+               "short_name" : "West Nusa Tenggara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Nusa Tenggara, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.0804828,
+                  "lng" : 119.335809
+               },
+               "southwest" : {
+                  "lat" : -9.109487099999999,
+                  "lng" : 115.8210601
+               }
+            },
+            "location" : {
+               "lat" : -8.6529334,
+               "lng" : 117.3616476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.0804828,
+                  "lng" : 119.335809
+               },
+               "southwest" : {
+                  "lat" : -9.109487099999999,
+                  "lng" : 115.8210601
+               }
+            }
+         },
+         "place_id" : "ChIJIe0SGpQNuC0RxXX30MzCZ2k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

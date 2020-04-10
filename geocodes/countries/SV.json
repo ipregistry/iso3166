@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Salvador",
+               "short_name" : "SV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Salvador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.4505567,
+                  "lng" : -87.6682
+               },
+               "southwest" : {
+                  "lat" : 13.0473999,
+                  "lng" : -90.19229999999999
+               }
+            },
+            "location" : {
+               "lat" : 13.794185,
+               "lng" : -88.89653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.4505567,
+                  "lng" : -87.6682
+               },
+               "southwest" : {
+                  "lat" : 13.0473999,
+                  "lng" : -90.19229999999999
+               }
+            }
+         },
+         "place_id" : "ChIJVwZkWaYnY48RMkiFmOsWmm8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

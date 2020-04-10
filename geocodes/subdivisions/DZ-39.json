@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Oued",
+               "short_name" : "El Oued",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Oued",
+               "short_name" : "El Oued",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "El Oued Province",
+               "short_name" : "El Oued Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Oued, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4230201,
+                  "lng" : 6.9176499
+               },
+               "southwest" : {
+                  "lat" : 33.2899109,
+                  "lng" : 6.800457
+               }
+            },
+            "location" : {
+               "lat" : 33.367811,
+               "lng" : 6.8516511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4230201,
+                  "lng" : 6.9176499
+               },
+               "southwest" : {
+                  "lat" : 33.2899109,
+                  "lng" : 6.800457
+               }
+            }
+         },
+         "place_id" : "ChIJWw3cJw4RWRIRlkTdrjps4Bg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

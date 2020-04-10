@@ -1,0 +1,56 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baie Sainte Anne",
+               "short_name" : "Baie Sainte Anne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Seychelles",
+               "short_name" : "SC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baie Sainte Anne, Seychelles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.2722571,
+                  "lng" : 55.792515
+               },
+               "southwest" : {
+                  "lat" : -4.352547899999999,
+                  "lng" : 55.6812901
+               }
+            },
+            "location" : {
+               "lat" : -4.3193277,
+               "lng" : 55.74116919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.2722571,
+                  "lng" : 55.792515
+               },
+               "southwest" : {
+                  "lat" : -4.352547899999999,
+                  "lng" : 55.6812901
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG9P6UxDxHyMRyACC92CM4n8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+1NjtHyMRh12iIaupwFc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

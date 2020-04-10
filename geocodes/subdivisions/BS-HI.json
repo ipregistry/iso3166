@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harbor Island",
+               "short_name" : "Harbor Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Harbour Island",
+               "short_name" : "Harbour Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harbor Island, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.5232051,
+                  "lng" : -76.62827539999999
+               },
+               "southwest" : {
+                  "lat" : 25.4758542,
+                  "lng" : -76.6403648
+               }
+            },
+            "location" : {
+               "lat" : 25.50011,
+               "lng" : -76.63405109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.5232051,
+                  "lng" : -76.62827539999999
+               },
+               "southwest" : {
+                  "lat" : 25.4758542,
+                  "lng" : -76.6403648
+               }
+            }
+         },
+         "place_id" : "ChIJmz98MFw3JYkRnqU4UezUxKM",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

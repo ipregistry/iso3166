@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lombardy, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6351853,
+                  "lng" : 11.4276993
+               },
+               "southwest" : {
+                  "lat" : 44.6796491,
+                  "lng" : 8.4978605
+               }
+            },
+            "location" : {
+               "lat" : 45.47906709999999,
+               "lng" : 9.8452433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6351853,
+                  "lng" : 11.4276993
+               },
+               "southwest" : {
+                  "lat" : 44.6796491,
+                  "lng" : 8.4978605
+               }
+            }
+         },
+         "place_id" : "ChIJf4M-GsNEgUcR1JMVKCIm8qY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

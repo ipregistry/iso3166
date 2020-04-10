@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riebiņi Municipality",
+               "short_name" : "Riebiņi Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riebiņi Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.56086800000001,
+                  "lng" : 27.1069399
+               },
+               "southwest" : {
+                  "lat" : 56.12332989999999,
+                  "lng" : 26.5511042
+               }
+            },
+            "location" : {
+               "lat" : 56.343619,
+               "lng" : 26.8018138
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.56086800000001,
+                  "lng" : 27.1069399
+               },
+               "southwest" : {
+                  "lat" : 56.12332989999999,
+                  "lng" : 26.5511042
+               }
+            }
+         },
+         "place_id" : "ChIJ9fwEgVNlwkYRIAHzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

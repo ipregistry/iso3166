@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palestine",
+               "short_name" : "PS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palestine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5520999,
+                  "lng" : 35.5740521
+               },
+               "southwest" : {
+                  "lat" : 31.219691,
+                  "lng" : 34.21010010000001
+               }
+            },
+            "location" : {
+               "lat" : 31.952162,
+               "lng" : 35.233154
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5520999,
+                  "lng" : 35.5740521
+               },
+               "southwest" : {
+                  "lat" : 31.219691,
+                  "lng" : 34.21010010000001
+               }
+            }
+         },
+         "place_id" : "ChIJ2b1miNLyHBURhvZm0QGgF-4",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

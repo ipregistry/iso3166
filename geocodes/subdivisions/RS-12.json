@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sumadija",
+               "short_name" : "Sumadija",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sumadija, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.441987,
+                  "lng" : 21.1592041
+               },
+               "southwest" : {
+                  "lat" : 43.796296,
+                  "lng" : 20.410712
+               }
+            },
+            "location" : {
+               "lat" : 44.20506779999999,
+               "lng" : 20.7856565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.441987,
+                  "lng" : 21.1592041
+               },
+               "southwest" : {
+                  "lat" : 43.796296,
+                  "lng" : 20.410712
+               }
+            }
+         },
+         "place_id" : "ChIJOY0a-I06V0cRtxF5cduBvKc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

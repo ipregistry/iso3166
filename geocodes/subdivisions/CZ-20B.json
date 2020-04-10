@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Příbram",
+               "short_name" : "Příbram",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Příbram District",
+               "short_name" : "Příbram District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Příbram, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.711014,
+                  "lng" : 14.0826034
+               },
+               "southwest" : {
+                  "lat" : 49.6250118,
+                  "lng" : 13.9330489
+               }
+            },
+            "location" : {
+               "lat" : 49.685432,
+               "lng" : 13.9989449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.711014,
+                  "lng" : 14.0826034
+               },
+               "southwest" : {
+                  "lat" : 49.6250118,
+                  "lng" : 13.9330489
+               }
+            }
+         },
+         "place_id" : "ChIJm6FmKAcOC0cRQLcVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

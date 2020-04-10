@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Highland Council",
+               "short_name" : "Highland Council",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Highland Council, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.6975192,
+                  "lng" : -3.0239424
+               },
+               "southwest" : {
+                  "lat" : 56.4971768,
+                  "lng" : -6.789702699999999
+               }
+            },
+            "location" : {
+               "lat" : 57.4595749,
+               "lng" : -4.2263955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.6975192,
+                  "lng" : -3.0239424
+               },
+               "southwest" : {
+                  "lat" : 56.4971768,
+                  "lng" : -6.789702699999999
+               }
+            }
+         },
+         "place_id" : "ChIJpQfhl1Nxj0gRON4nZCLq93M",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

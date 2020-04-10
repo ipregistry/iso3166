@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3191764,
+                  "lng" : -22.5933839
+               },
+               "southwest" : {
+                  "lat" : 14.7270733,
+                  "lng" : -25.383911
+               }
+            },
+            "location" : {
+               "lat" : 16.5388,
+               "lng" : -23.0418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3191764,
+                  "lng" : -22.5933839
+               },
+               "southwest" : {
+                  "lat" : 14.7270733,
+                  "lng" : -25.383911
+               }
+            }
+         },
+         "place_id" : "ChIJMVERWSGPNQkRH-oY-TbyGms",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

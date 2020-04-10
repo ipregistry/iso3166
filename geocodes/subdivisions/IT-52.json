@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tuscany, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4726899,
+                  "lng" : 12.3713555
+               },
+               "southwest" : {
+                  "lat" : 42.2376686,
+                  "lng" : 9.6867213
+               }
+            },
+            "location" : {
+               "lat" : 43.7710513,
+               "lng" : 11.2486208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4726899,
+                  "lng" : 12.3713555
+               },
+               "southwest" : {
+                  "lat" : 42.2376686,
+                  "lng" : 9.6867213
+               }
+            }
+         },
+         "place_id" : "ChIJezSAEFMr1BIRq1kgW7rDxro",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

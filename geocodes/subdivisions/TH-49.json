@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mukdahan",
+               "short_name" : "Mukdahan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Mukdahan District",
+               "short_name" : "Mueang Mukdahan District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mukdahan",
+               "short_name" : "Mukdahan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49000",
+               "short_name" : "49000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mukdahan, Mueang Mukdahan District, Mukdahan 49000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.5965774,
+                  "lng" : 104.7333098
+               },
+               "southwest" : {
+                  "lat" : 16.5168806,
+                  "lng" : 104.6172357
+               }
+            },
+            "location" : {
+               "lat" : 16.5435914,
+               "lng" : 104.7024121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.5965774,
+                  "lng" : 104.7333098
+               },
+               "southwest" : {
+                  "lat" : 16.5168806,
+                  "lng" : 104.6172357
+               }
+            }
+         },
+         "place_id" : "ChIJRVhWhkLGPTERtqstSMisTOc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

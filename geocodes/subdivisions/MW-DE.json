@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dedza",
+               "short_name" : "Dedza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dedza",
+               "short_name" : "Dedza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dedza, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.3712497,
+                  "lng" : 34.34515
+               },
+               "southwest" : {
+                  "lat" : -14.398852,
+                  "lng" : 34.3036938
+               }
+            },
+            "location" : {
+               "lat" : -14.3816618,
+               "lng" : 34.3254842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.3712497,
+                  "lng" : 34.34515
+               },
+               "southwest" : {
+                  "lat" : -14.398852,
+                  "lng" : 34.3036938
+               }
+            }
+         },
+         "place_id" : "ChIJQYppHyt9IBkR75O4rX6L9wQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

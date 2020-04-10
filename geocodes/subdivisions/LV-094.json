@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Smiltene Municipality",
+               "short_name" : "Smiltene Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Smiltene Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.5611749,
+                  "lng" : 26.3258458
+               },
+               "southwest" : {
+                  "lat" : 57.2660348,
+                  "lng" : 25.6550759
+               }
+            },
+            "location" : {
+               "lat" : 57.42303319999999,
+               "lng" : 25.900278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.5611749,
+                  "lng" : 26.3258458
+               },
+               "southwest" : {
+                  "lat" : 57.2660348,
+                  "lng" : 25.6550759
+               }
+            }
+         },
+         "place_id" : "ChIJ0bo4kCzJ60YREAPzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

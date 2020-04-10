@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bougouriba",
+               "short_name" : "Bougouriba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sud-Ouest Region",
+               "short_name" : "Sud-Ouest Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bougouriba, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.164746,
+                  "lng" : -3.0406049
+               },
+               "southwest" : {
+                  "lat" : 10.573969,
+                  "lng" : -3.7324119
+               }
+            },
+            "location" : {
+               "lat" : 10.8722646,
+               "lng" : -3.3388917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.164746,
+                  "lng" : -3.0406049
+               },
+               "southwest" : {
+                  "lat" : 10.573969,
+                  "lng" : -3.7324119
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVVyPuI84Mw4RYAK4v0T3QaE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

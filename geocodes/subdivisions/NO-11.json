@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rogaland",
+               "short_name" : "Rogaland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rogaland, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.84457429999999,
+                  "lng" : 7.214666799999999
+               },
+               "southwest" : {
+                  "lat" : 58.0278507,
+                  "lng" : 4.4542735
+               }
+            },
+            "location" : {
+               "lat" : 59.1489544,
+               "lng" : 6.0143432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.84457429999999,
+                  "lng" : 7.214666799999999
+               },
+               "southwest" : {
+                  "lat" : 58.0278507,
+                  "lng" : 4.4542735
+               }
+            }
+         },
+         "place_id" : "ChIJC9fcKj81OkYRvMAMC7ocBuA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

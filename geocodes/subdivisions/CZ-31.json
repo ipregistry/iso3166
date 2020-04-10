@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Bohemian Region",
+               "short_name" : "South Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Bohemian Region, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6212548,
+                  "lng" : 15.6041293
+               },
+               "southwest" : {
+                  "lat" : 48.5518081,
+                  "lng" : 13.5363203
+               }
+            },
+            "location" : {
+               "lat" : 48.9457789,
+               "lng" : 14.4416055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6212548,
+                  "lng" : 15.6041293
+               },
+               "southwest" : {
+                  "lat" : 48.5518081,
+                  "lng" : 13.5363203
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ2aXTChNc0cRQKgUZg-vAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Division",
+               "short_name" : "Central Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Division, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.376591,
+                  "lng" : 178.7729311
+               },
+               "southwest" : {
+                  "lat" : -18.423275,
+                  "lng" : 177.772764
+               }
+            },
+            "location" : {
+               "lat" : -17.9453123,
+               "lng" : 178.2461183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.376591,
+                  "lng" : 178.7729311
+               },
+               "southwest" : {
+                  "lat" : -18.423275,
+                  "lng" : 177.772764
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9RVnURRiGW4RECJl4cuD8M4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

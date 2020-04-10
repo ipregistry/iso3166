@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trebnje",
+               "short_name" : "Trebnje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trebnje",
+               "short_name" : "Trebnje",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Trebnje",
+               "short_name" : "Trebnje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8210",
+               "short_name" : "8210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8210 Trebnje, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9228233,
+                  "lng" : 15.0344809
+               },
+               "southwest" : {
+                  "lat" : 45.8970172,
+                  "lng" : 14.9921395
+               }
+            },
+            "location" : {
+               "lat" : 45.9081708,
+               "lng" : 15.0125985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9228233,
+                  "lng" : 15.0344809
+               },
+               "southwest" : {
+                  "lat" : 45.8970172,
+                  "lng" : 14.9921395
+               }
+            }
+         },
+         "place_id" : "ChIJxR0SGcwEZUcRMPI_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

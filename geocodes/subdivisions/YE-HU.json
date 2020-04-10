@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Hudaydah",
+               "short_name" : "Al Hudaydah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Hudaydah Governorate",
+               "short_name" : "Al Hudaydah Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Yemen",
+               "short_name" : "YE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Hudaydah, Yemen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.8447708,
+                  "lng" : 43.0109927
+               },
+               "southwest" : {
+                  "lat" : 14.7352909,
+                  "lng" : 42.9183161
+               }
+            },
+            "location" : {
+               "lat" : 14.7909118,
+               "lng" : 42.9708838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.8447708,
+                  "lng" : 43.0109927
+               },
+               "southwest" : {
+                  "lat" : 14.7352909,
+                  "lng" : 42.9183161
+               }
+            }
+         },
+         "place_id" : "ChIJe6OrY-M7BRYRorjxR5NV6no",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warrington, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4365627,
+                  "lng" : -2.4493625
+               },
+               "southwest" : {
+                  "lat" : 53.3376544,
+                  "lng" : -2.6977241
+               }
+            },
+            "location" : {
+               "lat" : 53.3900441,
+               "lng" : -2.5969501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4365627,
+                  "lng" : -2.4493625
+               },
+               "southwest" : {
+                  "lat" : 53.3376544,
+                  "lng" : -2.6977241
+               }
+            }
+         },
+         "place_id" : "ChIJp8IoW4MBe0gRRX7vrejn6Ig",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

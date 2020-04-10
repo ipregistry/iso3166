@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongar",
+               "short_name" : "Mongar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mongar",
+               "short_name" : "Mongar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongar, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.280493,
+                  "lng" : 91.2454034
+               },
+               "southwest" : {
+                  "lat" : 27.2708807,
+                  "lng" : 91.23415949999999
+               }
+            },
+            "location" : {
+               "lat" : 27.2753739,
+               "lng" : 91.23977750000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.280493,
+                  "lng" : 91.2454034
+               },
+               "southwest" : {
+                  "lat" : 27.2708807,
+                  "lng" : 91.23415949999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN8OylDoCXDcR_Muq1lKm-Qo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

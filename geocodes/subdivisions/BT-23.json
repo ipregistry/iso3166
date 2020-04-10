@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punakha",
+               "short_name" : "Punakha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Punakha",
+               "short_name" : "Punakha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punakha, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5961249,
+                  "lng" : 89.88554479999999
+               },
+               "southwest" : {
+                  "lat" : 27.5877193,
+                  "lng" : 89.8721123
+               }
+            },
+            "location" : {
+               "lat" : 27.5920869,
+               "lng" : 89.87974589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5961249,
+                  "lng" : 89.88554479999999
+               },
+               "southwest" : {
+                  "lat" : 27.5877193,
+                  "lng" : 89.8721123
+               }
+            }
+         },
+         "place_id" : "ChIJtS9cvd_c4TkRLELPlXqx1rA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

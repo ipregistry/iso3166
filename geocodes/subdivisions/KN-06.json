@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint John Capisterre",
+               "short_name" : "Saint John Capisterre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint John Capisterre, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.418073,
+                  "lng" : -62.76036199999999
+               },
+               "southwest" : {
+                  "lat" : 17.350457,
+                  "lng" : -62.820196
+               }
+            },
+            "location" : {
+               "lat" : 17.3810341,
+               "lng" : -62.7911833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.418073,
+                  "lng" : -62.76036199999999
+               },
+               "southwest" : {
+                  "lat" : 17.350457,
+                  "lng" : -62.820196
+               }
+            }
+         },
+         "place_id" : "ChIJoZPS8MQCEowRBZ1VlzSSprQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

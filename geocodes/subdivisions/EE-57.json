@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lääne County",
+               "short_name" : "Lääne County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lääne County, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.30435969999999,
+                  "lng" : 24.1926193
+               },
+               "southwest" : {
+                  "lat" : 58.7159459,
+                  "lng" : 23.0778726
+               }
+            },
+            "location" : {
+               "lat" : 58.9722742,
+               "lng" : 23.8740834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.30435969999999,
+                  "lng" : 24.1926193
+               },
+               "southwest" : {
+                  "lat" : 58.7159459,
+                  "lng" : 23.0778726
+               }
+            }
+         },
+         "place_id" : "ChIJkYf9Ff9Y7UYRcGD8GG2zAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

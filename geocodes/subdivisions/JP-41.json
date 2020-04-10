@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saga",
+               "short_name" : "Saga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saga",
+               "short_name" : "Saga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saga, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4815399,
+                  "lng" : 130.3789031
+               },
+               "southwest" : {
+                  "lat" : 33.141707,
+                  "lng" : 130.139085
+               }
+            },
+            "location" : {
+               "lat" : 33.2631179,
+               "lng" : 130.3009057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4815399,
+                  "lng" : 130.3789031
+               },
+               "southwest" : {
+                  "lat" : 33.141707,
+                  "lng" : 130.139085
+               }
+            }
+         },
+         "place_id" : "ChIJ6_E0HvvIQTUR0EPzUPyikNc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

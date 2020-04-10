@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhondda",
+               "short_name" : "Rhondda",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Tonypandy",
+               "short_name" : "Tonypandy",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rhondda Cynon Taff",
+               "short_name" : "Rhondda Cynon Taff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF40 2UH",
+               "short_name" : "CF40 2UH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rhondda, Tonypandy CF40 2UH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6160411,
+               "lng" : -3.4250598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6229689,
+                  "lng" : -3.4090524
+               },
+               "southwest" : {
+                  "lat" : 51.6091123,
+                  "lng" : -3.4410672
+               }
+            }
+         },
+         "place_id" : "ChIJ7bnlN-EVbkgR4RVyOvl7x-o",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Umm Salal Muhammed",
+               "short_name" : "Umm Salal Muhammed",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Umm Salal Municipality",
+               "short_name" : "Umm Salal Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Umm Salal Muhammed, Qatar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.433452,
+                  "lng" : 51.45268100000001
+               },
+               "southwest" : {
+                  "lat" : 25.3526925,
+                  "lng" : 51.3916767
+               }
+            },
+            "location" : {
+               "lat" : 25.3983615,
+               "lng" : 51.4247485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.433452,
+                  "lng" : 51.45268100000001
+               },
+               "southwest" : {
+                  "lat" : 25.3526925,
+                  "lng" : 51.3916767
+               }
+            }
+         },
+         "place_id" : "ChIJlcBXA7PgRT4Rwhy_-pW6bdo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

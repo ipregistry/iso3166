@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hualien City",
+               "short_name" : "Hualien City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hualien County",
+               "short_name" : "Hualien County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "970",
+               "short_name" : "970",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hualien City, Hualien County, Taiwan 970",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.0255949,
+                  "lng" : 121.6472021
+               },
+               "southwest" : {
+                  "lat" : 23.9630505,
+                  "lng" : 121.5576732
+               }
+            },
+            "location" : {
+               "lat" : 23.9910732,
+               "lng" : 121.6111949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.0255949,
+                  "lng" : 121.6472021
+               },
+               "southwest" : {
+                  "lat" : 23.9630505,
+                  "lng" : 121.5576732
+               }
+            }
+         },
+         "place_id" : "ChIJPU6fNbSfaDQRcXcL-ANUSB8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

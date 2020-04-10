@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manus Island",
+               "short_name" : "Manus Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Admiralty Islands",
+               "short_name" : "Admiralty Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manus Province",
+               "short_name" : "Manus Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manus Island, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.9543805,
+                  "lng" : 147.4281623
+               },
+               "southwest" : {
+                  "lat" : -2.250897,
+                  "lng" : 146.5092945
+               }
+            },
+            "location" : {
+               "lat" : -2.0941169,
+               "lng" : 146.8760951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.9543805,
+                  "lng" : 147.4281623
+               },
+               "southwest" : {
+                  "lat" : -2.250897,
+                  "lng" : 146.5092945
+               }
+            }
+         },
+         "place_id" : "ChIJc_8aq1dUj2gRKIJBMZlH-pc",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

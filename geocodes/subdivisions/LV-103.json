@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vārkava Municipality",
+               "short_name" : "Vārkava Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vārkava Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3252691,
+                  "lng" : 26.6994669
+               },
+               "southwest" : {
+                  "lat" : 56.1231459,
+                  "lng" : 26.2915619
+               }
+            },
+            "location" : {
+               "lat" : 56.2465744,
+               "lng" : 26.5664371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3252691,
+                  "lng" : 26.6994669
+               },
+               "southwest" : {
+                  "lat" : 56.1231459,
+                  "lng" : 26.2915619
+               }
+            }
+         },
+         "place_id" : "ChIJw7VsU6SAwkYRMAHzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

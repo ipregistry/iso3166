@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cibla Municipality",
+               "short_name" : "Cibla Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cibla Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.72650299999999,
+                  "lng" : 28.1432649
+               },
+               "southwest" : {
+                  "lat" : 56.46443,
+                  "lng" : 27.5577728
+               }
+            },
+            "location" : {
+               "lat" : 56.6102344,
+               "lng" : 27.8696598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.72650299999999,
+                  "lng" : 28.1432649
+               },
+               "southwest" : {
+                  "lat" : 56.46443,
+                  "lng" : 27.5577728
+               }
+            }
+         },
+         "place_id" : "ChIJn29U6bUowkYRYADzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

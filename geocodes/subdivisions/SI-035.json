@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hrpelje",
+               "short_name" : "Hrpelje",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kozina",
+               "short_name" : "Kozina",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Sežana",
+               "short_name" : "Sežana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6240",
+               "short_name" : "6240",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hrpelje, 6240 Kozina, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6090392,
+                  "lng" : 13.9409701
+               },
+               "southwest" : {
+                  "lat" : 45.608208,
+                  "lng" : 13.9399774
+               }
+            },
+            "location" : {
+               "lat" : 45.6086187,
+               "lng" : 13.9404721
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6099725802915,
+                  "lng" : 13.9418227302915
+               },
+               "southwest" : {
+                  "lat" : 45.6072746197085,
+                  "lng" : 13.9391247697085
+               }
+            }
+         },
+         "place_id" : "EhlIcnBlbGplLCBLb3ppbmEsIFNsb3ZlbmlhIi4qLAoUChIJv-ZFFMxGe0cRaysUONoAtW4SFAoSCd3HETcsQXtHEWeRi6kWotUi",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kagera Region",
+               "short_name" : "Kagera Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kagera Region, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.9853160999999999,
+                  "lng" : 32.7482189
+               },
+               "southwest" : {
+                  "lat" : -3.365359,
+                  "lng" : 30.4058644
+               }
+            },
+            "location" : {
+               "lat" : -1.3001115,
+               "lng" : 31.2626366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9853160999999999,
+                  "lng" : 32.7482189
+               },
+               "southwest" : {
+                  "lat" : -3.365359,
+                  "lng" : 30.4058644
+               }
+            }
+         },
+         "place_id" : "ChIJFV7wwBYexRkRyfw7gpTnVEM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

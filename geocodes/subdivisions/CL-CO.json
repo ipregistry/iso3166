@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coquimbo",
+               "short_name" : "Coquimbo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coquimbo",
+               "short_name" : "Coquimbo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Elqui Province",
+               "short_name" : "Elqui Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Coquimbo",
+               "short_name" : "Coquimbo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coquimbo, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.9331593,
+                  "lng" : -71.2204747
+               },
+               "southwest" : {
+                  "lat" : -30.0077835,
+                  "lng" : -71.3769061
+               }
+            },
+            "location" : {
+               "lat" : -29.9590009,
+               "lng" : -71.3389183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.9331593,
+                  "lng" : -71.2204747
+               },
+               "southwest" : {
+                  "lat" : -30.0077835,
+                  "lng" : -71.3769061
+               }
+            }
+         },
+         "place_id" : "ChIJXdJls83ZkZYRwFyJMScR_Oc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

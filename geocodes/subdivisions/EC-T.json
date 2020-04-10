@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tungurahua",
+               "short_name" : "Tungurahua",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Penipe",
+               "short_name" : "Penipe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chimborazo Province",
+               "short_name" : "Chimborazo Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tungurahua, Ecuador",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.4702027,
+               "lng" : -78.4448055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.4590484,
+                  "lng" : -78.42879809999999
+               },
+               "southwest" : {
+                  "lat" : -1.481357,
+                  "lng" : -78.46081289999999
+               }
+            }
+         },
+         "place_id" : "ChIJh3idlLiX05ER-5dHRXjHb3o",
+         "plus_code" : {
+            "compound_code" : "GHH4+W3 Puela, Ecuador",
+            "global_code" : "67C3GHH4+W3"
+         },
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

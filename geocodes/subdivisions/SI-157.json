@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dolenjske Toplice",
+               "short_name" : "Dolenjske Toplice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dolenjske Toplice",
+               "short_name" : "Dolenjske Toplice",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Novo Mesto",
+               "short_name" : "Novo Mesto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8350",
+               "short_name" : "8350",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8350 Dolenjske Toplice, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7667726,
+                  "lng" : 15.0779699
+               },
+               "southwest" : {
+                  "lat" : 45.7422996,
+                  "lng" : 15.0491719
+               }
+            },
+            "location" : {
+               "lat" : 45.7558584,
+               "lng" : 15.0592333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7667726,
+                  "lng" : 15.0779699
+               },
+               "southwest" : {
+                  "lat" : 45.7422996,
+                  "lng" : 15.0491719
+               }
+            }
+         },
+         "place_id" : "ChIJF12PLLD-ZEcRZHXiaOIlmVM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

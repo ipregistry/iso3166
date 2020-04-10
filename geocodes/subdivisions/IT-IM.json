@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imperia",
+               "short_name" : "Imperia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Imperia",
+               "short_name" : "Imperia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Imperia",
+               "short_name" : "IM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Liguria",
+               "short_name" : "Liguria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18100",
+               "short_name" : "18100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "18100 Imperia, Province of Imperia, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9228184,
+                  "lng" : 8.0630916
+               },
+               "southwest" : {
+                  "lat" : 43.8641432,
+                  "lng" : 7.9598644
+               }
+            },
+            "location" : {
+               "lat" : 43.8896857,
+               "lng" : 8.039517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9228184,
+                  "lng" : 8.0630916
+               },
+               "southwest" : {
+                  "lat" : 43.8641432,
+                  "lng" : 7.9598644
+               }
+            }
+         },
+         "place_id" : "ChIJ5T9PYihs0hIRBLseHjN2Jqw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

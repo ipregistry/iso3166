@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kobarid",
+               "short_name" : "Kobarid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kobarid",
+               "short_name" : "Kobarid",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tolmin",
+               "short_name" : "Tolmin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5222",
+               "short_name" : "5222",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5222 Kobarid, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.26068249999999,
+                  "lng" : 13.5921482
+               },
+               "southwest" : {
+                  "lat" : 46.2271445,
+                  "lng" : 13.5482611
+               }
+            },
+            "location" : {
+               "lat" : 46.2476549,
+               "lng" : 13.5791749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.26068249999999,
+                  "lng" : 13.5921482
+               },
+               "southwest" : {
+                  "lat" : 46.2271445,
+                  "lng" : 13.5482611
+               }
+            }
+         },
+         "place_id" : "ChIJAebIq35bekcRPApnm_eIuoY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

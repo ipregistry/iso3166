@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Falcón",
+               "short_name" : "Falcón",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Falcón, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.1967838,
+                  "lng" : -68.20219999999999
+               },
+               "southwest" : {
+                  "lat" : 10.449091,
+                  "lng" : -71.3149399
+               }
+            },
+            "location" : {
+               "lat" : 11.1810674,
+               "lng" : -69.85974059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.1967838,
+                  "lng" : -68.20219999999999
+               },
+               "southwest" : {
+                  "lat" : 10.449091,
+                  "lng" : -71.3149399
+               }
+            }
+         },
+         "place_id" : "ChIJKeGb9zcMgY4Rv81uADR0t_U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

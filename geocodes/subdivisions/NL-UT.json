@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "Utrecht",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "Utrecht",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Utrecht, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1422624,
+                  "lng" : 5.1952072
+               },
+               "southwest" : {
+                  "lat" : 52.02611109999999,
+                  "lng" : 4.9697758
+               }
+            },
+            "location" : {
+               "lat" : 52.09073739999999,
+               "lng" : 5.1214201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1422624,
+                  "lng" : 5.1952072
+               },
+               "southwest" : {
+                  "lat" : 52.02611109999999,
+                  "lng" : 4.9697758
+               }
+            }
+         },
+         "place_id" : "ChIJNy3TOUNvxkcR6UqvGUz8yNY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

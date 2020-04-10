@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guelma",
+               "short_name" : "Guelma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guelma",
+               "short_name" : "Guelma",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guelma Province",
+               "short_name" : "Guelma Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guelma, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.490241,
+                  "lng" : 7.4721709
+               },
+               "southwest" : {
+                  "lat" : 36.4167209,
+                  "lng" : 7.3580878
+               }
+            },
+            "location" : {
+               "lat" : 36.4627444,
+               "lng" : 7.4330833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.490241,
+                  "lng" : 7.4721709
+               },
+               "southwest" : {
+                  "lat" : 36.4167209,
+                  "lng" : 7.3580878
+               }
+            }
+         },
+         "place_id" : "ChIJYT0U2Phd8BIRmdqm-m9BlsA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curaçao",
+               "short_name" : "CW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curaçao",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.4941999,
+                  "lng" : -68.5670001
+               },
+               "southwest" : {
+                  "lat" : 11.9224,
+                  "lng" : -69.29899999999999
+               }
+            },
+            "location" : {
+               "lat" : 12.16957,
+               "lng" : -68.99002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.4941999,
+                  "lng" : -68.5670001
+               },
+               "southwest" : {
+                  "lat" : 11.9224,
+                  "lng" : -69.29899999999999
+               }
+            }
+         },
+         "place_id" : "ChIJx_3HYr6dhI4RI0fG2yiSf_w",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vavuniya",
+               "short_name" : "Vavuniya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vavuniya",
+               "short_name" : "Vavuniya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Province",
+               "short_name" : "NP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vavuniya, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.8204055,
+                  "lng" : 80.5439516
+               },
+               "southwest" : {
+                  "lat" : 8.6835302,
+                  "lng" : 80.42717449999999
+               }
+            },
+            "location" : {
+               "lat" : 8.754202899999999,
+               "lng" : 80.4982402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.8204055,
+                  "lng" : 80.5439516
+               },
+               "southwest" : {
+                  "lat" : 8.6835302,
+                  "lng" : 80.42717449999999
+               }
+            }
+         },
+         "place_id" : "ChIJc2zGDw4V_DoRCNC0yHO0tjc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

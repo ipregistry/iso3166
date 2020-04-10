@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shimane",
+               "short_name" : "Shimane",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shimane, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.3561638,
+                  "lng" : 133.3906378
+               },
+               "southwest" : {
+                  "lat" : 34.3024563,
+                  "lng" : 131.6678665
+               }
+            },
+            "location" : {
+               "lat" : 35.1244094,
+               "lng" : 132.6293446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3561638,
+                  "lng" : 133.3906378
+               },
+               "southwest" : {
+                  "lat" : 34.3024563,
+                  "lng" : 131.6678665
+               }
+            }
+         },
+         "place_id" : "ChIJocsETn0DWzURzBYpE2fXNC0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

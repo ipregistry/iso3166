@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Attert",
+               "short_name" : "Attert",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Redange",
+               "short_name" : "Redange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Diekirch",
+               "short_name" : "Diekirch",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Attert, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.78550250000001,
+                  "lng" : 6.0101514
+               },
+               "southwest" : {
+                  "lat" : 49.7480324,
+                  "lng" : 5.8169226
+               }
+            },
+            "location" : {
+               "lat" : 49.7663299,
+               "lng" : 5.909899999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.78550250000001,
+                  "lng" : 6.0101514
+               },
+               "southwest" : {
+                  "lat" : 49.7480324,
+                  "lng" : 5.8169226
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUaU86yGs6kcRwDMs5QTbUyY",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

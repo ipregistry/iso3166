@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dravograd",
+               "short_name" : "Dravograd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dravograd",
+               "short_name" : "Dravograd",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dravograd",
+               "short_name" : "Dravograd",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2370",
+               "short_name" : "2370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2370 Dravograd, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5990855,
+                  "lng" : 15.0373244
+               },
+               "southwest" : {
+                  "lat" : 46.5792596,
+                  "lng" : 15.0069603
+               }
+            },
+            "location" : {
+               "lat" : 46.589219,
+               "lng" : 15.0246021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5990855,
+                  "lng" : 15.0373244
+               },
+               "southwest" : {
+                  "lat" : 46.5792596,
+                  "lng" : 15.0069603
+               }
+            }
+         },
+         "place_id" : "ChIJT9fFNzHwb0cR0mbgBlK7ETc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

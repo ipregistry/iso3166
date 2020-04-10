@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ain",
+               "short_name" : "Ain",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ain, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.519953,
+                  "lng" : 6.170198099999999
+               },
+               "southwest" : {
+                  "lat" : 45.611093,
+                  "lng" : 4.728066999999999
+               }
+            },
+            "location" : {
+               "lat" : 46.2475706,
+               "lng" : 5.1307681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.519953,
+                  "lng" : 6.170198099999999
+               },
+               "southwest" : {
+                  "lat" : 45.611093,
+                  "lng" : 4.728066999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ6WS-4x1Yi0cRgCW55CqrCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

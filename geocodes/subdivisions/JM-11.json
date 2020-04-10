@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Elizabeth Parish",
+               "short_name" : "St. Elizabeth Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "JM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Elizabeth Parish, Jamaica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.2497811,
+                  "lng" : -77.56239699999999
+               },
+               "southwest" : {
+                  "lat" : 17.853283,
+                  "lng" : -77.9571849
+               }
+            },
+            "location" : {
+               "lat" : 18.0788461,
+               "lng" : -77.69941969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.2497811,
+                  "lng" : -77.56239699999999
+               },
+               "southwest" : {
+                  "lat" : 17.853283,
+                  "lng" : -77.9571849
+               }
+            }
+         },
+         "place_id" : "ChIJY3TLFIrC244RHGXsr0gxCYU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

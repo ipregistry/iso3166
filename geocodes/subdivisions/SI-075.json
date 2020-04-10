@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Miren - Kostanjevica",
+               "short_name" : "Municipality of Miren - Kostanjevica",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Gorica",
+               "short_name" : "Nova Gorica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Miren - Kostanjevica, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9038824,
+                  "lng" : 13.71941
+               },
+               "southwest" : {
+                  "lat" : 45.8158667,
+                  "lng" : 13.5744186
+               }
+            },
+            "location" : {
+               "lat" : 45.84360290000001,
+               "lng" : 13.6276647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9038824,
+                  "lng" : 13.71941
+               },
+               "southwest" : {
+                  "lat" : 45.8158667,
+                  "lng" : 13.5744186
+               }
+            }
+         },
+         "place_id" : "ChIJo9ZW6AcGe0cREPQ_ghz4AAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

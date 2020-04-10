@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Province",
+               "short_name" : "Central Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Province, Zambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.0036589,
+                  "lng" : 31.4494591
+               },
+               "southwest" : {
+                  "lat" : -15.7121141,
+                  "lng" : 25.350383
+               }
+            },
+            "location" : {
+               "lat" : -14.3112263,
+               "lng" : 28.299435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.0036589,
+                  "lng" : 31.4494591
+               },
+               "southwest" : {
+                  "lat" : -15.7121141,
+                  "lng" : 25.350383
+               }
+            }
+         },
+         "place_id" : "ChIJs1K-ztu6ahkRVyuYZObuUF0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

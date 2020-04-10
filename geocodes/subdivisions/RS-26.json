@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pecka, Osečina",
+               "short_name" : "Pecka, Osečina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolubara District",
+               "short_name" : "Kolubara District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pecka, Osečina, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3005657,
+                  "lng" : 19.5468248
+               },
+               "southwest" : {
+                  "lat" : 44.285829,
+                  "lng" : 19.5346369
+               }
+            },
+            "location" : {
+               "lat" : 44.2915253,
+               "lng" : 19.5413709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3005657,
+                  "lng" : 19.5468248
+               },
+               "southwest" : {
+                  "lat" : 44.285829,
+                  "lng" : 19.5346369
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJow1bAdybWUcREySejr_ucn4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

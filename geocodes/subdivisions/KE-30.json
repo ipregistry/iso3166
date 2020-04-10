@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nairobi",
+               "short_name" : "Nairobi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nairobi County",
+               "short_name" : "Nairobi County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nairobi, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.164744,
+                  "lng" : 37.0493746
+               },
+               "southwest" : {
+                  "lat" : -1.4416739,
+                  "lng" : 36.6454191
+               }
+            },
+            "location" : {
+               "lat" : -1.2920659,
+               "lng" : 36.8219462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.164744,
+                  "lng" : 37.0493746
+               },
+               "southwest" : {
+                  "lat" : -1.4416739,
+                  "lng" : 36.6454191
+               }
+            }
+         },
+         "place_id" : "ChIJp0lN2HIRLxgRTJKXslQCz_c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

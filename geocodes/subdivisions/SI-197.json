@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kostanjevica na Krki",
+               "short_name" : "Kostanjevica na Krki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kostanjevica na Krki",
+               "short_name" : "Kostanjevica na Krki",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Krško",
+               "short_name" : "Krško",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8311",
+               "short_name" : "8311",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8311 Kostanjevica na Krki, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8573436,
+                  "lng" : 15.4308416
+               },
+               "southwest" : {
+                  "lat" : 45.8331778,
+                  "lng" : 15.4099095
+               }
+            },
+            "location" : {
+               "lat" : 45.8449724,
+               "lng" : 15.4217164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8573436,
+                  "lng" : 15.4308416
+               },
+               "southwest" : {
+                  "lat" : 45.8331778,
+                  "lng" : 15.4099095
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWUzSNwayZUcRI2if7iM0hmU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

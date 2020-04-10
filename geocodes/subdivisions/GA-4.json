@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ngounie",
+               "short_name" : "Ngounie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Gabon",
+               "short_name" : "GA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ngounie, Gabon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.5671499,
+                  "lng" : 12.5046878
+               },
+               "southwest" : {
+                  "lat" : -2.804942,
+                  "lng" : 9.858945
+               }
+            },
+            "location" : {
+               "lat" : -1.4930303,
+               "lng" : 10.9807003
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.5671499,
+                  "lng" : 12.5046878
+               },
+               "southwest" : {
+                  "lat" : -2.804942,
+                  "lng" : 9.858945
+               }
+            }
+         },
+         "place_id" : "ChIJXUwRK32MfhoRgUkW-OFHxC8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

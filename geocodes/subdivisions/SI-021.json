@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Polhov Gradec",
+               "short_name" : "Polhov Gradec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polhov Gradec",
+               "short_name" : "Polhov Gradec",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1355",
+               "short_name" : "1355",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1355 Polhov Gradec, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0881842,
+                  "lng" : 14.3195229
+               },
+               "southwest" : {
+                  "lat" : 46.05962299999999,
+                  "lng" : 14.2892899
+               }
+            },
+            "location" : {
+               "lat" : 46.0656056,
+               "lng" : 14.3123503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0881842,
+                  "lng" : 14.3195229
+               },
+               "southwest" : {
+                  "lat" : 46.05962299999999,
+                  "lng" : 14.2892899
+               }
+            }
+         },
+         "place_id" : "ChIJ7Smj6SPQekcRFiAapULdxJk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

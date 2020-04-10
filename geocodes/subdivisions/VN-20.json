@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thái Bình",
+               "short_name" : "Thái Bình",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thai Binh",
+               "short_name" : "Thai Binh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thái Bình, Thai Binh, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5060988,
+                  "lng" : 106.3930608
+               },
+               "southwest" : {
+                  "lat" : 20.3997838,
+                  "lng" : 106.2962436
+               }
+            },
+            "location" : {
+               "lat" : 20.4463471,
+               "lng" : 106.3365828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5060988,
+                  "lng" : 106.3930608
+               },
+               "southwest" : {
+                  "lat" : 20.3997838,
+                  "lng" : 106.2962436
+               }
+            }
+         },
+         "place_id" : "ChIJ32cuJdLkNTEROcQlCs-serY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

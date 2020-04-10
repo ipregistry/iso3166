@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kwara",
+               "short_name" : "KW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kwara, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.156666,
+                  "lng" : 6.208536100000001
+               },
+               "southwest" : {
+                  "lat" : 8.007673,
+                  "lng" : 2.7293661
+               }
+            },
+            "location" : {
+               "lat" : 8.9668961,
+               "lng" : 4.3874051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.156666,
+                  "lng" : 6.208536100000001
+               },
+               "southwest" : {
+                  "lat" : 8.007673,
+                  "lng" : 2.7293661
+               }
+            }
+         },
+         "place_id" : "ChIJMbt8W4-lSRARz52F4APcaJw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

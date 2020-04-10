@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aghstafa",
+               "short_name" : "Aghstafa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agstafa",
+               "short_name" : "Agstafa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aghstafa, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1373284,
+                  "lng" : 45.48357
+               },
+               "southwest" : {
+                  "lat" : 41.09837,
+                  "lng" : 45.4031037
+               }
+            },
+            "location" : {
+               "lat" : 41.1124969,
+               "lng" : 45.447689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1373284,
+                  "lng" : 45.48357
+               },
+               "southwest" : {
+                  "lat" : 41.09837,
+                  "lng" : 45.4031037
+               }
+            }
+         },
+         "place_id" : "ChIJ-XtROisvQUARHXA2G8YATDY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

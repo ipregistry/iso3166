@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawally",
+               "short_name" : "Hawally",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawalli Governorate",
+               "short_name" : "Hawalli Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kuwait",
+               "short_name" : "KW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hawally, Kuwait",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.34970509999999,
+                  "lng" : 48.0395967
+               },
+               "southwest" : {
+                  "lat" : 29.3228785,
+                  "lng" : 48.0009217
+               }
+            },
+            "location" : {
+               "lat" : 29.33778819999999,
+               "lng" : 48.0234708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.34970509999999,
+                  "lng" : 48.0395967
+               },
+               "southwest" : {
+                  "lat" : 29.3228785,
+                  "lng" : 48.0009217
+               }
+            }
+         },
+         "place_id" : "ChIJbTnb6Iyczz8RwAufdzChR2c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

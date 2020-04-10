@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint George's",
+               "short_name" : "St George's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint George",
+               "short_name" : "Saint George",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Grenada",
+               "short_name" : "GD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St George's, Grenada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.0632432,
+                  "lng" : -61.74213409999999
+               },
+               "southwest" : {
+                  "lat" : 12.0446928,
+                  "lng" : -61.75804719999999
+               }
+            },
+            "location" : {
+               "lat" : 12.0560975,
+               "lng" : -61.7487996
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.0632432,
+                  "lng" : -61.74213409999999
+               },
+               "southwest" : {
+                  "lat" : 12.0446928,
+                  "lng" : -61.75804719999999
+               }
+            }
+         },
+         "place_id" : "ChIJmYUAaXghOIwRKlw7DZBdMgI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

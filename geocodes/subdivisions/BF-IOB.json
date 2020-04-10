@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loba",
+               "short_name" : "Loba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sud-Ouest Region",
+               "short_name" : "Sud-Ouest Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loba, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.348253,
+                  "lng" : -2.6235329
+               },
+               "southwest" : {
+                  "lat" : 10.7027129,
+                  "lng" : -3.4346219
+               }
+            },
+            "location" : {
+               "lat" : 11.0562034,
+               "lng" : -3.0175712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.348253,
+                  "lng" : -2.6235329
+               },
+               "southwest" : {
+                  "lat" : 10.7027129,
+                  "lng" : -3.4346219
+               }
+            }
+         },
+         "place_id" : "ChIJbUToffbjMg4RHRneBiRgqT4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

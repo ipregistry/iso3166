@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gevgelija",
+               "short_name" : "Gevgelija",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Gevgelija",
+               "short_name" : "Municipality of Gevgelija",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gevgelija, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1520004,
+                  "lng" : 22.5183677
+               },
+               "southwest" : {
+                  "lat" : 41.1323508,
+                  "lng" : 22.4868571
+               }
+            },
+            "location" : {
+               "lat" : 41.1451892,
+               "lng" : 22.4997467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1520004,
+                  "lng" : 22.5183677
+               },
+               "southwest" : {
+                  "lat" : 41.1323508,
+                  "lng" : 22.4868571
+               }
+            }
+         },
+         "place_id" : "ChIJzdp87AwkVhMRo19oeJsXfAc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

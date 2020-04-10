@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vreed en Hoop",
+               "short_name" : "Vreed en Hoop",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essequibo Islands-West Demerara",
+               "short_name" : "Essequibo Islands-West Demerara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guyana",
+               "short_name" : "GY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vreed en Hoop, Guyana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.822708,
+                  "lng" : -58.1769741
+               },
+               "southwest" : {
+                  "lat" : 6.8053148,
+                  "lng" : -58.2076146
+               }
+            },
+            "location" : {
+               "lat" : 6.810968099999999,
+               "lng" : -58.1921397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.822708,
+                  "lng" : -58.1769741
+               },
+               "southwest" : {
+                  "lat" : 6.8053148,
+                  "lng" : -58.2076146
+               }
+            }
+         },
+         "place_id" : "ChIJF-nltWPlr40RlqXjHlgvhoo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Manouba",
+               "short_name" : "La Manouba",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Manouba, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9795789,
+                  "lng" : 10.081348
+               },
+               "southwest" : {
+                  "lat" : 36.592011,
+                  "lng" : 9.553794
+               }
+            },
+            "location" : {
+               "lat" : 36.8446504,
+               "lng" : 9.8571416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9795789,
+                  "lng" : 10.081348
+               },
+               "southwest" : {
+                  "lat" : 36.592011,
+                  "lng" : 9.553794
+               }
+            }
+         },
+         "place_id" : "ChIJGTsEULXQ_BIRyrC--GE46Cw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

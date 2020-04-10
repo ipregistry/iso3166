@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Austria",
+               "short_name" : "Upper Austria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Austria, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7725701,
+                  "lng" : 14.99129
+               },
+               "southwest" : {
+                  "lat" : 47.46098,
+                  "lng" : 12.749244
+               }
+            },
+            "location" : {
+               "lat" : 48.025854,
+               "lng" : 13.9723665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7725701,
+                  "lng" : 14.99129
+               },
+               "southwest" : {
+                  "lat" : 47.46098,
+                  "lng" : 12.749244
+               }
+            }
+         },
+         "place_id" : "ChIJYQObWYWXc0cRiJXDA3yBSHw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

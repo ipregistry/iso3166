@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nueva Ecija",
+               "short_name" : "Nueva Ecija",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Luzon",
+               "short_name" : "Central Luzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nueva Ecija, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.1270679,
+                  "lng" : 121.3809979
+               },
+               "southwest" : {
+                  "lat" : 15.1603661,
+                  "lng" : 120.61717
+               }
+            },
+            "location" : {
+               "lat" : 15.578375,
+               "lng" : 121.1112615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.1270679,
+                  "lng" : 121.3809979
+               },
+               "southwest" : {
+                  "lat" : 15.1603661,
+                  "lng" : 120.61717
+               }
+            }
+         },
+         "place_id" : "ChIJWwACT0PTkDMRy4bkUMbsz8A",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazlų Rūda",
+               "short_name" : "Kazlų Rūda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kazlų Rūda Municipality",
+               "short_name" : "Kazlų Rūda Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marijampolė County",
+               "short_name" : "Marijampolė County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kazlų Rūda, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.763784,
+                  "lng" : 23.5200319
+               },
+               "southwest" : {
+                  "lat" : 54.73378899999999,
+                  "lng" : 23.456623
+               }
+            },
+            "location" : {
+               "lat" : 54.748395,
+               "lng" : 23.4910539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.763784,
+                  "lng" : 23.5200319
+               },
+               "southwest" : {
+                  "lat" : 54.73378899999999,
+                  "lng" : 23.456623
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6RxfHPnW5kYRkzELogYq9uU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

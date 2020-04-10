@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Hajdina",
+               "short_name" : "Municipality of Hajdina",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ptuj",
+               "short_name" : "Ptuj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Hajdina, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4570904,
+                  "lng" : 15.8682326
+               },
+               "southwest" : {
+                  "lat" : 46.3827696,
+                  "lng" : 15.7916533
+               }
+            },
+            "location" : {
+               "lat" : 46.4185014,
+               "lng" : 15.8244722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4570904,
+                  "lng" : 15.8682326
+               },
+               "southwest" : {
+                  "lat" : 46.3827696,
+                  "lng" : 15.7916533
+               }
+            }
+         },
+         "place_id" : "ChIJ7exZCfdjb0cR8PU_ghz4AAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

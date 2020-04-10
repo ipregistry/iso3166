@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sikkim",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sikkim, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.117725,
+                  "lng" : 88.92019950000001
+               },
+               "southwest" : {
+                  "lat" : 27.079261,
+                  "lng" : 88.0143561
+               }
+            },
+            "location" : {
+               "lat" : 27.5329718,
+               "lng" : 88.5122178
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.117725,
+                  "lng" : 88.92019950000001
+               },
+               "southwest" : {
+                  "lat" : 27.079261,
+                  "lng" : 88.0143561
+               }
+            }
+         },
+         "place_id" : "ChIJ--oFWGql5jkRBFqbw1e4xKQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

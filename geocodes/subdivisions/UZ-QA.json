@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qashqadaryo Region",
+               "short_name" : "Qashqadaryo Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qashqadaryo Region, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5323751,
+                  "lng" : 67.677481
+               },
+               "southwest" : {
+                  "lat" : 38.0266721,
+                  "lng" : 64.331024
+               }
+            },
+            "location" : {
+               "lat" : 38.8986231,
+               "lng" : 66.0463534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5323751,
+                  "lng" : 67.677481
+               },
+               "southwest" : {
+                  "lat" : 38.0266721,
+                  "lng" : 64.331024
+               }
+            }
+         },
+         "place_id" : "ChIJT3jzPnMPTD8R57BARkd3ia0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

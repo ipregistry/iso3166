@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sherpur",
+               "short_name" : "Sherpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sherpur District",
+               "short_name" : "Sherpur District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sherpur, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0647447,
+                  "lng" : 90.0409842
+               },
+               "southwest" : {
+                  "lat" : 24.9918639,
+                  "lng" : 89.98390669999999
+               }
+            },
+            "location" : {
+               "lat" : 25.0194045,
+               "lng" : 90.0137328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0647447,
+                  "lng" : 90.0409842
+               },
+               "southwest" : {
+                  "lat" : 24.9918639,
+                  "lng" : 89.98390669999999
+               }
+            }
+         },
+         "place_id" : "ChIJzX8ksRDWVzcR_Cu2HqawIGg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

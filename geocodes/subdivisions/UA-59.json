@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sumy Oblast",
+               "short_name" : "Sumy Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sumy Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.367214,
+                  "lng" : 35.6927141
+               },
+               "southwest" : {
+                  "lat" : 50.109886,
+                  "lng" : 32.943534
+               }
+            },
+            "location" : {
+               "lat" : 50.9077,
+               "lng" : 34.7981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.367214,
+                  "lng" : 35.6927141
+               },
+               "southwest" : {
+                  "lat" : 50.109886,
+                  "lng" : 32.943534
+               }
+            }
+         },
+         "place_id" : "ChIJYaRz_CACKUER0KUajIxyN1A",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sumsʹka",
+               "short_name" : "Sumsʹka",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lebedyn",
+               "short_name" : "Lebedyn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lebedyns'ka city council",
+               "short_name" : "Lebedyns'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sumy Oblast",
+               "short_name" : "Sumy Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sumsʹka, Lebedyn, Sumy Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5993924,
+                  "lng" : 34.5125198
+               },
+               "southwest" : {
+                  "lat" : 50.5808654,
+                  "lng" : 34.4827795
+               }
+            },
+            "location" : {
+               "lat" : 50.59097509999999,
+               "lng" : 34.4952372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5993924,
+                  "lng" : 34.5125198
+               },
+               "southwest" : {
+                  "lat" : 50.5808654,
+                  "lng" : 34.4827795
+               }
+            }
+         },
+         "place_id" : "ChIJW4M1cqtLKEERsra6nTFkVdA",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

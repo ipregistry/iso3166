@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acquaviva",
+               "short_name" : "Acquaviva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Marino",
+               "short_name" : "SM",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47892",
+               "short_name" : "47892",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "47892 Acquaviva, San Marino",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9501669,
+                  "lng" : 12.4319895
+               },
+               "southwest" : {
+                  "lat" : 43.9427866,
+                  "lng" : 12.4144709
+               }
+            },
+            "location" : {
+               "lat" : 43.9450921,
+               "lng" : 12.418677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9501669,
+                  "lng" : 12.4319895
+               },
+               "southwest" : {
+                  "lat" : 43.9427866,
+                  "lng" : 12.4144709
+               }
+            }
+         },
+         "place_id" : "ChIJSYrQjqeULBMRRFj53EnpCeg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

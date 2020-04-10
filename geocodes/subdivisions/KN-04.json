@@ -1,0 +1,105 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint George Gingerland Parish",
+               "short_name" : "Saint George Gingerland Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint George Gingerland Parish, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.1527401,
+                  "lng" : -62.541476
+               },
+               "southwest" : {
+                  "lat" : 17.1032059,
+                  "lng" : -62.58734699999999
+               }
+            },
+            "location" : {
+               "lat" : 17.1257759,
+               "lng" : -62.5619811
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.1527401,
+                  "lng" : -62.541476
+               },
+               "southwest" : {
+                  "lat" : 17.1032059,
+                  "lng" : -62.58734699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6znZCcw9EowRuJsFiiGC3t4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gingerland",
+               "short_name" : "Gingerland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint George Gingerland",
+               "short_name" : "Saint George Gingerland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saint George Gingerland Parish",
+               "short_name" : "Saint George Gingerland Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gingerland, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.1427178,
+                  "lng" : -62.54168989999999
+               },
+               "southwest" : {
+                  "lat" : 17.1265597,
+                  "lng" : -62.568469
+               }
+            },
+            "location" : {
+               "lat" : 17.1325883,
+               "lng" : -62.553171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.1427178,
+                  "lng" : -62.54168989999999
+               },
+               "southwest" : {
+                  "lat" : 17.1265597,
+                  "lng" : -62.568469
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfbMURNs9EowRg-3uomJrzhY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

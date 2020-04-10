@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bio Bio",
+               "short_name" : "Bio Bio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bio Bio, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.4426077,
+                  "lng" : -70.98389279999999
+               },
+               "southwest" : {
+                  "lat" : -38.4918218,
+                  "lng" : -73.9699354
+               }
+            },
+            "location" : {
+               "lat" : -37.4464428,
+               "lng" : -72.14161319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.4426077,
+                  "lng" : -70.98389279999999
+               },
+               "southwest" : {
+                  "lat" : -38.4918218,
+                  "lng" : -73.9699354
+               }
+            }
+         },
+         "place_id" : "ChIJJ2I4O0tIaJYRUcPgDN5T5cg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

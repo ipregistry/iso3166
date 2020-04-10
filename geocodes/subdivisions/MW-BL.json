@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blantyre",
+               "short_name" : "Blantyre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blantyre",
+               "short_name" : "Blantyre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Southern Region",
+               "short_name" : "Southern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blantyre, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.6822126,
+                  "lng" : 35.1090431
+               },
+               "southwest" : {
+                  "lat" : -15.8702044,
+                  "lng" : 34.952488
+               }
+            },
+            "location" : {
+               "lat" : -15.7666707,
+               "lng" : 35.0167866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.6822126,
+                  "lng" : 35.1090431
+               },
+               "southwest" : {
+                  "lat" : -15.8702044,
+                  "lng" : 34.952488
+               }
+            }
+         },
+         "place_id" : "ChIJXwDAyxNF2BgR5hHY5NpYYyM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

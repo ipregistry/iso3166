@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centrale Region",
+               "short_name" : "Centrale Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Togo",
+               "short_name" : "TG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centrale Region, Togo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.2987325,
+                  "lng" : 1.6490612
+               },
+               "southwest" : {
+                  "lat" : 7.9023141,
+                  "lng" : 0.373824
+               }
+            },
+            "location" : {
+               "lat" : 8.6586029,
+               "lng" : 1.0586135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.2987325,
+                  "lng" : 1.6490612
+               },
+               "southwest" : {
+                  "lat" : 7.9023141,
+                  "lng" : 0.373824
+               }
+            }
+         },
+         "place_id" : "ChIJoaGBl-44KRARH1aDFViHrTU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

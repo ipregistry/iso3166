@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malé Atoll",
+               "short_name" : "Malé Atoll",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Kaafu Atoll",
+               "short_name" : "Kaafu Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malé Atoll, Maldives",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4166667,
+               "lng" : 73.5
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.4277915,
+                  "lng" : 73.51600739999999
+               },
+               "southwest" : {
+                  "lat" : 4.4055418,
+                  "lng" : 73.48399259999999
+               }
+            }
+         },
+         "place_id" : "ChIJs_UZm7KJPzsRuqA5zROfE5o",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}
+g" : 73.73954759999999
+               },
+               "southwest" : {
+                  "lat" : 3.7827257,
+                  "lng" : 73.31657419999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi6_s6lV-PzsRVUWsyj6pqEY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

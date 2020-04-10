@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.26518,
+                  "lng" : 29.77839999999999
+               },
+               "southwest" : {
+                  "lat" : 43.6186193,
+                  "lng" : 20.2617591
+               }
+            },
+            "location" : {
+               "lat" : 45.943161,
+               "lng" : 24.96676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.26518,
+                  "lng" : 29.77839999999999
+               },
+               "southwest" : {
+                  "lat" : 43.6186193,
+                  "lng" : 20.2617591
+               }
+            }
+         },
+         "place_id" : "ChIJw3aJlSb_sUARlLEEqJJP74Q",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Brda",
+               "short_name" : "Municipality of Brda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Gorica",
+               "short_name" : "Nova Gorica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Brda, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.067612,
+                  "lng" : 13.6323974
+               },
+               "southwest" : {
+                  "lat" : 45.9648005,
+                  "lng" : 13.4761399
+               }
+            },
+            "location" : {
+               "lat" : 45.9975652,
+               "lng" : 13.5270474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.067612,
+                  "lng" : 13.6323974
+               },
+               "southwest" : {
+                  "lat" : 45.9648005,
+                  "lng" : 13.4761399
+               }
+            }
+         },
+         "place_id" : "ChIJC1Vj2zKre0cRkOw_ghz4AAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

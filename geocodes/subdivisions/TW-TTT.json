@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taitung",
+               "short_name" : "Taitung",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Taitung City",
+               "short_name" : "Taitung City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taitung County",
+               "short_name" : "Taitung County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "950",
+               "short_name" : "950",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taitung, Taitung City, Taitung County, Taiwan 950",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7947774,
+                  "lng" : 121.1931564
+               },
+               "southwest" : {
+                  "lat" : 22.7018152,
+                  "lng" : 121.0374897
+               }
+            },
+            "location" : {
+               "lat" : 22.7613207,
+               "lng" : 121.1438152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7947774,
+                  "lng" : 121.1931564
+               },
+               "southwest" : {
+                  "lat" : 22.7018152,
+                  "lng" : 121.0374897
+               }
+            }
+         },
+         "place_id" : "ChIJaybIQGy5bzQRocqPxrjqxMc",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

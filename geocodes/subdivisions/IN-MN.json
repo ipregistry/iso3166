@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manipur",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manipur, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.691874,
+                  "lng" : 94.74324
+               },
+               "southwest" : {
+                  "lat" : 23.8360479,
+                  "lng" : 92.97107799999999
+               }
+            },
+            "location" : {
+               "lat" : 24.6637173,
+               "lng" : 93.90626879999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.691874,
+                  "lng" : 94.74324
+               },
+               "southwest" : {
+                  "lat" : 23.8360479,
+                  "lng" : 92.97107799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ25Bj8VsmSTcRrymo4BppwYw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

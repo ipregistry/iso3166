@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malaita",
+               "short_name" : "Malaita",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Malaita Province",
+               "short_name" : "Malaita Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Solomon Islands",
+               "short_name" : "SB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malaita, Solomon Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.3105853,
+                  "lng" : 161.5823776
+               },
+               "southwest" : {
+                  "lat" : -9.7291916,
+                  "lng" : 160.5585766
+               }
+            },
+            "location" : {
+               "lat" : -8.9446168,
+               "lng" : 160.9071236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.3105853,
+                  "lng" : 161.5823776
+               },
+               "southwest" : {
+                  "lat" : -9.7291916,
+                  "lng" : 160.5585766
+               }
+            }
+         },
+         "place_id" : "ChIJveUL9xlnJm8RB_rFgfGGikM",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

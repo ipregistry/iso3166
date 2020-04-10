@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Pomeranian Voivodeship",
+               "short_name" : "West Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Pomeranian Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5692318,
+                  "lng" : 16.9822089
+               },
+               "southwest" : {
+                  "lat" : 52.6246005,
+                  "lng" : 14.1228641
+               }
+            },
+            "location" : {
+               "lat" : 53.46578909999999,
+               "lng" : 15.1822581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5692318,
+                  "lng" : 16.9822089
+               },
+               "southwest" : {
+                  "lat" : 52.6246005,
+                  "lng" : 14.1228641
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLy84bzblAEcREMEOrTIOAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

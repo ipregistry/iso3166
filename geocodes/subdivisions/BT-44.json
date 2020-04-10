@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lhuntse",
+               "short_name" : "Lhuntse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lhuntse",
+               "short_name" : "Lhuntse",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lhuntse, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.677438,
+                  "lng" : 91.1892156
+               },
+               "southwest" : {
+                  "lat" : 27.6492443,
+                  "lng" : 91.1688424
+               }
+            },
+            "location" : {
+               "lat" : 27.6649208,
+               "lng" : 91.1761004
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.677438,
+                  "lng" : 91.1892156
+               },
+               "southwest" : {
+                  "lat" : 27.6492443,
+                  "lng" : 91.1688424
+               }
+            }
+         },
+         "place_id" : "ChIJeZM048qdXjcRVdP7VdMeuxc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

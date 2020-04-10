@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leitrim Village",
+               "short_name" : "Leitrim Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leitrim",
+               "short_name" : "Leitrim",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "County Leitrim",
+               "short_name" : "County Leitrim",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leitrim, Leitrim Village, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.99019,
+               "lng" : -8.065009999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9967495,
+                  "lng" : -8.0490026
+               },
+               "southwest" : {
+                  "lat" : 53.9836294,
+                  "lng" : -8.0810174
+               }
+            }
+         },
+         "place_id" : "ChIJ30SxylePXkgRgTHtxGnzRM0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

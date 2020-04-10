@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liberec",
+               "short_name" : "Liberec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liberec District",
+               "short_name" : "Liberec District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Liberec Region",
+               "short_name" : "Liberec Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liberec, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.82440039999999,
+                  "lng" : 15.1469891
+               },
+               "southwest" : {
+                  "lat" : 50.7078286,
+                  "lng" : 14.9523506
+               }
+            },
+            "location" : {
+               "lat" : 50.76627999999999,
+               "lng" : 15.0543387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.82440039999999,
+                  "lng" : 15.1469891
+               },
+               "southwest" : {
+                  "lat" : 50.7078286,
+                  "lng" : 14.9523506
+               }
+            }
+         },
+         "place_id" : "ChIJQ98Skpk2CUcRkFkVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

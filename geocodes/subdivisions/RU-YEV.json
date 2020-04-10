@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jewish Autonomous Oblast",
+               "short_name" : "Еврейская Аутономус Область",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jewish Autonomous Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.494555,
+                  "lng" : 134.9970189
+               },
+               "southwest" : {
+                  "lat" : 47.6543,
+                  "lng" : 130.5080991
+               }
+            },
+            "location" : {
+               "lat" : 48.4808147,
+               "lng" : 131.7657367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.494555,
+                  "lng" : 134.9970189
+               },
+               "southwest" : {
+                  "lat" : 47.6543,
+                  "lng" : 130.5080991
+               }
+            }
+         },
+         "place_id" : "ChIJk1aSp8rX8F4RAJlvOTRYBAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

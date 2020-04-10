@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fife, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.4534844,
+                  "lng" : -2.5443013
+               },
+               "southwest" : {
+                  "lat" : 56.0058319,
+                  "lng" : -3.7399184
+               }
+            },
+            "location" : {
+               "lat" : 56.2082078,
+               "lng" : -3.1495175
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4534844,
+                  "lng" : -2.5443013
+               },
+               "southwest" : {
+                  "lat" : 56.0058319,
+                  "lng" : -3.7399184
+               }
+            }
+         },
+         "place_id" : "ChIJGfnLttUwhkgRPBsRigOAVnY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

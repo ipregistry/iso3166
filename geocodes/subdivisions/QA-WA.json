@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Wakrah",
+               "short_name" : "Al Wakrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Wakrah Municipality",
+               "short_name" : "Al Wakrah Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Wakrah, Qatar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1950705,
+                  "lng" : 51.6206668
+               },
+               "southwest" : {
+                  "lat" : 25.1305989,
+                  "lng" : 51.5793514
+               }
+            },
+            "location" : {
+               "lat" : 25.1659314,
+               "lng" : 51.5975524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1950705,
+                  "lng" : 51.6206668
+               },
+               "southwest" : {
+                  "lat" : 25.1305989,
+                  "lng" : 51.5793514
+               }
+            }
+         },
+         "place_id" : "ChIJL9UvyHjLRT4RBV1XiPlztRY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

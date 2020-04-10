@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tanga",
+               "short_name" : "Tanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tanga",
+               "short_name" : "Tanga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tanga Region",
+               "short_name" : "Tanga Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tanga, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.0548382,
+                  "lng" : 39.1314982
+               },
+               "southwest" : {
+                  "lat" : -5.1261043,
+                  "lng" : 39.0567078
+               }
+            },
+            "location" : {
+               "lat" : -5.0888751,
+               "lng" : 39.1023228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.0548382,
+                  "lng" : 39.1314982
+               },
+               "southwest" : {
+                  "lat" : -5.1261043,
+                  "lng" : 39.0567078
+               }
+            }
+         },
+         "place_id" : "ChIJtccvi5nbQxgR893DKIVXweE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

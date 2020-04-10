@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ngarchelong",
+               "short_name" : "Ngarchelong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ngarchelong, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.732238999999999,
+                  "lng" : 134.6465139
+               },
+               "southwest" : {
+                  "lat" : 7.686282,
+                  "lng" : 134.609328
+               }
+            },
+            "location" : {
+               "lat" : 7.7105469,
+               "lng" : 134.6301646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.732238999999999,
+                  "lng" : 134.6465139
+               },
+               "southwest" : {
+                  "lat" : 7.686282,
+                  "lng" : 134.609328
+               }
+            }
+         },
+         "place_id" : "ChIJsRTWuYmZKjMR6d7BlrPy8nM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

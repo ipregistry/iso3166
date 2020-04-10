@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nantou City",
+               "short_name" : "Nantou City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nantou County",
+               "short_name" : "Nantou County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "540",
+               "short_name" : "540",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nantou City, Nantou County, Taiwan 540",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.9653592,
+                  "lng" : 120.7348104
+               },
+               "southwest" : {
+                  "lat" : 23.8781697,
+                  "lng" : 120.6268085
+               }
+            },
+            "location" : {
+               "lat" : 23.9179637,
+               "lng" : 120.6775054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.9653592,
+                  "lng" : 120.7348104
+               },
+               "southwest" : {
+                  "lat" : 23.8781697,
+                  "lng" : 120.6268085
+               }
+            }
+         },
+         "place_id" : "ChIJrY3LJZExaTQR2lOz7HspInw",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

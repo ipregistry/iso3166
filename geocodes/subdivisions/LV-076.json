@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rauna Municipality",
+               "short_name" : "Rauna Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rauna Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.44292199999999,
+                  "lng" : 26.061827
+               },
+               "southwest" : {
+                  "lat" : 57.18315699999999,
+                  "lng" : 25.5079781
+               }
+            },
+            "location" : {
+               "lat" : 57.3080665,
+               "lng" : 25.6280162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.44292199999999,
+                  "lng" : 26.061827
+               },
+               "southwest" : {
+                  "lat" : 57.18315699999999,
+                  "lng" : 25.5079781
+               }
+            }
+         },
+         "place_id" : "ChIJuUCXln_Q60YRMP7yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

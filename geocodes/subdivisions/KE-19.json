@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kwale",
+               "short_name" : "Kwale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kwale County",
+               "short_name" : "Kwale County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kwale, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.1660649,
+                  "lng" : 39.4756793
+               },
+               "southwest" : {
+                  "lat" : -4.191231999999999,
+                  "lng" : 39.4392872
+               }
+            },
+            "location" : {
+               "lat" : -4.1816115,
+               "lng" : 39.4605612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.1660649,
+                  "lng" : 39.4756793
+               },
+               "southwest" : {
+                  "lat" : -4.191231999999999,
+                  "lng" : 39.4392872
+               }
+            }
+         },
+         "place_id" : "ChIJk1F8hEBdQBgRUpszHYxQEdA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

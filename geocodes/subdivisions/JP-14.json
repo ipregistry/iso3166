@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanagawa Ward",
+               "short_name" : "Kanagawa Ward",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Yokohama",
+               "short_name" : "Yokohama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanagawa",
+               "short_name" : "Kanagawa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kanagawa Ward, Yokohama, Kanagawa, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5065935,
+                  "lng" : 139.6691864
+               },
+               "southwest" : {
+                  "lat" : 35.4635877,
+                  "lng" : 139.5677328
+               }
+            },
+            "location" : {
+               "lat" : 35.4827827,
+               "lng" : 139.6146102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5065935,
+                  "lng" : 139.6691864
+               },
+               "southwest" : {
+                  "lat" : 35.4635877,
+                  "lng" : 139.5677328
+               }
+            }
+         },
+         "place_id" : "ChIJS-blR69eGGARjdCJc8xwNUI",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

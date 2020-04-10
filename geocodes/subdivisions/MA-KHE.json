@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khemisset",
+               "short_name" : "Khemisset",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khemisset Province",
+               "short_name" : "Khemisset Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rabat-Salé-Kénitra",
+               "short_name" : "Rabat-Salé-Kénitra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khemisset, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.848522,
+                  "lng" : -6.0419214
+               },
+               "southwest" : {
+                  "lat" : 33.7989952,
+                  "lng" : -6.1040727
+               }
+            },
+            "location" : {
+               "lat" : 33.8153704,
+               "lng" : -6.0573302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.848522,
+                  "lng" : -6.0419214
+               },
+               "southwest" : {
+                  "lat" : 33.7989952,
+                  "lng" : -6.1040727
+               }
+            }
+         },
+         "place_id" : "ChIJl-cejqfCoA0RXMTW_TFXrpg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

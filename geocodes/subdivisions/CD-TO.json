@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tshopo",
+               "short_name" : "Tshopo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Orientale",
+               "short_name" : "Orientale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tshopo, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.451949,
+                  "lng" : 28.1030273
+               },
+               "southwest" : {
+                  "lat" : -2.1308564,
+                  "lng" : 22.2637938
+               }
+            },
+            "location" : {
+               "lat" : 0.5455462,
+               "lng" : 24.9042208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.451949,
+                  "lng" : 28.1030273
+               },
+               "southwest" : {
+                  "lat" : -2.1308564,
+                  "lng" : 22.2637938
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJva_9HOijVxcRdFX5m8pm9Es",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

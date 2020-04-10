@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pomoravlje District",
+               "short_name" : "Pomoravlje District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pomoravlje District, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.310024,
+                  "lng" : 21.839969
+               },
+               "southwest" : {
+                  "lat" : 43.7114669,
+                  "lng" : 20.929701
+               }
+            },
+            "location" : {
+               "lat" : 43.95913789999999,
+               "lng" : 21.271353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.310024,
+                  "lng" : 21.839969
+               },
+               "southwest" : {
+                  "lat" : 43.7114669,
+                  "lng" : 20.929701
+               }
+            }
+         },
+         "place_id" : "ChIJvWGDZLvHVkcRcnCxjdr5hyM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

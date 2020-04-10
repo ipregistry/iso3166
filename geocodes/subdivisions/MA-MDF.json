@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M'diq-Fnideq Prefecture",
+               "short_name" : "M'diq-Fnideq Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tangier-Tétouan-Al Hoceima",
+               "short_name" : "Tangier-Tétouan-Al Hoceima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M'diq-Fnideq Prefecture, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8884937,
+                  "lng" : -5.2738667
+               },
+               "southwest" : {
+                  "lat" : 35.6582726,
+                  "lng" : -5.474624599999999
+               }
+            },
+            "location" : {
+               "lat" : 35.73012,
+               "lng" : -5.373017600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8884937,
+                  "lng" : -5.2738667
+               },
+               "southwest" : {
+                  "lat" : 35.6582726,
+                  "lng" : -5.474624599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT8lsH8BfCw0RO8K2s9ixzW0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

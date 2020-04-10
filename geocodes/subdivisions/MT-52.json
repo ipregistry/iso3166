@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sannat",
+               "short_name" : "Sannat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sannat, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0304853,
+                  "lng" : 14.273241
+               },
+               "southwest" : {
+                  "lat" : 36.0112441,
+                  "lng" : 14.2312786
+               }
+            },
+            "location" : {
+               "lat" : 36.0192643,
+               "lng" : 14.2599437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0304853,
+                  "lng" : 14.273241
+               },
+               "southwest" : {
+                  "lat" : 36.0112441,
+                  "lng" : 14.2312786
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKWT5eIq0DxMRVvToRjcuc-E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

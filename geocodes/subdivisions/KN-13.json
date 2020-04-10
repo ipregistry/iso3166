@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Thomas Middle Island Parish",
+               "short_name" : "Saint Thomas Middle Island Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Thomas Middle Island Parish, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.368374,
+                  "lng" : -62.763293
+               },
+               "southwest" : {
+                  "lat" : 17.306173,
+                  "lng" : -62.83871209999999
+               }
+            },
+            "location" : {
+               "lat" : 17.3348813,
+               "lng" : -62.80882510000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.368374,
+                  "lng" : -62.763293
+               },
+               "southwest" : {
+                  "lat" : 17.306173,
+                  "lng" : -62.83871209999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7chU1QwdEowRmJUNc2fI7F8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

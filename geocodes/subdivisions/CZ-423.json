@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Litomerice",
+               "short_name" : "Litomerice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Litoměřice District",
+               "short_name" : "Litoměřice District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem Region",
+               "short_name" : "Ústí nad Labem Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "412 01",
+               "short_name" : "412 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "412 01 Litomerice, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5757979,
+                  "lng" : 14.1834891
+               },
+               "southwest" : {
+                  "lat" : 50.5083711,
+                  "lng" : 14.092549
+               }
+            },
+            "location" : {
+               "lat" : 50.5384197,
+               "lng" : 14.1305458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5757979,
+                  "lng" : 14.1834891
+               },
+               "southwest" : {
+                  "lat" : 50.5083711,
+                  "lng" : 14.092549
+               }
+            }
+         },
+         "place_id" : "ChIJa6Z2ZRN_CUcRYGAVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

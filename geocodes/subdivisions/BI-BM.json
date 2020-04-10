@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bujumbura Mairie",
+               "short_name" : "Bujumbura Mairie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burundi",
+               "short_name" : "BI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bujumbura Mairie, Burundi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.2973383,
+                  "lng" : 29.4093703
+               },
+               "southwest" : {
+                  "lat" : -3.531662,
+                  "lng" : 29.285334
+               }
+            },
+            "location" : {
+               "lat" : -3.4146958,
+               "lng" : 29.3598782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.2973383,
+                  "lng" : 29.4093703
+               },
+               "southwest" : {
+                  "lat" : -3.531662,
+                  "lng" : 29.285334
+               }
+            }
+         },
+         "place_id" : "ChIJtTIAPjuDwRkRIk-9BBO5pjY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

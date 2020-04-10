@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neringa Municipality",
+               "short_name" : "Neringa Municipality",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Neringos savivaldybė",
+               "short_name" : "Neringos sav.",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Klaipėda County",
+               "short_name" : "Klaipėda County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neringa Municipality, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.67307289999999,
+                  "lng" : 21.135704
+               },
+               "southwest" : {
+                  "lat" : 55.2768599,
+                  "lng" : 20.9532
+               }
+            },
+            "location" : {
+               "lat" : 55.4572403,
+               "lng" : 21.0839005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.67307289999999,
+                  "lng" : 21.135704
+               },
+               "southwest" : {
+                  "lat" : 55.2768599,
+                  "lng" : 20.9532
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnTtCOmTA5EYRWHrmbeL70Lg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koboko",
+               "short_name" : "Koboko",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koboko",
+               "short_name" : "Koboko",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Koboko, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.4341307,
+                  "lng" : 30.98374129999999
+               },
+               "southwest" : {
+                  "lat" : 3.3891923,
+                  "lng" : 30.938208
+               }
+            },
+            "location" : {
+               "lat" : 3.4167992,
+               "lng" : 30.9589496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.4341307,
+                  "lng" : 30.98374129999999
+               },
+               "southwest" : {
+                  "lat" : 3.3891923,
+                  "lng" : 30.938208
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjwnnyYfLbRcRbMm637f8B_Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amuru",
+               "short_name" : "Amuru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amuru, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.584319,
+                  "lng" : 32.388592
+               },
+               "southwest" : {
+                  "lat" : 2.529905,
+                  "lng" : 31.344368
+               }
+            },
+            "location" : {
+               "lat" : 2.9667878,
+               "lng" : 32.0837445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.584319,
+                  "lng" : 32.388592
+               },
+               "southwest" : {
+                  "lat" : 2.529905,
+                  "lng" : 31.344368
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV0Nt3uKAcRcRhpsrQjVA4VI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jizzakh",
+               "short_name" : "Jizzakh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jizzakh District",
+               "short_name" : "Jizzakh District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jizzakh Region",
+               "short_name" : "Jizzakh Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jizzakh, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1917254,
+                  "lng" : 67.9324151
+               },
+               "southwest" : {
+                  "lat" : 40.0458832,
+                  "lng" : 67.7763748
+               }
+            },
+            "location" : {
+               "lat" : 40.1250439,
+               "lng" : 67.8808243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1917254,
+                  "lng" : 67.9324151
+               },
+               "southwest" : {
+                  "lat" : 40.0458832,
+                  "lng" : 67.7763748
+               }
+            }
+         },
+         "place_id" : "ChIJ2dS29kKUsjgR4hCJ6A7EeJI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

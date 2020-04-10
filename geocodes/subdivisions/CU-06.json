@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cienfuegos",
+               "short_name" : "Cienfuegos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cienfuegos",
+               "short_name" : "Cienfuegos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cienfuegos",
+               "short_name" : "Cienfuegos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cienfuegos, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2131697,
+                  "lng" : -80.38162869999999
+               },
+               "southwest" : {
+                  "lat" : 22.1110682,
+                  "lng" : -80.49575449999999
+               }
+            },
+            "location" : {
+               "lat" : 22.1599753,
+               "lng" : -80.4437781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2131697,
+                  "lng" : -80.38162869999999
+               },
+               "southwest" : {
+                  "lat" : 22.1110682,
+                  "lng" : -80.49575449999999
+               }
+            }
+         },
+         "place_id" : "ChIJRycjivc3K48Rdakih0-H6xY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

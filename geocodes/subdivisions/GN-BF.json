@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boffa",
+               "short_name" : "Boffa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boffa Prefecture",
+               "short_name" : "Boffa Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Boké",
+               "short_name" : "Boké",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boffa, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.1955781,
+                  "lng" : -14.0259361
+               },
+               "southwest" : {
+                  "lat" : 10.1706568,
+                  "lng" : -14.050312
+               }
+            },
+            "location" : {
+               "lat" : 10.1808254,
+               "lng" : -14.0391615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.1955781,
+                  "lng" : -14.0259361
+               },
+               "southwest" : {
+                  "lat" : 10.1706568,
+                  "lng" : -14.050312
+               }
+            }
+         },
+         "place_id" : "ChIJkRiZ21FkHQ8R4GRxcpo067M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

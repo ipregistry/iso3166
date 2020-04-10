@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kwania",
+               "short_name" : "Kwania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Apac",
+               "short_name" : "Apac",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kwania, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.1530692,
+                  "lng" : 32.9574394
+               },
+               "southwest" : {
+                  "lat" : 1.6221548,
+                  "lng" : 32.526741
+               }
+            },
+            "location" : {
+               "lat" : 1.9033098,
+               "lng" : 32.7633036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.1530692,
+                  "lng" : 32.9574394
+               },
+               "southwest" : {
+                  "lat" : 1.6221548,
+                  "lng" : 32.526741
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrzLDSRUTehcRioBPS-Ee3zs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zadar",
+               "short_name" : "Zadar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zadar, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.187006,
+                  "lng" : 15.3022377
+               },
+               "southwest" : {
+                  "lat" : 44.0829053,
+                  "lng" : 15.1955705
+               }
+            },
+            "location" : {
+               "lat" : 44.119371,
+               "lng" : 15.2313648
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.187006,
+                  "lng" : 15.3022377
+               },
+               "southwest" : {
+                  "lat" : 44.0829053,
+                  "lng" : 15.1955705
+               }
+            }
+         },
+         "place_id" : "ChIJj7jA0mL6YUcRhAf0Exw-MhI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

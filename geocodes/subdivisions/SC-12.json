@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glacis",
+               "short_name" : "Glacis",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Seychelles",
+               "short_name" : "SC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glacis, Seychelles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.563845,
+                  "lng" : 55.462322
+               },
+               "southwest" : {
+                  "lat" : -4.59676,
+                  "lng" : 55.4285509
+               }
+            },
+            "location" : {
+               "lat" : -4.5719729,
+               "lng" : 55.4416234
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.563845,
+                  "lng" : 55.462322
+               },
+               "southwest" : {
+                  "lat" : -4.59676,
+                  "lng" : 55.4285509
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqYh5sy0m4CIRStCjqAl_8nA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

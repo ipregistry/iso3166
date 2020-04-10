@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alifu Alifu Atoll",
+               "short_name" : "Alifu Alifu Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Central Province",
+               "short_name" : "North Central Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alifu Alifu Atoll, Maldives",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.4744337,
+                  "lng" : 73.032303
+               },
+               "southwest" : {
+                  "lat" : 3.8844644,
+                  "lng" : 72.6807405
+               }
+            },
+            "location" : {
+               "lat" : 4.085,
+               "lng" : 72.8515479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.4744337,
+                  "lng" : 73.032303
+               },
+               "southwest" : {
+                  "lat" : 3.8844644,
+                  "lng" : 72.6807405
+               }
+            }
+         },
+         "place_id" : "ChIJ3c7B8nLiQDsRbpqVy5cSo34",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

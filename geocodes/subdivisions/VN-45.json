@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Đồng Tháp Province",
+               "short_name" : "Đồng Tháp Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Đồng Tháp Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.974052,
+                  "lng" : 105.9422241
+               },
+               "southwest" : {
+                  "lat" : 10.135533,
+                  "lng" : 105.18679
+               }
+            },
+            "location" : {
+               "lat" : 10.4937989,
+               "lng" : 105.6881788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.974052,
+                  "lng" : 105.9422241
+               },
+               "southwest" : {
+                  "lat" : 10.135533,
+                  "lng" : 105.18679
+               }
+            }
+         },
+         "place_id" : "ChIJHxIM1bNlCjERQG40rV7JoNw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

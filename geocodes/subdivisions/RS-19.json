@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rasina",
+               "short_name" : "Rasina",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kosovska Mitrovica District",
+               "short_name" : "Kosovska Mitrovica District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rasina, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.862384,
+                  "lng" : 21.588529
+               },
+               "southwest" : {
+                  "lat" : 43.148582,
+                  "lng" : 20.7798811
+               }
+            },
+            "location" : {
+               "lat" : 43.5263525,
+               "lng" : 21.1588178
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.862384,
+                  "lng" : 21.588529
+               },
+               "southwest" : {
+                  "lat" : 43.148582,
+                  "lng" : 20.7798811
+               }
+            }
+         },
+         "place_id" : "ChIJhXaAmA5kVkcRC1Xgh6irQ9Q",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

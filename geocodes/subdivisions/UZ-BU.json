@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bukhara",
+               "short_name" : "Bukhara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bukhara District",
+               "short_name" : "Bukhara District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bukhara Region",
+               "short_name" : "Bukhara Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bukhara, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8241068,
+                  "lng" : 64.5017624
+               },
+               "southwest" : {
+                  "lat" : 39.7309658,
+                  "lng" : 64.3438338
+               }
+            },
+            "location" : {
+               "lat" : 39.7680827,
+               "lng" : 64.4555769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8241068,
+                  "lng" : 64.5017624
+               },
+               "southwest" : {
+                  "lat" : 39.7309658,
+                  "lng" : 64.3438338
+               }
+            }
+         },
+         "place_id" : "ChIJ1TyZZQ4GUD8RZ-dIDvTqe8g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

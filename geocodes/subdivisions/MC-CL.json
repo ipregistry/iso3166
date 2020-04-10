@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Colle",
+               "short_name" : "La Colle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Monaco",
+               "short_name" : "Monaco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monaco",
+               "short_name" : "MC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98000",
+               "short_name" : "98000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "La Colle, 98000 Monaco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7344122,
+                  "lng" : 7.417485300000001
+               },
+               "southwest" : {
+                  "lat" : 43.73107299999999,
+                  "lng" : 7.4143472
+               }
+            },
+            "location" : {
+               "lat" : 43.7327148,
+               "lng" : 7.4161674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7344122,
+                  "lng" : 7.417485300000001
+               },
+               "southwest" : {
+                  "lat" : 43.73107299999999,
+                  "lng" : 7.4143472
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ-EimfLCzRIRCK2q_ZGJeQg",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

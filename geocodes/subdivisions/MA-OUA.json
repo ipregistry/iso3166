@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ouarzazate",
+               "short_name" : "Ouarzazate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ouarzazate Province",
+               "short_name" : "Ouarzazate Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Drâa-Tafilalet",
+               "short_name" : "Drâa-Tafilalet",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45000",
+               "short_name" : "45000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ouarzazate 45000, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.9557508,
+                  "lng" : -6.8729387
+               },
+               "southwest" : {
+                  "lat" : 30.915294,
+                  "lng" : -6.99224
+               }
+            },
+            "location" : {
+               "lat" : 30.9335436,
+               "lng" : -6.937016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.9557508,
+                  "lng" : -6.8729387
+               },
+               "southwest" : {
+                  "lat" : 30.915294,
+                  "lng" : -6.99224
+               }
+            }
+         },
+         "place_id" : "ChIJVyBCd0AQuw0RAKs3m1LLsyY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Sergipe",
+               "short_name" : "SE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Sergipe, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.5150294,
+                  "lng" : -36.3998681
+               },
+               "southwest" : {
+                  "lat" : -11.5685288,
+                  "lng" : -38.2456472
+               }
+            },
+            "location" : {
+               "lat" : -10.5740934,
+               "lng" : -37.3856581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.5150294,
+                  "lng" : -36.3998681
+               },
+               "southwest" : {
+                  "lat" : -11.5685288,
+                  "lng" : -38.2456472
+               }
+            }
+         },
+         "place_id" : "ChIJIRZgFj-9BQcR2fH-ZmvKyqw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

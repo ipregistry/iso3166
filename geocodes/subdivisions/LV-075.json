@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Priekuļi Municipality",
+               "short_name" : "Priekuļi Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Priekuļi Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.46953689999999,
+                  "lng" : 25.6674371
+               },
+               "southwest" : {
+                  "lat" : 57.2123699,
+                  "lng" : 25.225785
+               }
+            },
+            "location" : {
+               "lat" : 57.3617138,
+               "lng" : 25.4410423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.46953689999999,
+                  "lng" : 25.6674371
+               },
+               "southwest" : {
+                  "lat" : 57.2123699,
+                  "lng" : 25.225785
+               }
+            }
+         },
+         "place_id" : "ChIJ8ZHRylPn60YREP7yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

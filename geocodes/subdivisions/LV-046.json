@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koknese",
+               "short_name" : "Koknese",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koknese Parish",
+               "short_name" : "Koknese Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5113",
+               "short_name" : "5113",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Koknese, Koknese Parish, LV-5113, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.66460499999999,
+                  "lng" : 25.462466
+               },
+               "southwest" : {
+                  "lat" : 56.639293,
+                  "lng" : 25.4003959
+               }
+            },
+            "location" : {
+               "lat" : 56.6490649,
+               "lng" : 25.431094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.66460499999999,
+                  "lng" : 25.462466
+               },
+               "southwest" : {
+                  "lat" : 56.639293,
+                  "lng" : 25.4003959
+               }
+            }
+         },
+         "place_id" : "ChIJRQnnq_gH6UYRQP_yaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

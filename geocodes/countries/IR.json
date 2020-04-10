@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.782056,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 24.8066999,
+                  "lng" : 44.0326949
+               }
+            },
+            "location" : {
+               "lat" : 32.427908,
+               "lng" : 53.688046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.782056,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 24.8066999,
+                  "lng" : 44.0326949
+               }
+            }
+         },
+         "place_id" : "ChIJ8R1rwS7s9z4RzvpRntOVsEA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trento",
+               "short_name" : "TN",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trento",
+               "short_name" : "Trento",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Trentino",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trentino-South Tyrol",
+               "short_name" : "Trentino-South Tyrol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trento, Trentino, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1327915,
+                  "lng" : 11.1580189
+               },
+               "southwest" : {
+                  "lat" : 46.0281314,
+                  "lng" : 11.0826925
+               }
+            },
+            "location" : {
+               "lat" : 46.0747793,
+               "lng" : 11.1217486
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1327915,
+                  "lng" : 11.1580189
+               },
+               "southwest" : {
+                  "lat" : 46.0281314,
+                  "lng" : 11.0826925
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ253Oycp2gkcRR_WfE5mixic",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

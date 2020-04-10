@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cartago",
+               "short_name" : "Cartago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cartago Province",
+               "short_name" : "Cartago Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cartago Province, Cartago, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.8936004,
+                  "lng" : -83.8872032
+               },
+               "southwest" : {
+                  "lat" : 9.8148143,
+                  "lng" : -83.9631756
+               }
+            },
+            "location" : {
+               "lat" : 9.863809099999999,
+               "lng" : -83.91619349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.8936004,
+                  "lng" : -83.8872032
+               },
+               "southwest" : {
+                  "lat" : 9.8148143,
+                  "lng" : -83.9631756
+               }
+            }
+         },
+         "place_id" : "ChIJISmvIRDfoI8RUpyjWIVU5bU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

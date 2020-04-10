@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Apac",
+               "short_name" : "Apac",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Apac",
+               "short_name" : "Apac",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Apac, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.9909571,
+                  "lng" : 32.5391007
+               },
+               "southwest" : {
+                  "lat" : 1.9798057,
+                  "lng" : 32.5274278
+               }
+            },
+            "location" : {
+               "lat" : 1.9850906,
+               "lng" : 32.5344456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.9909571,
+                  "lng" : 32.5391007
+               },
+               "southwest" : {
+                  "lat" : 1.9798057,
+                  "lng" : 32.5274278
+               }
+            }
+         },
+         "place_id" : "ChIJ_eDM5nZ6ehcR_HcVE10Rvuk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leicestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leicestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9776572,
+                  "lng" : -0.6641108999999999
+               },
+               "southwest" : {
+                  "lat" : 52.3921566,
+                  "lng" : -1.5975473
+               }
+            },
+            "location" : {
+               "lat" : 52.772571,
+               "lng" : -1.2052126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9776572,
+                  "lng" : -0.6641108999999999
+               },
+               "southwest" : {
+                  "lat" : 52.3921566,
+                  "lng" : -1.5975473
+               }
+            }
+         },
+         "place_id" : "ChIJs3uVVC1Ad0gRK6-E8nGBOYQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

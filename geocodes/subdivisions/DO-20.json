@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samana",
+               "short_name" : "Samana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Samaná Province",
+               "short_name" : "Samaná Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32000",
+               "short_name" : "32000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Samana 32000, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.219835,
+                  "lng" : -69.3262067
+               },
+               "southwest" : {
+                  "lat" : 19.1954621,
+                  "lng" : -69.35288079999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2030757,
+               "lng" : -69.3387664
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.219835,
+                  "lng" : -69.3262067
+               },
+               "southwest" : {
+                  "lat" : 19.1954621,
+                  "lng" : -69.35288079999999
+               }
+            }
+         },
+         "place_id" : "ChIJIQTGJyvnro4RE5BtH05W3gA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

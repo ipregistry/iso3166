@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Stann Creek",
+               "short_name" : "South Stann Creek",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Stann Creek District",
+               "short_name" : "Stann Creek District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belize",
+               "short_name" : "BZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Stann Creek, Belize",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.7285767,
+                  "lng" : -88.2996294
+               },
+               "southwest" : {
+                  "lat" : 16.7051128,
+                  "lng" : -88.3555025
+               }
+            },
+            "location" : {
+               "lat" : 16.7198783,
+               "lng" : -88.3257866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.7285767,
+                  "lng" : -88.2996294
+               },
+               "southwest" : {
+                  "lat" : 16.7051128,
+                  "lng" : -88.3555025
+               }
+            }
+         },
+         "place_id" : "ChIJG4cU5rWaXY8REsuVEL1kkGo",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

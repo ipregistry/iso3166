@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aileu",
+               "short_name" : "Aileu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aileu",
+               "short_name" : "Aileu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aileu, Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.711267599999999,
+                  "lng" : 125.5823551
+               },
+               "southwest" : {
+                  "lat" : -8.739868999999999,
+                  "lng" : 125.5533901
+               }
+            },
+            "location" : {
+               "lat" : -8.722408399999999,
+               "lng" : 125.5712576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.711267599999999,
+                  "lng" : 125.5823551
+               },
+               "southwest" : {
+                  "lat" : -8.739868999999999,
+                  "lng" : 125.5533901
+               }
+            }
+         },
+         "place_id" : "ChIJAxdWbn0f_iwRy5thOBTbMX4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qeqqata Municipality",
+               "short_name" : "Qeqqata Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greenland",
+               "short_name" : "GL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qeqqata Municipality, Greenland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 67.77235399999999,
+                  "lng" : -43.626197
+               },
+               "southwest" : {
+                  "lat" : 64.951988,
+                  "lng" : -53.99688
+               }
+            },
+            "location" : {
+               "lat" : 66.17638789999999,
+               "lng" : -48.9906532
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 67.77235399999999,
+                  "lng" : -43.626197
+               },
+               "southwest" : {
+                  "lat" : 64.951988,
+                  "lng" : -53.99688
+               }
+            }
+         },
+         "place_id" : "ChIJUy9b2gB2lk4Rsm3aKGr3Vho",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

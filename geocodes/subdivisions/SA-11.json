@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Bahah",
+               "short_name" : "Al Bahah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Bahah Province",
+               "short_name" : "Al Bahah Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Bahah Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.0507711,
+                  "lng" : 41.5101243
+               },
+               "southwest" : {
+                  "lat" : 19.9745185,
+                  "lng" : 41.4101315
+               }
+            },
+            "location" : {
+               "lat" : 20.0217407,
+               "lng" : 41.4712733
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.0507711,
+                  "lng" : 41.5101243
+               },
+               "southwest" : {
+                  "lat" : 19.9745185,
+                  "lng" : 41.4101315
+               }
+            }
+         },
+         "place_id" : "ChIJFQbQdpVF7xURbVKeiwJbLFA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

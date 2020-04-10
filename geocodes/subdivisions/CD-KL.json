@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kwilu",
+               "short_name" : "Kwilu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bandundu",
+               "short_name" : "Bandundu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kwilu, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.22073,
+                  "lng" : 20.2060889
+               },
+               "southwest" : {
+                  "lat" : -6.2907288,
+                  "lng" : 16.479063
+               }
+            },
+            "location" : {
+               "lat" : -5.1188825,
+               "lng" : 18.4276047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.22073,
+                  "lng" : 20.2060889
+               },
+               "southwest" : {
+                  "lat" : -6.2907288,
+                  "lng" : 16.479063
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdzCxNScoFhoRXNzU_mHbyRs",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

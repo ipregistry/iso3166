@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vihiga",
+               "short_name" : "Vihiga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vihiga County",
+               "short_name" : "Vihiga County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vihiga, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.08730009999999999,
+                  "lng" : 34.7489269
+               },
+               "southwest" : {
+                  "lat" : -0.0265763,
+                  "lng" : 34.6253801
+               }
+            },
+            "location" : {
+               "lat" : 0.03835939999999999,
+               "lng" : 34.6967094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.08730009999999999,
+                  "lng" : 34.7489269
+               },
+               "southwest" : {
+                  "lat" : -0.0265763,
+                  "lng" : 34.6253801
+               }
+            }
+         },
+         "place_id" : "ChIJy-a63X8IgBcRy3MqQWtaf9I",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

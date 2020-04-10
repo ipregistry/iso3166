@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valle Department",
+               "short_name" : "Valle Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Honduras",
+               "short_name" : "HN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valle Department, Honduras",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8516562,
+                  "lng" : -87.34085999999999
+               },
+               "southwest" : {
+                  "lat" : 13.2483064,
+                  "lng" : -87.82070349999999
+               }
+            },
+            "location" : {
+               "lat" : 13.5782936,
+               "lng" : -87.5791287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8516562,
+                  "lng" : -87.34085999999999
+               },
+               "southwest" : {
+                  "lat" : 13.2483064,
+                  "lng" : -87.82070349999999
+               }
+            }
+         },
+         "place_id" : "ChIJi3ABzNkBcI8RpTxfmxrvU_Y",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

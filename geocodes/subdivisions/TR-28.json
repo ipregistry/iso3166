@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Giresun",
+               "short_name" : "Giresun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Giresun Merkez",
+               "short_name" : "Giresun Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Giresun",
+               "short_name" : "Giresun",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Giresun, Giresun Merkez/Giresun, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.92777,
+                  "lng" : 38.4476309
+               },
+               "southwest" : {
+                  "lat" : 40.880759,
+                  "lng" : 38.3108369
+               }
+            },
+            "location" : {
+               "lat" : 40.91753200000001,
+               "lng" : 38.392653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.92777,
+                  "lng" : 38.4476309
+               },
+               "southwest" : {
+                  "lat" : 40.880759,
+                  "lng" : 38.3108369
+               }
+            }
+         },
+         "place_id" : "ChIJt3kamWtsY0ARXxvjW9_yCSQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

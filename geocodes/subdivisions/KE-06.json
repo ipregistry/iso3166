@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embu",
+               "short_name" : "Embu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Embu County",
+               "short_name" : "Embu County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Embu, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.517505,
+                  "lng" : 37.473522
+               },
+               "southwest" : {
+                  "lat" : -0.5556192,
+                  "lng" : 37.4479854
+               }
+            },
+            "location" : {
+               "lat" : -0.5388381,
+               "lng" : 37.4596409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.517505,
+                  "lng" : 37.473522
+               },
+               "southwest" : {
+                  "lat" : -0.5556192,
+                  "lng" : 37.4479854
+               }
+            }
+         },
+         "place_id" : "ChIJL8hhseAtJhgRlogrDrqbx4Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

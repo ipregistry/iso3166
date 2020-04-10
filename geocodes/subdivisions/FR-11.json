@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aude",
+               "short_name" : "Aude",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Occitanie",
+               "short_name" : "Occitanie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aude, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2977386,
+                  "lng" : 3.2281983
+               },
+               "southwest" : {
+                  "lat" : 42.5316793,
+                  "lng" : 2.0175242
+               }
+            },
+            "location" : {
+               "lat" : 42.9569049,
+               "lng" : 2.2593428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2977386,
+                  "lng" : 3.2281983
+               },
+               "southwest" : {
+                  "lat" : 42.5316793,
+                  "lng" : 2.0175242
+               }
+            }
+         },
+         "place_id" : "ChIJ9-TcsbiMrxIRxzDy7LNUIHI",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

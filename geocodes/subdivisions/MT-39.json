@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paola",
+               "short_name" : "Paola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paola, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8868235,
+                  "lng" : 14.5157979
+               },
+               "southwest" : {
+                  "lat" : 35.8625513,
+                  "lng" : 14.4953128
+               }
+            },
+            "location" : {
+               "lat" : 35.8821077,
+               "lng" : 14.5101844
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8868235,
+                  "lng" : 14.5157979
+               },
+               "southwest" : {
+                  "lat" : 35.8625513,
+                  "lng" : 14.4953128
+               }
+            }
+         },
+         "place_id" : "ChIJV9hROtlaDhMRMyY0DKcTbnA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

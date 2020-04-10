@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "vulica Homieĺskaja",
+               "short_name" : "vulica Homieĺskaja",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Homieĺskaja voblasć",
+               "short_name" : "Homieĺskaja voblasć",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "vulica Homieĺskaja, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.60952109999999,
+                  "lng" : 30.9390645
+               },
+               "southwest" : {
+                  "lat" : 52.52158069999999,
+                  "lng" : 30.8433044
+               }
+            },
+            "location" : {
+               "lat" : 52.56267709999999,
+               "lng" : 30.8921224
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.60952109999999,
+                  "lng" : 30.9390645
+               },
+               "southwest" : {
+                  "lat" : 52.52158069999999,
+                  "lng" : 30.8433044
+               }
+            }
+         },
+         "place_id" : "ChIJNYkcstJs1EYRWTNv9aLxdqs",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+ce_id" : "ChIJpfH6UJtp1EYRlhM20g-jzF4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

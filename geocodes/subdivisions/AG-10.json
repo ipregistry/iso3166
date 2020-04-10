@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barbuda",
+               "short_name" : "Barbuda",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Barbuda",
+               "short_name" : "Barbuda",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Antigua and Barbuda",
+               "short_name" : "AG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barbuda, Antigua and Barbuda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.7290909,
+                  "lng" : -61.731316
+               },
+               "southwest" : {
+                  "lat" : 17.5432956,
+                  "lng" : -61.8871268
+               }
+            },
+            "location" : {
+               "lat" : 17.6266242,
+               "lng" : -61.77130279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.7290909,
+                  "lng" : -61.731316
+               },
+               "southwest" : {
+                  "lat" : 17.5432956,
+                  "lng" : -61.8871268
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9cmWi1dsDYwRtYrMuAczizM",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

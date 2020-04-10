@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yucatán",
+               "short_name" : "Yucatán",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yucatán",
+               "short_name" : "Yuc.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97050",
+               "short_name" : "97050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yucatán, 97050 Mérida, Yuc., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.9972467,
+                  "lng" : -89.62068259999999
+               },
+               "southwest" : {
+                  "lat" : 20.9903405,
+                  "lng" : -89.63104020000002
+               }
+            },
+            "location" : {
+               "lat" : 20.993468,
+               "lng" : -89.6239875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.9972467,
+                  "lng" : -89.62068259999999
+               },
+               "southwest" : {
+                  "lat" : 20.9903405,
+                  "lng" : -89.63104020000002
+               }
+            }
+         },
+         "place_id" : "ChIJa4gWF_5zVo8R26YOVxyNW3U",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

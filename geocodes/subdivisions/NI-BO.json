@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boaco",
+               "short_name" : "Boaco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boaco",
+               "short_name" : "Boaco",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boaco, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.4807023,
+                  "lng" : -85.6489849
+               },
+               "southwest" : {
+                  "lat" : 12.4602537,
+                  "lng" : -85.6689835
+               }
+            },
+            "location" : {
+               "lat" : 12.469284,
+               "lng" : -85.6614682
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.4807023,
+                  "lng" : -85.6489849
+               },
+               "southwest" : {
+                  "lat" : 12.4602537,
+                  "lng" : -85.6689835
+               }
+            }
+         },
+         "place_id" : "ChIJ2coa6RWhc48RYOiFRtjrwQw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

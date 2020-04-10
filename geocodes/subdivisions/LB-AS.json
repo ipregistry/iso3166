@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Governorate",
+               "short_name" : "North Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lebanon",
+               "short_name" : "LB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Governorate, Lebanon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.5122423,
+                  "lng" : 36.2883377
+               },
+               "southwest" : {
+                  "lat" : 34.1265869,
+                  "lng" : 35.6482289
+               }
+            },
+            "location" : {
+               "lat" : 34.4380625,
+               "lng" : 35.8308233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.5122423,
+                  "lng" : 36.2883377
+               },
+               "southwest" : {
+                  "lat" : 34.1265869,
+                  "lng" : 35.6482289
+               }
+            }
+         },
+         "place_id" : "ChIJsfWBARv0IRURHlmgwZnexyE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

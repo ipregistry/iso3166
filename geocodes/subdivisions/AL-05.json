@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gjirokaster",
+               "short_name" : "Gjirokaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gjirokastër County",
+               "short_name" : "Gjirokastër County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gjirokaster, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1064699,
+                  "lng" : 20.1654482
+               },
+               "southwest" : {
+                  "lat" : 40.0330693,
+                  "lng" : 20.0553703
+               }
+            },
+            "location" : {
+               "lat" : 40.0672874,
+               "lng" : 20.1045229
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1064699,
+                  "lng" : 20.1654482
+               },
+               "southwest" : {
+                  "lat" : 40.0330693,
+                  "lng" : 20.0553703
+               }
+            }
+         },
+         "place_id" : "ChIJTS8m1zEDWxMR_HXyjKPeWlY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

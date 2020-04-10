@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newport, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6213929,
+                  "lng" : -2.9204637
+               },
+               "southwest" : {
+                  "lat" : 51.52720919999999,
+                  "lng" : -3.0381005
+               }
+            },
+            "location" : {
+               "lat" : 51.584151,
+               "lng" : -2.997664
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6213929,
+                  "lng" : -2.9204637
+               },
+               "southwest" : {
+                  "lat" : 51.52720919999999,
+                  "lng" : -3.0381005
+               }
+            }
+         },
+         "place_id" : "ChIJlUugHBMebkgRROINkjoWXEk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

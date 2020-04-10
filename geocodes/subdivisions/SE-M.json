@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Skåne County",
+               "short_name" : "Skåne County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skåne County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.54260590000001,
+                  "lng" : 14.5844781
+               },
+               "southwest" : {
+                  "lat" : 55.3353771,
+                  "lng" : 12.4417551
+               }
+            },
+            "location" : {
+               "lat" : 55.99025719999999,
+               "lng" : 13.5957692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.54260590000001,
+                  "lng" : 14.5844781
+               },
+               "southwest" : {
+                  "lat" : 55.3353771,
+                  "lng" : 12.4417551
+               }
+            }
+         },
+         "place_id" : "ChIJP1A75D94TUYR4fC34heiR70",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

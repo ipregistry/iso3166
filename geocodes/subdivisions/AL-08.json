@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lezhë District",
+               "short_name" : "Lezhë District",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lezhë District",
+               "short_name" : "Lezhë District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lezhë County",
+               "short_name" : "Lezhë County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lezhë District, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8086206,
+                  "lng" : 19.6730233
+               },
+               "southwest" : {
+                  "lat" : 41.7682711,
+                  "lng" : 19.6120548
+               }
+            },
+            "location" : {
+               "lat" : 41.78607299999999,
+               "lng" : 19.6460758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8086206,
+                  "lng" : 19.6730233
+               },
+               "southwest" : {
+                  "lat" : 41.7682711,
+                  "lng" : 19.6120548
+               }
+            }
+         },
+         "place_id" : "ChIJC80fu7fgURMRX0v8ZPRTs-0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

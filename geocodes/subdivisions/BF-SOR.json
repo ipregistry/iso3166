@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sourou",
+               "short_name" : "Sourou",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Boucle du Mouhoun Region",
+               "short_name" : "Boucle du Mouhoun Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sourou, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.718467,
+                  "lng" : -2.455232
+               },
+               "southwest" : {
+                  "lat" : 12.744838,
+                  "lng" : -3.491432
+               }
+            },
+            "location" : {
+               "lat" : 13.341803,
+               "lng" : -2.9375739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.718467,
+                  "lng" : -2.455232
+               },
+               "southwest" : {
+                  "lat" : 12.744838,
+                  "lng" : -3.491432
+               }
+            }
+         },
+         "place_id" : "ChIJaU-DmlZhMA4RDtL111wvols",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

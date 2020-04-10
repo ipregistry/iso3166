@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gulf Province",
+               "short_name" : "Gulf Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gulf Province, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.700165999999999,
+                  "lng" : 146.6471049
+               },
+               "southwest" : {
+                  "lat" : -8.588474999999999,
+                  "lng" : 143.00871
+               }
+            },
+            "location" : {
+               "lat" : -7.269182100000001,
+               "lng" : 145.1375834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.700165999999999,
+                  "lng" : 146.6471049
+               },
+               "southwest" : {
+                  "lat" : -8.588474999999999,
+                  "lng" : 143.00871
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJh099ek4uVGgRYys9VQtaH0E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

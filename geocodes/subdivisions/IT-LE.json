@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lecce",
+               "short_name" : "Lecce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lecce",
+               "short_name" : "Lecce",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Lecce",
+               "short_name" : "LE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Apulia",
+               "short_name" : "Apulia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "73100",
+               "short_name" : "73100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "73100 Lecce, Province of Lecce, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3777911,
+                  "lng" : 18.2285949
+               },
+               "southwest" : {
+                  "lat" : 40.3304703,
+                  "lng" : 18.1199941
+               }
+            },
+            "location" : {
+               "lat" : 40.3515155,
+               "lng" : 18.1750161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3777911,
+                  "lng" : 18.2285949
+               },
+               "southwest" : {
+                  "lat" : 40.3304703,
+                  "lng" : 18.1199941
+               }
+            }
+         },
+         "place_id" : "ChIJCREtL-QuRBMR8HezakxaW5s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

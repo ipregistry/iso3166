@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Flanders",
+               "short_name" : "OV",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flanders",
+               "short_name" : "Flanders",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Flanders, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.35284,
+                  "lng" : 4.3301
+               },
+               "southwest" : {
+                  "lat" : 50.72094999999999,
+                  "lng" : 3.3312501
+               }
+            },
+            "location" : {
+               "lat" : 51.0362101,
+               "lng" : 3.7373124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.35284,
+                  "lng" : 4.3301
+               },
+               "southwest" : {
+                  "lat" : 50.72094999999999,
+                  "lng" : 3.3312501
+               }
+            }
+         },
+         "place_id" : "ChIJi-0kywZ2w0cRsIBML6uZAAI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

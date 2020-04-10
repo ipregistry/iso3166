@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portuguesa",
+               "short_name" : "Portuguesa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portuguesa, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.8458509,
+                  "lng" : -68.51142209999999
+               },
+               "southwest" : {
+                  "lat" : 8.091210999999999,
+                  "lng" : -70.20202909999999
+               }
+            },
+            "location" : {
+               "lat" : 9.094399899999999,
+               "lng" : -69.09702299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.8458509,
+                  "lng" : -68.51142209999999
+               },
+               "southwest" : {
+                  "lat" : 8.091210999999999,
+                  "lng" : -70.20202909999999
+               }
+            }
+         },
+         "place_id" : "ChIJB8nHCto4fI4Rn2I3gBIvTPk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

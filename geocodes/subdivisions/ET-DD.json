@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dire Dawa",
+               "short_name" : "Dire Dawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Hararghe",
+               "short_name" : "East Hararghe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dire Dawa",
+               "short_name" : "Dire Dawa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dire Dawa, Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.6381812,
+                  "lng" : 41.88992349999999
+               },
+               "southwest" : {
+                  "lat" : 9.571900299999999,
+                  "lng" : 41.8213534
+               }
+            },
+            "location" : {
+               "lat" : 9.6008747,
+               "lng" : 41.850142
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.6381812,
+                  "lng" : 41.88992349999999
+               },
+               "southwest" : {
+                  "lat" : 9.571900299999999,
+                  "lng" : 41.8213534
+               }
+            }
+         },
+         "place_id" : "ChIJ58aVEdsBMRYRzGk08JSWIBA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Videm",
+               "short_name" : "Videm",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ptuj",
+               "short_name" : "Ptuj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Videm, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4006842,
+                  "lng" : 15.9717535
+               },
+               "southwest" : {
+                  "lat" : 46.2853165,
+                  "lng" : 15.7907798
+               }
+            },
+            "location" : {
+               "lat" : 46.363833,
+               "lng" : 15.8781212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4006842,
+                  "lng" : 15.9717535
+               },
+               "southwest" : {
+                  "lat" : 46.2853165,
+                  "lng" : 15.7907798
+               }
+            }
+         },
+         "place_id" : "ChIJPyPcRiJgb0cR4PQ_ghz4AAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

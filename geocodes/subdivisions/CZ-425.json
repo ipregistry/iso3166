@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Most",
+               "short_name" : "Most",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Most District",
+               "short_name" : "Most District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem Region",
+               "short_name" : "Ústí nad Labem Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Most, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5662104,
+                  "lng" : 13.703991
+               },
+               "southwest" : {
+                  "lat" : 50.462777,
+                  "lng" : 13.4947604
+               }
+            },
+            "location" : {
+               "lat" : 50.5015549,
+               "lng" : 13.6329122
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5662104,
+                  "lng" : 13.703991
+               },
+               "southwest" : {
+                  "lat" : 50.462777,
+                  "lng" : 13.4947604
+               }
+            }
+         },
+         "place_id" : "ChIJBe763psfCkcRUHwVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

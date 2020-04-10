@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pescara",
+               "short_name" : "Pescara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pescara",
+               "short_name" : "Pescara",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Pescara",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Abruzzo",
+               "short_name" : "Abruzzo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pescara, Province of Pescara, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.49396369999999,
+                  "lng" : 14.2544587
+               },
+               "southwest" : {
+                  "lat" : 42.4171602,
+                  "lng" : 14.1528712
+               }
+            },
+            "location" : {
+               "lat" : 42.4617902,
+               "lng" : 14.2160898
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.49396369999999,
+                  "lng" : 14.2544587
+               },
+               "southwest" : {
+                  "lat" : 42.4171602,
+                  "lng" : 14.1528712
+               }
+            }
+         },
+         "place_id" : "ChIJd2QouQ2mMRMR4r8ssomeuKA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

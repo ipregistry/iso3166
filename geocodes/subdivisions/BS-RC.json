@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rum Cay Island",
+               "short_name" : "Rum Cay Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Rum Cay",
+               "short_name" : "Rum Cay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rum Cay Island, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7126667,
+                  "lng" : -74.7914885
+               },
+               "southwest" : {
+                  "lat" : 23.6350022,
+                  "lng" : -74.9516486
+               }
+            },
+            "location" : {
+               "lat" : 23.6854676,
+               "lng" : -74.8390162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7126667,
+                  "lng" : -74.7914885
+               },
+               "southwest" : {
+                  "lat" : 23.6350022,
+                  "lng" : -74.9516486
+               }
+            }
+         },
+         "place_id" : "ChIJOV-rrlWxNokR5_q41ibxvQY",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

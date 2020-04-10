@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rogašovci",
+               "short_name" : "Rogašovci",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rogašovci",
+               "short_name" : "Rogašovci",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Murska Sobota",
+               "short_name" : "Murska Sobota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9262",
+               "short_name" : "9262",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9262 Rogašovci, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8129722,
+                  "lng" : 16.0586442
+               },
+               "southwest" : {
+                  "lat" : 46.79668179999999,
+                  "lng" : 16.0035833
+               }
+            },
+            "location" : {
+               "lat" : 46.8055785,
+               "lng" : 16.0345237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8129722,
+                  "lng" : 16.0586442
+               },
+               "southwest" : {
+                  "lat" : 46.79668179999999,
+                  "lng" : 16.0035833
+               }
+            }
+         },
+         "place_id" : "ChIJe8vCUGkab0cRN76q5wxggc4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

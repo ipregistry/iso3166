@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maracha",
+               "short_name" : "Maracha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maracha-Terego",
+               "short_name" : "Maracha-Terego",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maracha, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.2919098,
+                  "lng" : 30.9473842
+               },
+               "southwest" : {
+                  "lat" : 3.2831701,
+                  "lng" : 30.9346805
+               }
+            },
+            "location" : {
+               "lat" : 3.2873127,
+               "lng" : 30.9403023
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.2919098,
+                  "lng" : 30.9473842
+               },
+               "southwest" : {
+                  "lat" : 3.2831701,
+                  "lng" : 30.9346805
+               }
+            }
+         },
+         "place_id" : "ChIJB2wfmnjTbRcREVchYFXWQUU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

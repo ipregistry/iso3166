@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tula Oblast",
+               "short_name" : "Tula Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tula Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8527071,
+                  "lng" : 38.9512309
+               },
+               "southwest" : {
+                  "lat" : 52.945594,
+                  "lng" : 35.898597
+               }
+            },
+            "location" : {
+               "lat" : 54.163768,
+               "lng" : 37.5649507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8527071,
+                  "lng" : 38.9512309
+               },
+               "southwest" : {
+                  "lat" : 52.945594,
+                  "lng" : 35.898597
+               }
+            }
+         },
+         "place_id" : "ChIJc7c_RiwJNEERSxxmDujG1aA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+    }
+   ],
+   "status" : "OK"
+}

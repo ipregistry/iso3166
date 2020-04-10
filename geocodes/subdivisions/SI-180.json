@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solčava",
+               "short_name" : "Solčava",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solčava",
+               "short_name" : "Solčava",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Mozirje",
+               "short_name" : "Mozirje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3335",
+               "short_name" : "3335",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3335 Solčava, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4311116,
+                  "lng" : 14.7285786
+               },
+               "southwest" : {
+                  "lat" : 46.3982247,
+                  "lng" : 14.6357179
+               }
+            },
+            "location" : {
+               "lat" : 46.4200935,
+               "lng" : 14.6917325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4311116,
+                  "lng" : 14.7285786
+               },
+               "southwest" : {
+                  "lat" : 46.3982247,
+                  "lng" : 14.6357179
+               }
+            }
+         },
+         "place_id" : "ChIJQwZWWVxTZUcR9jOjCEU_tlg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

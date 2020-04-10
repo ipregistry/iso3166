@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wiltshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7031417,
+                  "lng" : -1.4857261
+               },
+               "southwest" : {
+                  "lat" : 50.944992,
+                  "lng" : -2.3655985
+               }
+            },
+            "location" : {
+               "lat" : 51.3491996,
+               "lng" : -1.9927105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7031417,
+                  "lng" : -1.4857261
+               },
+               "southwest" : {
+                  "lat" : 50.944992,
+                  "lng" : -2.3655985
+               }
+            }
+         },
+         "place_id" : "ChIJKcgiicI3cUgRNJe9kfg0iGQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

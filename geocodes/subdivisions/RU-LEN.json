@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leningrad Oblast",
+               "short_name" : "Leningrad Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leningrad Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.32952,
+                  "lng" : 35.7219011
+               },
+               "southwest" : {
+                  "lat" : 58.41708789999999,
+                  "lng" : 26.8960319
+               }
+            },
+            "location" : {
+               "lat" : 60.0793208,
+               "lng" : 31.8926645
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.32952,
+                  "lng" : 35.7219011
+               },
+               "southwest" : {
+                  "lat" : 58.41708789999999,
+                  "lng" : 26.8960319
+               }
+            }
+         },
+         "place_id" : "ChIJgxy2QfxivUYRAJdzzhbvAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

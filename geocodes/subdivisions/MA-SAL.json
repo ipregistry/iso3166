@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salé",
+               "short_name" : "Salé",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rabat-Salé-Kénitra",
+               "short_name" : "Rabat-Salé-Kénitra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salé, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0964405,
+                  "lng" : -6.709358600000001
+               },
+               "southwest" : {
+                  "lat" : 33.9791132,
+                  "lng" : -6.8359758
+               }
+            },
+            "location" : {
+               "lat" : 34.0336969,
+               "lng" : -6.770813800000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0964405,
+                  "lng" : -6.709358600000001
+               },
+               "southwest" : {
+                  "lat" : 33.9791132,
+                  "lng" : -6.8359758
+               }
+            }
+         },
+         "place_id" : "ChIJC-rQxl9ppw0RU5Pdo951RcU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guangxi",
+               "short_name" : "Guangxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guangxi, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.3855656,
+                  "lng" : 112.0618506
+               },
+               "southwest" : {
+                  "lat" : 20.8984479,
+                  "lng" : 104.4501319
+               }
+            },
+            "location" : {
+               "lat" : 23.7247599,
+               "lng" : 108.8076195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.3855656,
+                  "lng" : 112.0618506
+               },
+               "southwest" : {
+                  "lat" : 20.8984479,
+                  "lng" : 104.4501319
+               }
+            }
+         },
+         "place_id" : "ChIJj7-8RK_kpDYRSneHIIaz2WE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

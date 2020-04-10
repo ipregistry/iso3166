@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balakan",
+               "short_name" : "Balakan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Balakan",
+               "short_name" : "Balakan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Balakan, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7560107,
+                  "lng" : 46.4600659
+               },
+               "southwest" : {
+                  "lat" : 41.6622043,
+                  "lng" : 46.3497733
+               }
+            },
+            "location" : {
+               "lat" : 41.7037509,
+               "lng" : 46.4044213
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7560107,
+                  "lng" : 46.4600659
+               },
+               "southwest" : {
+                  "lat" : 41.6622043,
+                  "lng" : 46.3497733
+               }
+            }
+         },
+         "place_id" : "ChIJVYT_qiZERkARR6tdS-qiOIE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

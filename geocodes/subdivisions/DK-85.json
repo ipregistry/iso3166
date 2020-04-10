@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zealand",
+               "short_name" : "Zealand",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zealand, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.129846,
+                  "lng" : 12.6312844
+               },
+               "southwest" : {
+                  "lat" : 54.9621135,
+                  "lng" : 10.8684061
+               }
+            },
+            "location" : {
+               "lat" : 55.4632518,
+               "lng" : 11.7214979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.129846,
+                  "lng" : 12.6312844
+               },
+               "southwest" : {
+                  "lat" : 54.9621135,
+                  "lng" : 10.8684061
+               }
+            }
+         },
+         "place_id" : "ChIJV8R5Y_yFUkYR0jNG48tGnuw",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

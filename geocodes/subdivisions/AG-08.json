@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Philip",
+               "short_name" : "Saint Philip",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Antigua and Barbuda",
+               "short_name" : "AG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Philip, Antigua and Barbuda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.104214,
+                  "lng" : -61.65672290000001
+               },
+               "southwest" : {
+                  "lat" : 17.030777,
+                  "lng" : -61.74468299999999
+               }
+            },
+            "location" : {
+               "lat" : 17.0480636,
+               "lng" : -61.71225699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.104214,
+                  "lng" : -61.65672290000001
+               },
+               "southwest" : {
+                  "lat" : 17.030777,
+                  "lng" : -61.74468299999999
+               }
+            }
+         },
+         "place_id" : "ChIJFzxherK_EowRqQOyAbkXVWg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Dobrna",
+               "short_name" : "Municipality of Dobrna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dobrna",
+               "short_name" : "Dobrna",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Celje",
+               "short_name" : "Celje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3204",
+               "short_name" : "3204",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3204 Municipality of Dobrna, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3493703,
+                  "lng" : 15.2373527
+               },
+               "southwest" : {
+                  "lat" : 46.3319907,
+                  "lng" : 15.2055934
+               }
+            },
+            "location" : {
+               "lat" : 46.3356141,
+               "lng" : 15.2259732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3493703,
+                  "lng" : 15.2373527
+               },
+               "southwest" : {
+                  "lat" : 46.3319907,
+                  "lng" : 15.2055934
+               }
+            }
+         },
+         "place_id" : "ChIJk0xcsppkZUcRdtFR0oA0QoI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

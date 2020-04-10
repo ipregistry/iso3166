@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trincomalee",
+               "short_name" : "Trincomalee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trincomalee",
+               "short_name" : "Trincomalee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "EP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trincomalee, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.6231144,
+                  "lng" : 81.2461119
+               },
+               "southwest" : {
+                  "lat" : 8.5433042,
+                  "lng" : 81.18032149999999
+               }
+            },
+            "location" : {
+               "lat" : 8.5873638,
+               "lng" : 81.2152121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.6231144,
+                  "lng" : 81.2461119
+               },
+               "southwest" : {
+                  "lat" : 8.5433042,
+                  "lng" : 81.18032149999999
+               }
+            }
+         },
+         "place_id" : "ChIJJ74tkLa8-zoRuw8bM3pq530",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

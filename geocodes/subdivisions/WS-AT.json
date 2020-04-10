@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atua",
+               "short_name" : "Atua",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Samoa",
+               "short_name" : "WS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atua, Samoa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.854707,
+                  "lng" : -171.4093169
+               },
+               "southwest" : {
+                  "lat" : -14.063534,
+                  "lng" : -171.727493
+               }
+            },
+            "location" : {
+               "lat" : -13.9787053,
+               "lng" : -171.6254283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.854707,
+                  "lng" : -171.4093169
+               },
+               "southwest" : {
+                  "lat" : -14.063534,
+                  "lng" : -171.727493
+               }
+            }
+         },
+         "place_id" : "ChIJ2XExzSwGpXER-TYZOwvJCFk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grisons",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grisons, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.06496,
+                  "lng" : 10.4923401
+               },
+               "southwest" : {
+                  "lat" : 46.1690499,
+                  "lng" : 8.650939899999999
+               }
+            },
+            "location" : {
+               "lat" : 46.65698709999999,
+               "lng" : 9.578025700000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.06496,
+                  "lng" : 10.4923401
+               },
+               "southwest" : {
+                  "lat" : 46.1690499,
+                  "lng" : 8.650939899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGwykPoKRhEcRENgYQIj_AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

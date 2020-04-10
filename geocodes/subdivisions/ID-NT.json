@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Nusa Tenggara",
+               "short_name" : "East Nusa Tenggara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Nusa Tenggara, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.063516,
+                  "lng" : 125.192625
+               },
+               "southwest" : {
+                  "lat" : -11.0075679,
+                  "lng" : 118.927002
+               }
+            },
+            "location" : {
+               "lat" : -8.657381899999999,
+               "lng" : 121.0793705
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.063516,
+                  "lng" : 125.192625
+               },
+               "southwest" : {
+                  "lat" : -11.0075679,
+                  "lng" : 118.927002
+               }
+            }
+         },
+         "place_id" : "ChIJlzbpqE3yUiwR4Br3yvsLAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

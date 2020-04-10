@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake Manyara",
+               "short_name" : "Lake Manyara",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lake Manyara, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.4140586,
+                  "lng" : 35.8894665
+               },
+               "southwest" : {
+                  "lat" : -3.8345495,
+                  "lng" : 35.736268
+               }
+            },
+            "location" : {
+               "lat" : -3.6190593,
+               "lng" : 35.8061779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.4140586,
+                  "lng" : 35.8894665
+               },
+               "southwest" : {
+                  "lat" : -3.8345495,
+                  "lng" : 35.736268
+               }
+            }
+         },
+         "place_id" : "ChIJ63IcVZ3TNRgR82FUItOxioY",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

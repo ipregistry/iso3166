@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nymburk",
+               "short_name" : "Nymburk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nymburk District",
+               "short_name" : "Nymburk District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nymburk, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2130954,
+                  "lng" : 15.0854944
+               },
+               "southwest" : {
+                  "lat" : 50.1575949,
+                  "lng" : 14.9976501
+               }
+            },
+            "location" : {
+               "lat" : 50.1855816,
+               "lng" : 15.0436604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2130954,
+                  "lng" : 15.0854944
+               },
+               "southwest" : {
+                  "lat" : 50.1575949,
+                  "lng" : 14.9976501
+               }
+            }
+         },
+         "place_id" : "ChIJi0IRJ3EPDEcRNuE7DTYk6kA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

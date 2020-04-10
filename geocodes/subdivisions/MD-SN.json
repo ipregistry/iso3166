@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Transnistria",
+               "short_name" : "Transnistria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Transnistria, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.182177,
+                  "lng" : 29.9786299
+               },
+               "southwest" : {
+                  "lat" : 46.5490184,
+                  "lng" : 28.502814
+               }
+            },
+            "location" : {
+               "lat" : 47.21529719999999,
+               "lng" : 29.4638054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.182177,
+                  "lng" : 29.9786299
+               },
+               "southwest" : {
+                  "lat" : 46.5490184,
+                  "lng" : 28.502814
+               }
+            }
+         },
+         "place_id" : "ChIJz7BLtahRyUARRs7QbF29tHc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

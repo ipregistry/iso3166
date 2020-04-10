@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Giza",
+               "short_name" : "Giza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Omraniya",
+               "short_name" : "El Omraniya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Giza Governorate",
+               "short_name" : "Giza Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Giza, El Omraniya, Giza Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0714063,
+                  "lng" : 31.2320457
+               },
+               "southwest" : {
+                  "lat" : 29.9621703,
+                  "lng" : 31.1472406
+               }
+            },
+            "location" : {
+               "lat" : 30.0130557,
+               "lng" : 31.2088526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0714063,
+                  "lng" : 31.2320457
+               },
+               "southwest" : {
+                  "lat" : 29.9621703,
+                  "lng" : 31.1472406
+               }
+            }
+         },
+         "place_id" : "ChIJl5ZXNZJGWBQRUvx4mB_WkU4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tailevu",
+               "short_name" : "Tailevu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naitasiri",
+               "short_name" : "Naitasiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Division",
+               "short_name" : "Central Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tailevu, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.8255823,
+                  "lng" : 178.2949412
+               },
+               "southwest" : {
+                  "lat" : -17.8282787,
+                  "lng" : 178.2919102
+               }
+            },
+            "location" : {
+               "lat" : -17.8269111,
+               "lng" : 178.293248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.8255815197085,
+                  "lng" : 178.2949412
+               },
+               "southwest" : {
+                  "lat" : -17.8282794802915,
+                  "lng" : 178.2919102
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJt8fTYF1wGW4RVmzfJPhtD00",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kiambu",
+               "short_name" : "Kiambu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kiambu County",
+               "short_name" : "Kiambu County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kiambu, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.1654111,
+                  "lng" : 36.8422337
+               },
+               "southwest" : {
+                  "lat" : -1.1799717,
+                  "lng" : 36.8220274
+               }
+            },
+            "location" : {
+               "lat" : -1.1748105,
+               "lng" : 36.8304102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.1654111,
+                  "lng" : 36.8422337
+               },
+               "southwest" : {
+                  "lat" : -1.1799717,
+                  "lng" : 36.8220274
+               }
+            }
+         },
+         "place_id" : "ChIJh83egGI8LxgR6RP95ggZGho",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

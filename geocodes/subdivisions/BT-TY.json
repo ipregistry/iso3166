@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trashiyangtse",
+               "short_name" : "Trashiyangtse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trashiyangtse",
+               "short_name" : "Trashiyangtse",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trashiyangtse, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.050773,
+                  "lng" : 91.73789980000001
+               },
+               "southwest" : {
+                  "lat" : 27.383962,
+                  "lng" : 91.31767270000002
+               }
+            },
+            "location" : {
+               "lat" : 27.8236356,
+               "lng" : 91.44346900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.050773,
+                  "lng" : 91.73789980000001
+               },
+               "southwest" : {
+                  "lat" : 27.383962,
+                  "lng" : 91.31767270000002
+               }
+            }
+         },
+         "place_id" : "ChIJlzJprVg4XDcRyBC89zbHQ_c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

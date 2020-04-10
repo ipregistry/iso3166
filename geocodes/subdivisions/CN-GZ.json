@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guizhou",
+               "short_name" : "Guizhou",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guizhou, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.2212755,
+                  "lng" : 109.5977555
+               },
+               "southwest" : {
+                  "lat" : 24.6182213,
+                  "lng" : 103.6014388
+               }
+            },
+            "location" : {
+               "lat" : 26.8429645,
+               "lng" : 107.2902839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.2212755,
+                  "lng" : 109.5977555
+               },
+               "southwest" : {
+                  "lat" : 24.6182213,
+                  "lng" : 103.6014388
+               }
+            }
+         },
+         "place_id" : "ChIJmdNtrupnvzYRXtWrAHYdnOw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

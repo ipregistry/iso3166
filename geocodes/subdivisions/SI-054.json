@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krško",
+               "short_name" : "Krško",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krško",
+               "short_name" : "Krško",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Krško",
+               "short_name" : "Krško",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8270",
+               "short_name" : "8270",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8270 Krško, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.98534679999999,
+                  "lng" : 15.5130312
+               },
+               "southwest" : {
+                  "lat" : 45.9360264,
+                  "lng" : 15.4666032
+               }
+            },
+            "location" : {
+               "lat" : 45.95899780000001,
+               "lng" : 15.4921312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.98534679999999,
+                  "lng" : 15.5130312
+               },
+               "southwest" : {
+                  "lat" : 45.9360264,
+                  "lng" : 15.4666032
+               }
+            }
+         },
+         "place_id" : "ChIJfRd28takZUcR8BWrTKbdJOI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

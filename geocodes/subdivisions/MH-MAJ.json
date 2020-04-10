@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majuro",
+               "short_name" : "Majuro",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Majuro Atoll",
+               "short_name" : "Majuro Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Majuro, Majuro Atoll, RMI",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.2264443,
+                  "lng" : 171.3868178
+               },
+               "southwest" : {
+                  "lat" : 7.0512628,
+                  "lng" : 171.0251189
+               }
+            },
+            "location" : {
+               "lat" : 7.1164214,
+               "lng" : 171.1857736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.2264443,
+                  "lng" : 171.3868178
+               },
+               "southwest" : {
+                  "lat" : 7.0512628,
+                  "lng" : 171.0251189
+               }
+            }
+         },
+         "place_id" : "ChIJ_eCXe1UYD2UROdm3RYWc-to",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

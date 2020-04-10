@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isiolo",
+               "short_name" : "Isiolo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isiolo County",
+               "short_name" : "Isiolo County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isiolo, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3724935,
+                  "lng" : 37.6229993
+               },
+               "southwest" : {
+                  "lat" : 0.327142,
+                  "lng" : 37.5574923
+               }
+            },
+            "location" : {
+               "lat" : 0.355636,
+               "lng" : 37.5833061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3724935,
+                  "lng" : 37.6229993
+               },
+               "southwest" : {
+                  "lat" : 0.327142,
+                  "lng" : 37.5574923
+               }
+            }
+         },
+         "place_id" : "ChIJf7arUyVmiBcRIXOvCp8du8k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

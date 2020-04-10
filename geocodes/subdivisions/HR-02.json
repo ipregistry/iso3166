@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krapina-Zagorje County",
+               "short_name" : "Krapina-Zagorje County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krapina-Zagorje County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2800141,
+                  "lng" : 16.2571245
+               },
+               "southwest" : {
+                  "lat" : 45.9023158,
+                  "lng" : 15.5954704
+               }
+            },
+            "location" : {
+               "lat" : 46.10133930000001,
+               "lng" : 15.8809693
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2800141,
+                  "lng" : 16.2571245
+               },
+               "southwest" : {
+                  "lat" : 45.9023158,
+                  "lng" : 15.5954704
+               }
+            }
+         },
+         "place_id" : "ChIJCeYzNirpZUcRMLQrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

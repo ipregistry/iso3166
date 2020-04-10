@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dakhin Shāhbāzpur Island",
+               "short_name" : "Dakhin Shāhbāzpur Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Bhola",
+               "short_name" : "Bhola",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Barisal",
+               "short_name" : "Barisal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dakhin Shāhbāzpur Island, Bangladesh",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4966667,
+               "lng" : 90.75638889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5069752,
+                  "lng" : 90.77239630000001
+               },
+               "southwest" : {
+                  "lat" : 22.4863574,
+                  "lng" : 90.7403815
+               }
+            }
+         },
+         "place_id" : "ChIJR9DUWt4xqzARCIqsk58bQFY",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

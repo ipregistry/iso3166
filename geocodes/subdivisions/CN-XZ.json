@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tibet",
+               "short_name" : "Tibet",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tibet, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4833342,
+                  "lng" : 99.11624089999999
+               },
+               "southwest" : {
+                  "lat" : 26.8548154,
+                  "lng" : 78.3955447
+               }
+            },
+            "location" : {
+               "lat" : 30.1533605,
+               "lng" : 88.7878678
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4833342,
+                  "lng" : 99.11624089999999
+               },
+               "southwest" : {
+                  "lat" : 26.8548154,
+                  "lng" : 78.3955447
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwSxKnH4xYTcRmdoThGIswR8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

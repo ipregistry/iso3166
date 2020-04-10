@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Békés",
+               "short_name" : "Békés",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5630",
+               "short_name" : "5630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Békés, 5630 Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.845706,
+                  "lng" : 21.219586
+               },
+               "southwest" : {
+                  "lat" : 46.715268,
+                  "lng" : 21.04361
+               }
+            },
+            "location" : {
+               "lat" : 46.7711185,
+               "lng" : 21.1289753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.845706,
+                  "lng" : 21.219586
+               },
+               "southwest" : {
+                  "lat" : 46.715268,
+                  "lng" : 21.04361
+               }
+            }
+         },
+         "place_id" : "ChIJIVU_z32BRkcRoBUeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

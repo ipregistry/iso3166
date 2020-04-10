@@ -1,0 +1,40 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barlavento Islands",
+               "short_name" : "Barlavento Islands",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barlavento Islands, Cape Verde",
+         "geometry" : {
+            "location" : {
+               "lat" : 16.8236845,
+               "lng" : -23.9934881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.9278149,
+                  "lng" : -21.9473574
+               },
+               "southwest" : {
+                  "lat" : 15.5636681,
+                  "lng" : -26.1678524
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtx-863UjTAkRGpTSSgCi2cw",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

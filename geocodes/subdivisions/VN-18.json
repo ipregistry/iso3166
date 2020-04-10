@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ninh Bình",
+               "short_name" : "Ninh Bình",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ninh Bình Province",
+               "short_name" : "Ninh Bình Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ninh Bình, Ninh Bình Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.2902152,
+                  "lng" : 106.0238172
+               },
+               "southwest" : {
+                  "lat" : 20.2000237,
+                  "lng" : 105.9270859
+               }
+            },
+            "location" : {
+               "lat" : 20.2506149,
+               "lng" : 105.9744536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.2902152,
+                  "lng" : 106.0238172
+               },
+               "southwest" : {
+                  "lat" : 20.2000237,
+                  "lng" : 105.9270859
+               }
+            }
+         },
+         "place_id" : "ChIJwcgQb6twNjERzOXbToh5iog",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Satakunta",
+               "short_name" : "Satakunta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Satakunta, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.3111024,
+                  "lng" : 23.0063108
+               },
+               "southwest" : {
+                  "lat" : 60.87200309999999,
+                  "lng" : 21.2691679
+               }
+            },
+            "location" : {
+               "lat" : 61.59327580000001,
+               "lng" : 22.1483081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.3111024,
+                  "lng" : 23.0063108
+               },
+               "southwest" : {
+                  "lat" : 60.87200309999999,
+                  "lng" : 21.2691679
+               }
+            }
+         },
+         "place_id" : "ChIJ1wwkI-MIiUYRYabgiw268M0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

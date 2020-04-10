@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garissa",
+               "short_name" : "Garissa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Garissa County",
+               "short_name" : "Garissa County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Garissa, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.4330976,
+                  "lng" : 39.6649362
+               },
+               "southwest" : {
+                  "lat" : -0.4851093,
+                  "lng" : 39.6322346
+               }
+            },
+            "location" : {
+               "lat" : -0.4532293,
+               "lng" : 39.6460988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.4330976,
+                  "lng" : 39.6649362
+               },
+               "southwest" : {
+                  "lat" : -0.4851093,
+                  "lng" : 39.6322346
+               }
+            }
+         },
+         "place_id" : "ChIJXeoyZalKIBgRoM3zor0b31Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

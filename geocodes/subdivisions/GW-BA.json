@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bafatá",
+               "short_name" : "Bafatá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bafata",
+               "short_name" : "Bafata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bafata",
+               "short_name" : "Bafata",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea-Bissau",
+               "short_name" : "GW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bafatá, Guinea-Bissau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.2007357,
+                  "lng" : -14.6261502
+               },
+               "southwest" : {
+                  "lat" : 12.1559758,
+                  "lng" : -14.6747733
+               }
+            },
+            "location" : {
+               "lat" : 12.1735243,
+               "lng" : -14.652952
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.2007357,
+                  "lng" : -14.6261502
+               },
+               "southwest" : {
+                  "lat" : 12.1559758,
+                  "lng" : -14.6747733
+               }
+            }
+         },
+         "place_id" : "ChIJxzEM9ZI45A4Ribk-wjRn5L0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

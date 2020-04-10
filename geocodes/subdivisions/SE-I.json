@@ -1,0 +1,147 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gotland",
+               "short_name" : "Gotland",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Gotland County",
+               "short_name" : "Gotland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gotland, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.92981529999999,
+                  "lng" : 19.1228587
+               },
+               "southwest" : {
+                  "lat" : 56.9049485,
+                  "lng" : 18.085562
+               }
+            },
+            "location" : {
+               "lat" : 57.46841209999999,
+               "lng" : 18.4867447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.92981529999999,
+                  "lng" : 19.1228587
+               },
+               "southwest" : {
+                  "lat" : 56.9049485,
+                  "lng" : 18.085562
+               }
+            }
+         },
+         "place_id" : "ChIJ_SpvlyGb90YRpPeT7aqwovY",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gotland County",
+               "short_name" : "Gotland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gotland County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.3998071,
+                  "lng" : 19.3505099
+               },
+               "southwest" : {
+                  "lat" : 56.903099,
+                  "lng" : 17.9535839
+               }
+            },
+            "location" : {
+               "lat" : 57.46841209999999,
+               "lng" : 18.4867447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.3998071,
+                  "lng" : 19.3505099
+               },
+               "southwest" : {
+                  "lat" : 56.903099,
+                  "lng" : 17.9535839
+               }
+            }
+         },
+         "place_id" : "ChIJiyZCHCEC90YRYIvkQfP-AAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gotland",
+               "short_name" : "Gotland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gotland County",
+               "short_name" : "Gotland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gotland, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.3998071,
+                  "lng" : 19.3505099
+               },
+               "southwest" : {
+                  "lat" : 56.903099,
+                  "lng" : 17.9535839
+               }
+            },
+            "location" : {
+               "lat" : 57.46841209999999,
+               "lng" : 18.4867447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.3998071,
+                  "lng" : 19.3505099
+               },
+               "southwest" : {
+                  "lat" : 56.903099,
+                  "lng" : 17.9535839
+               }
+            }
+         },
+         "place_id" : "ChIJ3yWE1esD90YRR5lEEHAsvf8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

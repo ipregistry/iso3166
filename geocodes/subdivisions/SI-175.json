@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prevalje",
+               "short_name" : "Prevalje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prevalje",
+               "short_name" : "Prevalje",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ravne na Koroškem",
+               "short_name" : "Ravne na Koroškem",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2391",
+               "short_name" : "2391",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2391 Prevalje, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5543747,
+                  "lng" : 14.9388744
+               },
+               "southwest" : {
+                  "lat" : 46.5355214,
+                  "lng" : 14.8907918
+               }
+            },
+            "location" : {
+               "lat" : 46.54687879999999,
+               "lng" : 14.9197478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5543747,
+                  "lng" : 14.9388744
+               },
+               "southwest" : {
+                  "lat" : 46.5355214,
+                  "lng" : 14.8907918
+               }
+            }
+         },
+         "place_id" : "ChIJEzwxOov5b0cRD3ZRip2WnqA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

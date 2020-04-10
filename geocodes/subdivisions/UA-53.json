@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poltava Oblast",
+               "short_name" : "Poltava Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poltava Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5535039,
+                  "lng" : 35.4904511
+               },
+               "southwest" : {
+                  "lat" : 48.73960109999999,
+                  "lng" : 32.08674999999999
+               }
+            },
+            "location" : {
+               "lat" : 49.58826699999999,
+               "lng" : 34.5514169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5535039,
+                  "lng" : 35.4904511
+               },
+               "southwest" : {
+                  "lat" : 48.73960109999999,
+                  "lng" : 32.08674999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5cdqFjh110ARcEH2iIQGAQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarlac City",
+               "short_name" : "Tarlac City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarlac",
+               "short_name" : "Tarlac",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Luzon",
+               "short_name" : "Central Luzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarlac City, Tarlac, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.543999,
+                  "lng" : 120.6978608
+               },
+               "southwest" : {
+                  "lat" : 15.4011971,
+                  "lng" : 120.5281542
+               }
+            },
+            "location" : {
+               "lat" : 15.4754786,
+               "lng" : 120.5963492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.543999,
+                  "lng" : 120.6978608
+               },
+               "southwest" : {
+                  "lat" : 15.4011971,
+                  "lng" : 120.5281542
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDY62Sj_GljMRS_1bel1B-RM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

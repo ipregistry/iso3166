@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Namentenga",
+               "short_name" : "Namentenga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Nord Region",
+               "short_name" : "Centre-Nord Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Namentenga, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.991249,
+                  "lng" : -0.2123129
+               },
+               "southwest" : {
+                  "lat" : 12.3899759,
+                  "lng" : -0.816957
+               }
+            },
+            "location" : {
+               "lat" : 13.0812584,
+               "lng" : -0.5257822999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.991249,
+                  "lng" : -0.2123129
+               },
+               "southwest" : {
+                  "lat" : 12.3899759,
+                  "lng" : -0.816957
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG_sbHOldKA4R7hixzcEzaBg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

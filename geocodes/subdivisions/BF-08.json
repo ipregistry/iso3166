@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Est Region",
+               "short_name" : "Est Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Est Region, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.564223,
+                  "lng" : 2.405395
+               },
+               "southwest" : {
+                  "lat" : 10.930996,
+                  "lng" : -0.391241
+               }
+            },
+            "location" : {
+               "lat" : 12.4365526,
+               "lng" : 0.9056623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.564223,
+                  "lng" : 2.405395
+               },
+               "southwest" : {
+                  "lat" : 10.930996,
+                  "lng" : -0.391241
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMc10Baik1hER7Nzuj7sIMeA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

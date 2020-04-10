@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vladimir Oblast",
+               "short_name" : "Vladimir Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vladimir Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.81098799999999,
+                  "lng" : 42.9729308
+               },
+               "southwest" : {
+                  "lat" : 55.104173,
+                  "lng" : 38.2718819
+               }
+            },
+            "location" : {
+               "lat" : 56.1553465,
+               "lng" : 40.5926685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.81098799999999,
+                  "lng" : 42.9729308
+               },
+               "southwest" : {
+                  "lat" : 55.104173,
+                  "lng" : 38.2718819
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz2agUxR1TEER-gV5T4yzCPo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

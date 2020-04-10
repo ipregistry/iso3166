@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stara Zagora",
+               "short_name" : "Stara Zagora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stara Zagora",
+               "short_name" : "Stara Zagora",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stara Zagora, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.44570880000001,
+                  "lng" : 25.6686784
+               },
+               "southwest" : {
+                  "lat" : 42.3928015,
+                  "lng" : 25.5810451
+               }
+            },
+            "location" : {
+               "lat" : 42.4257769,
+               "lng" : 25.6344644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.44570880000001,
+                  "lng" : 25.6686784
+               },
+               "southwest" : {
+                  "lat" : 42.3928015,
+                  "lng" : 25.5810451
+               }
+            }
+         },
+         "place_id" : "ChIJNTnoMAtpqEARsZ-HYhTtunQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chandpur",
+               "short_name" : "Chandpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chandpur District",
+               "short_name" : "Chandpur District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chandpur, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2421486,
+                  "lng" : 90.684106
+               },
+               "southwest" : {
+                  "lat" : 23.2097975,
+                  "lng" : 90.63738579999999
+               }
+            },
+            "location" : {
+               "lat" : 23.2320991,
+               "lng" : 90.66307499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2421486,
+                  "lng" : 90.684106
+               },
+               "southwest" : {
+                  "lat" : 23.2097975,
+                  "lng" : 90.63738579999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ0hXEO_8VDcRs6HpMwf1vpg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

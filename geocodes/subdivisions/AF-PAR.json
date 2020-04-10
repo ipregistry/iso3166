@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parwan",
+               "short_name" : "Parwan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parwan, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.424221,
+                  "lng" : 69.616604
+               },
+               "southwest" : {
+                  "lat" : 34.588373,
+                  "lng" : 68.1907899
+               }
+            },
+            "location" : {
+               "lat" : 34.9630977,
+               "lng" : 68.81088489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.424221,
+                  "lng" : 69.616604
+               },
+               "southwest" : {
+                  "lat" : 34.588373,
+                  "lng" : 68.1907899
+               }
+            }
+         },
+         "place_id" : "ChIJ1WolE2iP0TgRa2st5xx7J_o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

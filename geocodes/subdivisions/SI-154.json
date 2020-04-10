@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Dobje",
+               "short_name" : "Dobje",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Šentjur",
+               "short_name" : "Šentjur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dobje, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1601974,
+                  "lng" : 15.4371281
+               },
+               "southwest" : {
+                  "lat" : 46.10936359999999,
+                  "lng" : 15.3630527
+               }
+            },
+            "location" : {
+               "lat" : 46.1370037,
+               "lng" : 15.394129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1601974,
+                  "lng" : 15.4371281
+               },
+               "southwest" : {
+                  "lat" : 46.10936359999999,
+                  "lng" : 15.3630527
+               }
+            }
+         },
+         "place_id" : "ChIJCUWEn9aYZUcRLpITG07xl6Q",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

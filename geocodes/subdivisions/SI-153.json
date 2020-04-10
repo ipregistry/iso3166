@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cerkvenjak",
+               "short_name" : "Cerkvenjak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cerkvenjak",
+               "short_name" : "Cerkvenjak",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lenart",
+               "short_name" : "Lenart",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2236",
+               "short_name" : "2236",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2236 Cerkvenjak, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5695352,
+                  "lng" : 15.9554071
+               },
+               "southwest" : {
+                  "lat" : 46.5602132,
+                  "lng" : 15.9381732
+               }
+            },
+            "location" : {
+               "lat" : 46.5670711,
+               "lng" : 15.9429753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5695352,
+                  "lng" : 15.9554071
+               },
+               "southwest" : {
+                  "lat" : 46.5602132,
+                  "lng" : 15.9381732
+               }
+            }
+         },
+         "place_id" : "ChIJg_i6a-Jrb0cRmMfg8a-cC_4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

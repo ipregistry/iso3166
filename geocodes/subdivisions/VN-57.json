@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Binh Duong",
+               "short_name" : "Binh Duong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Binh Duong, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.5013561,
+                  "lng" : 106.966831
+               },
+               "southwest" : {
+                  "lat" : 10.86301,
+                  "lng" : 106.335151
+               }
+            },
+            "location" : {
+               "lat" : 11.3254024,
+               "lng" : 106.477017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.5013561,
+                  "lng" : 106.966831
+               },
+               "southwest" : {
+                  "lat" : 10.86301,
+                  "lng" : 106.335151
+               }
+            }
+         },
+         "place_id" : "ChIJeSj5jmq2dDERcxSNHInanzM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,100 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Butaleja",
+               "short_name" : "Butaleja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Butaleja",
+               "short_name" : "Butaleja",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Butaleja, Uganda",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.9252009999999999,
+               "lng" : 33.945702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.9363575000000001,
+                  "lng" : 33.9617094
+               },
+               "southwest" : {
+                  "lat" : 0.9140444,
+                  "lng" : 33.9296946
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ69aubEIufxcR-fh8VHtGMIs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manafwa",
+               "short_name" : "Manafwa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manafwa, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.0062541,
+                  "lng" : 34.484844
+               },
+               "southwest" : {
+                  "lat" : 0.7461110000000001,
+                  "lng" : 34.165519
+               }
+            },
+            "location" : {
+               "lat" : 0.9063599,
+               "lng" : 34.28660910000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.0062541,
+                  "lng" : 34.484844
+               },
+               "southwest" : {
+                  "lat" : 0.7461110000000001,
+                  "lng" : 34.165519
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9apCENdRfxcR0jXC3N_t2UE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

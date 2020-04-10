@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaga'ifomauga",
+               "short_name" : "Gaga'ifomauga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Samoa",
+               "short_name" : "WS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gaga'ifomauga, Samoa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.438899,
+                  "lng" : -172.372223
+               },
+               "southwest" : {
+                  "lat" : -13.623739,
+                  "lng" : -172.614889
+               }
+            },
+            "location" : {
+               "lat" : -13.5468007,
+               "lng" : -172.4969331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.438899,
+                  "lng" : -172.372223
+               },
+               "southwest" : {
+                  "lat" : -13.623739,
+                  "lng" : -172.614889
+               }
+            }
+         },
+         "place_id" : "ChIJL_iDM-ijunERY-SX0ullVAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

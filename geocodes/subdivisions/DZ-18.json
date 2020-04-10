@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jijel",
+               "short_name" : "Jijel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jijel",
+               "short_name" : "Jijel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jijel Province",
+               "short_name" : "Jijel Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jijel, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.829268,
+                  "lng" : 5.8226071
+               },
+               "southwest" : {
+                  "lat" : 36.7626019,
+                  "lng" : 5.6766808
+               }
+            },
+            "location" : {
+               "lat" : 36.8210144,
+               "lng" : 5.7634126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.829268,
+                  "lng" : 5.8226071
+               },
+               "southwest" : {
+                  "lat" : 36.7626019,
+                  "lng" : 5.6766808
+               }
+            }
+         },
+         "place_id" : "ChIJQ4RskHtg8hIR3GdcWOQLL70",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

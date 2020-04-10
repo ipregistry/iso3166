@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yomou",
+               "short_name" : "Yomou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yomou Prefecture",
+               "short_name" : "Yomou Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nzérékoré",
+               "short_name" : "Nzérékoré",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yomou, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.5800725,
+                  "lng" : -9.243450299999999
+               },
+               "southwest" : {
+                  "lat" : 7.5576959,
+                  "lng" : -9.2723751
+               }
+            },
+            "location" : {
+               "lat" : 7.569627899999999,
+               "lng" : -9.259157099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.5800725,
+                  "lng" : -9.243450299999999
+               },
+               "southwest" : {
+                  "lat" : 7.5576959,
+                  "lng" : -9.2723751
+               }
+            }
+         },
+         "place_id" : "ChIJ572zZ4wGpg8RydZdn40pTD8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

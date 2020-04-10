@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sud-Est Department",
+               "short_name" : "Sud-Est Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Haiti",
+               "short_name" : "HT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sud-Est Department, Haiti",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.384912,
+                  "lng" : -71.7241439
+               },
+               "southwest" : {
+                  "lat" : 18.0301479,
+                  "lng" : -73.01316489999999
+               }
+            },
+            "location" : {
+               "lat" : 18.2783598,
+               "lng" : -72.35479149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.384912,
+                  "lng" : -71.7241439
+               },
+               "southwest" : {
+                  "lat" : 18.0301479,
+                  "lng" : -73.01316489999999
+               }
+            }
+         },
+         "place_id" : "ChIJw2-UIJCwuY4RCea_ntvfuMs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "'Eua",
+               "short_name" : "'Eua",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tonga",
+               "short_name" : "TO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "'Eua, Tonga",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.2809579,
+                  "lng" : -174.9042969
+               },
+               "southwest" : {
+                  "lat" : -21.464621,
+                  "lng" : -174.9722599
+               }
+            },
+            "location" : {
+               "lat" : -21.3631956,
+               "lng" : -174.9297206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.2809579,
+                  "lng" : -174.9042969
+               },
+               "southwest" : {
+                  "lat" : -21.464621,
+                  "lng" : -174.9722599
+               }
+            }
+         },
+         "place_id" : "ChIJ0Re2O7RKi3ERo8NEj5WqXek",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

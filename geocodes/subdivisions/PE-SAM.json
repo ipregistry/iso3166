@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Martin",
+               "short_name" : "San Martin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Martin",
+               "short_name" : "San Martin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Martin, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.000388999999999,
+                  "lng" : -75.4867649
+               },
+               "southwest" : {
+                  "lat" : -6.869113899999999,
+                  "lng" : -76.4915628
+               }
+            },
+            "location" : {
+               "lat" : -6.4824943,
+               "lng" : -76.3726455
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.000388999999999,
+                  "lng" : -75.4867649
+               },
+               "southwest" : {
+                  "lat" : -6.869113899999999,
+                  "lng" : -76.4915628
+               }
+            }
+         },
+         "place_id" : "ChIJh9adgH88upER8WRWzryh87w",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Martín District",
+               "short_name" : "San Martín District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "El Dorado Province",
+               "short_name" : "El Dorado Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Martin",
+               "short_name" : "San Martin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22770",
+               "short_name" : "22770",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Martín District, 22770, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.2646089,
+                  "lng" : -76.669365
+               },
+               "southwest" : {
+                  "lat" : -6.5534079,
+                  "lng" : -76.9718128
+               }
+            },
+            "location" : {
+               "lat" : -6.4280804,
+               "lng" : -76.8490328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.2646089,
+                  "lng" : -76.669365
+               },
+               "southwest" : {
+                  "lat" : -6.5534079,
+                  "lng" : -76.9718128
+               }
+            }
+         },
+         "place_id" : "ChIJpWQvggG4sJER0FcE-gdiHMA",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

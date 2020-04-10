@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Absheron",
+               "short_name" : "Absheron",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Absheron, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.638273,
+                  "lng" : 49.90877709999999
+               },
+               "southwest" : {
+                  "lat" : 39.9478741,
+                  "lng" : 48.843646
+               }
+            },
+            "location" : {
+               "lat" : 40.3629693,
+               "lng" : 49.2736815
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.638273,
+                  "lng" : 49.90877709999999
+               },
+               "southwest" : {
+                  "lat" : 39.9478741,
+                  "lng" : 48.843646
+               }
+            }
+         },
+         "place_id" : "ChIJAQwrDLr7OkAR9zA6FpMZoKc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

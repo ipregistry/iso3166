@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Genoa",
+               "short_name" : "Genoa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genoa",
+               "short_name" : "Genoa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Genoa",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Liguria",
+               "short_name" : "Liguria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Genoa, Metropolitan City of Genoa, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.514882,
+                  "lng" : 9.065572999999999
+               },
+               "southwest" : {
+                  "lat" : 44.3790734,
+                  "lng" : 8.716091199999999
+               }
+            },
+            "location" : {
+               "lat" : 44.4056499,
+               "lng" : 8.946256
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.514882,
+                  "lng" : 9.065572999999999
+               },
+               "southwest" : {
+                  "lat" : 44.3790734,
+                  "lng" : 8.716091199999999
+               }
+            }
+         },
+         "place_id" : "ChIJrZrU3FJB0xIRCmKBGPGEaiM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

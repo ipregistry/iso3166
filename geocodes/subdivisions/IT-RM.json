@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Rome",
+               "short_name" : "RM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rome, Metropolitan City of Rome, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0505462,
+                  "lng" : 12.7302888
+               },
+               "southwest" : {
+                  "lat" : 41.769596,
+                  "lng" : 12.341707
+               }
+            },
+            "location" : {
+               "lat" : 41.9027835,
+               "lng" : 12.4963655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0505462,
+                  "lng" : 12.7302888
+               },
+               "southwest" : {
+                  "lat" : 41.769596,
+                  "lng" : 12.341707
+               }
+            }
+         },
+         "place_id" : "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

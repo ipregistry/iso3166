@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kouritenga",
+               "short_name" : "Kouritenga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Est Region",
+               "short_name" : "Centre-Est Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kouritenga, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.5637131,
+                  "lng" : -0.013345
+               },
+               "southwest" : {
+                  "lat" : 11.800252,
+                  "lng" : -0.549895
+               }
+            },
+            "location" : {
+               "lat" : 12.1631813,
+               "lng" : -0.2244662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.5637131,
+                  "lng" : -0.013345
+               },
+               "southwest" : {
+                  "lat" : 11.800252,
+                  "lng" : -0.549895
+               }
+            }
+         },
+         "place_id" : "ChIJH7FS26uMKQ4RApJcfHOONgo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

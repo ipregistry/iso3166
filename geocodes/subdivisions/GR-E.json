@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thessalia",
+               "short_name" : "Thessalia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thessalia, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1961446,
+                  "lng" : 24.3332601
+               },
+               "southwest" : {
+                  "lat" : 38.969701,
+                  "lng" : 21.1204205
+               }
+            },
+            "location" : {
+               "lat" : 39.6102887,
+               "lng" : 22.047637
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1961446,
+                  "lng" : 24.3332601
+               },
+               "southwest" : {
+                  "lat" : 38.969701,
+                  "lng" : 21.1204205
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpShBgS95pxQR4MW54iy9AAE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

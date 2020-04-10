@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sololá",
+               "short_name" : "Sololá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sololá",
+               "short_name" : "Sololá",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sololá Department",
+               "short_name" : "Sololá Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sololá, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.78758,
+                  "lng" : -91.1657524
+               },
+               "southwest" : {
+                  "lat" : 14.7473686,
+                  "lng" : -91.1936903
+               }
+            },
+            "location" : {
+               "lat" : 14.7666085,
+               "lng" : -91.17850159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.78758,
+                  "lng" : -91.1657524
+               },
+               "southwest" : {
+                  "lat" : 14.7473686,
+                  "lng" : -91.1936903
+               }
+            }
+         },
+         "place_id" : "ChIJxwbxTu1MiYURSzABm6KJrT0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

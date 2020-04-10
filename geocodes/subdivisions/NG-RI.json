@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rivers",
+               "short_name" : "RV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rivers, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.7300361,
+                  "lng" : 7.597785000000001
+               },
+               "southwest" : {
+                  "lat" : 4.313126,
+                  "lng" : 6.3983939
+               }
+            },
+            "location" : {
+               "lat" : 4.8396414,
+               "lng" : 6.911237799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.7300361,
+                  "lng" : 7.597785000000001
+               },
+               "southwest" : {
+                  "lat" : 4.313126,
+                  "lng" : 6.3983939
+               }
+            }
+         },
+         "place_id" : "ChIJ4y71DGjraRARXLlP8kNiVIg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

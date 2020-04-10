@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isere",
+               "short_name" : "Isere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isere, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.883397,
+                  "lng" : 6.359309
+               },
+               "southwest" : {
+                  "lat" : 44.695873,
+                  "lng" : 4.7425939
+               }
+            },
+            "location" : {
+               "lat" : 44.9957745,
+               "lng" : 5.9293476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.883397,
+                  "lng" : 6.359309
+               },
+               "southwest" : {
+                  "lat" : 44.695873,
+                  "lng" : 4.7425939
+               }
+            }
+         },
+         "place_id" : "ChIJh1d4BM_oikcR4Ce55CqrCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

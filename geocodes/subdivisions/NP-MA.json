@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Development Region",
+               "short_name" : "Far-Western Development Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mahakali, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4097501,
+                  "lng" : 80.33278229999999
+               },
+               "southwest" : {
+                  "lat" : 29.3691794,
+                  "lng" : 80.2704906
+               }
+            },
+            "location" : {
+               "lat" : 29.3929765,
+               "lng" : 80.2823063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4097501,
+                  "lng" : 80.33278229999999
+               },
+               "southwest" : {
+                  "lat" : 29.3691794,
+                  "lng" : 80.2704906
+               }
+            }
+         },
+         "place_id" : "ChIJ-yceY6AXoTkRdX6Wjk5AflE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

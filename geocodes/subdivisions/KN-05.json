@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint James Windward Parish",
+               "short_name" : "Saint James Windward Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint James Windward Parish, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.2079451,
+                  "lng" : -62.5399261
+               },
+               "southwest" : {
+                  "lat" : 17.1396658,
+                  "lng" : -62.61570700000001
+               }
+            },
+            "location" : {
+               "lat" : 17.1769633,
+               "lng" : -62.57960259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.2079451,
+                  "lng" : -62.5399261
+               },
+               "southwest" : {
+                  "lat" : 17.1396658,
+                  "lng" : -62.61570700000001
+               }
+            }
+         },
+         "place_id" : "ChIJgYjsWiMWEowRFuf6nh6e82c",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

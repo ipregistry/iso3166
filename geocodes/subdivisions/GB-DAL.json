@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darlington",
+               "short_name" : "Darlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darlington",
+               "short_name" : "Darlington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Darlington",
+               "short_name" : "Darlington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Darlington, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.55878449999999,
+                  "lng" : -1.4971054
+               },
+               "southwest" : {
+                  "lat" : 54.50360509999999,
+                  "lng" : -1.6095913
+               }
+            },
+            "location" : {
+               "lat" : 54.52361,
+               "lng" : -1.559458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.55878449999999,
+                  "lng" : -1.4971054
+               },
+               "southwest" : {
+                  "lat" : 54.50360509999999,
+                  "lng" : -1.6095913
+               }
+            }
+         },
+         "place_id" : "ChIJiRN1LSAkfEgR7VDa31nzwIY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

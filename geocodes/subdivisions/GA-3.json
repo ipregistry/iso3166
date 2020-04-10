@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moyen-Ogooue",
+               "short_name" : "Moyen-Ogooue",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Gabon",
+               "short_name" : "GA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moyen-Ogooue, Gabon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.2369339,
+                  "lng" : 11.588225
+               },
+               "southwest" : {
+                  "lat" : -1.247179,
+                  "lng" : 9.563855
+               }
+            },
+            "location" : {
+               "lat" : -0.442784,
+               "lng" : 10.439656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.2369339,
+                  "lng" : 11.588225
+               },
+               "southwest" : {
+                  "lat" : -1.247179,
+                  "lng" : 9.563855
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIwalqSuxgRoRyILBHw9uiXA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

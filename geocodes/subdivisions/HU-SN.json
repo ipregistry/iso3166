@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sopron",
+               "short_name" : "Sopron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sopron, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7590711,
+                  "lng" : 16.7485101
+               },
+               "southwest" : {
+                  "lat" : 47.6267501,
+                  "lng" : 16.4215489
+               }
+            },
+            "location" : {
+               "lat" : 47.68166189999999,
+               "lng" : 16.5844795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7590711,
+                  "lng" : 16.7485101
+               },
+               "southwest" : {
+                  "lat" : 47.6267501,
+                  "lng" : 16.4215489
+               }
+            }
+         },
+         "place_id" : "ChIJDRZIUGA7bEcRoBIeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

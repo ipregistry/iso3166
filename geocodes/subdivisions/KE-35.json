@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nyandarua County",
+               "short_name" : "Nyandarua County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nyandarua County, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.1372437,
+                  "lng" : 36.7357133
+               },
+               "southwest" : {
+                  "lat" : -0.9213762999999999,
+                  "lng" : 36.2014123
+               }
+            },
+            "location" : {
+               "lat" : -0.1803855,
+               "lng" : 36.5229641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.1372437,
+                  "lng" : 36.7357133
+               },
+               "southwest" : {
+                  "lat" : -0.9213762999999999,
+                  "lng" : 36.2014123
+               }
+            }
+         },
+         "place_id" : "ChIJl01Ib--xKRgRM6FGee-2_Rw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

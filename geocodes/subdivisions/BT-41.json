@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trashigang",
+               "short_name" : "Trashigang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trashigang",
+               "short_name" : "Trashigang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trashigang, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3450866,
+                  "lng" : 91.5604877
+               },
+               "southwest" : {
+                  "lat" : 27.3239664,
+                  "lng" : 91.5487289
+               }
+            },
+            "location" : {
+               "lat" : 27.3325014,
+               "lng" : 91.55234349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3450866,
+                  "lng" : 91.5604877
+               },
+               "southwest" : {
+                  "lat" : 27.3239664,
+                  "lng" : 91.5487289
+               }
+            }
+         },
+         "place_id" : "ChIJ5-74CIxyXDcRlr4vTqtqWpM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

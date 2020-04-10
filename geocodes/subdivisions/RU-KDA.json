@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krasnodar Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.880302,
+                  "lng" : 41.7404281
+               },
+               "southwest" : {
+                  "lat" : 43.384745,
+                  "lng" : 36.5980481
+               }
+            },
+            "location" : {
+               "lat" : 45.6415289,
+               "lng" : 39.7055977
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.880302,
+                  "lng" : 41.7404281
+               },
+               "southwest" : {
+                  "lat" : 43.384745,
+                  "lng" : 36.5980481
+               }
+            }
+         },
+         "place_id" : "ChIJO4mGd7lC8EARgJXxg6WjAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+     "lat" : 45.138848,
+                  "lng" : 39.1489369
+               },
+               "southwest" : {
+                  "lat" : 44.976675,
+                  "lng" : 38.846411
+               }
+            }
+         },
+         "place_id" : "ChIJszVFcWRF8EARtr7EVk95IPc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

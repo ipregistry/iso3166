@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Distrito Nacional",
+               "short_name" : "Distrito Nacional",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Santo Domingo",
+               "short_name" : "Santo Domingo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Distrito Nacional, Santo Domingo, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.5475663,
+                  "lng" : -69.8749567
+               },
+               "southwest" : {
+                  "lat" : 18.4125184,
+                  "lng" : -70.01880319999999
+               }
+            },
+            "location" : {
+               "lat" : 18.4860575,
+               "lng" : -69.93121169999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5475663,
+                  "lng" : -69.8749567
+               },
+               "southwest" : {
+                  "lat" : 18.4125184,
+                  "lng" : -70.01880319999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9bbx3jiIr44Rn83_cBw_FCk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

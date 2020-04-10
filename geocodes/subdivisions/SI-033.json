@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šalovci",
+               "short_name" : "Šalovci",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Šalovci",
+               "short_name" : "Šalovci",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Murska Sobota",
+               "short_name" : "Murska Sobota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9204",
+               "short_name" : "9204",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9204 Šalovci, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8480024,
+                  "lng" : 16.3113042
+               },
+               "southwest" : {
+                  "lat" : 46.8010138,
+                  "lng" : 16.2538269
+               }
+            },
+            "location" : {
+               "lat" : 46.8235919,
+               "lng" : 16.2881649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8480024,
+                  "lng" : 16.3113042
+               },
+               "southwest" : {
+                  "lat" : 46.8010138,
+                  "lng" : 16.2538269
+               }
+            }
+         },
+         "place_id" : "ChIJxZjnj8wjb0cRMO4_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

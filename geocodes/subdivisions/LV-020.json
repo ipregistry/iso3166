@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carnikava Municipality",
+               "short_name" : "Carnikava Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Carnikavas novads",
+               "short_name" : "Carnikavas novads",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2163",
+               "short_name" : "2163",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carnikava Municipality, Carnikavas novads, LV-2163, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.1951419,
+                  "lng" : 24.3476979
+               },
+               "southwest" : {
+                  "lat" : 57.0560789,
+                  "lng" : 24.1178149
+               }
+            },
+            "location" : {
+               "lat" : 57.1024121,
+               "lng" : 24.2108662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.1951419,
+                  "lng" : 24.3476979
+               },
+               "southwest" : {
+                  "lat" : 57.0560789,
+                  "lng" : 24.1178149
+               }
+            }
+         },
+         "place_id" : "ChIJQ-_d0PG37kYR8AHzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

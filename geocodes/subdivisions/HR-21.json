@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zagreb",
+               "short_name" : "Zagreb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zagreb, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9395392,
+                  "lng" : 16.1069727
+               },
+               "southwest" : {
+                  "lat" : 45.7408527,
+                  "lng" : 15.8216904
+               }
+            },
+            "location" : {
+               "lat" : 45.8150108,
+               "lng" : 15.9819189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9395392,
+                  "lng" : 16.1069727
+               },
+               "southwest" : {
+                  "lat" : 45.7408527,
+                  "lng" : 15.8216904
+               }
+            }
+         },
+         "place_id" : "ChIJOcwCyZLWZUcRisL7KJYkRTo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

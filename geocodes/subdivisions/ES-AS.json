@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asturias",
+               "short_name" : "Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Asturias, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6665323,
+                  "lng" : -4.5105944
+               },
+               "southwest" : {
+                  "lat" : 42.8825428,
+                  "lng" : -7.1824889
+               }
+            },
+            "location" : {
+               "lat" : 43.3613953,
+               "lng" : -5.8593267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6665323,
+                  "lng" : -4.5105944
+               },
+               "southwest" : {
+                  "lat" : 42.8825428,
+                  "lng" : -7.1824889
+               }
+            }
+         },
+         "place_id" : "ChIJnbCeYPqMNg0ROp7GfSvztfg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

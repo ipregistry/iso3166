@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Galați",
+               "short_name" : "Galați",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galati",
+               "short_name" : "Galati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galați",
+               "short_name" : "GL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Galați, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.484793,
+                  "lng" : 28.1434536
+               },
+               "southwest" : {
+                  "lat" : 45.3905241,
+                  "lng" : 27.9515362
+               }
+            },
+            "location" : {
+               "lat" : 45.4353208,
+               "lng" : 28.0079945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.484793,
+                  "lng" : 28.1434536
+               },
+               "southwest" : {
+                  "lat" : 45.3905241,
+                  "lng" : 27.9515362
+               }
+            }
+         },
+         "place_id" : "ChIJtcTyieXetkARK3AtJS8011M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

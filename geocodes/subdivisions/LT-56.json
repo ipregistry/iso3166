@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vilkaviškis",
+               "short_name" : "Vilkaviškis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vilkaviškis District Municipality",
+               "short_name" : "Vilkaviškis District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marijampolė County",
+               "short_name" : "Marijampolė County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vilkaviškis, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.669277,
+                  "lng" : 23.0612441
+               },
+               "southwest" : {
+                  "lat" : 54.6333359,
+                  "lng" : 23.0094291
+               }
+            },
+            "location" : {
+               "lat" : 54.651945,
+               "lng" : 23.035155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.669277,
+                  "lng" : 23.0612441
+               },
+               "southwest" : {
+                  "lat" : 54.6333359,
+                  "lng" : 23.0094291
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN3zKSwIx4UYRINrpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

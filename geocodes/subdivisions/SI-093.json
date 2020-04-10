@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Podvelka",
+               "short_name" : "Podvelka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Podvelka",
+               "short_name" : "Podvelka",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Radlje ob Dravi",
+               "short_name" : "Radlje ob Dravi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2363",
+               "short_name" : "2363",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2363 Podvelka, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5930529,
+                  "lng" : 15.3532612
+               },
+               "southwest" : {
+                  "lat" : 46.562105,
+                  "lng" : 15.3199505
+               }
+            },
+            "location" : {
+               "lat" : 46.5903517,
+               "lng" : 15.3310343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5930529,
+                  "lng" : 15.3532612
+               },
+               "southwest" : {
+                  "lat" : 46.562105,
+                  "lng" : 15.3199505
+               }
+            }
+         },
+         "place_id" : "ChIJq-7h19KRb0cR8v6jI7u2K1I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Badulla",
+               "short_name" : "Badulla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uva Province",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Badulla, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.621517099999999,
+                  "lng" : 81.271277
+               },
+               "southwest" : {
+                  "lat" : 6.542474,
+                  "lng" : 80.77618699999999
+               }
+            },
+            "location" : {
+               "lat" : 7.0495744,
+               "lng" : 81.0312989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.621517099999999,
+                  "lng" : 81.271277
+               },
+               "southwest" : {
+                  "lat" : 6.542474,
+                  "lng" : 80.77618699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-c6AECuJ5DoRJZaP6Z5ObQA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

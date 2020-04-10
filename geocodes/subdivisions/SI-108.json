@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ruše",
+               "short_name" : "Ruše",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ruše",
+               "short_name" : "Ruše",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ruše",
+               "short_name" : "Ruše",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2342",
+               "short_name" : "2342",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2342 Ruše, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5540659,
+                  "lng" : 15.5300521
+               },
+               "southwest" : {
+                  "lat" : 46.5305317,
+                  "lng" : 15.4850029
+               }
+            },
+            "location" : {
+               "lat" : 46.5399962,
+               "lng" : 15.5073987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5540659,
+                  "lng" : 15.5300521
+               },
+               "southwest" : {
+                  "lat" : 46.5305317,
+                  "lng" : 15.4850029
+               }
+            }
+         },
+         "place_id" : "ChIJ42wv-DWDb0cRWtBnpG7zfTU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

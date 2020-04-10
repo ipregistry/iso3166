@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portland Parish",
+               "short_name" : "Portland Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "JM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portland Parish, Jamaica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.26728,
+                  "lng" : -76.25551589999999
+               },
+               "southwest" : {
+                  "lat" : 17.9826419,
+                  "lng" : -76.7609059
+               }
+            },
+            "location" : {
+               "lat" : 18.0844274,
+               "lng" : -76.4100267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.26728,
+                  "lng" : -76.25551589999999
+               },
+               "southwest" : {
+                  "lat" : 17.9826419,
+                  "lng" : -76.7609059
+               }
+            }
+         },
+         "place_id" : "ChIJvyh0wjvSxI4R5sp3IWhqbU4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pagėgiai",
+               "short_name" : "Pagėgiai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pagėgiai Municipality",
+               "short_name" : "Pagėgiai Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tauragė County",
+               "short_name" : "Tauragė County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pagėgiai, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1477619,
+                  "lng" : 21.9232098
+               },
+               "southwest" : {
+                  "lat" : 55.1241359,
+                  "lng" : 21.886892
+               }
+            },
+            "location" : {
+               "lat" : 55.1343119,
+               "lng" : 21.904681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1477619,
+                  "lng" : 21.9232098
+               },
+               "southwest" : {
+                  "lat" : 55.1241359,
+                  "lng" : 21.886892
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx27KxVps5EYRUNvpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

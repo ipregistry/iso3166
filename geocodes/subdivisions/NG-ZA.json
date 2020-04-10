@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamfara",
+               "short_name" : "Zamfara",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamfara, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.3600756,
+                  "lng" : 6.195132
+               },
+               "southwest" : {
+                  "lat" : 11.9505314,
+                  "lng" : 4.0695454
+               }
+            },
+            "location" : {
+               "lat" : 12.1626042,
+               "lng" : 5.120744699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.3600756,
+                  "lng" : 6.195132
+               },
+               "southwest" : {
+                  "lat" : 11.9505314,
+                  "lng" : 4.0695454
+               }
+            }
+         },
+         "place_id" : "ChIJn-mEVrXfyxER7i0q48YUrEA",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lielvārde Municipality",
+               "short_name" : "Lielvārde Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lielvārde Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.81786400000001,
+                  "lng" : 25.1013629
+               },
+               "southwest" : {
+                  "lat" : 56.6047791,
+                  "lng" : 24.7706849
+               }
+            },
+            "location" : {
+               "lat" : 56.7392976,
+               "lng" : 24.9711618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.81786400000001,
+                  "lng" : 25.1013629
+               },
+               "southwest" : {
+                  "lat" : 56.6047791,
+                  "lng" : 24.7706849
+               }
+            }
+         },
+         "place_id" : "ChIJtY0Mjw0Z6UYR8ADzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

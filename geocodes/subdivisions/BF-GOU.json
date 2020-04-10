@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gourma",
+               "short_name" : "Gourma",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Est Region",
+               "short_name" : "Est Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gourma, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.774307,
+                  "lng" : 1.325947
+               },
+               "southwest" : {
+                  "lat" : 11.653354,
+                  "lng" : -0.14185
+               }
+            },
+            "location" : {
+               "lat" : 12.1624473,
+               "lng" : 0.6773045999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.774307,
+                  "lng" : 1.325947
+               },
+               "southwest" : {
+                  "lat" : 11.653354,
+                  "lng" : -0.14185
+               }
+            }
+         },
+         "place_id" : "ChIJCRo6q-SA1hERdqoVWHQ2mpU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

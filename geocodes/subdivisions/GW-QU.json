@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quinara",
+               "short_name" : "Quinara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea-Bissau",
+               "short_name" : "GW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quinara, Guinea-Bissau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.9419759,
+                  "lng" : -14.8287029
+               },
+               "southwest" : {
+                  "lat" : 11.3275231,
+                  "lng" : -15.615262
+               }
+            },
+            "location" : {
+               "lat" : 11.795562,
+               "lng" : -15.1726816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.9419759,
+                  "lng" : -14.8287029
+               },
+               "southwest" : {
+                  "lat" : 11.3275231,
+                  "lng" : -15.615262
+               }
+            }
+         },
+         "place_id" : "ChIJdeCc_RlK4Q4R9WFFJXjvAFg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

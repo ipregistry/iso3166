@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samut Prakan",
+               "short_name" : "Samut Prakan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pak Nam",
+               "short_name" : "ต.ปากน้ำ",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mueang Samut Prakan District",
+               "short_name" : "อ.เมืองสมุทรปราการ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Samut Prakan",
+               "short_name" : "จ.สมุทรปราการ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samut Prakan, Pak Nam, Mueang Samut Prakan District, Samut Prakan, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.6281264,
+                  "lng" : 100.6132723
+               },
+               "southwest" : {
+                  "lat" : 13.5727935,
+                  "lng" : 100.5830378
+               }
+            },
+            "location" : {
+               "lat" : 13.5954062,
+               "lng" : 100.6072401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.6281264,
+                  "lng" : 100.6132723
+               },
+               "southwest" : {
+                  "lat" : 13.5727935,
+                  "lng" : 100.5830378
+               }
+            }
+         },
+         "place_id" : "ChIJTUos7Eun4jARbaIyL8LzBfw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saarland",
+               "short_name" : "SL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saarland, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6394088,
+                  "lng" : 7.404583799999999
+               },
+               "southwest" : {
+                  "lat" : 49.1119452,
+                  "lng" : 6.357608399999999
+               }
+            },
+            "location" : {
+               "lat" : 49.3964234,
+               "lng" : 7.0229607
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6394088,
+                  "lng" : 7.404583799999999
+               },
+               "southwest" : {
+                  "lat" : 49.1119452,
+                  "lng" : 6.357608399999999
+               }
+            }
+         },
+         "place_id" : "ChIJMR-owu-klUcRcHncENXUIgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

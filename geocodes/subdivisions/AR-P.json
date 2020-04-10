@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Formosa",
+               "short_name" : "Formosa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Formosa Department",
+               "short_name" : "Formosa Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Formosa Province",
+               "short_name" : "Formosa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Formosa, Formosa Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.124033,
+                  "lng" : -58.141996
+               },
+               "southwest" : {
+                  "lat" : -26.2202789,
+                  "lng" : -58.24794369999999
+               }
+            },
+            "location" : {
+               "lat" : -26.1857768,
+               "lng" : -58.1755669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.124033,
+                  "lng" : -58.141996
+               },
+               "southwest" : {
+                  "lat" : -26.2202789,
+                  "lng" : -58.24794369999999
+               }
+            }
+         },
+         "place_id" : "ChIJBU_PiOSlXJQRcq4bWubrygs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

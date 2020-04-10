@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krabi",
+               "short_name" : "Krabi",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pak Nam",
+               "short_name" : "Pak Nam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Krabi District",
+               "short_name" : "Mueang Krabi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krabi",
+               "short_name" : "จ.กระบี่",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81000",
+               "short_name" : "81000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Krabi, Pak Nam, Mueang Krabi District, Krabi 81000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.109459899999999,
+                  "lng" : 98.9221194
+               },
+               "southwest" : {
+                  "lat" : 8.052871,
+                  "lng" : 98.8825509
+               }
+            },
+            "location" : {
+               "lat" : 8.0854803,
+               "lng" : 98.9062856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.109459899999999,
+                  "lng" : 98.9221194
+               },
+               "southwest" : {
+                  "lat" : 8.052871,
+                  "lng" : 98.8825509
+               }
+            }
+         },
+         "place_id" : "ChIJBy8kHpmUUTARV5vJ1-QTjnQ",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hama",
+               "short_name" : "Hama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hama",
+               "short_name" : "Hama",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hama Governorate",
+               "short_name" : "Hama Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hama, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.1782599,
+                  "lng" : 36.8102111
+               },
+               "southwest" : {
+                  "lat" : 35.0951175,
+                  "lng" : 36.6906068
+               }
+            },
+            "location" : {
+               "lat" : 35.1408881,
+               "lng" : 36.7551993
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.1782599,
+                  "lng" : 36.8102111
+               },
+               "southwest" : {
+                  "lat" : 35.0951175,
+                  "lng" : 36.6906068
+               }
+            }
+         },
+         "place_id" : "ChIJZbjVzY-CJBUR77Vi7lY_1GI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

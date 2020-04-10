@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jēkabpils",
+               "short_name" : "Jēkabpils",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jēkabpils, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.5316519,
+                  "lng" : 25.933861
+               },
+               "southwest" : {
+                  "lat" : 56.46945220000001,
+                  "lng" : 25.8228574
+               }
+            },
+            "location" : {
+               "lat" : 56.501455,
+               "lng" : 25.878299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5316519,
+                  "lng" : 25.933861
+               },
+               "southwest" : {
+                  "lat" : 56.46945220000001,
+                  "lng" : 25.8228574
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtdRJw1i26UYRwAPzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

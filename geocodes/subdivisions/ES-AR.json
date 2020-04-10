@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aragon",
+               "short_name" : "Aragon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aragon, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9244952,
+                  "lng" : 0.7713066
+               },
+               "southwest" : {
+                  "lat" : 39.846778,
+                  "lng" : -2.1736712
+               }
+            },
+            "location" : {
+               "lat" : 41.5976275,
+               "lng" : -0.9056623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9244952,
+                  "lng" : 0.7713066
+               },
+               "southwest" : {
+                  "lat" : 39.846778,
+                  "lng" : -2.1736712
+               }
+            }
+         },
+         "place_id" : "ChIJ-W5lP-4UWQ0RWP14-ZVCICA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

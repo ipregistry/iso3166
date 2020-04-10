@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital Department",
+               "short_name" : "Capital Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Juan Province",
+               "short_name" : "San Juan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Juan, San Juan Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.5018425,
+                  "lng" : -68.4962616
+               },
+               "southwest" : {
+                  "lat" : -31.56170849999999,
+                  "lng" : -68.5690917
+               }
+            },
+            "location" : {
+               "lat" : -31.5351074,
+               "lng" : -68.5385941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.5018425,
+                  "lng" : -68.4962616
+               },
+               "southwest" : {
+                  "lat" : -31.56170849999999,
+                  "lng" : -68.5690917
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl9Q8oylAgZYRs_w8I6Cj878",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

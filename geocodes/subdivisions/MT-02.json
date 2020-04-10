@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balzan",
+               "short_name" : "Balzan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Balzan, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9019305,
+                  "lng" : 14.4573748
+               },
+               "southwest" : {
+                  "lat" : 35.8928049,
+                  "lng" : 14.446206
+               }
+            },
+            "location" : {
+               "lat" : 35.8957414,
+               "lng" : 14.4534065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9019305,
+                  "lng" : 14.4573748
+               },
+               "southwest" : {
+                  "lat" : 35.8928049,
+                  "lng" : 14.446206
+               }
+            }
+         },
+         "place_id" : "ChIJZ0IzIB9QDhMR5smRw_L78Rg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

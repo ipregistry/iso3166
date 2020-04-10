@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Essaouira",
+               "short_name" : "Essaouira",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essaouira",
+               "short_name" : "Essaouira",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marrakesh-Safi",
+               "short_name" : "Marrakesh-Safi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essaouira, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5268173,
+                  "lng" : -9.7492435
+               },
+               "southwest" : {
+                  "lat" : 31.4950698,
+                  "lng" : -9.775840799999999
+               }
+            },
+            "location" : {
+               "lat" : 31.5084926,
+               "lng" : -9.759504099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5268173,
+                  "lng" : -9.7492435
+               },
+               "southwest" : {
+                  "lat" : 31.4950698,
+                  "lng" : -9.775840799999999
+               }
+            }
+         },
+         "place_id" : "ChIJz4xYn06arQ0RMH1dbRcaQlc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

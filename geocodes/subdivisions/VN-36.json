@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ninh Thuan Province",
+               "short_name" : "Ninh Thuan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ninh Thuan Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.169476,
+                  "lng" : 109.2333109
+               },
+               "southwest" : {
+                  "lat" : 11.3066479,
+                  "lng" : 108.550922
+               }
+            },
+            "location" : {
+               "lat" : 11.6738767,
+               "lng" : 108.8629572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.169476,
+                  "lng" : 109.2333109
+               },
+               "southwest" : {
+                  "lat" : 11.3066479,
+                  "lng" : 108.550922
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrwn6F26VcDERRZ6Odp6S9fg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubai",
+               "short_name" : "Dubai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubai",
+               "short_name" : "Dubai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Arab Emirates",
+               "short_name" : "AE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubai - United Arab Emirates",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            },
+            "location" : {
+               "lat" : 25.2048493,
+               "lng" : 55.2707828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3585607,
+                  "lng" : 55.5650393
+               },
+               "southwest" : {
+                  "lat" : 24.7921359,
+                  "lng" : 54.89045429999999
+               }
+            }
+         },
+         "place_id" : "ChIJRcbZaklDXz4RYlEphFBu5r0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luapula",
+               "short_name" : "Luapula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kawambwa",
+               "short_name" : "Kawambwa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luapula Province",
+               "short_name" : "Luapula Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luapula, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -9.766667,
+               "lng" : 28.883333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.755670499999999,
+                  "lng" : 28.8993404
+               },
+               "southwest" : {
+                  "lat" : -9.777663100000002,
+                  "lng" : 28.8673256
+               }
+            }
+         },
+         "place_id" : "ChIJewbhUwvFChkR2YLygGsa5n0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

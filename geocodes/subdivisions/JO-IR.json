@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irbid",
+               "short_name" : "Irbid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Irbid Qasabah District",
+               "short_name" : "Irbid Qasabah District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Irbid Governorate",
+               "short_name" : "Irbid Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irbid, Jordan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5828848,
+                  "lng" : 35.8837416
+               },
+               "southwest" : {
+                  "lat" : 32.5221476,
+                  "lng" : 35.8110777
+               }
+            },
+            "location" : {
+               "lat" : 32.5568095,
+               "lng" : 35.846887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5828848,
+                  "lng" : 35.8837416
+               },
+               "southwest" : {
+                  "lat" : 32.5221476,
+                  "lng" : 35.8110777
+               }
+            }
+         },
+         "place_id" : "ChIJUwSsbZF2HBURgn0f2BPhFlQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

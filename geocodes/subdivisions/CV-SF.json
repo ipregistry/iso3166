@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sao Filipe",
+               "short_name" : "Sao Filipe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sao Filipe",
+               "short_name" : "Sao Filipe",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sao Filipe, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.9069012,
+                  "lng" : -24.4744921
+               },
+               "southwest" : {
+                  "lat" : 14.8795941,
+                  "lng" : -24.5032572
+               }
+            },
+            "location" : {
+               "lat" : 14.8951679,
+               "lng" : -24.4945636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.9069012,
+                  "lng" : -24.4744921
+               },
+               "southwest" : {
+                  "lat" : 14.8795941,
+                  "lng" : -24.5032572
+               }
+            }
+         },
+         "place_id" : "ChIJcVxBDzMWNgkRVRw-5BFbIjk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

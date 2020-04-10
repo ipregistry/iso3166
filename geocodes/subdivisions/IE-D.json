@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            },
+            "location" : {
+               "lat" : 53.3498053,
+               "lng" : -6.2603097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            }
+         },
+         "place_id" : "ChIJL6wn6oAOZ0gRoHExl6nHAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

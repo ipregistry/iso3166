@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kano",
+               "short_name" : "Kano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kano",
+               "short_name" : "KN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kano, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.0829016,
+                  "lng" : 8.670476499999999
+               },
+               "southwest" : {
+                  "lat" : 11.912873,
+                  "lng" : 8.411321599999999
+               }
+            },
+            "location" : {
+               "lat" : 12.0021794,
+               "lng" : 8.591956099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.0829016,
+                  "lng" : 8.670476499999999
+               },
+               "southwest" : {
+                  "lat" : 11.912873,
+                  "lng" : 8.411321599999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8fP_8O-ArhER61TaowCH_4U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Louga",
+               "short_name" : "Louga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Louga",
+               "short_name" : "Louga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louga Region",
+               "short_name" : "Louga Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Louga, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.6584121,
+                  "lng" : -16.1677551
+               },
+               "southwest" : {
+                  "lat" : 15.5760808,
+                  "lng" : -16.273842
+               }
+            },
+            "location" : {
+               "lat" : 15.6141768,
+               "lng" : -16.22868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.6584121,
+                  "lng" : -16.1677551
+               },
+               "southwest" : {
+                  "lat" : 15.5760808,
+                  "lng" : -16.273842
+               }
+            }
+         },
+         "place_id" : "ChIJ0RpWO6K-6g4RMDc3X1O0qlA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

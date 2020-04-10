@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kars",
+               "short_name" : "Kars",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kars Merkez",
+               "short_name" : "Kars Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kars",
+               "short_name" : "Kars",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kars, Kars Merkez/Kars, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6233371,
+                  "lng" : 43.13252380000001
+               },
+               "southwest" : {
+                  "lat" : 40.570057,
+                  "lng" : 43.071051
+               }
+            },
+            "location" : {
+               "lat" : 40.6013378,
+               "lng" : 43.0974525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6233371,
+                  "lng" : 43.13252380000001
+               },
+               "southwest" : {
+                  "lat" : 40.570057,
+                  "lng" : 43.071051
+               }
+            }
+         },
+         "place_id" : "ChIJZyJzzdmOaUARFtKE6RdRbQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

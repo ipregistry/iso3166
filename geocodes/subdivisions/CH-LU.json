@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lucerne",
+               "short_name" : "Lucerne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucerne District",
+               "short_name" : "Lucerne District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lucerne",
+               "short_name" : "LU",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lucerne, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.08349,
+                  "lng" : 8.358139999999999
+               },
+               "southwest" : {
+                  "lat" : 47.02601989999999,
+                  "lng" : 8.206470099999999
+               }
+            },
+            "location" : {
+               "lat" : 47.05016819999999,
+               "lng" : 8.309307199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.08349,
+                  "lng" : 8.358139999999999
+               },
+               "southwest" : {
+                  "lat" : 47.02601989999999,
+                  "lng" : 8.206470099999999
+               }
+            }
+         },
+         "place_id" : "ChIJeXNUeSr6j0cRr1KZQNEq8K4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

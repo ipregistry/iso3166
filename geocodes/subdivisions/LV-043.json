@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kandava",
+               "short_name" : "Kandava",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kandavas pilsēta",
+               "short_name" : "Kandavas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3120",
+               "short_name" : "3120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kandava, Kandavas pilsēta, LV-3120, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.04786619999999,
+                  "lng" : 22.806053
+               },
+               "southwest" : {
+                  "lat" : 57.0201028,
+                  "lng" : 22.7470789
+               }
+            },
+            "location" : {
+               "lat" : 57.033151,
+               "lng" : 22.7767899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.04786619999999,
+                  "lng" : 22.806053
+               },
+               "southwest" : {
+                  "lat" : 57.0201028,
+                  "lng" : 22.7470789
+               }
+            }
+         },
+         "place_id" : "ChIJdbVLUVlN7kYR-fZ5qfQ_5Hs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

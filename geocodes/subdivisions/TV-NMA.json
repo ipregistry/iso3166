@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanumea",
+               "short_name" : "Nanumea",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Nanumea",
+               "short_name" : "Nanumea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tuvalu",
+               "short_name" : "TV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nanumea, Tuvalu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.6620781,
+                  "lng" : 176.1365461
+               },
+               "southwest" : {
+                  "lat" : -5.7013769,
+                  "lng" : 176.109885
+               }
+            },
+            "location" : {
+               "lat" : -5.681538799999999,
+               "lng" : 176.1281065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.6620781,
+                  "lng" : 176.1365461
+               },
+               "southwest" : {
+                  "lat" : -5.7013769,
+                  "lng" : 176.109885
+               }
+            }
+         },
+         "place_id" : "ChIJz-YRweSCwW8RdC3F0OHuUgw",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

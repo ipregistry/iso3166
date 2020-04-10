@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ouest Department",
+               "short_name" : "Ouest Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Haiti",
+               "short_name" : "HT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ouest Department, Haiti",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.970982,
+                  "lng" : -71.6928559
+               },
+               "southwest" : {
+                  "lat" : 18.2460119,
+                  "lng" : -73.299515
+               }
+            },
+            "location" : {
+               "lat" : 18.4957015,
+               "lng" : -72.4731529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.970982,
+                  "lng" : -71.6928559
+               },
+               "southwest" : {
+                  "lat" : 18.2460119,
+                  "lng" : -73.299515
+               }
+            }
+         },
+         "place_id" : "ChIJkao-UFfduY4R9GOpH9gyDRY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yuma",
+               "short_name" : "Yuma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yuma County",
+               "short_name" : "Yuma County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yuma, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.732294,
+                  "lng" : -114.45913
+               },
+               "southwest" : {
+                  "lat" : 32.4790669,
+                  "lng" : -114.684986
+               }
+            },
+            "location" : {
+               "lat" : 32.6926512,
+               "lng" : -114.6276916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.732294,
+                  "lng" : -114.45913
+               },
+               "southwest" : {
+                  "lat" : 32.4790669,
+                  "lng" : -114.684986
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2a1NIYdi1oARWEKe9Qc6qc8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

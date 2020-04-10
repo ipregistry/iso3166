@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Grand Bahama",
+               "short_name" : "East Grand Bahama",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Grand Bahama, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.03017,
+                  "lng" : -77.81182890000001
+               },
+               "southwest" : {
+                  "lat" : 26.531696,
+                  "lng" : -78.4557191
+               }
+            },
+            "location" : {
+               "lat" : 26.6582823,
+               "lng" : -78.22482909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.03017,
+                  "lng" : -77.81182890000001
+               },
+               "southwest" : {
+                  "lat" : 26.531696,
+                  "lng" : -78.4557191
+               }
+            }
+         },
+         "place_id" : "ChIJtVmSb6qsJokRhlIoPyT4Oro",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

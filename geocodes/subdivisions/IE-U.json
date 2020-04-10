@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Diamond",
+               "short_name" : "The Diamond",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roosky",
+               "short_name" : "Roosky",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Monaghan",
+               "short_name" : "Monaghan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Monaghan",
+               "short_name" : "County Monaghan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H18 V027",
+               "short_name" : "H18 V027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 The Diamond, Roosky, Monaghan, H18 V027, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2483911,
+               "lng" : -6.969041499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2497400802915,
+                  "lng" : -6.967692519708497
+               },
+               "southwest" : {
+                  "lat" : 54.2470421197085,
+                  "lng" : -6.970390480291502
+               }
+            }
+         },
+         "place_id" : "ChIJTUQ29kOfYEgREa2q5KMnsgo",
+         "plus_code" : {
+            "compound_code" : "62XJ+99 Monaghan, County Monaghan, Ireland",
+            "global_code" : "9C6M62XJ+99"
+         },
+         "types" : [ "bank", "establishment", "finance", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

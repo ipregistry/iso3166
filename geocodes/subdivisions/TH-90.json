@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Songkhla",
+               "short_name" : "Songkhla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Songkhla District",
+               "short_name" : "Mueang Songkhla District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Songkhla",
+               "short_name" : "จ.สงขลา",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Songkhla, Mueang Songkhla District, Songkhla, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.2392705,
+                  "lng" : 100.620137
+               },
+               "southwest" : {
+                  "lat" : 7.170246300000001,
+                  "lng" : 100.5767501
+               }
+            },
+            "location" : {
+               "lat" : 7.189765899999998,
+               "lng" : 100.5953813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.2392705,
+                  "lng" : 100.620137
+               },
+               "southwest" : {
+                  "lat" : 7.170246300000001,
+                  "lng" : 100.5767501
+               }
+            }
+         },
+         "place_id" : "ChIJOZmwyyMzTTAR8ZPGh3t7gOs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

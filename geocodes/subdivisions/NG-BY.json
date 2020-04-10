@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayelsa",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayelsa, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.380566,
+                  "lng" : 6.607241
+               },
+               "southwest" : {
+                  "lat" : 4.270626099999999,
+                  "lng" : 5.375354
+               }
+            },
+            "location" : {
+               "lat" : 4.7719071,
+               "lng" : 6.0698526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.380566,
+                  "lng" : 6.607241
+               },
+               "southwest" : {
+                  "lat" : 4.270626099999999,
+                  "lng" : 5.375354
+               }
+            }
+         },
+         "place_id" : "ChIJ0cYnhCVlahARakM6A1Nf5mk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guadeloupe",
+               "short_name" : "GP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guadeloupe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.5572273,
+                  "lng" : -60.9473
+               },
+               "southwest" : {
+                  "lat" : 15.742032,
+                  "lng" : -61.8468
+               }
+            },
+            "location" : {
+               "lat" : 16.265,
+               "lng" : -61.55099999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.5572273,
+                  "lng" : -60.9473
+               },
+               "southwest" : {
+                  "lat" : 15.742032,
+                  "lng" : -61.8468
+               }
+            }
+         },
+         "place_id" : "ChIJUX0od1p1DowRqwdKtzc-vuw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

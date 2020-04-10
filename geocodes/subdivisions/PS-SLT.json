@@ -1,0 +1,35 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salfit",
+               "short_name" : "Salfit",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Salfit",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.085094,
+               "lng" : 35.180832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0945472,
+                  "lng" : 35.1968394
+               },
+               "southwest" : {
+                  "lat" : 32.0756398,
+                  "lng" : 35.1648246
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_-yf5rcnHRUR66AidlaguDc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

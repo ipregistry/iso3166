@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valka Municipality",
+               "short_name" : "Valka Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valka Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.924155,
+                  "lng" : 26.3714998
+               },
+               "southwest" : {
+                  "lat" : 57.4989959,
+                  "lng" : 25.476824
+               }
+            },
+            "location" : {
+               "lat" : 57.77439,
+               "lng" : 26.017005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.924155,
+                  "lng" : 26.3714998
+               },
+               "southwest" : {
+                  "lat" : 57.4989959,
+                  "lng" : 25.476824
+               }
+            }
+         },
+         "place_id" : "ChIJHSy9CC6960YRAAPzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

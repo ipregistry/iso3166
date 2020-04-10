@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chisinau",
+               "short_name" : "Chisinau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chisinau",
+               "short_name" : "Chisinau",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chisinau, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.079175,
+                  "lng" : 28.9716983
+               },
+               "southwest" : {
+                  "lat" : 46.9205631,
+                  "lng" : 28.7446548
+               }
+            },
+            "location" : {
+               "lat" : 47.0104529,
+               "lng" : 28.8638102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.079175,
+                  "lng" : 28.9716983
+               },
+               "southwest" : {
+                  "lat" : 46.9205631,
+                  "lng" : 28.7446548
+               }
+            }
+         },
+         "place_id" : "ChIJoWm3KDZ8yUARPN1JVzDW0Tc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

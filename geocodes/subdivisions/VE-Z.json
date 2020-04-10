@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7101",
+               "short_name" : "7101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7101, Amazonas, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.1973629,
+                  "lng" : -63.35477090000001
+               },
+               "southwest" : {
+                  "lat" : 0.6475291,
+                  "lng" : -67.8624181
+               }
+            },
+            "location" : {
+               "lat" : 2.8101413,
+               "lng" : -65.0957792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.1973629,
+                  "lng" : -63.35477090000001
+               },
+               "southwest" : {
+                  "lat" : 0.6475291,
+                  "lng" : -67.8624181
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNZWv1QL-440RBnp2AvBHL9o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

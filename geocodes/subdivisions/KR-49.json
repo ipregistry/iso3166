@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jeju-si",
+               "short_name" : "Jeju-si",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jeju-do",
+               "short_name" : "Jeju-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jeju-si, Jeju-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.053171,
+                  "lng" : 126.9979895
+               },
+               "southwest" : {
+                  "lat" : 33.2727985,
+                  "lng" : 126.1480697
+               }
+            },
+            "location" : {
+               "lat" : 33.4996213,
+               "lng" : 126.5311884
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.532,
+                  "lng" : 126.5941
+               },
+               "southwest" : {
+                  "lat" : 33.4757,
+                  "lng" : 126.4659
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_XltioXgDDUR4pyR4WmImks",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

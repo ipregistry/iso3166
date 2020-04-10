@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lovrenc na Pohorju",
+               "short_name" : "Lovrenc na Pohorju",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lovrenc na Pohorju",
+               "short_name" : "Lovrenc na Pohorju",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ruše",
+               "short_name" : "Ruše",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2344",
+               "short_name" : "2344",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2344 Lovrenc na Pohorju, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5523297,
+                  "lng" : 15.4127449
+               },
+               "southwest" : {
+                  "lat" : 46.528119,
+                  "lng" : 15.3720041
+               }
+            },
+            "location" : {
+               "lat" : 46.54027749999999,
+               "lng" : 15.3884817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5523297,
+                  "lng" : 15.4127449
+               },
+               "southwest" : {
+                  "lat" : 46.528119,
+                  "lng" : 15.3720041
+               }
+            }
+         },
+         "place_id" : "ChIJtbuPzGuFb0cRjZqkItApVhg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

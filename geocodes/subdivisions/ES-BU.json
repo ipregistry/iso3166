@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgos",
+               "short_name" : "Burgos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgos",
+               "short_name" : "Burgos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burgos, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3721341,
+                  "lng" : -3.6367504
+               },
+               "southwest" : {
+                  "lat" : 42.31611789999999,
+                  "lng" : -3.7526357
+               }
+            },
+            "location" : {
+               "lat" : 42.3439925,
+               "lng" : -3.696906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3721341,
+                  "lng" : -3.6367504
+               },
+               "southwest" : {
+                  "lat" : 42.31611789999999,
+                  "lng" : -3.7526357
+               }
+            }
+         },
+         "place_id" : "ChIJJwPCPb78RQ0RoRrnuOpbHwo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

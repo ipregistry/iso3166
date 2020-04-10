@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gafsa",
+               "short_name" : "Gafsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gafsa Sud",
+               "short_name" : "Gafsa Sud",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gafsa",
+               "short_name" : "Gafsa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gafsa, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.4532756,
+                  "lng" : 8.8033181
+               },
+               "southwest" : {
+                  "lat" : 34.403907,
+                  "lng" : 8.744002999999999
+               }
+            },
+            "location" : {
+               "lat" : 34.4311398,
+               "lng" : 8.7756556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.4532756,
+                  "lng" : 8.8033181
+               },
+               "southwest" : {
+                  "lat" : 34.403907,
+                  "lng" : 8.744002999999999
+               }
+            }
+         },
+         "place_id" : "ChIJH5B2VPqW-BIR1XWJK3MINoc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

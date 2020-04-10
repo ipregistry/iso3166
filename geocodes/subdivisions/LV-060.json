@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mazsalaca",
+               "short_name" : "Mazsalaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mazsalacas pilsēta",
+               "short_name" : "Mazsalacas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4215",
+               "short_name" : "4215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mazsalaca, Mazsalacas pilsēta, LV-4215, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.87322889999999,
+                  "lng" : 25.074475
+               },
+               "southwest" : {
+                  "lat" : 57.8525879,
+                  "lng" : 25.0217359
+               }
+            },
+            "location" : {
+               "lat" : 57.860649,
+               "lng" : 25.0555912
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.87322889999999,
+                  "lng" : 25.074475
+               },
+               "southwest" : {
+                  "lat" : 57.8525879,
+                  "lng" : 25.0217359
+               }
+            }
+         },
+         "place_id" : "ChIJHcPYO_9w7EYRMCbzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

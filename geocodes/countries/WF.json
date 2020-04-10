@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wallis and Futuna",
+               "short_name" : "WF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wallis and Futuna",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.1303042,
+                  "lng" : -176.0971068
+               },
+               "southwest" : {
+                  "lat" : -14.4187203,
+                  "lng" : -178.2284546
+               }
+            },
+            "location" : {
+               "lat" : -14.2938,
+               "lng" : -178.1165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.1303042,
+                  "lng" : -176.0971068
+               },
+               "southwest" : {
+                  "lat" : -14.4187203,
+                  "lng" : -178.2284546
+               }
+            }
+         },
+         "place_id" : "ChIJPUsabgaxyHERGwrSj-wYyRY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

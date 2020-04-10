@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Udon Thani",
+               "short_name" : "Udon Thani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Udon Thani District",
+               "short_name" : "อ.เมืองอุดรธานี",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Udon Thani",
+               "short_name" : "จ.อุดรธานี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Udon Thani, Mueang Udon Thani District, Udon Thani, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4501585,
+                  "lng" : 102.8883843
+               },
+               "southwest" : {
+                  "lat" : 17.2869237,
+                  "lng" : 102.7128173
+               }
+            },
+            "location" : {
+               "lat" : 17.3646969,
+               "lng" : 102.8158924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4501585,
+                  "lng" : 102.8883843
+               },
+               "southwest" : {
+                  "lat" : 17.2869237,
+                  "lng" : 102.7128173
+               }
+            }
+         },
+         "place_id" : "ChIJo3IV6EF2IzERFx9s_hptpFs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

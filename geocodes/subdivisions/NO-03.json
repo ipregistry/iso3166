@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oslo, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.978035,
+                  "lng" : 10.9476641
+               },
+               "southwest" : {
+                  "lat" : 59.8096749,
+                  "lng" : 10.6225689
+               }
+            },
+            "location" : {
+               "lat" : 59.9138688,
+               "lng" : 10.7522454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.978035,
+                  "lng" : 10.9476641
+               },
+               "southwest" : {
+                  "lat" : 59.8096749,
+                  "lng" : 10.6225689
+               }
+            }
+         },
+         "place_id" : "ChIJOfBn8mFuQUYRmh4j019gkn4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

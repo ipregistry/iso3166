@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Provence",
+               "short_name" : "Provence",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Provence, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.718992999999998
+               },
+               "southwest" : {
+                  "lat" : 42.98199810000001,
+                  "lng" : 4.230207
+               }
+            },
+            "location" : {
+               "lat" : 44.0144936,
+               "lng" : 6.2116438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.718992999999998
+               },
+               "southwest" : {
+                  "lat" : 42.98199810000001,
+                  "lng" : 4.230207
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrfXgyd9_9EcRLfa1mDr77kQ",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

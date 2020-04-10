@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Benevento",
+               "short_name" : "Benevento",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benevento",
+               "short_name" : "Benevento",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Benevento",
+               "short_name" : "BN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82100",
+               "short_name" : "82100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "82100 Benevento, Province of Benevento, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.14756209999999,
+                  "lng" : 14.8103246
+               },
+               "southwest" : {
+                  "lat" : 41.09835899999999,
+                  "lng" : 14.7350548
+               }
+            },
+            "location" : {
+               "lat" : 41.1297613,
+               "lng" : 14.7826208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.14756209999999,
+                  "lng" : 14.8103246
+               },
+               "southwest" : {
+                  "lat" : 41.09835899999999,
+                  "lng" : 14.7350548
+               }
+            }
+         },
+         "place_id" : "ChIJNYfaBXQ6OhMR-X3cFyq7UH8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

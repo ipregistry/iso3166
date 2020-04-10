@@ -1,0 +1,93 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monaco",
+               "short_name" : "MC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monaco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7519029,
+                  "lng" : 7.4426
+               },
+               "southwest" : {
+                  "lat" : 43.7237999,
+                  "lng" : 7.4091049
+               }
+            },
+            "location" : {
+               "lat" : 43.73841760000001,
+               "lng" : 7.424615799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7519029,
+                  "lng" : 7.4426
+               },
+               "southwest" : {
+                  "lat" : 43.7237999,
+                  "lng" : 7.4091049
+               }
+            }
+         },
+         "place_id" : "ChIJMYU_e2_CzRIR_JzEOkx493Q",
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monaco City",
+               "short_name" : "Monaco City",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Monaco",
+               "short_name" : "Monaco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monaco",
+               "short_name" : "MC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monaco City, Monaco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.73326100000001,
+                  "lng" : 7.4283824
+               },
+               "southwest" : {
+                  "lat" : 43.7294177,
+                  "lng" : 7.417186
+               }
+            },
+            "location" : {
+               "lat" : 43.7308084,
+               "lng" : 7.4225881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73326100000001,
+                  "lng" : 7.4283824
+               },
+               "southwest" : {
+                  "lat" : 43.7294177,
+                  "lng" : 7.417186
+               }
+            }
+         },
+         "place_id" : "ChIJ2Y7LAInCzRIRkCuP_aUZCAQ",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

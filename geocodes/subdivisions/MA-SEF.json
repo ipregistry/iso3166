@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sefrou",
+               "short_name" : "Sefrou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sefrou Province",
+               "short_name" : "Sefrou Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Fez-Meknès",
+               "short_name" : "Fez-Meknès",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sefrou, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8492472,
+                  "lng" : -4.802141199999999
+               },
+               "southwest" : {
+                  "lat" : 33.8098898,
+                  "lng" : -4.854927099999999
+               }
+            },
+            "location" : {
+               "lat" : 33.8305244,
+               "lng" : -4.835315400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8492472,
+                  "lng" : -4.802141199999999
+               },
+               "southwest" : {
+                  "lat" : 33.8098898,
+                  "lng" : -4.854927099999999
+               }
+            }
+         },
+         "place_id" : "ChIJfaaJ1VKanw0Ra6vPDWiUKdw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

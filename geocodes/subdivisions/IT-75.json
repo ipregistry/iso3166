@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Apulia",
+               "short_name" : "Apulia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Apulia, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2265566,
+                  "lng" : 18.5203835
+               },
+               "southwest" : {
+                  "lat" : 39.7896411,
+                  "lng" : 14.934095
+               }
+            },
+            "location" : {
+               "lat" : 40.7928393,
+               "lng" : 17.1011931
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2265566,
+                  "lng" : 18.5203835
+               },
+               "southwest" : {
+                  "lat" : 39.7896411,
+                  "lng" : 14.934095
+               }
+            }
+         },
+         "place_id" : "ChIJ3ZO5jSvkNhMRj3wk-HC6bzk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

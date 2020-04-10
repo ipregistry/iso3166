@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meta",
+               "short_name" : "Meta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meta, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.925192,
+                  "lng" : -71.07722489999999
+               },
+               "southwest" : {
+                  "lat" : 1.609153,
+                  "lng" : -74.91315600000001
+               }
+            },
+            "location" : {
+               "lat" : 3.2719904,
+               "lng" : -73.087749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.925192,
+                  "lng" : -71.07722489999999
+               },
+               "southwest" : {
+                  "lat" : 1.609153,
+                  "lng" : -74.91315600000001
+               }
+            }
+         },
+         "place_id" : "ChIJb0oPImFBFo4RxjdvCI8cRdY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

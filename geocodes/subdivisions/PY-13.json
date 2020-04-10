@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amambay Department",
+               "short_name" : "Amambay Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amambay Department, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.0746521,
+                  "lng" : -55.5044811
+               },
+               "southwest" : {
+                  "lat" : -23.8353161,
+                  "lng" : -56.81702989999999
+               }
+            },
+            "location" : {
+               "lat" : -22.5590272,
+               "lng" : -56.0249982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.0746521,
+                  "lng" : -55.5044811
+               },
+               "southwest" : {
+                  "lat" : -23.8353161,
+                  "lng" : -56.81702989999999
+               }
+            }
+         },
+         "place_id" : "ChIJN0G22zYwYpQRzCu2U_ZsDFE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

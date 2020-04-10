@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Smolyan",
+               "short_name" : "Smolyan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Smoljan",
+               "short_name" : "Smoljan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Smolyan, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5938716,
+                  "lng" : 24.8138621
+               },
+               "southwest" : {
+                  "lat" : 41.5643,
+                  "lng" : 24.668448
+               }
+            },
+            "location" : {
+               "lat" : 41.5774233,
+               "lng" : 24.7011138
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5938716,
+                  "lng" : 24.8138621
+               },
+               "southwest" : {
+                  "lat" : 41.5643,
+                  "lng" : 24.668448
+               }
+            }
+         },
+         "place_id" : "ChIJu2HT0IpZrBQRgFq_aRKgAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

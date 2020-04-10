@@ -1,0 +1,517 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico City International Airport",
+               "short_name" : "Mexico City International Airport",
+               "types" : [ "airport", "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "S/N",
+               "short_name" : "S/N",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Capitán Carlos León",
+               "short_name" : "Av. Capitán Carlos León",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peñón de los Baños",
+               "short_name" : "Peñón de los Baños",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15620",
+               "short_name" : "15620",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mexico City International Airport (MEX), Av. Capitán Carlos León S/N, Peñón de los Baños, Venustiano Carranza, 15620 Ciudad de México, CDMX, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4360762,
+               "lng" : -99.07190829999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4374251802915,
+                  "lng" : -99.07055931970848
+               },
+               "southwest" : {
+                  "lat" : 19.4347272197085,
+                  "lng" : -99.0732572802915
+               }
+            }
+         },
+         "place_id" : "ChIJnyKTvXf80YURRNK6YfV-0AI",
+         "plus_code" : {
+            "compound_code" : "CWPH+C6 Mexico City, Mexico",
+            "global_code" : "76F2CWPH+C6"
+         },
+         "types" : [ "airport", "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Mexico",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Mexico, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.2858665,
+                  "lng" : -98.5968666
+               },
+               "southwest" : {
+                  "lat" : 18.3669428,
+                  "lng" : -100.6130911
+               }
+            },
+            "location" : {
+               "lat" : 19.4968732,
+               "lng" : -99.72326729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.2858665,
+                  "lng" : -98.5968666
+               },
+               "southwest" : {
+                  "lat" : 18.3669428,
+                  "lng" : -100.6130911
+               }
+            }
+         },
+         "place_id" : "ChIJOwrrwJKJzYURV6jFn775_sI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "445",
+               "short_name" : "445",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle Montes Urales",
+               "short_name" : "Calle Montes Urales",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lomas - Virreyes",
+               "short_name" : "Lomas - Virreyes",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lomas de Chapultepec",
+               "short_name" : "Lomas de Chapultepec",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle Montes Urales 445, Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4286,
+               "lng" : -99.20676109999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4299489802915,
+                  "lng" : -99.2054121197085
+               },
+               "southwest" : {
+                  "lat" : 19.4272510197085,
+                  "lng" : -99.2081100802915
+               }
+            }
+         },
+         "place_id" : "ChIJa4GPCvYB0oURwqpJkY6bfso",
+         "plus_code" : {
+            "compound_code" : "CQHV+C7 Mexico City, Mexico",
+            "global_code" : "76F2CQHV+C7"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico City, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.9604482
+               },
+               "southwest" : {
+                  "lat" : 19.1887101,
+                  "lng" : -99.3267771
+               }
+            },
+            "location" : {
+               "lat" : 19.4326077,
+               "lng" : -99.133208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.9604482
+               },
+               "southwest" : {
+                  "lat" : 19.1887101,
+                  "lng" : -99.3267771
+               }
+            }
+         },
+         "place_id" : "ChIJB3UJ2yYAzoURQeheJnYQBlQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Núm. 95",
+               "short_name" : "Núm. 95",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Adolfo López Mateos",
+               "short_name" : "Av. Adolfo López Mateos",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Metropolitana 2da",
+               "short_name" : "Metropolitana 2da",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nezahualcóyotl",
+               "short_name" : "Nezahualcóyotl",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Estado de México",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57740",
+               "short_name" : "57740",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Adolfo López Mateos Núm. 95, Metropolitana 2da, 57740 Nezahualcóyotl, Méx., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.3932873,
+               "lng" : -99.0324462
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3946362802915,
+                  "lng" : -99.03109721970849
+               },
+               "southwest" : {
+                  "lat" : 19.3919383197085,
+                  "lng" : -99.03379518029151
+               }
+            }
+         },
+         "place_id" : "ChIJaUXtpt_80YURowcth1t0XqA",
+         "plus_code" : {
+            "compound_code" : "9XV9+82 Ciudad Nezahualcóyotl, State of Mexico, Mexico",
+            "global_code" : "76F29XV9+82"
+         },
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalisco",
+               "short_name" : "Jal.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jalisco, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7502459,
+                  "lng" : -101.5105417
+               },
+               "southwest" : {
+                  "lat" : 18.9258718,
+                  "lng" : -105.6954033
+               }
+            },
+            "location" : {
+               "lat" : 20.6595382,
+               "lng" : -103.3494376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7502459,
+                  "lng" : -101.5105417
+               },
+               "southwest" : {
+                  "lat" : 18.9258718,
+                  "lng" : -105.6954033
+               }
+            }
+         },
+         "place_id" : "ChIJb05i1OtAH4QRU0obWqOw_qA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toluca",
+               "short_name" : "Toluca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "State of Mexico",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toluca, State of Mexico, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.345726,
+                  "lng" : -99.5559416
+               },
+               "southwest" : {
+                  "lat" : 19.2424987,
+                  "lng" : -99.7064855
+               }
+            },
+            "location" : {
+               "lat" : 19.2826098,
+               "lng" : -99.6556653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.345726,
+                  "lng" : -99.5559416
+               },
+               "southwest" : {
+                  "lat" : 19.2424987,
+                  "lng" : -99.7064855
+               }
+            }
+         },
+         "place_id" : "ChIJuetQKomJzYURxAgCVdVKP60",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oaxaca",
+               "short_name" : "Oax.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oaxaca, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.6696879,
+                  "lng" : -93.8674267
+               },
+               "southwest" : {
+                  "lat" : 15.6571686,
+                  "lng" : -98.5527072
+               }
+            },
+            "location" : {
+               "lat" : 17.0542297,
+               "lng" : -96.7132304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.6696879,
+                  "lng" : -93.8674267
+               },
+               "southwest" : {
+                  "lat" : 15.6571686,
+                  "lng" : -98.5527072
+               }
+            }
+         },
+         "place_id" : "ChIJUVwOOk_YwIURyQvZPUMMxkQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yucatan",
+               "short_name" : "Yuc.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yucatan, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6137999,
+                  "lng" : -87.5331451
+               },
+               "southwest" : {
+                  "lat" : 19.551174,
+                  "lng" : -92.32629999999999
+               }
+            },
+            "location" : {
+               "lat" : 20.7098786,
+               "lng" : -89.0943377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6137999,
+                  "lng" : -87.5331451
+               },
+               "southwest" : {
+                  "lat" : 19.551174,
+                  "lng" : -92.32629999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7QTWqvgPVI8RCj0IMXUhzMw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

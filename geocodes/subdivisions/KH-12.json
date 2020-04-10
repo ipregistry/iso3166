@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phnom Penh",
+               "short_name" : "Phnom Penh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Phnom Penh",
+               "short_name" : "PP",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phnom Penh, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.736511,
+                  "lng" : 105.049072
+               },
+               "southwest" : {
+                  "lat" : 11.421509,
+                  "lng" : 104.7127079
+               }
+            },
+            "location" : {
+               "lat" : 11.5448729,
+               "lng" : 104.8921668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.736511,
+                  "lng" : 105.049072
+               },
+               "southwest" : {
+                  "lat" : 11.421509,
+                  "lng" : 104.7127079
+               }
+            }
+         },
+         "place_id" : "ChIJ42tqxz1RCTERx8C0yzzBvk8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

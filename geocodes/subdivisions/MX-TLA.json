@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tlaxcala",
+               "short_name" : "Tlaxcala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tlaxcala",
+               "short_name" : "Tlax.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tlaxcala, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.3302435,
+                  "lng" : -98.2233169
+               },
+               "southwest" : {
+                  "lat" : 19.3028426,
+                  "lng" : -98.2513026
+               }
+            },
+            "location" : {
+               "lat" : 19.3139243,
+               "lng" : -98.2404397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3302435,
+                  "lng" : -98.2233169
+               },
+               "southwest" : {
+                  "lat" : 19.3028426,
+                  "lng" : -98.2513026
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC5AwfmrZz4URyABdnapQy3I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

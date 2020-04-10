@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Markovci",
+               "short_name" : "Markovci",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Markovci",
+               "short_name" : "Markovci",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ptuj",
+               "short_name" : "Ptuj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2281",
+               "short_name" : "2281",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2281 Markovci, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4077205,
+                  "lng" : 15.9432453
+               },
+               "southwest" : {
+                  "lat" : 46.3846368,
+                  "lng" : 15.9129588
+               }
+            },
+            "location" : {
+               "lat" : 46.3945777,
+               "lng" : 15.9300492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4077205,
+                  "lng" : 15.9432453
+               },
+               "southwest" : {
+                  "lat" : 46.3846368,
+                  "lng" : 15.9129588
+               }
+            }
+         },
+         "place_id" : "ChIJ7_xm16Rgb0cRa02H0B3inRo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tristan da Cunha",
+               "short_name" : "Tristan da Cunha",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Tristan da Cunha",
+               "short_name" : "Tristan da Cunha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Helena, Ascension and Tristan da Cunha",
+               "short_name" : "SH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TDCU 1ZZ",
+               "short_name" : "TDCU 1ZZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tristan da Cunha, TDCU 1ZZ, St Helena, Ascension and Tristan da Cunha",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.0621779,
+                  "lng" : -12.2167732
+               },
+               "southwest" : {
+                  "lat" : -37.1702333,
+                  "lng" : -12.3511792
+               }
+            },
+            "location" : {
+               "lat" : -37.1052489,
+               "lng" : -12.2776838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.0621779,
+                  "lng" : -12.2167732
+               },
+               "southwest" : {
+                  "lat" : -37.1702333,
+                  "lng" : -12.3511792
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm9z2Gho7WgIR266Y3JUt7mk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pazardzhik",
+               "short_name" : "Pazardzhik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pazardzhik",
+               "short_name" : "Pazardzhik",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pazardzhik, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2142634,
+                  "lng" : 24.3626333
+               },
+               "southwest" : {
+                  "lat" : 42.1632603,
+                  "lng" : 24.2980485
+               }
+            },
+            "location" : {
+               "lat" : 42.1927654,
+               "lng" : 24.3335662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2142634,
+                  "lng" : 24.3626333
+               },
+               "southwest" : {
+                  "lat" : 42.1632603,
+                  "lng" : 24.2980485
+               }
+            }
+         },
+         "place_id" : "ChIJEXMb8QSwrBQRq2OZCeyXtdw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bulisa",
+               "short_name" : "Bulisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bulisa",
+               "short_name" : "Bulisa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bulisa, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.1261388,
+                  "lng" : 31.4323997
+               },
+               "southwest" : {
+                  "lat" : 2.0980914,
+                  "lng" : 31.4014149
+               }
+            },
+            "location" : {
+               "lat" : 2.1127266,
+               "lng" : 31.417046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.1261388,
+                  "lng" : 31.4323997
+               },
+               "southwest" : {
+                  "lat" : 2.0980914,
+                  "lng" : 31.4014149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfV4NXz3xbxcRL5OOqzErbwY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ibanda",
+               "short_name" : "Ibanda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ibanda, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.16207,
+                  "lng" : 30.69045809999999
+               },
+               "southwest" : {
+                  "lat" : -0.2910499,
+                  "lng" : 30.238867
+               }
+            },
+            "location" : {
+               "lat" : -0.09648900000000001,
+               "lng" : 30.5739579
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.16207,
+                  "lng" : 30.69045809999999
+               },
+               "southwest" : {
+                  "lat" : -0.2910499,
+                  "lng" : 30.238867
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxfNC3Gyf2BkRYai8f4a7cfg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

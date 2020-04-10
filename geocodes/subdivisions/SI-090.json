@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piran",
+               "short_name" : "Piran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Piran - Pirano",
+               "short_name" : "Piran - Pirano",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Piran",
+               "short_name" : "Piran",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6330",
+               "short_name" : "6330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6330 Piran, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5306107,
+                  "lng" : 13.5752889
+               },
+               "southwest" : {
+                  "lat" : 45.5174117,
+                  "lng" : 13.5628854
+               }
+            },
+            "location" : {
+               "lat" : 45.528319,
+               "lng" : 13.5682895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5306107,
+                  "lng" : 13.5752889
+               },
+               "southwest" : {
+                  "lat" : 45.5174117,
+                  "lng" : 13.5628854
+               }
+            }
+         },
+         "place_id" : "ChIJcV8rasF6e0cRuolMVzOIZpQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

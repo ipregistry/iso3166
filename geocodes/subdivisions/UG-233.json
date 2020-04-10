@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Butebo",
+               "short_name" : "Butebo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pallisa",
+               "short_name" : "Pallisa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Butebo, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.2022924,
+                  "lng" : 33.9245367
+               },
+               "southwest" : {
+                  "lat" : 1.1922739,
+                  "lng" : 33.9172839
+               }
+            },
+            "location" : {
+               "lat" : 1.1973747,
+               "lng" : 33.9213365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.2022924,
+                  "lng" : 33.9245367
+               },
+               "southwest" : {
+                  "lat" : 1.1922739,
+                  "lng" : 33.9172839
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLZ83kofbeBcRd_eJG3qHlxI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

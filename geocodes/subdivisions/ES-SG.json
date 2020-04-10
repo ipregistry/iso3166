@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Segovia",
+               "short_name" : "Segovia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Segovia",
+               "short_name" : "SG",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Segovia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9625017,
+                  "lng" : -4.090816999999999
+               },
+               "southwest" : {
+                  "lat" : 40.9199986,
+                  "lng" : -4.1335868
+               }
+            },
+            "location" : {
+               "lat" : 40.9429032,
+               "lng" : -4.108806899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9625017,
+                  "lng" : -4.090816999999999
+               },
+               "southwest" : {
+                  "lat" : 40.9199986,
+                  "lng" : -4.1335868
+               }
+            }
+         },
+         "place_id" : "ChIJ-TIzqeY-QQ0Rt98TvyFyVlQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

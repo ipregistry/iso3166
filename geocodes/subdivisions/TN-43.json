@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sidi Bouzid",
+               "short_name" : "Sidi Bouzid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sidi Bouzid Ouest",
+               "short_name" : "Sidi Bouzid Ouest",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sidi Bou Zid",
+               "short_name" : "Sidi Bou Zid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sidi Bouzid, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.0493886,
+                  "lng" : 9.506600599999999
+               },
+               "southwest" : {
+                  "lat" : 35.0233905,
+                  "lng" : 9.4474748
+               }
+            },
+            "location" : {
+               "lat" : 35.0354386,
+               "lng" : 9.4839392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.0493886,
+                  "lng" : 9.506600599999999
+               },
+               "southwest" : {
+                  "lat" : 35.0233905,
+                  "lng" : 9.4474748
+               }
+            }
+         },
+         "place_id" : "ChIJ_WcXtkDD_hIRjFfU3mkBYMw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaunas",
+               "short_name" : "Kaunas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaunas City Municipality",
+               "short_name" : "Kaunas City Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaunas County",
+               "short_name" : "Kaunas County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaunas, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.95962,
+                  "lng" : 24.0996038
+               },
+               "southwest" : {
+                  "lat" : 54.82033,
+                  "lng" : 23.7549231
+               }
+            },
+            "location" : {
+               "lat" : 54.8985207,
+               "lng" : 23.9035965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.95962,
+                  "lng" : 24.0996038
+               },
+               "southwest" : {
+                  "lat" : 54.82033,
+                  "lng" : 23.7549231
+               }
+            }
+         },
+         "place_id" : "ChIJQ9NnsXAi50YRvIs3x-DRS2E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

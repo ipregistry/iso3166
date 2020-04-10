@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamanrasset",
+               "short_name" : "Tamanrasset",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tamanrasset",
+               "short_name" : "Tamanrasset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamanrasset Province",
+               "short_name" : "Tamanrasset Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tamanrasset, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.6483239,
+                  "lng" : 6.673138
+               },
+               "southwest" : {
+                  "lat" : 20.896313,
+                  "lng" : 4.721426999999999
+               }
+            },
+            "location" : {
+               "lat" : 22.7902972,
+               "lng" : 5.5193268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.6483239,
+                  "lng" : 6.673138
+               },
+               "southwest" : {
+                  "lat" : 20.896313,
+                  "lng" : 4.721426999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9UqaAyBvIBIR5JPSxd7LJNU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

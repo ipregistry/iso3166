@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vila Real",
+               "short_name" : "Vila Real",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vila Real District",
+               "short_name" : "Vila Real District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5000",
+               "short_name" : "5000",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "5000 Vila Real, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3635472,
+                  "lng" : -7.6639146
+               },
+               "southwest" : {
+                  "lat" : 41.2401615,
+                  "lng" : -7.790294800000001
+               }
+            },
+            "location" : {
+               "lat" : 41.3010351,
+               "lng" : -7.7422354
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3635472,
+                  "lng" : -7.6639146
+               },
+               "southwest" : {
+                  "lat" : 41.2401615,
+                  "lng" : -7.790294800000001
+               }
+            }
+         },
+         "place_id" : "ChIJL_SzFKlLOw0RA3aSE13pF0w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

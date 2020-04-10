@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yilan City",
+               "short_name" : "Yilan City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Yilan County",
+               "short_name" : "Yilan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "260",
+               "short_name" : "260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yilan City, Yilan County, Taiwan 260",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.7844947,
+                  "lng" : 121.7891921
+               },
+               "southwest" : {
+                  "lat" : 24.7132635,
+                  "lng" : 121.7280291
+               }
+            },
+            "location" : {
+               "lat" : 24.7591148,
+               "lng" : 121.7537404
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7844947,
+                  "lng" : 121.7891921
+               },
+               "southwest" : {
+                  "lat" : 24.7132635,
+                  "lng" : 121.7280291
+               }
+            }
+         },
+         "place_id" : "ChIJ3w0cw93kZzQRIkwiDMnVhBw",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Hauts-de-France",
+               "short_name" : "Hauts-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nord-Pas-de-Calais, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.08899,
+                  "lng" : 4.2316779
+               },
+               "southwest" : {
+                  "lat" : 49.9690609,
+                  "lng" : 1.555598
+               }
+            },
+            "location" : {
+               "lat" : 50.48011529999999,
+               "lng" : 2.7937265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.08899,
+                  "lng" : 4.2316779
+               },
+               "southwest" : {
+                  "lat" : 49.9690609,
+                  "lng" : 1.555598
+               }
+            }
+         },
+         "place_id" : "ChIJCfJtqIjVwkcR7-qpwxdEZek",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

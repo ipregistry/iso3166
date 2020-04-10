@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dolj County",
+               "short_name" : "DJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dolj County, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.728214,
+                  "lng" : 24.2646289
+               },
+               "southwest" : {
+                  "lat" : 43.699738,
+                  "lng" : 22.8383393
+               }
+            },
+            "location" : {
+               "lat" : 44.1623022,
+               "lng" : 23.6325054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.728214,
+                  "lng" : 24.2646289
+               },
+               "southwest" : {
+                  "lat" : 43.699738,
+                  "lng" : 22.8383393
+               }
+            }
+         },
+         "place_id" : "ChIJB81tbQ7XUkcRBpWYV4LFOaY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

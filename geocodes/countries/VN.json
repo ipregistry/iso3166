@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.3926504,
+                  "lng" : 109.6765
+               },
+               "southwest" : {
+                  "lat" : 8.195200099999999,
+                  "lng" : 102.1439156
+               }
+            },
+            "location" : {
+               "lat" : 14.058324,
+               "lng" : 108.277199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.3926504,
+                  "lng" : 109.6765
+               },
+               "southwest" : {
+                  "lat" : 8.195200099999999,
+                  "lng" : 102.1439156
+               }
+            }
+         },
+         "place_id" : "ChIJXx5qc016FTERvmL-4smwO7A",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

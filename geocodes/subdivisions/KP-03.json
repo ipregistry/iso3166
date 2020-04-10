@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Pyongan",
+               "short_name" : "North Pyongan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Korea",
+               "short_name" : "KP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Pyongan, North Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.665424,
+                  "lng" : 126.3753941
+               },
+               "southwest" : {
+                  "lat" : 39.408238,
+                  "lng" : 124.18122
+               }
+            },
+            "location" : {
+               "lat" : 39.9255618,
+               "lng" : 125.3928025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.665424,
+                  "lng" : 126.3753941
+               },
+               "southwest" : {
+                  "lat" : 39.408238,
+                  "lng" : 124.18122
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2-7OgR_yKl4RaSYL42obE_U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

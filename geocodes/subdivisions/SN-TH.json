@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thies",
+               "short_name" : "Thies",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thies",
+               "short_name" : "Thies",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Thiès Region",
+               "short_name" : "Thiès Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thies, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.8497212,
+                  "lng" : -16.8717166
+               },
+               "southwest" : {
+                  "lat" : 14.7274084,
+                  "lng" : -16.9828215
+               }
+            },
+            "location" : {
+               "lat" : 14.7910052,
+               "lng" : -16.9358604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.8497212,
+                  "lng" : -16.8717166
+               },
+               "southwest" : {
+                  "lat" : 14.7274084,
+                  "lng" : -16.9828215
+               }
+            }
+         },
+         "place_id" : "ChIJv7Q3ypq_wQ4RawWjc0xvCFs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

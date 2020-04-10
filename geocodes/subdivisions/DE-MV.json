@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mecklenburg-Vorpommern",
+               "short_name" : "MV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mecklenburg-Vorpommern, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6847005,
+                  "lng" : 14.4122569
+               },
+               "southwest" : {
+                  "lat" : 53.1103197,
+                  "lng" : 10.5936138
+               }
+            },
+            "location" : {
+               "lat" : 53.6126505,
+               "lng" : 12.4295953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6847005,
+                  "lng" : 14.4122569
+               },
+               "southwest" : {
+                  "lat" : 53.1103197,
+                  "lng" : 10.5936138
+               }
+            }
+         },
+         "place_id" : "ChIJNzjcO6xQrEcRsuXdZ-Tc2MY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

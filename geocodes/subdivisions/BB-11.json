@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Thomas",
+               "short_name" : "Saint Thomas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Thomas, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.216692,
+                  "lng" : -59.55319399999999
+               },
+               "southwest" : {
+                  "lat" : 13.1466249,
+                  "lng" : -59.617723
+               }
+            },
+            "location" : {
+               "lat" : 13.1740547,
+               "lng" : -59.5827556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.216692,
+                  "lng" : -59.55319399999999
+               },
+               "southwest" : {
+                  "lat" : 13.1466249,
+                  "lng" : -59.617723
+               }
+            }
+         },
+         "place_id" : "ChIJ8c8BRr7xQ4wRpQEY7KnHj88",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

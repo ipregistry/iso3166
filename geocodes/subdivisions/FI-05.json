@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kainuu",
+               "short_name" : "Kainuu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kainuu, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.5209132,
+                  "lng" : 30.55383699999999
+               },
+               "southwest" : {
+                  "lat" : 63.66876169999999,
+                  "lng" : 26.2905571
+               }
+            },
+            "location" : {
+               "lat" : 64.3736564,
+               "lng" : 28.7437475
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.5209132,
+                  "lng" : 30.55383699999999
+               },
+               "southwest" : {
+                  "lat" : 63.66876169999999,
+                  "lng" : 26.2905571
+               }
+            }
+         },
+         "place_id" : "ChIJwdcNXuB-gkYRUp0BOiPgFAI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

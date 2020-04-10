@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Son.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sonora, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4939131,
+                  "lng" : -108.4242708
+               },
+               "southwest" : {
+                  "lat" : 26.2969879,
+                  "lng" : -115.0530223
+               }
+            },
+            "location" : {
+               "lat" : 29.2972247,
+               "lng" : -110.3308814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4939131,
+                  "lng" : -108.4242708
+               },
+               "southwest" : {
+                  "lat" : 26.2969879,
+                  "lng" : -115.0530223
+               }
+            }
+         },
+         "place_id" : "ChIJD9JN52kpmIYRdOO7_Br_Vs0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

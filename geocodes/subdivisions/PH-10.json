@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Mindanao",
+               "short_name" : "Northern Mindanao",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Mindanao, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.261213,
+                  "lng" : 125.4435841
+               },
+               "southwest" : {
+                  "lat" : 7.402983000000001,
+                  "lng" : 123.548043
+               }
+            },
+            "location" : {
+               "lat" : 8.020163499999999,
+               "lng" : 124.6856509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.261213,
+                  "lng" : 125.4435841
+               },
+               "southwest" : {
+                  "lat" : 7.402983000000001,
+                  "lng" : 123.548043
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjWvt7eRkADMR5MfVbPLs2mM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

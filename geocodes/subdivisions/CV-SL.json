@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sal",
+               "short_name" : "Sal",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Sal",
+               "short_name" : "Sal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sal, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.8555884,
+                  "lng" : -22.8722441
+               },
+               "southwest" : {
+                  "lat" : 16.5851306,
+                  "lng" : -22.9942131
+               }
+            },
+            "location" : {
+               "lat" : 16.7266152,
+               "lng" : -22.9297109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.8555884,
+                  "lng" : -22.8722441
+               },
+               "southwest" : {
+                  "lat" : 16.5851306,
+                  "lng" : -22.9942131
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlwgtnZagTAkR6od9YkgfzYo",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

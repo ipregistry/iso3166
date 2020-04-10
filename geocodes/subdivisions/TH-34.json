@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ubon Ratchathani",
+               "short_name" : "Ubon Ratchathani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Ubon Ratchathani District",
+               "short_name" : "อ.เมืองอุบลราชธานี",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ubon Ratchathani",
+               "short_name" : "จ.อุบลราชธานี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ubon Ratchathani, Mueang Ubon Ratchathani District, Ubon Ratchathani, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.2741239,
+                  "lng" : 104.8863969
+               },
+               "southwest" : {
+                  "lat" : 15.2095586,
+                  "lng" : 104.8284976
+               }
+            },
+            "location" : {
+               "lat" : 15.2448453,
+               "lng" : 104.8472995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.2741239,
+                  "lng" : 104.8863969
+               },
+               "southwest" : {
+                  "lat" : 15.2095586,
+                  "lng" : 104.8284976
+               }
+            }
+         },
+         "place_id" : "ChIJPfTstdSHFjERS1XPOqy3u0g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

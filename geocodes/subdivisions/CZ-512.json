@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jablonec nad Nisou",
+               "short_name" : "Jablonec nad Nisou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jablonec nad Nisou District",
+               "short_name" : "Jablonec nad Nisou District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Liberec Region",
+               "short_name" : "Liberec Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jablonec nad Nisou, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.76055710000001,
+                  "lng" : 15.2192717
+               },
+               "southwest" : {
+                  "lat" : 50.692911,
+                  "lng" : 15.1035787
+               }
+            },
+            "location" : {
+               "lat" : 50.7220528,
+               "lng" : 15.1703135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.76055710000001,
+                  "lng" : 15.2192717
+               },
+               "southwest" : {
+                  "lat" : 50.692911,
+                  "lng" : 15.1035787
+               }
+            }
+         },
+         "place_id" : "ChIJVcKd1Sw1CUcRcCIVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veraguas",
+               "short_name" : "Veraguas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Santa Fe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provincia de Veraguas",
+               "short_name" : "Provincia de Veraguas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Panama",
+               "short_name" : "PA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Veraguas, Panama",
+         "geometry" : {
+            "location" : {
+               "lat" : 8.866667,
+               "lng" : -80.89999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.877691499999999,
+                  "lng" : -80.8839926
+               },
+               "southwest" : {
+                  "lat" : 8.8556422,
+                  "lng" : -80.9160074
+               }
+            }
+         },
+         "place_id" : "ChIJgVZ4x9elro8RasxYz4NF3vA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gansu",
+               "short_name" : "Gansu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gansu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7951629,
+                  "lng" : 108.7123359
+               },
+               "southwest" : {
+                  "lat" : 32.5941101,
+                  "lng" : 92.3391463
+               }
+            },
+            "location" : {
+               "lat" : 35.7518326,
+               "lng" : 104.2861116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7951629,
+                  "lng" : 108.7123359
+               },
+               "southwest" : {
+                  "lat" : 32.5941101,
+                  "lng" : 92.3391463
+               }
+            }
+         },
+         "place_id" : "ChIJ5bRHsW5cTDYR2b_TuLO4yq8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Lucy",
+               "short_name" : "Saint Lucy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Lucy, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.3351301,
+                  "lng" : -59.57436509999999
+               },
+               "southwest" : {
+                  "lat" : 13.2740421,
+                  "lng" : -59.650559
+               }
+            },
+            "location" : {
+               "lat" : 13.3041806,
+               "lng" : -59.6052862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.3351301,
+                  "lng" : -59.57436509999999
+               },
+               "southwest" : {
+                  "lat" : 13.2740421,
+                  "lng" : -59.650559
+               }
+            }
+         },
+         "place_id" : "ChIJixBvftzoQ4wRJ7hcgAz1WpU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

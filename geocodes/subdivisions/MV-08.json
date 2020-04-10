@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thaa Atoll",
+               "short_name" : "Thaa Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Central Province",
+               "short_name" : "South Central Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thaa Atoll, Maldives",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.5752549,
+                  "lng" : 73.3848953
+               },
+               "southwest" : {
+                  "lat" : 2.1473243,
+                  "lng" : 72.8728294
+               }
+            },
+            "location" : {
+               "lat" : 2.4311161,
+               "lng" : 73.1821623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.5752549,
+                  "lng" : 73.3848953
+               },
+               "southwest" : {
+                  "lat" : 2.1473243,
+                  "lng" : 72.8728294
+               }
+            }
+         },
+         "place_id" : "ChIJtablk6p3SDsRr5SntfHJtZM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bến Tre",
+               "short_name" : "Bến Tre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ben Tre",
+               "short_name" : "Ben Tre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bến Tre, Ben Tre, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.283549,
+                  "lng" : 106.4322859
+               },
+               "southwest" : {
+                  "lat" : 10.1912399,
+                  "lng" : 106.3188169
+               }
+            },
+            "location" : {
+               "lat" : 10.2433556,
+               "lng" : 106.375551
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.283549,
+                  "lng" : 106.4322859
+               },
+               "southwest" : {
+                  "lat" : 10.1912399,
+                  "lng" : 106.3188169
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCb3o4vWoCjERu1b65IzRX50",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

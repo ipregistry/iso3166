@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barguna",
+               "short_name" : "Barguna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barguna District",
+               "short_name" : "Barguna District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Barisal Division",
+               "short_name" : "Barisal Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barguna, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.1645144,
+                  "lng" : 90.1316643
+               },
+               "southwest" : {
+                  "lat" : 22.153465,
+                  "lng" : 90.1014519
+               }
+            },
+            "location" : {
+               "lat" : 22.1605051,
+               "lng" : 90.12006359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.1645144,
+                  "lng" : 90.1316643
+               },
+               "southwest" : {
+                  "lat" : 22.153465,
+                  "lng" : 90.1014519
+               }
+            }
+         },
+         "place_id" : "ChIJHx6ddpyZqjARjybIH3fZW5U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

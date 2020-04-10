@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tibesti",
+               "short_name" : "Tibesti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tibesti, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.4503689,
+                  "lng" : 18.938141
+               },
+               "southwest" : {
+                  "lat" : 17.0754779,
+                  "lng" : 14.995867
+               }
+            },
+            "location" : {
+               "lat" : 21.3650031,
+               "lng" : 16.912251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.4503689,
+                  "lng" : 18.938141
+               },
+               "southwest" : {
+                  "lat" : 17.0754779,
+                  "lng" : 14.995867
+               }
+            }
+         },
+         "place_id" : "ChIJh0quWSTRXxERDqE7f6VcX5o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

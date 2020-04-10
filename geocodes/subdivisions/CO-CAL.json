@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caldas",
+               "short_name" : "Caldas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caldas, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.780033,
+                  "lng" : -74.6251699
+               },
+               "southwest" : {
+                  "lat" : 4.7996951,
+                  "lng" : -75.9226731
+               }
+            },
+            "location" : {
+               "lat" : 5.29826,
+               "lng" : -75.24790609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.780033,
+                  "lng" : -74.6251699
+               },
+               "southwest" : {
+                  "lat" : 4.7996951,
+                  "lng" : -75.9226731
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcd6LEpw9R44RjJ6clEdODWg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

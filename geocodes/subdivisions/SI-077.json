@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moravče",
+               "short_name" : "Moravče",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Moravče",
+               "short_name" : "Moravče",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Domžale",
+               "short_name" : "Domžale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1251",
+               "short_name" : "1251",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1251 Moravče, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1442446,
+                  "lng" : 14.7557551
+               },
+               "southwest" : {
+                  "lat" : 46.1250171,
+                  "lng" : 14.7283915
+               }
+            },
+            "location" : {
+               "lat" : 46.1357218,
+               "lng" : 14.7444352
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1442446,
+                  "lng" : 14.7557551
+               },
+               "southwest" : {
+                  "lat" : 46.1250171,
+                  "lng" : 14.7283915
+               }
+            }
+         },
+         "place_id" : "ChIJh4c9hM45ZUcRsHUHbNr_qbw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mureș County",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mureș County, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.143799,
+                  "lng" : 25.3139161
+               },
+               "southwest" : {
+                  "lat" : 46.075015,
+                  "lng" : 23.9577359
+               }
+            },
+            "location" : {
+               "lat" : 46.5569904,
+               "lng" : 24.6723215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.143799,
+                  "lng" : 25.3139161
+               },
+               "southwest" : {
+                  "lat" : 46.075015,
+                  "lng" : 23.9577359
+               }
+            }
+         },
+         "place_id" : "ChIJd5E-VUq2S0cR0LbfbkS1jms",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

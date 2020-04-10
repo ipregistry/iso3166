@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bas-Rhin",
+               "short_name" : "Bas-Rhin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bas-Rhin, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0778581,
+                  "lng" : 8.233549099999999
+               },
+               "southwest" : {
+                  "lat" : 48.120387,
+                  "lng" : 6.9406139
+               }
+            },
+            "location" : {
+               "lat" : 48.6343172,
+               "lng" : 7.525293800000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0778581,
+                  "lng" : 8.233549099999999
+               },
+               "southwest" : {
+                  "lat" : 48.120387,
+                  "lng" : 6.9406139
+               }
+            }
+         },
+         "place_id" : "ChIJ5TPeMOawlkcRsCk3mrlfCgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

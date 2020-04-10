@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saramacca",
+               "short_name" : "Saramacca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Suriname",
+               "short_name" : "SR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saramacca, Suriname",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.981152,
+                  "lng" : -55.30576
+               },
+               "southwest" : {
+                  "lat" : 5.4037231,
+                  "lng" : -55.971144
+               }
+            },
+            "location" : {
+               "lat" : 5.7240813,
+               "lng" : -55.6689636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.981152,
+                  "lng" : -55.30576
+               },
+               "southwest" : {
+                  "lat" : 5.4037231,
+                  "lng" : -55.971144
+               }
+            }
+         },
+         "place_id" : "ChIJafoZDiRlp40RuZtfv3cRNQk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

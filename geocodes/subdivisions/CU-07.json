@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sancti Spiritus",
+               "short_name" : "Sancti Spiritus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sancti Spiritus",
+               "short_name" : "Sancti Spiritus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sancti Spiritus",
+               "short_name" : "Sancti Spiritus",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sancti Spiritus, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.9856319,
+                  "lng" : -79.41012379999999
+               },
+               "southwest" : {
+                  "lat" : 21.8906506,
+                  "lng" : -79.4786168
+               }
+            },
+            "location" : {
+               "lat" : 21.9327554,
+               "lng" : -79.43663239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.9856319,
+                  "lng" : -79.41012379999999
+               },
+               "southwest" : {
+                  "lat" : 21.8906506,
+                  "lng" : -79.4786168
+               }
+            }
+         },
+         "place_id" : "ChIJFSlgz6OhKo8RRwzWZbx1njk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

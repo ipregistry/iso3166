@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North-Kivu",
+               "short_name" : "North-Kivu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North-Kivu, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.9623669,
+                  "lng" : 29.991732
+               },
+               "southwest" : {
+                  "lat" : -2.0661759,
+                  "lng" : 27.201624
+               }
+            },
+            "location" : {
+               "lat" : -0.7917729,
+               "lng" : 29.0459927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.9623669,
+                  "lng" : 29.991732
+               },
+               "southwest" : {
+                  "lat" : -2.0661759,
+                  "lng" : 27.201624
+               }
+            }
+         },
+         "place_id" : "ChIJw2_lYFWG4BkRlBuOXc5NHjQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

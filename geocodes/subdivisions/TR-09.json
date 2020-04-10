@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aydın",
+               "short_name" : "Aydın",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Efeler",
+               "short_name" : "Efeler",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aydın",
+               "short_name" : "Aydın",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aydın, Efeler/Aydın, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.867569,
+                  "lng" : 27.900506
+               },
+               "southwest" : {
+                  "lat" : 37.803987,
+                  "lng" : 27.7943271
+               }
+            },
+            "location" : {
+               "lat" : 37.8380162,
+               "lng" : 27.8455601
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.867569,
+                  "lng" : 27.900506
+               },
+               "southwest" : {
+                  "lat" : 37.803987,
+                  "lng" : 27.7943271
+               }
+            }
+         },
+         "place_id" : "ChIJL-3cJ2YruRQRLjI7yxsvocw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

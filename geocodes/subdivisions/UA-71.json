@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cherkasy Oblast",
+               "short_name" : "Cherkasy Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cherkasy Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.228656,
+                  "lng" : 32.8929361
+               },
+               "southwest" : {
+                  "lat" : 48.4519151,
+                  "lng" : 29.6063949
+               }
+            },
+            "location" : {
+               "lat" : 49.444433,
+               "lng" : 32.059767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.228656,
+                  "lng" : 32.8929361
+               },
+               "southwest" : {
+                  "lat" : 48.4519151,
+                  "lng" : 29.6063949
+               }
+            }
+         },
+         "place_id" : "ChIJg26lOnZL0UARiu-AtokbRyg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhamar",
+               "short_name" : "Dhamar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhamar Governorate",
+               "short_name" : "Dhamar Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Yemen",
+               "short_name" : "YE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhamar, Yemen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.5797605,
+                  "lng" : 44.4356584
+               },
+               "southwest" : {
+                  "lat" : 14.508298,
+                  "lng" : 44.3726426
+               }
+            },
+            "location" : {
+               "lat" : 14.5455447,
+               "lng" : 44.4087348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.5797605,
+                  "lng" : 44.4356584
+               },
+               "southwest" : {
+                  "lat" : 14.508298,
+                  "lng" : 44.3726426
+               }
+            }
+         },
+         "place_id" : "ChIJOcOzUhzgAhYRHlEjjWzdTV0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

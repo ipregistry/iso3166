@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Macao",
+               "short_name" : "MO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Macao",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2170639,
+                  "lng" : 113.6127001
+               },
+               "southwest" : {
+                  "lat" : 22.1066001,
+                  "lng" : 113.5276053
+               }
+            },
+            "location" : {
+               "lat" : 22.198745,
+               "lng" : 113.543873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2170639,
+                  "lng" : 113.6127001
+               },
+               "southwest" : {
+                  "lat" : 22.1066001,
+                  "lng" : 113.5276053
+               }
+            }
+         },
+         "place_id" : "ChIJ88g14uB6ATQR9qyFtCzje8Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

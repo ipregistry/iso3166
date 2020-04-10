@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Attiki",
+               "short_name" : "Attiki",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Athens Regional Unit",
+               "short_name" : "Central Athens Regional Unit",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104 45",
+               "short_name" : "104 45",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Attiki, Athens 104 45, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.9982945,
+               "lng" : 23.7215764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0070868,
+                  "lng" : 23.7375838
+               },
+               "southwest" : {
+                  "lat" : 37.9895012,
+                  "lng" : 23.705569
+               }
+            }
+         },
+         "place_id" : "ChIJb5LEd9SioRQRRMggqVG2Jzg",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

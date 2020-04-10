@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Barbara",
+               "short_name" : "Santa Barbara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Bárbara",
+               "short_name" : "Santa Bárbara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santa Bárbara Department",
+               "short_name" : "Santa Bárbara Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Honduras",
+               "short_name" : "HN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Barbara, Honduras",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.929375,
+                  "lng" : -88.22742459999999
+               },
+               "southwest" : {
+                  "lat" : 14.9152758,
+                  "lng" : -88.2475948
+               }
+            },
+            "location" : {
+               "lat" : 14.9219177,
+               "lng" : -88.2375991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.929375,
+                  "lng" : -88.22742459999999
+               },
+               "southwest" : {
+                  "lat" : 14.9152758,
+                  "lng" : -88.2475948
+               }
+            }
+         },
+         "place_id" : "ChIJk1FlP_grZI8R3WlHYd1IvGA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

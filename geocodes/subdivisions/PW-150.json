@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koror",
+               "short_name" : "Koror",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Koror, Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.3641121,
+                  "lng" : 134.519365
+               },
+               "southwest" : {
+                  "lat" : 7.1346673,
+                  "lng" : 134.2798882
+               }
+            },
+            "location" : {
+               "lat" : 7.3375646,
+               "lng" : 134.4889469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.3641121,
+                  "lng" : 134.519365
+               },
+               "southwest" : {
+                  "lat" : 7.1346673,
+                  "lng" : 134.2798882
+               }
+            }
+         },
+         "place_id" : "ChIJDwp3wHGo1TIR9vSKILemCXY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

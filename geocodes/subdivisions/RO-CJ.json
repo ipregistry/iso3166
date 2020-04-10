@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cluj-Napoca",
+               "short_name" : "Cluj-Napoca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cluj - Napoca",
+               "short_name" : "Cluj - Napoca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cluj County",
+               "short_name" : "CJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cluj-Napoca, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8612951,
+                  "lng" : 23.7104809
+               },
+               "southwest" : {
+                  "lat" : 46.7054762,
+                  "lng" : 23.522544
+               }
+            },
+            "location" : {
+               "lat" : 46.7712101,
+               "lng" : 23.6236353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8612951,
+                  "lng" : 23.7104809
+               },
+               "southwest" : {
+                  "lat" : 46.7054762,
+                  "lng" : 23.522544
+               }
+            }
+         },
+         "place_id" : "ChIJiwtskR8MSUcRixQfMxxgvAs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

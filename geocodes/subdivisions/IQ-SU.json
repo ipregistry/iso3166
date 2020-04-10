@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sulaymaniyah",
+               "short_name" : "Sulaymaniyah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sulaymaniyah",
+               "short_name" : "Sulaymaniyah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kurdistan Region",
+               "short_name" : "Kurdistan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sulaymaniyah, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6029511,
+                  "lng" : 45.476532
+               },
+               "southwest" : {
+                  "lat" : 35.5232852,
+                  "lng" : 45.278778
+               }
+            },
+            "location" : {
+               "lat" : 35.5557603,
+               "lng" : 45.4351181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6029511,
+                  "lng" : 45.476532
+               },
+               "southwest" : {
+                  "lat" : 35.5232852,
+                  "lng" : 45.278778
+               }
+            }
+         },
+         "place_id" : "ChIJsUPRNgUsAEAR6l0hTg11kfc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

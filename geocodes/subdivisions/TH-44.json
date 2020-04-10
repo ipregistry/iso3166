@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maha Sarakham",
+               "short_name" : "จ.มหาสารคาม",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maha Sarakham, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.6429105,
+                  "lng" : 103.503853
+               },
+               "southwest" : {
+                  "lat" : 15.406028,
+                  "lng" : 102.8445023
+               }
+            },
+            "location" : {
+               "lat" : 16.0132015,
+               "lng" : 103.1615169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.6429105,
+                  "lng" : 103.503853
+               },
+               "southwest" : {
+                  "lat" : 15.406028,
+                  "lng" : 102.8445023
+               }
+            }
+         },
+         "place_id" : "ChIJWb4Q1OymIjERniPLhuSVrbs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalvarija",
+               "short_name" : "Kalvarija",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalvarija Municipality",
+               "short_name" : "Kalvarija Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marijampolė County",
+               "short_name" : "Marijampolė County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalvarija, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.424754,
+                  "lng" : 23.2465549
+               },
+               "southwest" : {
+                  "lat" : 54.4041302,
+                  "lng" : 23.200812
+               }
+            },
+            "location" : {
+               "lat" : 54.4156509,
+               "lng" : 23.2236948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.424754,
+                  "lng" : 23.2465549
+               },
+               "southwest" : {
+                  "lat" : 54.4041302,
+                  "lng" : 23.200812
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnyLNuD8n4UYRyN3pTvKYj7A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

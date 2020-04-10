@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pita",
+               "short_name" : "Pita",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pita Prefecture",
+               "short_name" : "Pita Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mamou",
+               "short_name" : "Mamou",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pita, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.0790367,
+                  "lng" : -12.370305
+               },
+               "southwest" : {
+                  "lat" : 11.0282726,
+                  "lng" : -12.4155379
+               }
+            },
+            "location" : {
+               "lat" : 11.0574624,
+               "lng" : -12.3979431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0790367,
+                  "lng" : -12.370305
+               },
+               "southwest" : {
+                  "lat" : 11.0282726,
+                  "lng" : -12.4155379
+               }
+            }
+         },
+         "place_id" : "ChIJKzqHKtLK_Q4RNY_IqC6TF3U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajbari",
+               "short_name" : "Rajbari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rajbari District",
+               "short_name" : "Rajbari District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajbari, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7686931,
+                  "lng" : 89.65032579999999
+               },
+               "southwest" : {
+                  "lat" : 23.7593453,
+                  "lng" : 89.641657
+               }
+            },
+            "location" : {
+               "lat" : 23.7638997,
+               "lng" : 89.646737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7686931,
+                  "lng" : 89.65032579999999
+               },
+               "southwest" : {
+                  "lat" : 23.7593453,
+                  "lng" : 89.641657
+               }
+            }
+         },
+         "place_id" : "ChIJtQs6X9pB_jkRUqNwnIYAd04",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

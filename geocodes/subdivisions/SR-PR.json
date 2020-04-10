@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Para",
+               "short_name" : "Para",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Suriname",
+               "short_name" : "SR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Para, Suriname",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.700753,
+                  "lng" : -54.6248351
+               },
+               "southwest" : {
+                  "lat" : 4.990305,
+                  "lng" : -56.04478899999999
+               }
+            },
+            "location" : {
+               "lat" : 5.481731799999999,
+               "lng" : -55.2259207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.700753,
+                  "lng" : -54.6248351
+               },
+               "southwest" : {
+                  "lat" : 4.990305,
+                  "lng" : -56.04478899999999
+               }
+            }
+         },
+         "place_id" : "ChIJOVqsG_i5CY0RXDPsJy0AWiU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

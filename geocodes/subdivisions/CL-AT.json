@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atacama",
+               "short_name" : "Atacama",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atacama, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.2897005,
+                  "lng" : -68.2668621
+               },
+               "southwest" : {
+                  "lat" : -29.5373751,
+                  "lng" : -71.59368839999999
+               }
+            },
+            "location" : {
+               "lat" : -27.5660558,
+               "lng" : -70.050314
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.2897005,
+                  "lng" : -68.2668621
+               },
+               "southwest" : {
+                  "lat" : -29.5373751,
+                  "lng" : -71.59368839999999
+               }
+            }
+         },
+         "place_id" : "ChIJXyWul5E3kZYRNDjx8hodVB4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zavkhan",
+               "short_name" : "Zavkhan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zavkhan, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.041237,
+                  "lng" : 99.21858709999999
+               },
+               "southwest" : {
+                  "lat" : 46.583037,
+                  "lng" : 93.17390499999999
+               }
+            },
+            "location" : {
+               "lat" : 48.2388147,
+               "lng" : 96.07030189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.041237,
+                  "lng" : 99.21858709999999
+               },
+               "southwest" : {
+                  "lat" : 46.583037,
+                  "lng" : 93.17390499999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-VlQh11GQF0R7i5N_XZzqWU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

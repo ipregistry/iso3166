@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Sea",
+               "short_name" : "Red Sea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sudan",
+               "short_name" : "SD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Red Sea, Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.0063784,
+                  "lng" : 38.580036
+               },
+               "southwest" : {
+                  "lat" : 16.9985761,
+                  "lng" : 33.2534589
+               }
+            },
+            "location" : {
+               "lat" : 19.4556063,
+               "lng" : 35.2148469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.0063784,
+                  "lng" : 38.580036
+               },
+               "southwest" : {
+                  "lat" : 16.9985761,
+                  "lng" : 33.2534589
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJea5tEmsTyRURZqQlBFiXB5E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

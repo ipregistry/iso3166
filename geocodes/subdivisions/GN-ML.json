@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mali",
+               "short_name" : "Mali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mali Prefecture",
+               "short_name" : "Mali Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Labé",
+               "short_name" : "Labé",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mali, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.087919,
+                  "lng" : -12.2849035
+               },
+               "southwest" : {
+                  "lat" : 12.0613546,
+                  "lng" : -12.310524
+               }
+            },
+            "location" : {
+               "lat" : 12.0742942,
+               "lng" : -12.297718
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.087919,
+                  "lng" : -12.2849035
+               },
+               "southwest" : {
+                  "lat" : 12.0613546,
+                  "lng" : -12.310524
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ64uFD9jo-w4RD8k4EmnW3Wg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

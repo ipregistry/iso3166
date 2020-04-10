@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hrastnik",
+               "short_name" : "Hrastnik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hrastnik",
+               "short_name" : "Hrastnik",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Municipality of Hrastnik",
+               "short_name" : "Municipality of Hrastnik",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1430",
+               "short_name" : "1430",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1430 Hrastnik, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1557132,
+                  "lng" : 15.1043942
+               },
+               "southwest" : {
+                  "lat" : 46.1138134,
+                  "lng" : 15.0682763
+               }
+            },
+            "location" : {
+               "lat" : 46.1417288,
+               "lng" : 15.0844894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1557132,
+                  "lng" : 15.1043942
+               },
+               "southwest" : {
+                  "lat" : 46.1138134,
+                  "lng" : 15.0682763
+               }
+            }
+         },
+         "place_id" : "ChIJ3US9HdNsZUcRMPP-ORXSSDc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rogatec",
+               "short_name" : "Rogatec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rogatec",
+               "short_name" : "Rogatec",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Šmarje pri Jelšah",
+               "short_name" : "Šmarje pri Jelšah",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3252",
+               "short_name" : "3252",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3252 Rogatec, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.240435,
+                  "lng" : 15.7396848
+               },
+               "southwest" : {
+                  "lat" : 46.2198708,
+                  "lng" : 15.6835002
+               }
+            },
+            "location" : {
+               "lat" : 46.2258891,
+               "lng" : 15.7000312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.240435,
+                  "lng" : 15.7396848
+               },
+               "southwest" : {
+                  "lat" : 46.2198708,
+                  "lng" : 15.6835002
+               }
+            }
+         },
+         "place_id" : "ChIJgUN9a0eOZUcR5qr1OfkASJc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaliro",
+               "short_name" : "Kaliro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaliro",
+               "short_name" : "Kaliro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaliro, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.9000693999999999,
+                  "lng" : 33.5104035
+               },
+               "southwest" : {
+                  "lat" : 0.8857374,
+                  "lng" : 33.4992672
+               }
+            },
+            "location" : {
+               "lat" : 0.8927499,
+               "lng" : 33.5028005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.9000693999999999,
+                  "lng" : 33.5104035
+               },
+               "southwest" : {
+                  "lat" : 0.8857374,
+                  "lng" : 33.4992672
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqTmCuJPIfhcRM_pfmPURdWk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Namutumba",
+               "short_name" : "Namutumba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Namutumba, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.1033899,
+                  "lng" : 33.8480909
+               },
+               "southwest" : {
+                  "lat" : 0.677922,
+                  "lng" : 33.5423471
+               }
+            },
+            "location" : {
+               "lat" : 0.8492609999999999,
+               "lng" : 33.6623301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.1033899,
+                  "lng" : 33.8480909
+               },
+               "southwest" : {
+                  "lat" : 0.677922,
+                  "lng" : 33.5423471
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz8mXQqfQfhcRDSXWDJrmY8A",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

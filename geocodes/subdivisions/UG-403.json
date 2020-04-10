@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hoima",
+               "short_name" : "Hoima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hoima",
+               "short_name" : "Hoima",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hoima, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.4481528,
+                  "lng" : 31.375494
+               },
+               "southwest" : {
+                  "lat" : 1.4163196,
+                  "lng" : 31.3272573
+               }
+            },
+            "location" : {
+               "lat" : 1.4273554,
+               "lng" : 31.3484448
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.4481528,
+                  "lng" : 31.375494
+               },
+               "southwest" : {
+                  "lat" : 1.4163196,
+                  "lng" : 31.3272573
+               }
+            }
+         },
+         "place_id" : "ChIJJfeZtKfEZBcR7aOKo9_8RYc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

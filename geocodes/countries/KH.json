@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.6901791,
+                  "lng" : 107.627687
+               },
+               "southwest" : {
+                  "lat" : 9.6007,
+                  "lng" : 102.333542
+               }
+            },
+            "location" : {
+               "lat" : 12.565679,
+               "lng" : 104.990963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.6901791,
+                  "lng" : 107.627687
+               },
+               "southwest" : {
+                  "lat" : 9.6007,
+                  "lng" : 102.333542
+               }
+            }
+         },
+         "place_id" : "ChIJQzfc1L-HBzERUxL0ieC_t-Q",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

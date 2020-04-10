@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jambyl Province",
+               "short_name" : "Jambyl Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jambyl Province, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0366224,
+                  "lng" : 75.77342999999999
+               },
+               "southwest" : {
+                  "lat" : 42.2223563,
+                  "lng" : 68.9939081
+               }
+            },
+            "location" : {
+               "lat" : 44.2220308,
+               "lng" : 72.36579669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0366224,
+                  "lng" : 75.77342999999999
+               },
+               "southwest" : {
+                  "lat" : 42.2223563,
+                  "lng" : 68.9939081
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTdxkbwDmnzgR0CD8vt9XvWE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

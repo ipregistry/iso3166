@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westmeath",
+               "short_name" : "Westmeath",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Westmeath",
+               "short_name" : "County Westmeath",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Westmeath, Co. Westmeath, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7990522,
+                  "lng" : -6.9547842
+               },
+               "southwest" : {
+                  "lat" : 53.31796259999999,
+                  "lng" : -7.9729531
+               }
+            },
+            "location" : {
+               "lat" : 53.5345308,
+               "lng" : -7.4653217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7990522,
+                  "lng" : -6.9547842
+               },
+               "southwest" : {
+                  "lat" : 53.31796259999999,
+                  "lng" : -7.9729531
+               }
+            }
+         },
+         "place_id" : "ChIJn4xkPgFJXEgRadtY0E-fglw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

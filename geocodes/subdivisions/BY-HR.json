@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hrodna Region",
+               "short_name" : "Hrodna Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hrodna Region, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.99720629999999,
+                  "lng" : 26.68676
+               },
+               "southwest" : {
+                  "lat" : 52.7442509,
+                  "lng" : 23.5115709
+               }
+            },
+            "location" : {
+               "lat" : 53.6599945,
+               "lng" : 25.3448571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.99720629999999,
+                  "lng" : 26.68676
+               },
+               "southwest" : {
+                  "lat" : 52.7442509,
+                  "lng" : 23.5115709
+               }
+            }
+         },
+         "place_id" : "ChIJu5YcsjrW30YRtAIPeKwCpLc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

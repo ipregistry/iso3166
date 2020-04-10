@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.56214379999999,
+                  "lng" : -0.2123533
+               },
+               "southwest" : {
+                  "lat" : 53.6210943,
+                  "lng" : -2.5647389
+               }
+            },
+            "location" : {
+               "lat" : 53.9915028,
+               "lng" : -1.5412015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.56214379999999,
+                  "lng" : -0.2123533
+               },
+               "southwest" : {
+                  "lat" : 53.6210943,
+                  "lng" : -2.5647389
+               }
+            }
+         },
+         "place_id" : "ChIJ8WWY4UDDeEgRt5-VyBki4MM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

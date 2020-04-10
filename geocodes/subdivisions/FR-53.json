@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayenne",
+               "short_name" : "Mayenne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mayenne",
+               "short_name" : "Mayenne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53100",
+               "short_name" : "53100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "53100 Mayenne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.33539690000001,
+                  "lng" : -0.5777470000000001
+               },
+               "southwest" : {
+                  "lat" : 48.2778439,
+                  "lng" : -0.6502759
+               }
+            },
+            "location" : {
+               "lat" : 48.3061239,
+               "lng" : -0.620935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.33539690000001,
+                  "lng" : -0.5777470000000001
+               },
+               "southwest" : {
+                  "lat" : 48.2778439,
+                  "lng" : -0.6502759
+               }
+            }
+         },
+         "place_id" : "ChIJ0RHQHMSmCUgRXTpodajCIV8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

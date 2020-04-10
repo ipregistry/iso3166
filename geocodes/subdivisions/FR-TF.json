@@ -1,0 +1,220 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port-aux-Français",
+               "short_name" : "Port-aux-Français",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "French Southern and Antarctic Lands",
+               "short_name" : "TF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port-aux-Français, French Southern and Antarctic Lands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -49.3448813,
+                  "lng" : 70.22683870000002
+               },
+               "southwest" : {
+                  "lat" : -49.3536539,
+                  "lng" : 70.21002159999999
+               }
+            },
+            "location" : {
+               "lat" : -49.3496422,
+               "lng" : 70.21800399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -49.3448813,
+                  "lng" : 70.22683870000002
+               },
+               "southwest" : {
+                  "lat" : -49.3536539,
+                  "lng" : 70.21002159999999
+               }
+            }
+         },
+         "place_id" : "ChIJMZFHlla-FLMROCuA2BT0e5Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "French Southern and Antarctic Lands",
+               "short_name" : "TF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "French Southern and Antarctic Lands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -45.7567331,
+                  "lng" : 70.6558228
+               },
+               "southwest" : {
+                  "lat" : -50.0641918,
+                  "lng" : 49.8519168
+               }
+            },
+            "location" : {
+               "lat" : -49.280366,
+               "lng" : 69.34855709999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -45.7567331,
+                  "lng" : 70.6558228
+               },
+               "southwest" : {
+                  "lat" : -50.0641918,
+                  "lng" : 49.8519168
+               }
+            }
+         },
+         "place_id" : "ChIJN8QJBD7EFLMRKdDmkEwhirg",
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kerguelen Islands",
+               "short_name" : "Kerguelen Islands",
+               "types" : [ "archipelago", "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "French Southern and Antarctic Lands",
+               "short_name" : "TF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kerguelen Islands, French Southern and Antarctic Lands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -48.522354,
+                  "lng" : 70.6354267
+               },
+               "southwest" : {
+                  "lat" : -49.7981326,
+                  "lng" : 68.5278306
+               }
+            },
+            "location" : {
+               "lat" : -49.1602433,
+               "lng" : 69.5816287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -48.522354,
+                  "lng" : 70.6354267
+               },
+               "southwest" : {
+                  "lat" : -49.7981326,
+                  "lng" : 68.5278306
+               }
+            }
+         },
+         "place_id" : "ChIJPZBWyBxIa7MRlUJtayLxGRw",
+         "types" : [ "archipelago", "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grande Terre",
+               "short_name" : "Grande Terre",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "French Southern and Antarctic Lands",
+               "short_name" : "TF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grande Terre, French Southern and Antarctic Lands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -48.6587729,
+                  "lng" : 70.55711749999999
+               },
+               "southwest" : {
+                  "lat" : -49.7352589,
+                  "lng" : 68.7297688
+               }
+            },
+            "location" : {
+               "lat" : -49.3948275,
+               "lng" : 69.3544625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -48.6587729,
+                  "lng" : 70.55711749999999
+               },
+               "southwest" : {
+                  "lat" : -49.7352589,
+                  "lng" : 68.7297688
+               }
+            }
+         },
+         "place_id" : "ChIJ59BvoRxIa7MRf2XT67xKlrk",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iles Crozet",
+               "short_name" : "Iles Crozet",
+               "types" : [ "archipelago", "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "French Southern and Antarctic Lands",
+               "short_name" : "TF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iles Crozet, French Southern and Antarctic Lands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -45.9295848,
+                  "lng" : 52.3617656
+               },
+               "southwest" : {
+                  "lat" : -46.4877577,
+                  "lng" : 50.1352931
+               }
+            },
+            "location" : {
+               "lat" : -46.2086712,
+               "lng" : 51.2485294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -45.9295848,
+                  "lng" : 52.3617656
+               },
+               "southwest" : {
+                  "lat" : -46.4877577,
+                  "lng" : 50.1352931
+               }
+            }
+         },
+         "place_id" : "ChIJ3wUOh6L98LQRiyrH40xEZDI",
+         "types" : [ "archipelago", "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

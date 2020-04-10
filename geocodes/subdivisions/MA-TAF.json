@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarfaya",
+               "short_name" : "Tarfaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laayoune",
+               "short_name" : "Laayoune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Laâyoune-Sakia El Hamra",
+               "short_name" : "Laâyoune-Sakia El Hamra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarfaya, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9572589,
+                  "lng" : -12.879753
+               },
+               "southwest" : {
+                  "lat" : 27.9182836,
+                  "lng" : -12.9440403
+               }
+            },
+            "location" : {
+               "lat" : 27.9375382,
+               "lng" : -12.9262851
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9572589,
+                  "lng" : -12.879753
+               },
+               "southwest" : {
+                  "lat" : 27.9182836,
+                  "lng" : -12.9440403
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJf2dNWGnRNwwRipUqzmQcX2g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

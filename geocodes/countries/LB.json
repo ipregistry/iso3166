@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lebanon",
+               "short_name" : "LB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lebanon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.69209,
+                  "lng" : 36.62372
+               },
+               "southwest" : {
+                  "lat" : 33.0550256,
+                  "lng" : 35.0711001
+               }
+            },
+            "location" : {
+               "lat" : 33.854721,
+               "lng" : 35.862285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.69209,
+                  "lng" : 36.62372
+               },
+               "southwest" : {
+                  "lat" : 33.0550256,
+                  "lng" : 35.0711001
+               }
+            }
+         },
+         "place_id" : "ChIJraoihAIXHxURcPkAbAk0fcw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

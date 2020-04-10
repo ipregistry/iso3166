@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greater Poland Voivodeship",
+               "short_name" : "Greater Poland Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater Poland Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6559175,
+                  "lng" : 19.1033489
+               },
+               "southwest" : {
+                  "lat" : 51.1037882,
+                  "lng" : 15.7789648
+               }
+            },
+            "location" : {
+               "lat" : 52.279986,
+               "lng" : 17.3522939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6559175,
+                  "lng" : 19.1033489
+               },
+               "southwest" : {
+                  "lat" : 51.1037882,
+                  "lng" : 15.7789648
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRRG3jpPtBEcRUCx0TfnBsbc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

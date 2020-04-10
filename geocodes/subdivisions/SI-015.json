@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Črenšovci",
+               "short_name" : "Črenšovci",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Črenšovci",
+               "short_name" : "Črenšovci",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lendava",
+               "short_name" : "Lendava",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9232",
+               "short_name" : "9232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9232 Črenšovci, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5852017,
+                  "lng" : 16.3453289
+               },
+               "southwest" : {
+                  "lat" : 46.5272102,
+                  "lng" : 16.2666812
+               }
+            },
+            "location" : {
+               "lat" : 46.5720029,
+               "lng" : 16.2877346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5852017,
+                  "lng" : 16.3453289
+               },
+               "southwest" : {
+                  "lat" : 46.5272102,
+                  "lng" : 16.2666812
+               }
+            }
+         },
+         "place_id" : "ChIJEWuOplRIb0cRy-WLXCOWp0A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

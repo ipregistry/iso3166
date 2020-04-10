@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cordillera Department",
+               "short_name" : "Cordillera Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cordillera Department, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -24.8388179,
+                  "lng" : -56.5165789
+               },
+               "southwest" : {
+                  "lat" : -25.6632018,
+                  "lng" : -57.46526
+               }
+            },
+            "location" : {
+               "lat" : -25.2289491,
+               "lng" : -57.0111681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -24.8388179,
+                  "lng" : -56.5165789
+               },
+               "southwest" : {
+                  "lat" : -25.6632018,
+                  "lng" : -57.46526
+               }
+            }
+         },
+         "place_id" : "ChIJJYsND2vWXZQR_WU4kBacv6U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

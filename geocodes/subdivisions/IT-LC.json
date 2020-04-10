@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lecco",
+               "short_name" : "Lecco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lecco",
+               "short_name" : "Lecco",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Lecco",
+               "short_name" : "LC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23900",
+               "short_name" : "23900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "23900 Lecco, Province of Lecco, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8870552,
+                  "lng" : 9.424340899999999
+               },
+               "southwest" : {
+                  "lat" : 45.8150829,
+                  "lng" : 9.3780862
+               }
+            },
+            "location" : {
+               "lat" : 45.8565698,
+               "lng" : 9.397670399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8870552,
+                  "lng" : 9.424340899999999
+               },
+               "southwest" : {
+                  "lat" : 45.8150829,
+                  "lng" : 9.3780862
+               }
+            }
+         },
+         "place_id" : "ChIJVTN5KtMChEcRAgbIC6erfI8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

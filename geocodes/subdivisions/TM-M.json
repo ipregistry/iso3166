@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mary",
+               "short_name" : "Mary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mary",
+               "short_name" : "Mary",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkmenistan",
+               "short_name" : "TM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mary, Turkmenistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.69918029999999,
+                  "lng" : 61.98039439999999
+               },
+               "southwest" : {
+                  "lat" : 37.5243263,
+                  "lng" : 61.7735312
+               }
+            },
+            "location" : {
+               "lat" : 37.6092461,
+               "lng" : 61.86432519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.69918029999999,
+                  "lng" : 61.98039439999999
+               },
+               "southwest" : {
+                  "lat" : 37.5243263,
+                  "lng" : 61.7735312
+               }
+            }
+         },
+         "place_id" : "ChIJt4hgKiSOQT8Rw5qCF8eRX5Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

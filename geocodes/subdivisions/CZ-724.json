@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zlin",
+               "short_name" : "Zlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zlín District",
+               "short_name" : "Zlín District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zlin Region",
+               "short_name" : "Zlin Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zlin, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.2990687,
+                  "lng" : 17.7911742
+               },
+               "southwest" : {
+                  "lat" : 49.1630163,
+                  "lng" : 17.5618395
+               }
+            },
+            "location" : {
+               "lat" : 49.2244365,
+               "lng" : 17.6627635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2990687,
+                  "lng" : 17.7911742
+               },
+               "southwest" : {
+                  "lat" : 49.1630163,
+                  "lng" : 17.5618395
+               }
+            }
+         },
+         "place_id" : "ChIJDY6ITK0ME0cRTyGsqBZMjUE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

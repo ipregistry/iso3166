@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Floriana",
+               "short_name" : "Floriana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Floriana, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8990234,
+                  "lng" : 14.5127249
+               },
+               "southwest" : {
+                  "lat" : 35.8848206,
+                  "lng" : 14.4969012
+               }
+            },
+            "location" : {
+               "lat" : 35.8923386,
+               "lng" : 14.502904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8990234,
+                  "lng" : 14.5127249
+               },
+               "southwest" : {
+                  "lat" : 35.8848206,
+                  "lng" : 14.4969012
+               }
+            }
+         },
+         "place_id" : "ChIJX79jJcxaDhMRRKPzymaDhS0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

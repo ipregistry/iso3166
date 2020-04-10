@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aargau",
+               "short_name" : "AG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aargau, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6209201,
+                  "lng" : 8.455169999999999
+               },
+               "southwest" : {
+                  "lat" : 47.13755,
+                  "lng" : 7.713470099999999
+               }
+            },
+            "location" : {
+               "lat" : 47.3876664,
+               "lng" : 8.2554295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6209201,
+                  "lng" : 8.455169999999999
+               },
+               "southwest" : {
+                  "lat" : 47.13755,
+                  "lng" : 7.713470099999999
+               }
+            }
+         },
+         "place_id" : "ChIJK32y9fMXkEcRfc5XB_gNGvg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

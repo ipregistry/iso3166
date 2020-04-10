@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rewa",
+               "short_name" : "Rewa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Division",
+               "short_name" : "Central Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rewa, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -18.0223233,
+                  "lng" : 178.5120392
+               },
+               "southwest" : {
+                  "lat" : -18.1707915,
+                  "lng" : 178.2521438
+               }
+            },
+            "location" : {
+               "lat" : -18.0649864,
+               "lng" : 178.3821989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -18.0223233,
+                  "lng" : 178.5120392
+               },
+               "southwest" : {
+                  "lat" : -18.1707915,
+                  "lng" : 178.2521438
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsZNCqBjZG24RA4kJRjybjSc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

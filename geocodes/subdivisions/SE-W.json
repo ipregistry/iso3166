@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dalarna County",
+               "short_name" : "Dalarna County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dalarna County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.28024099999999,
+                  "lng" : 16.74354
+               },
+               "southwest" : {
+                  "lat" : 59.852169,
+                  "lng" : 12.1376657
+               }
+            },
+            "location" : {
+               "lat" : 61.0917012,
+               "lng" : 14.6663653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.28024099999999,
+                  "lng" : 16.74354
+               },
+               "southwest" : {
+                  "lat" : 59.852169,
+                  "lng" : 12.1376657
+               }
+            }
+         },
+         "place_id" : "ChIJp9hqlA_ZZ0YRkIqM3gZFAwM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

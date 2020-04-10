@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punta Arenas",
+               "short_name" : "Punta Arenas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puntarenas Province",
+               "short_name" : "Puntarenas Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puntarenas Province, Punta Arenas, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.983094399999999,
+                  "lng" : -84.7929956
+               },
+               "southwest" : {
+                  "lat" : 9.9740071,
+                  "lng" : -84.85144629999999
+               }
+            },
+            "location" : {
+               "lat" : 9.9778439,
+               "lng" : -84.82942109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.983094399999999,
+                  "lng" : -84.7929956
+               },
+               "southwest" : {
+                  "lat" : 9.9740071,
+                  "lng" : -84.85144629999999
+               }
+            }
+         },
+         "place_id" : "ChIJt6atbbkuoI8R7NWDDxG9SD8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,95 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ralik Chain",
+               "short_name" : "Ralik Chain",
+               "types" : [ "archipelago", "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ralik Chain, Marshall Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.716884,
+                  "lng" : 168.9853813
+               },
+               "southwest" : {
+                  "lat" : 4.555408,
+                  "lng" : 160.78821
+               }
+            },
+            "location" : {
+               "lat" : 8.136146,
+               "lng" : 164.8867956
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.6734883,
+                  "lng" : 170.5952786
+               },
+               "southwest" : {
+                  "lat" : 3.8430192,
+                  "lng" : 158.7742883
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOzKnkf1uCmURNEMY-3-LNVQ",
+         "types" : [ "archipelago", "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ratak Chain",
+               "short_name" : "Ratak Chain",
+               "types" : [ "archipelago", "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ratak Chain, Marshall Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.6772871,
+                  "lng" : 172.1713632
+               },
+               "southwest" : {
+                  "lat" : 5.875368,
+                  "lng" : 168.9288242
+               }
+            },
+            "location" : {
+               "lat" : 10.2763276,
+               "lng" : 170.5500937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.7013415,
+                  "lng" : 178.4369724
+               },
+               "southwest" : {
+                  "lat" : 3.3518499,
+                  "lng" : 163.7178549
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN5CWVsMjD2URop0eq7sz3sQ",
+         "types" : [ "archipelago", "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

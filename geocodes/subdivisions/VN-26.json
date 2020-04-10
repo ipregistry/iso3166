@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thua Thien Hue",
+               "short_name" : "Thua Thien Hue",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thua Thien Hue, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.742823,
+                  "lng" : 108.194138
+               },
+               "southwest" : {
+                  "lat" : 15.9948179,
+                  "lng" : 107.0136741
+               }
+            },
+            "location" : {
+               "lat" : 16.467397,
+               "lng" : 107.5905326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.742823,
+                  "lng" : 108.194138
+               },
+               "southwest" : {
+                  "lat" : 15.9948179,
+                  "lng" : 107.0136741
+               }
+            }
+         },
+         "place_id" : "ChIJ95BkcoecQTERtYTL98oPHKs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

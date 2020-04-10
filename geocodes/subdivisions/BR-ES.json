@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Espirito Santo",
+               "short_name" : "Espirito Santo",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bom Jesus do Itabapoana",
+               "short_name" : "Bom Jesus do Itabapoana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Espirito Santo, Bom Jesus do Itabapoana - RJ, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.1267363,
+                  "lng" : -41.6607181
+               },
+               "southwest" : {
+                  "lat" : -21.1358368,
+                  "lng" : -41.6750721
+               }
+            },
+            "location" : {
+               "lat" : -21.1312895,
+               "lng" : -41.6697588
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.1267363,
+                  "lng" : -41.6607181
+               },
+               "southwest" : {
+                  "lat" : -21.1358368,
+                  "lng" : -41.6750721
+               }
+            }
+         },
+         "place_id" : "ChIJBxdNJQlyvAARzmMdj0LmJL8",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sughd Province",
+               "short_name" : "Sughd Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sughd Province, Tajikistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0422438,
+                  "lng" : 70.984337
+               },
+               "southwest" : {
+                  "lat" : 38.9263668,
+                  "lng" : 67.34201209999999
+               }
+            },
+            "location" : {
+               "lat" : 39.5155326,
+               "lng" : 69.09702299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0422438,
+                  "lng" : 70.984337
+               },
+               "southwest" : {
+                  "lat" : 38.9263668,
+                  "lng" : 67.34201209999999
+               }
+            }
+         },
+         "place_id" : "ChIJU4p5pmR8sDgR0JdGbXBxSus",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

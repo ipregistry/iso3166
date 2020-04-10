@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peravia Province",
+               "short_name" : "Peravia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peravia Province, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.5075071,
+                  "lng" : -70.150543
+               },
+               "southwest" : {
+                  "lat" : 18.193577,
+                  "lng" : -70.58622679999999
+               }
+            },
+            "location" : {
+               "lat" : 18.2786594,
+               "lng" : -70.33358869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5075071,
+                  "lng" : -70.150543
+               },
+               "southwest" : {
+                  "lat" : 18.193577,
+                  "lng" : -70.58622679999999
+               }
+            }
+         },
+         "place_id" : "ChIJE_8VH35OpY4RcWKcM6lzklU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

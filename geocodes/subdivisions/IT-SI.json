@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siena",
+               "short_name" : "Siena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Siena",
+               "short_name" : "Siena",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Siena",
+               "short_name" : "SI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53100",
+               "short_name" : "53100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "53100 Siena, Province of Siena, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3515692,
+                  "lng" : 11.3635397
+               },
+               "southwest" : {
+                  "lat" : 43.2804476,
+                  "lng" : 11.2917587
+               }
+            },
+            "location" : {
+               "lat" : 43.31880899999999,
+               "lng" : 11.3307574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3515692,
+                  "lng" : 11.3635397
+               },
+               "southwest" : {
+                  "lat" : 43.2804476,
+                  "lng" : 11.2917587
+               }
+            }
+         },
+         "place_id" : "ChIJE1O_NL8sKhMR40Mj8RISc10",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

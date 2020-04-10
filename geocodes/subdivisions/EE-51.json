@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Järva County",
+               "short_name" : "Järva County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Järva County, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.2696566,
+                  "lng" : 26.1688186
+               },
+               "southwest" : {
+                  "lat" : 58.606137,
+                  "lng" : 25.0445452
+               }
+            },
+            "location" : {
+               "lat" : 58.8866713,
+               "lng" : 25.5000624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.2696566,
+                  "lng" : 26.1688186
+               },
+               "southwest" : {
+                  "lat" : 58.606137,
+                  "lng" : 25.0445452
+               }
+            }
+         },
+         "place_id" : "ChIJYYCdyCg4k0YRYGD8GG2zAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

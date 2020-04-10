@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coimbra",
+               "short_name" : "Coimbra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coimbra District",
+               "short_name" : "Coimbra District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coimbra, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2861477,
+                  "lng" : -8.322907599999999
+               },
+               "southwest" : {
+                  "lat" : 40.1713722,
+                  "lng" : -8.5096411
+               }
+            },
+            "location" : {
+               "lat" : 40.2033145,
+               "lng" : -8.4102573
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2861477,
+                  "lng" : -8.322907599999999
+               },
+               "southwest" : {
+                  "lat" : 40.1713722,
+                  "lng" : -8.5096411
+               }
+            }
+         },
+         "place_id" : "ChIJbdGsShT5Ig0RuaZCe0dkRWM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

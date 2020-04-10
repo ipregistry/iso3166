@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nakhon Phanom",
+               "short_name" : "Nakhon Phanom",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nakhon Phanom, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.024405,
+                  "lng" : 104.8073821
+               },
+               "southwest" : {
+                  "lat" : 16.7871771,
+                  "lng" : 103.9816124
+               }
+            },
+            "location" : {
+               "lat" : 17.392039,
+               "lng" : 104.7695508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.024405,
+                  "lng" : 104.8073821
+               },
+               "southwest" : {
+                  "lat" : 16.7871771,
+                  "lng" : 103.9816124
+               }
+            }
+         },
+         "place_id" : "ChIJv6Zfy56LOzERNINp--IRNtQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

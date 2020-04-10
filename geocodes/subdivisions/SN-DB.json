@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diourbel",
+               "short_name" : "Diourbel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Diourbel",
+               "short_name" : "Diourbel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Diourbel Region",
+               "short_name" : "Diourbel Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Diourbel, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.6780086,
+                  "lng" : -16.1984396
+               },
+               "southwest" : {
+                  "lat" : 14.6305864,
+                  "lng" : -16.2716103
+               }
+            },
+            "location" : {
+               "lat" : 14.6561238,
+               "lng" : -16.2345633
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.6780086,
+                  "lng" : -16.1984396
+               },
+               "southwest" : {
+                  "lat" : 14.6305864,
+                  "lng" : -16.2716103
+               }
+            }
+         },
+         "place_id" : "ChIJOzHhdEMX6g4RMPMehxOKE-I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

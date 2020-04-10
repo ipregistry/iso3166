@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pardubice",
+               "short_name" : "Pardubice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pardubice District",
+               "short_name" : "Pardubice District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pardubice Region",
+               "short_name" : "Pardubice Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pardubice, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0773774,
+                  "lng" : 15.8912722
+               },
+               "southwest" : {
+                  "lat" : 49.9920055,
+                  "lng" : 15.6250687
+               }
+            },
+            "location" : {
+               "lat" : 50.0343092,
+               "lng" : 15.7811994
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0773774,
+                  "lng" : 15.8912722
+               },
+               "southwest" : {
+                  "lat" : 49.9920055,
+                  "lng" : 15.6250687
+               }
+            }
+         },
+         "place_id" : "ChIJtQeTI0vJDUcRriT2zJSY1RI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

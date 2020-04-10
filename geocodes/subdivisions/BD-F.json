@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rangpur",
+               "short_name" : "Rangpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rangpur District",
+               "short_name" : "Rangpur District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rangpur Division",
+               "short_name" : "Rangpur Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rangpur, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.7894586,
+                  "lng" : 89.3148492
+               },
+               "southwest" : {
+                  "lat" : 25.7102183,
+                  "lng" : 89.2092418
+               }
+            },
+            "location" : {
+               "lat" : 25.7438916,
+               "lng" : 89.275227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7894586,
+                  "lng" : 89.3148492
+               },
+               "southwest" : {
+                  "lat" : 25.7102183,
+                  "lng" : 89.2092418
+               }
+            }
+         },
+         "place_id" : "ChIJmwGm_OYt4zkRyBj4h-aWpJ8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

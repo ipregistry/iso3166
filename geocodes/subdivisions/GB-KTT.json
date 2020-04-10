@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingston upon Thames",
+               "short_name" : "Kingston upon Thames",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kingston upon Thames, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4372907,
+                  "lng" : -0.2495432
+               },
+               "southwest" : {
+                  "lat" : 51.3977209,
+                  "lng" : -0.3168545
+               }
+            },
+            "location" : {
+               "lat" : 51.41233,
+               "lng" : -0.300689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4372907,
+                  "lng" : -0.2495432
+               },
+               "southwest" : {
+                  "lat" : 51.3977209,
+                  "lng" : -0.3168545
+               }
+            }
+         },
+         "place_id" : "ChIJU3SYeDcJdkgR7DU-PrIhP0w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

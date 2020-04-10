@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Far North",
+               "short_name" : "Far North",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limpopo",
+               "short_name" : "LP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Far North, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.1250298,
+                  "lng" : 31.07865
+               },
+               "southwest" : {
+                  "lat" : -23.43741,
+                  "lng" : 28.9019701
+               }
+            },
+            "location" : {
+               "lat" : -22.7695507,
+               "lng" : 29.9740534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.1250298,
+                  "lng" : 31.07865
+               },
+               "southwest" : {
+                  "lat" : -23.43741,
+                  "lng" : 28.9019701
+               }
+            }
+         },
+         "place_id" : "ChIJ60-oPJQTxh4REfgPFql38sI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

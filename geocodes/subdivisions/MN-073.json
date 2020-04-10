@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arkhangai",
+               "short_name" : "Arkhangai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arkhangai, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1983439,
+                  "lng" : 103.6734781
+               },
+               "southwest" : {
+                  "lat" : 46.826294,
+                  "lng" : 98.166168
+               }
+            },
+            "location" : {
+               "lat" : 47.8971101,
+               "lng" : 100.7240165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1983439,
+                  "lng" : 103.6734781
+               },
+               "southwest" : {
+                  "lat" : 46.826294,
+                  "lng" : 98.166168
+               }
+            }
+         },
+         "place_id" : "ChIJ20MJvpnLd10RJN5SpwsxG9s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

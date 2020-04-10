@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plaisance",
+               "short_name" : "Plaisance",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Seychelles",
+               "short_name" : "SC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Plaisance, Seychelles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.6314719,
+                  "lng" : 55.4713019
+               },
+               "southwest" : {
+                  "lat" : -4.667039,
+                  "lng" : 55.4511051
+               }
+            },
+            "location" : {
+               "lat" : -4.6489918,
+               "lng" : 55.4610075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.6314719,
+                  "lng" : 55.4713019
+               },
+               "southwest" : {
+                  "lat" : -4.667039,
+                  "lng" : 55.4511051
+               }
+            }
+         },
+         "place_id" : "ChIJ8VUj1Y4p4CIR5H8lKE8c0pE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+    }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bioko Sur",
+               "short_name" : "Bioko Sur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Equatorial Guinea",
+               "short_name" : "GQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bioko Sur, Equatorial Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.647695,
+                  "lng" : 8.850613899999999
+               },
+               "southwest" : {
+                  "lat" : 3.2099559,
+                  "lng" : 8.423113899999999
+               }
+            },
+            "location" : {
+               "lat" : 3.4209785,
+               "lng" : 8.6160674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.647695,
+                  "lng" : 8.850613899999999
+               },
+               "southwest" : {
+                  "lat" : 3.2099559,
+                  "lng" : 8.423113899999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5XOOGMQoZBARpugaHFVbYyM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quthing",
+               "short_name" : "Quthing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quthing",
+               "short_name" : "Quthing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lesotho",
+               "short_name" : "LS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quthing, Lesotho",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.39171929999999,
+                  "lng" : 27.7433325
+               },
+               "southwest" : {
+                  "lat" : -30.4231979,
+                  "lng" : 27.6868129
+               }
+            },
+            "location" : {
+               "lat" : -30.4015687,
+               "lng" : 27.7080133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.39171929999999,
+                  "lng" : 27.7433325
+               },
+               "southwest" : {
+                  "lat" : -30.4231979,
+                  "lng" : 27.6868129
+               }
+            }
+         },
+         "place_id" : "ChIJYZWtmUG7ix4RAJwjRE41fpI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

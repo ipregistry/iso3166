@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ormož",
+               "short_name" : "Ormož",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ormož",
+               "short_name" : "Ormož",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ormož",
+               "short_name" : "Ormož",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2270",
+               "short_name" : "2270",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2270 Ormož, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4156206,
+                  "lng" : 16.1776242
+               },
+               "southwest" : {
+                  "lat" : 46.3876704,
+                  "lng" : 16.128301
+               }
+            },
+            "location" : {
+               "lat" : 46.4086282,
+               "lng" : 16.1508154
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4156206,
+                  "lng" : 16.1776242
+               },
+               "southwest" : {
+                  "lat" : 46.3876704,
+                  "lng" : 16.128301
+               }
+            }
+         },
+         "place_id" : "ChIJ_5N-ZXFab0cRyEUvwziNf7o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

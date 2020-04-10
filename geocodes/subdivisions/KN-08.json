@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cayon",
+               "short_name" : "Cayon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Mary Cayon",
+               "short_name" : "Saint Mary Cayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saint Mary Cayon Parish",
+               "short_name" : "Saint Mary Cayon Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cayon, St Kitts & Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3557586,
+                  "lng" : -62.7275991
+               },
+               "southwest" : {
+                  "lat" : 17.3488361,
+                  "lng" : -62.73965829999999
+               }
+            },
+            "location" : {
+               "lat" : 17.3523259,
+               "lng" : -62.7338581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3557586,
+                  "lng" : -62.7275991
+               },
+               "southwest" : {
+                  "lat" : 17.3488361,
+                  "lng" : -62.73965829999999
+               }
+            }
+         },
+         "place_id" : "ChIJWdimxlcbEowRG6i2YzYry_A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

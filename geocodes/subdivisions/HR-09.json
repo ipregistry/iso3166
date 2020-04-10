@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lika-Senj County",
+               "short_name" : "Lika-Senj County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lika-Senj County, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.1228954,
+                  "lng" : 16.1408169
+               },
+               "southwest" : {
+                  "lat" : 44.2712303,
+                  "lng" : 14.6828416
+               }
+            },
+            "location" : {
+               "lat" : 44.6192218,
+               "lng" : 15.4701608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1228954,
+                  "lng" : 16.1408169
+               },
+               "southwest" : {
+                  "lat" : 44.2712303,
+                  "lng" : 14.6828416
+               }
+            }
+         },
+         "place_id" : "ChIJl4jQ8frXY0cRoLQrhlCtAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

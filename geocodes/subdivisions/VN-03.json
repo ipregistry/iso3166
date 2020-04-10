@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hà Giang",
+               "short_name" : "Hà Giang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ha Giang",
+               "short_name" : "Ha Giang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hà Giang, Ha Giang, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.8775985,
+                  "lng" : 105.1324654
+               },
+               "southwest" : {
+                  "lat" : 22.6678778,
+                  "lng" : 104.8656179
+               }
+            },
+            "location" : {
+               "lat" : 22.8025588,
+               "lng" : 104.9784494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.8775985,
+                  "lng" : 105.1324654
+               },
+               "southwest" : {
+                  "lat" : 22.6678778,
+                  "lng" : 104.8656179
+               }
+            }
+         },
+         "place_id" : "ChIJnSO0gLF5zDYRRDXCO6dzo7c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

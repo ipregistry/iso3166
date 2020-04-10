@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Lorenzo de Tarapacá",
+               "short_name" : "San Lorenzo de Tarapacá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huara",
+               "short_name" : "Huara",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tamarugal",
+               "short_name" : "Tamarugal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tarapacá",
+               "short_name" : "Tarapacá",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Lorenzo de Tarapacá, Huara, Tarapacá, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -19.923194,
+               "lng" : -69.51320319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9127035,
+                  "lng" : -69.4971958
+               },
+               "southwest" : {
+                  "lat" : -19.9336838,
+                  "lng" : -69.52921060000001
+               }
+            }
+         },
+         "place_id" : "ChIJJ_rTmg3XU5ERoDGoNzgaJKQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

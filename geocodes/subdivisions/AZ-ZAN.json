@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zəngilan",
+               "short_name" : "Zəngilan",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Zəngilan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0970953,
+                  "lng" : 46.672647
+               },
+               "southwest" : {
+                  "lat" : 39.0742106,
+                  "lng" : 46.632843
+               }
+            },
+            "location" : {
+               "lat" : 39.0856899,
+               "lng" : 46.6524728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0970953,
+                  "lng" : 46.672647
+               },
+               "southwest" : {
+                  "lat" : 39.0742106,
+                  "lng" : 46.632843
+               }
+            }
+         },
+         "place_id" : "ChIJCz-_WtszFkARcCJkV1h0DZ8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

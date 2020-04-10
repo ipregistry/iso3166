@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Smolensk Oblast",
+               "short_name" : "Smolensk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Smolensk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.066945,
+                  "lng" : 35.3906649
+               },
+               "southwest" : {
+                  "lat" : 53.413419,
+                  "lng" : 30.748791
+               }
+            },
+            "location" : {
+               "lat" : 54.9882994,
+               "lng" : 32.6677378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.066945,
+                  "lng" : 35.3906649
+               },
+               "southwest" : {
+                  "lat" : 53.413419,
+                  "lng" : 30.748791
+               }
+            }
+         },
+         "place_id" : "ChIJwYqGKV4nzEYRQJjxg6WjAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

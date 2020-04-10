@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quintana Roo, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.605504,
+                  "lng" : -86.7104052
+               },
+               "southwest" : {
+                  "lat" : 17.8939856,
+                  "lng" : -89.29656179999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1817393,
+               "lng" : -88.4791376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.605504,
+                  "lng" : -86.7104052
+               },
+               "southwest" : {
+                  "lat" : 17.8939856,
+                  "lng" : -89.29656179999999
+               }
+            }
+         },
+         "place_id" : "ChIJlSbD6vD8T48RnI1MSCrF8MQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

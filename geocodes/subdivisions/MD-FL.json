@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Floresti",
+               "short_name" : "Floresti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Florești District",
+               "short_name" : "Florești District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Floresti, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.9126603,
+                  "lng" : 28.3321096
+               },
+               "southwest" : {
+                  "lat" : 47.8779012,
+                  "lng" : 28.2635737
+               }
+            },
+            "location" : {
+               "lat" : 47.8909785,
+               "lng" : 28.298958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9126603,
+                  "lng" : 28.3321096
+               },
+               "southwest" : {
+                  "lat" : 47.8779012,
+                  "lng" : 28.2635737
+               }
+            }
+         },
+         "place_id" : "ChIJvyMJng2FzEARR4-LTDZulO0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

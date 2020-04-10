@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madīnat ash Shamāl",
+               "short_name" : "Madīnat ash Shamāl",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madinat ash Shamal",
+               "short_name" : "Madinat ash Shamal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madīnat ash Shamāl, Qatar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.123153,
+                  "lng" : 51.23826039999999
+               },
+               "southwest" : {
+                  "lat" : 26.1038857,
+                  "lng" : 51.2056447
+               }
+            },
+            "location" : {
+               "lat" : 26.1156079,
+               "lng" : 51.2218451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.123153,
+                  "lng" : 51.23826039999999
+               },
+               "southwest" : {
+                  "lat" : 26.1038857,
+                  "lng" : 51.2056447
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJARuQtdLRSD4R0fmdEVLHoxY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

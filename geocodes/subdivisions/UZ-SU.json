@@ -1,0 +1,93 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surkhandarya",
+               "short_name" : "Surkhandarya",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Surxondaryo Region",
+               "short_name" : "Surxondaryo Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Surkhandarya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.4159263,
+                  "lng" : 68.14314139999999
+               },
+               "southwest" : {
+                  "lat" : 37.1952981,
+                  "lng" : 67.28478749999999
+               }
+            },
+            "location" : {
+               "lat" : 37.8497475,
+               "lng" : 67.6781845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4159263,
+                  "lng" : 68.14314139999999
+               },
+               "southwest" : {
+                  "lat" : 37.1952981,
+                  "lng" : 67.28478749999999
+               }
+            }
+         },
+         "place_id" : "ChIJx1TH3vmzyjgRWVce1QtM_5I",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surxondaryo Region",
+               "short_name" : "Surxondaryo Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Surxondaryo Region, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.078876,
+                  "lng" : 68.402641
+               },
+               "southwest" : {
+                  "lat" : 37.1843299,
+                  "lng" : 66.51777609999999
+               }
+            },
+            "location" : {
+               "lat" : 37.9409005,
+               "lng" : 67.57085359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.078876,
+                  "lng" : 68.402641
+               },
+               "southwest" : {
+                  "lat" : 37.1843299,
+                  "lng" : 66.51777609999999
+               }
+            }
+         },
+         "place_id" : "ChIJwyP6yw8RtTgRGOd8xLu-lbA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

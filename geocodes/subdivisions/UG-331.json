@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Omoro",
+               "short_name" : "Omoro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gulu",
+               "short_name" : "Gulu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Omoro, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.842447,
+                  "lng" : 32.8289683
+               },
+               "southwest" : {
+                  "lat" : 2.4514774,
+                  "lng" : 32.127285
+               }
+            },
+            "location" : {
+               "lat" : 2.715223,
+               "lng" : 32.4920088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.842447,
+                  "lng" : 32.8289683
+               },
+               "southwest" : {
+                  "lat" : 2.4514774,
+                  "lng" : 32.127285
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOaE_IU0CcRcREo6IUSMEFXo",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

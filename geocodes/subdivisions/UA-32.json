@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyiv Oblast",
+               "short_name" : "Kyiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.554014,
+                  "lng" : 32.160736
+               },
+               "southwest" : {
+                  "lat" : 49.1791191,
+                  "lng" : 29.2664181
+               }
+            },
+            "location" : {
+               "lat" : 50.0529506,
+               "lng" : 30.7667134
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.554014,
+                  "lng" : 32.160736
+               },
+               "southwest" : {
+                  "lat" : 49.1791191,
+                  "lng" : 29.2664181
+               }
+            }
+         },
+         "place_id" : "ChIJ94pF_F3O1EARB10ge68K4KY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

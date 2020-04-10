@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mwanza",
+               "short_name" : "Mwanza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mwanza",
+               "short_name" : "Mwanza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Southern Region",
+               "short_name" : "Southern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mwanza, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.5777469,
+                  "lng" : 34.5392461
+               },
+               "southwest" : {
+                  "lat" : -15.6189038,
+                  "lng" : 34.4934655
+               }
+            },
+            "location" : {
+               "lat" : -15.5997929,
+               "lng" : 34.5140637
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.5777469,
+                  "lng" : 34.5392461
+               },
+               "southwest" : {
+                  "lat" : -15.6189038,
+                  "lng" : 34.4934655
+               }
+            }
+         },
+         "place_id" : "ChIJo5WqoZSB2BgRJasTmrAyrmU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

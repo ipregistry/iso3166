@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago de Cuba",
+               "short_name" : "Santiago de Cuba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago de Cuba",
+               "short_name" : "Santiago de Cuba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago de Cuba",
+               "short_name" : "Santiago de Cuba",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago de Cuba, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.0909996,
+                  "lng" : -75.7598926
+               },
+               "southwest" : {
+                  "lat" : 19.9576725,
+                  "lng" : -75.8923008
+               }
+            },
+            "location" : {
+               "lat" : 20.01693,
+               "lng" : -75.8301537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.0909996,
+                  "lng" : -75.7598926
+               },
+               "southwest" : {
+                  "lat" : 19.9576725,
+                  "lng" : -75.8923008
+               }
+            }
+         },
+         "place_id" : "ChIJa2WSkedbzo4ROBoLRuxbGec",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

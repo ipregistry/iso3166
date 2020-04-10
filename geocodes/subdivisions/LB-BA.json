@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beirut",
+               "short_name" : "Beirut",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beirut",
+               "short_name" : "Beirut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Beirut Governorate",
+               "short_name" : "Beirut Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lebanon",
+               "short_name" : "LB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beirut, Lebanon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.9161091,
+                  "lng" : 35.5416362
+               },
+               "southwest" : {
+                  "lat" : 33.8623275,
+                  "lng" : 35.4669284
+               }
+            },
+            "location" : {
+               "lat" : 33.8937913,
+               "lng" : 35.5017767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9161091,
+                  "lng" : 35.5416362
+               },
+               "southwest" : {
+                  "lat" : 33.8623275,
+                  "lng" : 35.4669284
+               }
+            }
+         },
+         "place_id" : "ChIJj6eAWCEXHxURtDaY6bqCkXI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+" ]
+      }
+   ],
+   "status" : "OK"
+}

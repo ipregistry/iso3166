@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Celje",
+               "short_name" : "Celje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Celje",
+               "short_name" : "Celje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Celje, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2649277,
+                  "lng" : 15.2977829
+               },
+               "southwest" : {
+                  "lat" : 46.20673679999999,
+                  "lng" : 15.2114242
+               }
+            },
+            "location" : {
+               "lat" : 46.23974949999999,
+               "lng" : 15.2677063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2649277,
+                  "lng" : 15.2977829
+               },
+               "southwest" : {
+                  "lat" : 46.20673679999999,
+                  "lng" : 15.2114242
+               }
+            }
+         },
+         "place_id" : "ChIJv6PPNYVwZUcR0Ow_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

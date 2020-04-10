@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ampara",
+               "short_name" : "Ampara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ampara",
+               "short_name" : "Ampara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "EP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ampara, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.3171365,
+                  "lng" : 81.70905599999999
+               },
+               "southwest" : {
+                  "lat" : 7.2753244,
+                  "lng" : 81.6450047
+               }
+            },
+            "location" : {
+               "lat" : 7.301756300000001,
+               "lng" : 81.6747295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.3171365,
+                  "lng" : 81.70905599999999
+               },
+               "southwest" : {
+                  "lat" : 7.2753244,
+                  "lng" : 81.6450047
+               }
+            }
+         },
+         "place_id" : "ChIJ-bL1utwZ5ToREj4MqCil9BA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

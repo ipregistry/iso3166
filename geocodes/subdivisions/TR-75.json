@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ardahan",
+               "short_name" : "Ardahan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ardahan Merkez",
+               "short_name" : "Ardahan Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ardahan",
+               "short_name" : "Ardahan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ardahan, Ardahan Merkez/Ardahan, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.125951,
+                  "lng" : 42.7281391
+               },
+               "southwest" : {
+                  "lat" : 41.099811,
+                  "lng" : 42.680131
+               }
+            },
+            "location" : {
+               "lat" : 41.11295,
+               "lng" : 42.70227999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.125951,
+                  "lng" : 42.7281391
+               },
+               "southwest" : {
+                  "lat" : 41.099811,
+                  "lng" : 42.680131
+               }
+            }
+         },
+         "place_id" : "ChIJL3PNM_4uaEARpZEWesMWcTA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

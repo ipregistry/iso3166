@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago del Estero",
+               "short_name" : "Santiago del Estero",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital Department, Santiago del Estero",
+               "short_name" : "Capital Department, Santiago del Estero",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago del Estero Province",
+               "short_name" : "Santiago del Estero Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago del Estero, Santiago del Estero Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.7436335,
+                  "lng" : -64.2213244
+               },
+               "southwest" : {
+                  "lat" : -27.8597961,
+                  "lng" : -64.3127722
+               }
+            },
+            "location" : {
+               "lat" : -27.7833574,
+               "lng" : -64.264167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.7436335,
+                  "lng" : -64.2213244
+               },
+               "southwest" : {
+                  "lat" : -27.8597961,
+                  "lng" : -64.3127722
+               }
+            }
+         },
+         "place_id" : "ChIJa_kz32pSO5QR1shkd-0YnZo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

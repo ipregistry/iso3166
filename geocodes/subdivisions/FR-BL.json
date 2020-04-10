@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Barthélemy",
+               "short_name" : "BL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Barthélemy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.978,
+                  "lng" : -62.7869
+               },
+               "southwest" : {
+                  "lat" : 17.8663,
+                  "lng" : -62.9559999
+               }
+            },
+            "location" : {
+               "lat" : 17.9,
+               "lng" : -62.833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.978,
+                  "lng" : -62.7869
+               },
+               "southwest" : {
+                  "lat" : 17.8663,
+                  "lng" : -62.9559999
+               }
+            }
+         },
+         "place_id" : "ChIJnej-KlR1DowR5nUq6msRdAE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

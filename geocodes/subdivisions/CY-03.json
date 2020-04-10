@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Larnaca",
+               "short_name" : "Larnaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Larnaca",
+               "short_name" : "Larnaca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cyprus",
+               "short_name" : "CY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Larnaca, Cyprus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.957248,
+                  "lng" : 33.6547388
+               },
+               "southwest" : {
+                  "lat" : 34.845499,
+                  "lng" : 33.5857308
+               }
+            },
+            "location" : {
+               "lat" : 34.9002535,
+               "lng" : 33.6231723
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.957248,
+                  "lng" : 33.6547388
+               },
+               "southwest" : {
+                  "lat" : 34.845499,
+                  "lng" : 33.5857308
+               }
+            }
+         },
+         "place_id" : "ChIJE8tAbKGC4BQRpdBxEyLwy08",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Backa District",
+               "short_name" : "South Backa District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vojvodina",
+               "short_name" : "Vojvodina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Backa District, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7750259,
+                  "lng" : 20.313821
+               },
+               "southwest" : {
+                  "lat" : 45.133575,
+                  "lng" : 18.981784
+               }
+            },
+            "location" : {
+               "lat" : 45.4890344,
+               "lng" : 19.6976187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7750259,
+                  "lng" : 20.313821
+               },
+               "southwest" : {
+                  "lat" : 45.133575,
+                  "lng" : 18.981784
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4XXpKjRqW0cRVR4EWGiY76I",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

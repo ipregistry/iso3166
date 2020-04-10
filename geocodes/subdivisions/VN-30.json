@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gia Lai",
+               "short_name" : "Gia Lai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gia Lai, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.6030659,
+                  "lng" : 108.872598
+               },
+               "southwest" : {
+                  "lat" : 12.996112,
+                  "lng" : 107.451599
+               }
+            },
+            "location" : {
+               "lat" : 13.8078943,
+               "lng" : 108.109375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.6030659,
+                  "lng" : 108.872598
+               },
+               "southwest" : {
+                  "lat" : 12.996112,
+                  "lng" : 107.451599
+               }
+            }
+         },
+         "place_id" : "ChIJo4EvAoIfbDERDbVDgfa1Uow",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

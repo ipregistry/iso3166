@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lodi",
+               "short_name" : "Lodi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lodi",
+               "short_name" : "Lodi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Lodi",
+               "short_name" : "LO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26900",
+               "short_name" : "26900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "26900 Lodi, Province of Lodi, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3283109,
+                  "lng" : 9.522065099999999
+               },
+               "southwest" : {
+                  "lat" : 45.2947817,
+                  "lng" : 9.4755178
+               }
+            },
+            "location" : {
+               "lat" : 45.3097228,
+               "lng" : 9.503715999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3283109,
+                  "lng" : 9.522065099999999
+               },
+               "southwest" : {
+                  "lat" : 45.2947817,
+                  "lng" : 9.4755178
+               }
+            }
+         },
+         "place_id" : "ChIJXQl0tCgsgUcRc_3Qc_a2w4I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dokolo",
+               "short_name" : "Dokolo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dokolo",
+               "short_name" : "Dokolo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dokolo, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.9208743,
+                  "lng" : 33.1776167
+               },
+               "southwest" : {
+                  "lat" : 1.9062268,
+                  "lng" : 33.164935
+               }
+            },
+            "location" : {
+               "lat" : 1.9130964,
+               "lng" : 33.171699
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.9208743,
+                  "lng" : 33.1776167
+               },
+               "southwest" : {
+                  "lat" : 1.9062268,
+                  "lng" : 33.164935
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMw90dbXweRcRYk6YQhv6b_s",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abim",
+               "short_name" : "Abim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abim, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.1404518,
+                  "lng" : 34.021175
+               },
+               "southwest" : {
+                  "lat" : 2.456776,
+                  "lng" : 33.5216641
+               }
+            },
+            "location" : {
+               "lat" : 2.7785446,
+               "lng" : 33.70706190000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.1404518,
+                  "lng" : 34.021175
+               },
+               "southwest" : {
+                  "lat" : 2.456776,
+                  "lng" : 33.5216641
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNcJRfxn8dhcRYErlwk_1LWM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

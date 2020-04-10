@@ -1,0 +1,98 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crooked Island and Long Cay",
+               "short_name" : "Crooked Island and Long Cay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Crooked Island and Long Cay, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.102272,
+                  "lng" : -73.6376669
+               },
+               "southwest" : {
+                  "lat" : 22.481655,
+                  "lng" : -74.3813009
+               }
+            },
+            "location" : {
+               "lat" : 22.7555945,
+               "lng" : -74.24140919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.102272,
+                  "lng" : -73.6376669
+               },
+               "southwest" : {
+                  "lat" : 22.481655,
+                  "lng" : -74.3813009
+               }
+            }
+         },
+         "place_id" : "ChIJOePdvze6NYkRHl6dJz4eiSE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Cay",
+               "short_name" : "Long Cay",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Crooked Island and Long Cay",
+               "short_name" : "Crooked Island and Long Cay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Cay, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6675966,
+                  "lng" : -74.2825986
+               },
+               "southwest" : {
+                  "lat" : 22.5407376,
+                  "lng" : -74.3817329
+               }
+            },
+            "location" : {
+               "lat" : 22.5869933,
+               "lng" : -74.3528822
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6675966,
+                  "lng" : -74.2825986
+               },
+               "southwest" : {
+                  "lat" : 22.5407376,
+                  "lng" : -74.3817329
+               }
+            }
+         },
+         "place_id" : "ChIJc-J9TB5WNIkRfTV89hXRJLc",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

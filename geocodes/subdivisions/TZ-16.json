@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morogoro",
+               "short_name" : "Morogoro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morogoro Rural",
+               "short_name" : "Morogoro Rural",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Morogoro Region",
+               "short_name" : "Morogoro Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morogoro, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.6927395,
+                  "lng" : 37.7721304
+               },
+               "southwest" : {
+                  "lat" : -6.8680856,
+                  "lng" : 37.5965962
+               }
+            },
+            "location" : {
+               "lat" : -6.8277556,
+               "lng" : 37.6591144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.6927395,
+                  "lng" : 37.7721304
+               },
+               "southwest" : {
+                  "lat" : -6.8680856,
+                  "lng" : 37.5965962
+               }
+            }
+         },
+         "place_id" : "ChIJN3TuDMBdWhgR0R2uBffy6PA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

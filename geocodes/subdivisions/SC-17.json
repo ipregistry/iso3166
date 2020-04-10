@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mont Buxton",
+               "short_name" : "Mont Buxton",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Seychelles",
+               "short_name" : "SC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mont Buxton, Seychelles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.609877,
+                  "lng" : 55.453148
+               },
+               "southwest" : {
+                  "lat" : -4.622685,
+                  "lng" : 55.4409089
+               }
+            },
+            "location" : {
+               "lat" : -4.6166667,
+               "lng" : 55.4457768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.609877,
+                  "lng" : 55.453148
+               },
+               "southwest" : {
+                  "lat" : -4.622685,
+                  "lng" : 55.4409089
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJATt9Wf8o4CIRJeESNueoijM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

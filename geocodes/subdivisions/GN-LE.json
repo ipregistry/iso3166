@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lélouma",
+               "short_name" : "Lélouma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lélouma Prefecture",
+               "short_name" : "Lélouma Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Labé",
+               "short_name" : "Labé",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lélouma, Guinea",
+         "geometry" : {
+            "location" : {
+               "lat" : 11.183333,
+               "lng" : -12.933333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.1942789,
+                  "lng" : -12.9173256
+               },
+               "southwest" : {
+                  "lat" : 11.1723867,
+                  "lng" : -12.9493404
+               }
+            }
+         },
+         "place_id" : "ChIJKWKkQaX7_A4RaumR2U-ok84",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

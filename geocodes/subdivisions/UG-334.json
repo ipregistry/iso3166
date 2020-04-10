@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nabilatuk District",
+               "short_name" : "Nabilatuk District",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nakapiripirit",
+               "short_name" : "Nakapiripirit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nabilatuk District, Uganda",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.054374,
+               "lng" : 34.565571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.0655248,
+                  "lng" : 34.5815784
+               },
+               "southwest" : {
+                  "lat" : 2.0432231,
+                  "lng" : 34.5495636
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBWWMxvBUnRcRKK7u6lfKOPE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

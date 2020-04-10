@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inagua Islands",
+               "short_name" : "Inagua Islands",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Inagua",
+               "short_name" : "Inagua",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Inagua Islands, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.3450254,
+                  "lng" : -73.00037379999999
+               },
+               "southwest" : {
+                  "lat" : 20.9088516,
+                  "lng" : -73.7069321
+               }
+            },
+            "location" : {
+               "lat" : 21.0656066,
+               "lng" : -73.323708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.3450254,
+                  "lng" : -73.00037379999999
+               },
+               "southwest" : {
+                  "lat" : 20.9088516,
+                  "lng" : -73.7069321
+               }
+            }
+         },
+         "place_id" : "ChIJ8dPYVwJltY4RS9pH5sc1Ygo",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

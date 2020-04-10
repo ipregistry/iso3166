@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abim",
+               "short_name" : "Abim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abim",
+               "short_name" : "Abim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abim, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.7221257,
+                  "lng" : 33.6679459
+               },
+               "southwest" : {
+                  "lat" : 2.6962337,
+                  "lng" : 33.65344049999999
+               }
+            },
+            "location" : {
+               "lat" : 2.706698,
+               "lng" : 33.6595337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.7221257,
+                  "lng" : 33.6679459
+               },
+               "southwest" : {
+                  "lat" : 2.6962337,
+                  "lng" : 33.65344049999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIS57M_HwdhcR3jAAanQBsyo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amolatar",
+               "short_name" : "Amolatar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amolatar, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.84635,
+                  "lng" : 32.9931279
+               },
+               "southwest" : {
+                  "lat" : 1.432644,
+                  "lng" : 32.323168
+               }
+            },
+            "location" : {
+               "lat" : 1.6054402,
+               "lng" : 32.8084496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.84635,
+                  "lng" : 32.9931279
+               },
+               "southwest" : {
+                  "lat" : 1.432644,
+                  "lng" : 32.323168
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ25U451okehcRS6bJ60zlDHE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

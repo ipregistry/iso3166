@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Otakou",
+               "short_name" : "Otakou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Otago",
+               "short_name" : "OTA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9077",
+               "short_name" : "9077",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Otakou 9077, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -45.7978224,
+                  "lng" : 170.729789
+               },
+               "southwest" : {
+                  "lat" : -45.8242583,
+                  "lng" : 170.681242
+               }
+            },
+            "location" : {
+               "lat" : -45.8016407,
+               "lng" : 170.7066708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -45.7978224,
+                  "lng" : 170.729789
+               },
+               "southwest" : {
+                  "lat" : -45.8242583,
+                  "lng" : 170.681242
+               }
+            }
+         },
+         "place_id" : "ChIJo0zXb2BLKagRcHJ5hIbvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

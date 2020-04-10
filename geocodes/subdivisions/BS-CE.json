@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Eleuthera",
+               "short_name" : "Central Eleuthera",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Eleuthera, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.2133521,
+                  "lng" : -76.1133763
+               },
+               "southwest" : {
+                  "lat" : 24.9999498,
+                  "lng" : -76.23951699999999
+               }
+            },
+            "location" : {
+               "lat" : 25.1362037,
+               "lng" : -76.1435915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.2133521,
+                  "lng" : -76.1133763
+               },
+               "southwest" : {
+                  "lat" : 24.9999498,
+                  "lng" : -76.23951699999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2RQCl7-6OokRNz1rBhp2NnY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Carolina, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2155401,
+                  "lng" : -78.49930090000001
+               },
+               "southwest" : {
+                  "lat" : 32.033454,
+                  "lng" : -83.35392800000001
+               }
+            },
+            "location" : {
+               "lat" : 33.836081,
+               "lng" : -81.1637245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2155401,
+                  "lng" : -78.49930090000001
+               },
+               "southwest" : {
+                  "lat" : 32.033454,
+                  "lng" : -83.35392800000001
+               }
+            }
+         },
+         "place_id" : "ChIJ49ExeWml-IgRnhcF9TKh_7k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mežica",
+               "short_name" : "Mežica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mežica",
+               "short_name" : "Mežica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ravne na Koroškem",
+               "short_name" : "Ravne na Koroškem",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2392",
+               "short_name" : "2392",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2392 Mežica, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5276309,
+                  "lng" : 14.867506
+               },
+               "southwest" : {
+                  "lat" : 46.5095402,
+                  "lng" : 14.8422086
+               }
+            },
+            "location" : {
+               "lat" : 46.5214145,
+               "lng" : 14.8523952
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5276309,
+                  "lng" : 14.867506
+               },
+               "southwest" : {
+                  "lat" : 46.5095402,
+                  "lng" : 14.8422086
+               }
+            }
+         },
+         "place_id" : "ChIJqeDLdx75b0cR7oMo3CvbuOY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz de Tenerife",
+               "short_name" : "Santa Cruz de Tenerife",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz de Tenerife",
+               "short_name" : "TF",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canary Islands",
+               "short_name" : "CN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz de Tenerife, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.487616,
+                  "lng" : -16.2356646
+               },
+               "southwest" : {
+                  "lat" : 28.4280248,
+                  "lng" : -16.3370045
+               }
+            },
+            "location" : {
+               "lat" : 28.4636296,
+               "lng" : -16.2518467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.487616,
+                  "lng" : -16.2356646
+               },
+               "southwest" : {
+                  "lat" : 28.4280248,
+                  "lng" : -16.3370045
+               }
+            }
+         },
+         "place_id" : "ChIJcUElzOzMQQwRLuV30nMUEUM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

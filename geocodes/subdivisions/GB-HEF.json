@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Herefordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3954718,
+                  "lng" : -2.3379667
+               },
+               "southwest" : {
+                  "lat" : 51.8259444,
+                  "lng" : -3.1419149
+               }
+            },
+            "location" : {
+               "lat" : 52.0765164,
+               "lng" : -2.6544182
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3954718,
+                  "lng" : -2.3379667
+               },
+               "southwest" : {
+                  "lat" : 51.8259444,
+                  "lng" : -3.1419149
+               }
+            }
+         },
+         "place_id" : "ChIJp-c_qiXUb0gRFpdyo5QQfHY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Gallen",
+               "short_name" : "St Gallen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Gallen",
+               "short_name" : "St. Gallen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "St. Gallen",
+               "short_name" : "SG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Gallen, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4530299,
+                  "lng" : 9.435300099999999
+               },
+               "southwest" : {
+                  "lat" : 47.3950999,
+                  "lng" : 9.29144
+               }
+            },
+            "location" : {
+               "lat" : 47.4244818,
+               "lng" : 9.376717299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4530299,
+                  "lng" : 9.435300099999999
+               },
+               "southwest" : {
+                  "lat" : 47.3950999,
+                  "lng" : 9.29144
+               }
+            }
+         },
+         "place_id" : "ChIJVdgzdikem0cRFGH-HwhQIpo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

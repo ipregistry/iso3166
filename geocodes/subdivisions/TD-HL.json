@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hadjer-Lamis Region",
+               "short_name" : "Hadjer-Lamis Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hadjer-Lamis Region, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.3501059,
+                  "lng" : 17.6553859
+               },
+               "southwest" : {
+                  "lat" : 11.4313499,
+                  "lng" : 14.550512
+               }
+            },
+            "location" : {
+               "lat" : 12.4577273,
+               "lng" : 16.7234639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.3501059,
+                  "lng" : 17.6553859
+               },
+               "southwest" : {
+                  "lat" : 11.4313499,
+                  "lng" : 14.550512
+               }
+            }
+         },
+         "place_id" : "ChIJrSlHZaJeGBERiBkLEBMGMJs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Catarina",
+               "short_name" : "Santa Catarina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Catarina, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.199731,
+                  "lng" : -23.6272161
+               },
+               "southwest" : {
+                  "lat" : 14.9808349,
+                  "lng" : -23.7812941
+               }
+            },
+            "location" : {
+               "lat" : 15.0992532,
+               "lng" : -23.6918783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.199731,
+                  "lng" : -23.6272161
+               },
+               "southwest" : {
+                  "lat" : 14.9808349,
+                  "lng" : -23.7812941
+               }
+            }
+         },
+         "place_id" : "ChIJjcydfWaMNQkRRTkkylniTWM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

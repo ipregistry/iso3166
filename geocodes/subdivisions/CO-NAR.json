@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nariño",
+               "short_name" : "Nariño",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pasto",
+               "short_name" : "Pasto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Narino",
+               "short_name" : "Narino",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nariño, Pasto, Narino, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.291899,
+                  "lng" : -77.35461289999999
+               },
+               "southwest" : {
+                  "lat" : 1.286404,
+                  "lng" : -77.361268
+               }
+            },
+            "location" : {
+               "lat" : 1.2897467,
+               "lng" : -77.35800329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.291899,
+                  "lng" : -77.35461289999999
+               },
+               "southwest" : {
+                  "lat" : 1.286404,
+                  "lng" : -77.361268
+               }
+            }
+         },
+         "place_id" : "ChIJ7yMYrrHRLo4RNsq0OOwEXPs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

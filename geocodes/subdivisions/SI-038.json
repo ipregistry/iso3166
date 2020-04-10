@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilirska Bistrica",
+               "short_name" : "Ilirska Bistrica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ilirska Bistrica",
+               "short_name" : "Ilirska Bistrica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ilirska Bistrica",
+               "short_name" : "Ilirska Bistrica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6250",
+               "short_name" : "6250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6250 Ilirska Bistrica, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5976891,
+                  "lng" : 14.3981604
+               },
+               "southwest" : {
+                  "lat" : 45.5553652,
+                  "lng" : 14.2257751
+               }
+            },
+            "location" : {
+               "lat" : 45.570099,
+               "lng" : 14.2418616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5976891,
+                  "lng" : 14.3981604
+               },
+               "southwest" : {
+                  "lat" : 45.5553652,
+                  "lng" : 14.2257751
+               }
+            }
+         },
+         "place_id" : "ChIJjfWYfcO0ZEcRubuM62Qqswo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

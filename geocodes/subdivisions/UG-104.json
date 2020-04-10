@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luweero",
+               "short_name" : "Luweero",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luwero",
+               "short_name" : "Luwero",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luweero, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.8670285,
+                  "lng" : 32.5168967
+               },
+               "southwest" : {
+                  "lat" : 0.8201451,
+                  "lng" : 32.4716377
+               }
+            },
+            "location" : {
+               "lat" : 0.8404086,
+               "lng" : 32.497668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8670285,
+                  "lng" : 32.5168967
+               },
+               "southwest" : {
+                  "lat" : 0.8201451,
+                  "lng" : 32.4716377
+               }
+            }
+         },
+         "place_id" : "ChIJMcBDUzNkfBcRKn23vYNmMTs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

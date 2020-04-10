@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mwali",
+               "short_name" : "Mwali",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Mwali",
+               "short_name" : "Mwali",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Comoros",
+               "short_name" : "KM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mwali, Comoros",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.2490952,
+                  "lng" : 43.8763046
+               },
+               "southwest" : {
+                  "lat" : -12.3899703,
+                  "lng" : 43.6219025
+               }
+            },
+            "location" : {
+               "lat" : -12.3377376,
+               "lng" : 43.7334089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.2490952,
+                  "lng" : 43.8763046
+               },
+               "southwest" : {
+                  "lat" : -12.3899703,
+                  "lng" : 43.6219025
+               }
+            }
+         },
+         "place_id" : "ChIJNfoLDYEeohgRhTouOSzJOZM",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

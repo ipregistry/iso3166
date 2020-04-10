@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haute-Vienne",
+               "short_name" : "Haute-Vienne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haute-Vienne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.40158599999999,
+                  "lng" : 1.9110789
+               },
+               "southwest" : {
+                  "lat" : 45.43663,
+                  "lng" : 0.62925
+               }
+            },
+            "location" : {
+               "lat" : 45.7435173,
+               "lng" : 1.4025484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.40158599999999,
+                  "lng" : 1.9110789
+               },
+               "southwest" : {
+                  "lat" : 45.43663,
+                  "lng" : 0.62925
+               }
+            }
+         },
+         "place_id" : "ChIJlSTLuMFK-UcR8CrnYJLTBQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

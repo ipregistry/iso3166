@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vecpiebalga Municipality",
+               "short_name" : "Vecpiebalga Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vecpiebalga Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.2813708,
+                  "lng" : 25.9270039
+               },
+               "southwest" : {
+                  "lat" : 56.9591639,
+                  "lng" : 25.449085
+               }
+            },
+            "location" : {
+               "lat" : 57.06033559999999,
+               "lng" : 25.8161592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.2813708,
+                  "lng" : 25.9270039
+               },
+               "southwest" : {
+                  "lat" : 56.9591639,
+                  "lng" : 25.449085
+               }
+            }
+         },
+         "place_id" : "ChIJ54zpVUN86UYRQP7yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

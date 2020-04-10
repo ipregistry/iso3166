@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kostel",
+               "short_name" : "Kostel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kostel",
+               "short_name" : "Kostel",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kočevje",
+               "short_name" : "Kočevje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1336",
+               "short_name" : "1336",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1336 Kostel, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5130323,
+                  "lng" : 14.9142067
+               },
+               "southwest" : {
+                  "lat" : 45.5047512,
+                  "lng" : 14.900478
+               }
+            },
+            "location" : {
+               "lat" : 45.5083472,
+               "lng" : 14.9087946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5130323,
+                  "lng" : 14.9142067
+               },
+               "southwest" : {
+                  "lat" : 45.5047512,
+                  "lng" : 14.900478
+               }
+            }
+         },
+         "place_id" : "ChIJc-FuK1iMZEcRUPY_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

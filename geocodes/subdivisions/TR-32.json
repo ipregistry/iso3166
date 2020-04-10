@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isparta",
+               "short_name" : "Isparta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isparta Merkez",
+               "short_name" : "Isparta Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Isparta",
+               "short_name" : "Isparta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isparta, Isparta Merkez/Isparta, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.8340921,
+                  "lng" : 30.591946
+               },
+               "southwest" : {
+                  "lat" : 37.746192,
+                  "lng" : 30.5077259
+               }
+            },
+            "location" : {
+               "lat" : 37.7626487,
+               "lng" : 30.55370499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8340921,
+                  "lng" : 30.591946
+               },
+               "southwest" : {
+                  "lat" : 37.746192,
+                  "lng" : 30.5077259
+               }
+            }
+         },
+         "place_id" : "ChIJv6N1Kt-1xRQRSOLr8yijy3w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

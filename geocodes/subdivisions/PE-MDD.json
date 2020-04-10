@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madre de Dios",
+               "short_name" : "Madre de Dios",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madre de Dios, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.9069079,
+                  "lng" : -68.6522409
+               },
+               "southwest" : {
+                  "lat" : -13.3417169,
+                  "lng" : -72.4287389
+               }
+            },
+            "location" : {
+               "lat" : -11.7668705,
+               "lng" : -70.81199529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.9069079,
+                  "lng" : -68.6522409
+               },
+               "southwest" : {
+                  "lat" : -13.3417169,
+                  "lng" : -72.4287389
+               }
+            }
+         },
+         "place_id" : "ChIJ2zyNRKNicJERHI31PpmaRxE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

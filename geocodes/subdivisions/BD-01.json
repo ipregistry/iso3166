@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandarban",
+               "short_name" : "Bandarban",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bandarban District",
+               "short_name" : "Bandarban District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bandarban, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2315862,
+                  "lng" : 92.2372627
+               },
+               "southwest" : {
+                  "lat" : 22.1818416,
+                  "lng" : 92.1932317
+               }
+            },
+            "location" : {
+               "lat" : 22.1935628,
+               "lng" : 92.2187476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2315862,
+                  "lng" : 92.2372627
+               },
+               "southwest" : {
+                  "lat" : 22.1818416,
+                  "lng" : 92.1932317
+               }
+            }
+         },
+         "place_id" : "ChIJK-YUhBhqrTAR0JC6gY8Zw6Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

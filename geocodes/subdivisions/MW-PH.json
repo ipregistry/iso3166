@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phalombe",
+               "short_name" : "Phalombe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Phalombe",
+               "short_name" : "Phalombe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Southern Region",
+               "short_name" : "Southern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phalombe, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.748579,
+                  "lng" : 35.6769688
+               },
+               "southwest" : {
+                  "lat" : -15.7868579,
+                  "lng" : 35.638361
+               }
+            },
+            "location" : {
+               "lat" : -15.7633303,
+               "lng" : 35.6587503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.748579,
+                  "lng" : 35.6769688
+               },
+               "southwest" : {
+                  "lat" : -15.7868579,
+                  "lng" : 35.638361
+               }
+            }
+         },
+         "place_id" : "ChIJI549M1fr2RgR9GyLMNPqn9Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pirojpur Pourashava",
+               "short_name" : "Pirojpur Pourashava",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pirojpur District",
+               "short_name" : "Pirojpur District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Barisal Division",
+               "short_name" : "Barisal Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pirojpur Pourashava, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6060281,
+                  "lng" : 90.0022316
+               },
+               "southwest" : {
+                  "lat" : 22.5621339,
+                  "lng" : 89.9550034
+               }
+            },
+            "location" : {
+               "lat" : 22.5841051,
+               "lng" : 89.9720133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6060281,
+                  "lng" : 90.0022316
+               },
+               "southwest" : {
+                  "lat" : 22.5621339,
+                  "lng" : 89.9550034
+               }
+            }
+         },
+         "place_id" : "ChIJObtZg1sAADoRhQYjaLSu1VQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

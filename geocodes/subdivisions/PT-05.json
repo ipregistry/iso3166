@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Castelo Branco",
+               "short_name" : "Castelo Branco",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Castelo Branco",
+               "short_name" : "Castelo Branco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castelo Branco",
+               "short_name" : "Castelo Branco",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6000",
+               "short_name" : "6000",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Castelo Branco, 6000 Castelo Branco, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9093461,
+                  "lng" : -7.367089999999999
+               },
+               "southwest" : {
+                  "lat" : 39.7136873,
+                  "lng" : -7.5591241
+               }
+            },
+            "location" : {
+               "lat" : 39.8031161,
+               "lng" : -7.4597725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9093461,
+                  "lng" : -7.367089999999999
+               },
+               "southwest" : {
+                  "lat" : 39.7136873,
+                  "lng" : -7.5591241
+               }
+            }
+         },
+         "place_id" : "ChIJKc5HsW1ePQ0RwJmQ5L3rAAU",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

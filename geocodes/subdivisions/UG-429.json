@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rubanda",
+               "short_name" : "Rubanda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kabale",
+               "short_name" : "Kabale",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rubanda, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.1795365,
+                  "lng" : 29.848942
+               },
+               "southwest" : {
+                  "lat" : -1.1936532,
+                  "lng" : 29.8383903
+               }
+            },
+            "location" : {
+               "lat" : -1.186119,
+               "lng" : 29.8453576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.1795365,
+                  "lng" : 29.848942
+               },
+               "southwest" : {
+                  "lat" : -1.1936532,
+                  "lng" : 29.8383903
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtxkDpn0X3BkR-f8qaeLkETE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

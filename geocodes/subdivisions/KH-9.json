@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krong Khemara Phoumin",
+               "short_name" : "Krong Khemara Phoumin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Smach Mean Chey",
+               "short_name" : "Smach Mean Chey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Koh Kong Province",
+               "short_name" : "Koh Kong Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krong Khemara Phoumin, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.6508704,
+                  "lng" : 103.0961324
+               },
+               "southwest" : {
+                  "lat" : 11.5387929,
+                  "lng" : 102.967322
+               }
+            },
+            "location" : {
+               "lat" : 11.6153795,
+               "lng" : 102.9836882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.6508704,
+                  "lng" : 103.0961324
+               },
+               "southwest" : {
+                  "lat" : 11.5387929,
+                  "lng" : 102.967322
+               }
+            }
+         },
+         "place_id" : "ChIJyd5TbxBwBjERsTFFoSoV3pA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

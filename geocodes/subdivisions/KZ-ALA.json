@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almaty",
+               "short_name" : "Almaty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karasay District",
+               "short_name" : "Karasay District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Almaty Province",
+               "short_name" : "Almaty Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almaty, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4066586,
+                  "lng" : 77.1467686
+               },
+               "southwest" : {
+                  "lat" : 43.0287453,
+                  "lng" : 76.7415618
+               }
+            },
+            "location" : {
+               "lat" : 43.2220146,
+               "lng" : 76.8512485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4066586,
+                  "lng" : 77.1467686
+               },
+               "southwest" : {
+                  "lat" : 43.0287453,
+                  "lng" : 76.7415618
+               }
+            }
+         },
+         "place_id" : "ChIJq8vFFn1ugzgRdm2YrY9mRD0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

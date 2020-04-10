@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alo",
+               "short_name" : "Alo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Wallis and Futuna",
+               "short_name" : "WF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alo, Wallis and Futuna",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.2480161,
+                  "lng" : -178.0000591
+               },
+               "southwest" : {
+                  "lat" : -14.361854,
+                  "lng" : -178.1574297
+               }
+            },
+            "location" : {
+               "lat" : -14.2903576,
+               "lng" : -178.1193763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.2480161,
+                  "lng" : -178.0000591
+               },
+               "southwest" : {
+                  "lat" : -14.361854,
+                  "lng" : -178.1574297
+               }
+            }
+         },
+         "place_id" : "ChIJi34FvSf-2nERpSfMTHXZTHM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

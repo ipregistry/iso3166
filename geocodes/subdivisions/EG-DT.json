@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Damietta",
+               "short_name" : "Damietta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Qism Damietta",
+               "short_name" : "Qism Damietta",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Damietta Desert",
+               "short_name" : "Damietta Desert",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Damietta Governorate",
+               "short_name" : "Damietta Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Damietta, Qism Damietta, Damietta Desert, Damietta Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4417822,
+                  "lng" : 31.8280067
+               },
+               "southwest" : {
+                  "lat" : 31.3934849,
+                  "lng" : 31.7816078
+               }
+            },
+            "location" : {
+               "lat" : 31.4175388,
+               "lng" : 31.81444339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4417822,
+                  "lng" : 31.8280067
+               },
+               "southwest" : {
+                  "lat" : 31.3934849,
+                  "lng" : 31.7816078
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFQ7h_F_l-RQR0hRcQHgPrpk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anglesey",
+               "short_name" : "Anglesey",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Isle of Anglesey",
+               "short_name" : "Isle of Anglesey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anglesey, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4300953,
+                  "lng" : -4.0401791
+               },
+               "southwest" : {
+                  "lat" : 53.12660229999999,
+                  "lng" : -4.5885415
+               }
+            },
+            "location" : {
+               "lat" : 53.265325,
+               "lng" : -4.429140299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4300953,
+                  "lng" : -4.0401791
+               },
+               "southwest" : {
+                  "lat" : 53.12660229999999,
+                  "lng" : -4.5885415
+               }
+            }
+         },
+         "place_id" : "ChIJg8o7VWOtZUgRfgc1YjBhMdk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

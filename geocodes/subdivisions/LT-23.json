@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kupiškis",
+               "short_name" : "Kupiškis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kupiškis District Municipality",
+               "short_name" : "Kupiškis District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Panevėžys County",
+               "short_name" : "Panevėžys County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kupiškis, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8502759,
+                  "lng" : 25.0148463
+               },
+               "southwest" : {
+                  "lat" : 55.8229479,
+                  "lng" : 24.945217
+               }
+            },
+            "location" : {
+               "lat" : 55.838839,
+               "lng" : 24.980148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8502759,
+                  "lng" : 25.0148463
+               },
+               "southwest" : {
+                  "lat" : 55.8229479,
+                  "lng" : 24.945217
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJXzzEZZ36EYRTEHnB1D0qkM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

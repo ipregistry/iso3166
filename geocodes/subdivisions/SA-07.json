@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tabuk",
+               "short_name" : "Tabuk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tabuk",
+               "short_name" : "Tabuk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tabuk Province",
+               "short_name" : "Tabuk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tabuk Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4718602,
+                  "lng" : 36.6991425
+               },
+               "southwest" : {
+                  "lat" : 28.325538,
+                  "lng" : 36.4326624
+               }
+            },
+            "location" : {
+               "lat" : 28.3835079,
+               "lng" : 36.5661908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4718602,
+                  "lng" : 36.6991425
+               },
+               "southwest" : {
+                  "lat" : 28.325538,
+                  "lng" : 36.4326624
+               }
+            }
+         },
+         "place_id" : "ChIJZSMTlAWtqRURz5oTtsbjQG8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

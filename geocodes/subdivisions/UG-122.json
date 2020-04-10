@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalungu",
+               "short_name" : "Kalungu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalungu, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.075096,
+                  "lng" : 32.01337
+               },
+               "southwest" : {
+                  "lat" : -0.2882389,
+                  "lng" : 31.64378799999999
+               }
+            },
+            "location" : {
+               "lat" : -0.0952831,
+               "lng" : 31.76513619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.075096,
+                  "lng" : 32.01337
+               },
+               "southwest" : {
+                  "lat" : -0.2882389,
+                  "lng" : 31.64378799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmcbbR8b61xkRHHjqYV3AzEA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Njombe",
+               "short_name" : "Njombe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ludewa",
+               "short_name" : "Ludewa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iringa Region",
+               "short_name" : "Iringa Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Njombe, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.317652599999999,
+                  "lng" : 34.8213496
+               },
+               "southwest" : {
+                  "lat" : -9.3943829,
+                  "lng" : 34.7227551
+               }
+            },
+            "location" : {
+               "lat" : -9.373151099999999,
+               "lng" : 34.8005067
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.317652599999999,
+                  "lng" : 34.8213496
+               },
+               "southwest" : {
+                  "lat" : -9.3943829,
+                  "lng" : 34.7227551
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ79v9FI_M_xgR0TaP_Mpi-k4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

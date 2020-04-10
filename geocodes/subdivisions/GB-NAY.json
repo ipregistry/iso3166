@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Ayrshire Council",
+               "short_name" : "North Ayrshire Council",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Ayrshire Council, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.89261370000001,
+                  "lng" : -4.4924741
+               },
+               "southwest" : {
+                  "lat" : 55.42356849999999,
+                  "lng" : -5.3978616
+               }
+            },
+            "location" : {
+               "lat" : 55.6416731,
+               "lng" : -4.75946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.89261370000001,
+                  "lng" : -4.4924741
+               },
+               "southwest" : {
+                  "lat" : 55.42356849999999,
+                  "lng" : -5.3978616
+               }
+            }
+         },
+         "place_id" : "ChIJp_JHoX3BiUgRgLNCBhpoDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

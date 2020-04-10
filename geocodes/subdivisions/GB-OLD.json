@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oldham",
+               "short_name" : "Oldham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oldham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5733246,
+                  "lng" : -2.0435901
+               },
+               "southwest" : {
+                  "lat" : 53.4989624,
+                  "lng" : -2.1437648
+               }
+            },
+            "location" : {
+               "lat" : 53.5409298,
+               "lng" : -2.1113659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5733246,
+                  "lng" : -2.0435901
+               },
+               "southwest" : {
+                  "lat" : 53.4989624,
+                  "lng" : -2.1437648
+               }
+            }
+         },
+         "place_id" : "ChIJ8Xp3Z6qwe0gRWDJrqdm4sxg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

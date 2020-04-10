@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vinh Phuc Province",
+               "short_name" : "Vinh Phuc Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vinh Phuc Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.5739379,
+                  "lng" : 105.7943231
+               },
+               "southwest" : {
+                  "lat" : 21.1520719,
+                  "lng" : 105.322191
+               }
+            },
+            "location" : {
+               "lat" : 21.3608805,
+               "lng" : 105.5474373
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.5739379,
+                  "lng" : 105.7943231
+               },
+               "southwest" : {
+                  "lat" : 21.1520719,
+                  "lng" : 105.322191
+               }
+            }
+         },
+         "place_id" : "ChIJuy3qgk3lNDERXxAb4T-O0MA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

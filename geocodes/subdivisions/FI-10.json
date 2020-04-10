@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lapland",
+               "short_name" : "Lapland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lapland, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 70.092444,
+                  "lng" : 30.016886
+               },
+               "southwest" : {
+                  "lat" : 65.4970896,
+                  "lng" : 20.5489762
+               }
+            },
+            "location" : {
+               "lat" : 67.9222304,
+               "lng" : 26.5046438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70.092444,
+                  "lng" : 30.016886
+               },
+               "southwest" : {
+                  "lat" : 65.4970896,
+                  "lng" : 20.5489762
+               }
+            }
+         },
+         "place_id" : "ChIJRaFMJTYA00URoayRDbNO3M4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

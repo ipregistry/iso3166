@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flores Department",
+               "short_name" : "Flores Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Flores Department, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.1066895,
+                  "lng" : -56.3965325
+               },
+               "southwest" : {
+                  "lat" : -33.9847674,
+                  "lng" : -57.3620293
+               }
+            },
+            "location" : {
+               "lat" : -33.5733753,
+               "lng" : -56.8945028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.1066895,
+                  "lng" : -56.3965325
+               },
+               "southwest" : {
+                  "lat" : -33.9847674,
+                  "lng" : -57.3620293
+               }
+            }
+         },
+         "place_id" : "ChIJC1-BgIqgppUR8Aa40TGLxFY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

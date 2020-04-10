@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madaba",
+               "short_name" : "Madaba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madaba Qasabah District",
+               "short_name" : "Madaba Qasabah District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madaba Governorate",
+               "short_name" : "Madaba Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madaba, Jordan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.741939,
+                  "lng" : 35.8212447
+               },
+               "southwest" : {
+                  "lat" : 31.6895753,
+                  "lng" : 35.775556
+               }
+            },
+            "location" : {
+               "lat" : 31.7193405,
+               "lng" : 35.7932432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.741939,
+                  "lng" : 35.8212447
+               },
+               "southwest" : {
+                  "lat" : 31.6895753,
+                  "lng" : 35.775556
+               }
+            }
+         },
+         "place_id" : "ChIJxTutC9CsHBURKz4AwTRYbU0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

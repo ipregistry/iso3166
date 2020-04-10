@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Takutu-Upper Essequibo",
+               "short_name" : "Upper Takutu-Upper Essequibo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guyana",
+               "short_name" : "GY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Takutu-Upper Essequibo, Guyana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.5214021,
+                  "lng" : -57.93002989999999
+               },
+               "southwest" : {
+                  "lat" : 1.1750799,
+                  "lng" : -59.992054
+               }
+            },
+            "location" : {
+               "lat" : 2.9239595,
+               "lng" : -58.73736339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.5214021,
+                  "lng" : -57.93002989999999
+               },
+               "southwest" : {
+                  "lat" : 1.1750799,
+                  "lng" : -59.992054
+               }
+            }
+         },
+         "place_id" : "ChIJN7OXmcLkkI0Rf6-oS350Rh8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

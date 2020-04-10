@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wele-Nzas",
+               "short_name" : "Wele-Nzas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Equatorial Guinea",
+               "short_name" : "GQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wele-Nzas, Equatorial Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.994745,
+                  "lng" : 11.3357239
+               },
+               "southwest" : {
+                  "lat" : 0.996211,
+                  "lng" : 10.5228439
+               }
+            },
+            "location" : {
+               "lat" : 1.4166162,
+               "lng" : 11.0711758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.994745,
+                  "lng" : 11.3357239
+               },
+               "southwest" : {
+                  "lat" : 0.996211,
+                  "lng" : 10.5228439
+               }
+            }
+         },
+         "place_id" : "ChIJZ7uYuYmHhxARHQJy1bbO3MQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

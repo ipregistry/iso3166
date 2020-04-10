@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majšperk",
+               "short_name" : "Majšperk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ptuj",
+               "short_name" : "Ptuj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Majšperk, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3584699,
+                  "lng" : 15.7457981
+               },
+               "southwest" : {
+                  "lat" : 46.3405229,
+                  "lng" : 15.7208665
+               }
+            },
+            "location" : {
+               "lat" : 46.3503019,
+               "lng" : 15.7340595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3584699,
+                  "lng" : 15.7457981
+               },
+               "southwest" : {
+                  "lat" : 46.3405229,
+                  "lng" : 15.7208665
+               }
+            }
+         },
+         "place_id" : "ChIJM6B27iSIZUcRwlG2vQhX1bE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

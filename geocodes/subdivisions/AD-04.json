@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Massana",
+               "short_name" : "La Massana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Massana",
+               "short_name" : "La Massana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Andorra",
+               "short_name" : "AD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AD400",
+               "short_name" : "AD400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AD400 La Massana, Andorra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5501711,
+                  "lng" : 1.5204314
+               },
+               "southwest" : {
+                  "lat" : 42.5366981,
+                  "lng" : 1.5084028
+               }
+            },
+            "location" : {
+               "lat" : 42.545625,
+               "lng" : 1.5147392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5501711,
+                  "lng" : 1.5204314
+               },
+               "southwest" : {
+                  "lat" : 42.5366981,
+                  "lng" : 1.5084028
+               }
+            }
+         },
+         "place_id" : "ChIJN6oRJ_pfrxIRgHGZkXCUAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

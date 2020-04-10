@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cerklje na Gorenjskem",
+               "short_name" : "Cerklje na Gorenjskem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cerklje na Gorenjskem",
+               "short_name" : "Cerklje na Gorenjskem",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4207",
+               "short_name" : "4207",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4207 Cerklje na Gorenjskem, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2625842,
+                  "lng" : 14.4934701
+               },
+               "southwest" : {
+                  "lat" : 46.2452394,
+                  "lng" : 14.4646636
+               }
+            },
+            "location" : {
+               "lat" : 46.2531292,
+               "lng" : 14.4868829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2625842,
+                  "lng" : 14.4934701
+               },
+               "southwest" : {
+                  "lat" : 46.2452394,
+                  "lng" : 14.4646636
+               }
+            }
+         },
+         "place_id" : "ChIJU1FO7Cy0ekcRdWJUs8MtjVM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

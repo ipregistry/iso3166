@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nebbi",
+               "short_name" : "Nebbi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nebbi",
+               "short_name" : "Nebbi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nebbi, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.4935382,
+                  "lng" : 31.1025953
+               },
+               "southwest" : {
+                  "lat" : 2.4683704,
+                  "lng" : 31.07337
+               }
+            },
+            "location" : {
+               "lat" : 2.4778169,
+               "lng" : 31.0851019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.4935382,
+                  "lng" : 31.1025953
+               },
+               "southwest" : {
+                  "lat" : 2.4683704,
+                  "lng" : 31.07337
+               }
+            }
+         },
+         "place_id" : "ChIJ-9OjAdO6bxcRpInDSEvTNmY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

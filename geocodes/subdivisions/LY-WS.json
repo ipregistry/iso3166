@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wadi ash-Shati'",
+               "short_name" : "Wadi ash-Shati'",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Wadi al Shatii District",
+               "short_name" : "Wadi al Shatii District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wadi ash-Shati', Libya",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.5002204,
+               "lng" : 14.1839917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5101172,
+                  "lng" : 14.1999991
+               },
+               "southwest" : {
+                  "lat" : 27.4903227,
+                  "lng" : 14.1679843
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHT008dyjxxMR4T3DMRpw68Q",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

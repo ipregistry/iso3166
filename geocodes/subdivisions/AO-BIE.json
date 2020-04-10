@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kunji",
+               "short_name" : "Kunji",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuito",
+               "short_name" : "Kuito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bié Province",
+               "short_name" : "Bié Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Angola",
+               "short_name" : "AO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kunji, Angola",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.3155172,
+                  "lng" : 16.9670104
+               },
+               "southwest" : {
+                  "lat" : -12.3699338,
+                  "lng" : 16.9181729
+               }
+            },
+            "location" : {
+               "lat" : -12.343907,
+               "lng" : 16.947666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.3155172,
+                  "lng" : 16.9670104
+               },
+               "southwest" : {
+                  "lat" : -12.3699338,
+                  "lng" : 16.9181729
+               }
+            }
+         },
+         "place_id" : "ChIJGSRoaDtKyBsR_CG8itGEwZM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

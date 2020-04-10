@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolikhamsai Province",
+               "short_name" : "Bolikhamsai Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Laos",
+               "short_name" : "LA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bolikhamsai Province, Laos",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1199531,
+                  "lng" : 105.2617261
+               },
+               "southwest" : {
+                  "lat" : 17.8729919,
+                  "lng" : 102.806132
+               }
+            },
+            "location" : {
+               "lat" : 18.4362924,
+               "lng" : 104.4723301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1199531,
+                  "lng" : 105.2617261
+               },
+               "southwest" : {
+                  "lat" : 17.8729919,
+                  "lng" : 102.806132
+               }
+            }
+         },
+         "place_id" : "ChIJZVteDj9aOjERwGsrSSS21s0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rokycany",
+               "short_name" : "Rokycany",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rokycany District",
+               "short_name" : "Rokycany District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Plzeň Region",
+               "short_name" : "Plzeň Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "337 01",
+               "short_name" : "337 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "337 01 Rokycany, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7620618,
+                  "lng" : 13.6374855
+               },
+               "southwest" : {
+                  "lat" : 49.69196119999999,
+                  "lng" : 13.5212944
+               }
+            },
+            "location" : {
+               "lat" : 49.7380972,
+               "lng" : 13.5928926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7620618,
+                  "lng" : 13.6374855
+               },
+               "southwest" : {
+                  "lat" : 49.69196119999999,
+                  "lng" : 13.5212944
+               }
+            }
+         },
+         "place_id" : "ChIJU_s_Xlj7CkcR4MgVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

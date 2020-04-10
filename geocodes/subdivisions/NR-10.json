@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ijuw",
+               "short_name" : "Ijuw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ijuw",
+               "short_name" : "Ijuw",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nauru",
+               "short_name" : "NR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ijuw, Nauru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.516007,
+                  "lng" : 166.9600868
+               },
+               "southwest" : {
+                  "lat" : -0.5244181999999999,
+                  "lng" : 166.9526625
+               }
+            },
+            "location" : {
+               "lat" : -0.5202766999999999,
+               "lng" : 166.9571046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.516007,
+                  "lng" : 166.9600868
+               },
+               "southwest" : {
+                  "lat" : -0.5244181999999999,
+                  "lng" : 166.9526625
+               }
+            }
+         },
+         "place_id" : "ChIJY1MeGHscfW8RZZCgMEiHu74",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

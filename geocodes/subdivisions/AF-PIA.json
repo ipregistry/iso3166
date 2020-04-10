@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paktia",
+               "short_name" : "Paktia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paktia, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0908599,
+                  "lng" : 70.0056379
+               },
+               "southwest" : {
+                  "lat" : 33.1592119,
+                  "lng" : 68.772654
+               }
+            },
+            "location" : {
+               "lat" : 33.706199,
+               "lng" : 69.3831079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0908599,
+                  "lng" : 70.0056379
+               },
+               "southwest" : {
+                  "lat" : 33.1592119,
+                  "lng" : 68.772654
+               }
+            }
+         },
+         "place_id" : "ChIJTTsPzXaS1jgRjHf-sgy6MoQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

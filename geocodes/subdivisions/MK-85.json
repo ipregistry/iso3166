@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Skopje",
+               "short_name" : "Skopje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Skopje",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skopje, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0531486,
+                  "lng" : 21.5377522
+               },
+               "southwest" : {
+                  "lat" : 41.9450319,
+                  "lng" : 21.3120283
+               }
+            },
+            "location" : {
+               "lat" : 41.9981294,
+               "lng" : 21.4254355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0531486,
+                  "lng" : 21.5377522
+               },
+               "southwest" : {
+                  "lat" : 41.9450319,
+                  "lng" : 21.3120283
+               }
+            }
+         },
+         "place_id" : "ChIJpaKajKUVVBMRICCHYMKI7bI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

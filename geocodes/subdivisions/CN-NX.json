@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ningxia",
+               "short_name" : "Ningxia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ningxia, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3815686,
+                  "lng" : 107.6592745
+               },
+               "southwest" : {
+                  "lat" : 35.2383032,
+                  "lng" : 104.2870392
+               }
+            },
+            "location" : {
+               "lat" : 37.198731,
+               "lng" : 106.1580937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3815686,
+                  "lng" : 107.6592745
+               },
+               "southwest" : {
+                  "lat" : 35.2383032,
+                  "lng" : 104.2870392
+               }
+            }
+         },
+         "place_id" : "ChIJb0K7hAzlPzYRXDRtPR6FAv0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Khor",
+               "short_name" : "Al Khor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Khor",
+               "short_name" : "Al Khor",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Khor, Qatar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.6959881,
+                  "lng" : 51.5287971
+               },
+               "southwest" : {
+                  "lat" : 25.6203229,
+                  "lng" : 51.4761828
+               }
+            },
+            "location" : {
+               "lat" : 25.6804078,
+               "lng" : 51.4968502
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.6959881,
+                  "lng" : 51.5287971
+               },
+               "southwest" : {
+                  "lat" : 25.6203229,
+                  "lng" : 51.4761828
+               }
+            }
+         },
+         "place_id" : "ChIJM96L7cb5RT4Rkck_cqq6wQc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dakhira",
+               "short_name" : "Dakhira",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ras Laffan",
+               "short_name" : "Ras Laffan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Al Dhakira",
+               "short_name" : "Al Dhakira",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Khor",
+               "short_name" : "Al Khor",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dakhira, Al Dhakira, Qatar",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.734248,
+               "lng" : 51.543236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7442989,
+                  "lng" : 51.5592434
+               },
+               "southwest" : {
+                  "lat" : 25.7241963,
+                  "lng" : 51.5272286
+               }
+            }
+         },
+         "place_id" : "ChIJwSmtWsT3RT4RGfiO0FmymfQ",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

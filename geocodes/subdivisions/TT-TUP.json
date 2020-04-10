@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tunapuna/Piarco Regional Corporation",
+               "short_name" : "Tunapuna/Piarco Regional Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tunapuna/Piarco Regional Corporation, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.811871,
+                  "lng" : -61.151141
+               },
+               "southwest" : {
+                  "lat" : 10.560991,
+                  "lng" : -61.4334169
+               }
+            },
+            "location" : {
+               "lat" : 10.6859096,
+               "lng" : -61.30352480000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.811871,
+                  "lng" : -61.151141
+               },
+               "southwest" : {
+                  "lat" : 10.560991,
+                  "lng" : -61.4334169
+               }
+            }
+         },
+         "place_id" : "ChIJeb7I6z_-SYwRJGszXjcSb3U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

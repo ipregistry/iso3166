@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viljandi",
+               "short_name" : "Viljandi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viljandi County",
+               "short_name" : "Viljandi County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Viljandi, Viljandi County, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.3824656,
+                  "lng" : 25.6375326
+               },
+               "southwest" : {
+                  "lat" : 58.3301392,
+                  "lng" : 25.5498137
+               }
+            },
+            "location" : {
+               "lat" : 58.363476,
+               "lng" : 25.5859692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.3824656,
+                  "lng" : 25.6375326
+               },
+               "southwest" : {
+                  "lat" : 58.3301392,
+                  "lng" : 25.5498137
+               }
+            }
+         },
+         "place_id" : "ChIJWYLCyZOY7EYRIG_8GG2zAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

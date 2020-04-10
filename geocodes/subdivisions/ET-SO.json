@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Somali",
+               "short_name" : "Somali",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Somali, Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.088964,
+                  "lng" : 47.9861791
+               },
+               "southwest" : {
+                  "lat" : 3.938105999999999,
+                  "lng" : 40.6923869
+               }
+            },
+            "location" : {
+               "lat" : 6.6612293,
+               "lng" : 43.7908453
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.088964,
+                  "lng" : 47.9861791
+               },
+               "southwest" : {
+                  "lat" : 3.938105999999999,
+                  "lng" : 40.6923869
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLXUnOwuxOxYRFKOsSbplSLw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

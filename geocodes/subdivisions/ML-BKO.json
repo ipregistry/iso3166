@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bamako",
+               "short_name" : "Bamako",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bamako",
+               "short_name" : "Bamako",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bamako Capital District",
+               "short_name" : "Bamako Capital District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mali",
+               "short_name" : "ML",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bamako, Mali",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.7342735,
+                  "lng" : -7.8759453
+               },
+               "southwest" : {
+                  "lat" : 12.4909088,
+                  "lng" : -8.115080799999999
+               }
+            },
+            "location" : {
+               "lat" : 12.6392316,
+               "lng" : -8.0028892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.7342735,
+                  "lng" : -7.8759453
+               },
+               "southwest" : {
+                  "lat" : 12.4909088,
+                  "lng" : -8.115080799999999
+               }
+            }
+         },
+         "place_id" : "ChIJkQpFJxLNUQ4RFWBQUuFAPJ4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caraș-Severin County",
+               "short_name" : "CS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caraș-Severin County, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.67003099999999,
+                  "lng" : 22.710012
+               },
+               "southwest" : {
+                  "lat" : 44.589462,
+                  "lng" : 21.3522489
+               }
+            },
+            "location" : {
+               "lat" : 45.1139646,
+               "lng" : 22.0740993
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.67003099999999,
+                  "lng" : 22.710012
+               },
+               "southwest" : {
+                  "lat" : 44.589462,
+                  "lng" : 21.3522489
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLW6qKKkAUUcRhzks2Jp5mhM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

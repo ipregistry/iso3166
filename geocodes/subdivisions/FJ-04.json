@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kadavu Island",
+               "short_name" : "Kadavu Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Kadavu Province",
+               "short_name" : "Kadavu Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Division",
+               "short_name" : "Eastern Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kadavu Island, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -18.931837,
+                  "lng" : 178.485891
+               },
+               "southwest" : {
+                  "lat" : -19.1639301,
+                  "lng" : 177.9516831
+               }
+            },
+            "location" : {
+               "lat" : -19.0127122,
+               "lng" : 178.1876676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -18.931837,
+                  "lng" : 178.485891
+               },
+               "southwest" : {
+                  "lat" : -19.1639301,
+                  "lng" : 177.9516831
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGw606FocG24R52XMq1SaJrU",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

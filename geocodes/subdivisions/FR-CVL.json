@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centre-Val de Loire",
+               "short_name" : "Centre-Val de Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centre-Val de Loire, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.941029,
+                  "lng" : 3.1284099
+               },
+               "southwest" : {
+                  "lat" : 46.3469059,
+                  "lng" : 0.0527369
+               }
+            },
+            "location" : {
+               "lat" : 47.7515686,
+               "lng" : 1.6750631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.941029,
+                  "lng" : 3.1284099
+               },
+               "southwest" : {
+                  "lat" : 46.3469059,
+                  "lng" : 0.0527369
+               }
+            }
+         },
+         "place_id" : "ChIJiV0INnu55EcRMCUzBdfIDQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

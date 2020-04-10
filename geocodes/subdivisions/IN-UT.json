@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pangoot",
+               "short_name" : "Pangoot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nainital",
+               "short_name" : "Nainital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttarakhand",
+               "short_name" : "UK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "263001",
+               "short_name" : "263001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pangoot, Uttarakhand 263001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.425357,
+                  "lng" : 79.4299506
+               },
+               "southwest" : {
+                  "lat" : 29.419694,
+                  "lng" : 79.4247149
+               }
+            },
+            "location" : {
+               "lat" : 29.42301029999999,
+               "lng" : 79.427488
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.425357,
+                  "lng" : 79.4299506
+               },
+               "southwest" : {
+                  "lat" : 29.419694,
+                  "lng" : 79.4247149
+               }
+            }
+         },
+         "place_id" : "ChIJmQYc9wKhoDkRXp1nRdzK9TM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

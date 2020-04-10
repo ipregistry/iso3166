@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viana do Castelo",
+               "short_name" : "Viana do Castelo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viana do Castelo District",
+               "short_name" : "Viana do Castelo District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Viana do Castelo, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7605686,
+                  "lng" : -8.748357499999999
+               },
+               "southwest" : {
+                  "lat" : 41.6714037,
+                  "lng" : -8.869340299999999
+               }
+            },
+            "location" : {
+               "lat" : 41.6918275,
+               "lng" : -8.834410099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7605686,
+                  "lng" : -8.748357499999999
+               },
+               "southwest" : {
+                  "lat" : 41.6714037,
+                  "lng" : -8.869340299999999
+               }
+            }
+         },
+         "place_id" : "ChIJc2ro9s63JQ0R_R3SXX4WTf4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

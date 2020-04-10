@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centar Zhupa",
+               "short_name" : "Centar Zhupa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Centar Župa",
+               "short_name" : "Municipality of Centar Župa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centar Zhupa, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.48230540000001,
+                  "lng" : 20.5659829
+               },
+               "southwest" : {
+                  "lat" : 41.47322459999999,
+                  "lng" : 20.5503664
+               }
+            },
+            "location" : {
+               "lat" : 41.47852779999999,
+               "lng" : 20.5602793
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.48230540000001,
+                  "lng" : 20.5659829
+               },
+               "southwest" : {
+                  "lat" : 41.47322459999999,
+                  "lng" : 20.5503664
+               }
+            }
+         },
+         "place_id" : "ChIJ1zdDQGYQURMRxZa9M7rJLQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Logar",
+               "short_name" : "Logar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Logar, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.366983,
+                  "lng" : 69.88765309999999
+               },
+               "southwest" : {
+                  "lat" : 33.602526,
+                  "lng" : 68.716335
+               }
+            },
+            "location" : {
+               "lat" : 34.0145518,
+               "lng" : 69.19239159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.366983,
+                  "lng" : 69.88765309999999
+               },
+               "southwest" : {
+                  "lat" : 33.602526,
+                  "lng" : 68.716335
+               }
+            }
+         },
+         "place_id" : "ChIJDYU_q_Wu1jgRvK89m5geWbc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

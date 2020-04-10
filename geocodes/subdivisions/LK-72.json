@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Polonnaruwa",
+               "short_name" : "Polonnaruwa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Central Province",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Polonnaruwa, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.3462479,
+                  "lng" : 81.34034
+               },
+               "southwest" : {
+                  "lat" : 7.647486,
+                  "lng" : 80.7481169
+               }
+            },
+            "location" : {
+               "lat" : 7.9395567,
+               "lng" : 81.00034029999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.3462479,
+                  "lng" : 81.34034
+               },
+               "southwest" : {
+                  "lat" : 7.647486,
+                  "lng" : 80.7481169
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQSUg80FC-zoR6iFS3i7g1E0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+}
+            }
+         },
+         "place_id" : "ChIJJ84WO7pE-zoRfCsDs6KXScM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

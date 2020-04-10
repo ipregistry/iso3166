@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ba",
+               "short_name" : "Ba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Division",
+               "short_name" : "Western Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ba, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.3503106,
+                  "lng" : 178.0399703
+               },
+               "southwest" : {
+                  "lat" : -17.9839581,
+                  "lng" : 177.3433685
+               }
+            },
+            "location" : {
+               "lat" : -17.5617654,
+               "lng" : 177.7763333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.3503106,
+                  "lng" : 178.0399703
+               },
+               "southwest" : {
+                  "lat" : -17.9839581,
+                  "lng" : 177.3433685
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEzNlS_vnGW4RHAg3GX1WWYo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

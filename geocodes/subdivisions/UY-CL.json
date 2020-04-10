@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cerro Largo Department",
+               "short_name" : "Cerro Largo Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cerro Largo Department, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.6512869,
+                  "lng" : -53.1827805
+               },
+               "southwest" : {
+                  "lat" : -33.0297608,
+                  "lng" : -55.3558286
+               }
+            },
+            "location" : {
+               "lat" : -32.4411032,
+               "lng" : -54.35217530000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.6512869,
+                  "lng" : -53.1827805
+               },
+               "southwest" : {
+                  "lat" : -33.0297608,
+                  "lng" : -55.3558286
+               }
+            }
+         },
+         "place_id" : "ChIJ1ajbONsmCZURfaNP1AXV6MI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

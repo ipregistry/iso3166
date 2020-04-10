@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.38186639999999
+               },
+               "southwest" : {
+                  "lat" : 27.7051105,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.38186639999999
+               },
+               "southwest" : {
+                  "lat" : 27.7051105,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

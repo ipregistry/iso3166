@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cork",
+               "short_name" : "Cork",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Cork",
+               "short_name" : "County Cork",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cork, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.93586,
+                  "lng" : -8.380579899999999
+               },
+               "southwest" : {
+                  "lat" : 51.8561501,
+                  "lng" : -8.54552
+               }
+            },
+            "location" : {
+               "lat" : 51.8985143,
+               "lng" : -8.4756035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.93586,
+                  "lng" : -8.380579899999999
+               },
+               "southwest" : {
+                  "lat" : 51.8561501,
+                  "lng" : -8.54552
+               }
+            }
+         },
+         "place_id" : "ChIJYbm-kQiQREgR0MUxl6nHAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

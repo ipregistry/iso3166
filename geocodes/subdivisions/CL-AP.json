@@ -1,0 +1,157 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arica y Parinacota",
+               "short_name" : "Arica y Parinacota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arica y Parinacota, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.5008571,
+                  "lng" : -68.9160988
+               },
+               "southwest" : {
+                  "lat" : -19.2289685,
+                  "lng" : -70.3780768
+               }
+            },
+            "location" : {
+               "lat" : -18.5940485,
+               "lng" : -69.47845409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.5008571,
+                  "lng" : -68.9160988
+               },
+               "southwest" : {
+                  "lat" : -19.2289685,
+                  "lng" : -70.3780768
+               }
+            }
+         },
+         "place_id" : "ChIJEQWs7gx-WpERH_0UYq_-Tn4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parinacota",
+               "short_name" : "Parinacota",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Putre",
+               "short_name" : "Putre",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Parinacota Province",
+               "short_name" : "Parinacota Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arica y Parinacota",
+               "short_name" : "Arica y Parinacota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parinacota, Putre, Arica y Parinacota, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -18.2,
+               "lng" : -69.2667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -18.1893999,
+                  "lng" : -69.25069259999999
+               },
+               "southwest" : {
+                  "lat" : -18.2105995,
+                  "lng" : -69.28270739999999
+               }
+            }
+         },
+         "place_id" : "ChIJtSLy_qISWpEROMYvyGHLc_s",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arica",
+               "short_name" : "Arica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arica",
+               "short_name" : "Arica",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Arica Province",
+               "short_name" : "Arica Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arica y Parinacota",
+               "short_name" : "Arica y Parinacota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arica, Arica y Parinacota, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -18.4228594,
+                  "lng" : -70.2445165
+               },
+               "southwest" : {
+                  "lat" : -18.522094,
+                  "lng" : -70.33377879999999
+               }
+            },
+            "location" : {
+               "lat" : -18.4782534,
+               "lng" : -70.3125988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -18.4228594,
+                  "lng" : -70.2445165
+               },
+               "southwest" : {
+                  "lat" : -18.522094,
+                  "lng" : -70.33377879999999
+               }
+            }
+         },
+         "place_id" : "ChIJNcIy2YqpWpERHdfYBGyI9Sc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ad Dakhiliyah ‍Governorate",
+               "short_name" : "Ad Dakhiliyah ‍Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ad Dakhiliyah ‍Governorate, Oman",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.5632319,
+                  "lng" : 58.34188510000001
+               },
+               "southwest" : {
+                  "lat" : 20.904974,
+                  "lng" : 56.576047
+               }
+            },
+            "location" : {
+               "lat" : 22.8588758,
+               "lng" : 57.5394356
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.5632319,
+                  "lng" : 58.34188510000001
+               },
+               "southwest" : {
+                  "lat" : 20.904974,
+                  "lng" : 56.576047
+               }
+            }
+         },
+         "place_id" : "ChIJizZZXpdljz4Rn3ROOx0o-oo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

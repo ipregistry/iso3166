@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tabor",
+               "short_name" : "Tabor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tabor",
+               "short_name" : "Tabor",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Žalec",
+               "short_name" : "Žalec",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3304",
+               "short_name" : "3304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3304 Tabor, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2422044,
+                  "lng" : 15.0280818
+               },
+               "southwest" : {
+                  "lat" : 46.2247663,
+                  "lng" : 15.0014522
+               }
+            },
+            "location" : {
+               "lat" : 46.2346683,
+               "lng" : 15.0167331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2422044,
+                  "lng" : 15.0280818
+               },
+               "southwest" : {
+                  "lat" : 46.2247663,
+                  "lng" : 15.0014522
+               }
+            }
+         },
+         "place_id" : "ChIJiQnc3expZUcRewORz4hlraE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

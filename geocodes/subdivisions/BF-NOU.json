@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Noumbiel",
+               "short_name" : "Noumbiel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sud-Ouest Region",
+               "short_name" : "Sud-Ouest Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Noumbiel, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.1794679,
+                  "lng" : -2.689926
+               },
+               "southwest" : {
+                  "lat" : 9.401107999999999,
+                  "lng" : -3.2736119
+               }
+            },
+            "location" : {
+               "lat" : 9.8440946,
+               "lng" : -2.9775558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.1794679,
+                  "lng" : -2.689926
+               },
+               "southwest" : {
+                  "lat" : 9.401107999999999,
+                  "lng" : -3.2736119
+               }
+            }
+         },
+         "place_id" : "ChIJHds5OmuozQ8R_sLfUPLdx-c",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

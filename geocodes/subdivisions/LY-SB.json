@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sabhā",
+               "short_name" : "Sabhā",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sabha District",
+               "short_name" : "Sabha District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sabhā, Libya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1283984,
+                  "lng" : 14.536811
+               },
+               "southwest" : {
+                  "lat" : 26.93461,
+                  "lng" : 14.3136618
+               }
+            },
+            "location" : {
+               "lat" : 27.0365406,
+               "lng" : 14.4290236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1283984,
+                  "lng" : 14.536811
+               },
+               "southwest" : {
+                  "lat" : 26.93461,
+                  "lng" : 14.3136618
+               }
+            }
+         },
+         "place_id" : "ChIJpUKuQwf7xhMRCjSjSxbC54w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

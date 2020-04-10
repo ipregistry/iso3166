@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sacatepéquez Department",
+               "short_name" : "Sacatepéquez Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sacatepéquez Department, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.7240939,
+                  "lng" : -90.61233700000001
+               },
+               "southwest" : {
+                  "lat" : 14.3755579,
+                  "lng" : -90.8808069
+               }
+            },
+            "location" : {
+               "lat" : 14.5178379,
+               "lng" : -90.7152749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.7240939,
+                  "lng" : -90.61233700000001
+               },
+               "southwest" : {
+                  "lat" : 14.3755579,
+                  "lng" : -90.8808069
+               }
+            }
+         },
+         "place_id" : "ChIJkSdcVdgNiYURxoicf5toQR0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ungheni",
+               "short_name" : "Ungheni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ungheni District",
+               "short_name" : "Ungheni District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ungheni, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2493487,
+                  "lng" : 27.8279203
+               },
+               "southwest" : {
+                  "lat" : 47.1690154,
+                  "lng" : 27.7592754
+               }
+            },
+            "location" : {
+               "lat" : 47.2305767,
+               "lng" : 27.7892661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2493487,
+                  "lng" : 27.8279203
+               },
+               "southwest" : {
+                  "lat" : 47.1690154,
+                  "lng" : 27.7592754
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV0XYv0YAy0ARt3UkuLs_DuA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

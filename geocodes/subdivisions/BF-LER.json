@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leraba",
+               "short_name" : "Leraba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cascades Region",
+               "short_name" : "Cascades Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leraba, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.0630681,
+                  "lng" : -4.950835
+               },
+               "southwest" : {
+                  "lat" : 10.285268,
+                  "lng" : -5.518916
+               }
+            },
+            "location" : {
+               "lat" : 10.6648785,
+               "lng" : -5.3102505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0630681,
+                  "lng" : -4.950835
+               },
+               "southwest" : {
+                  "lat" : 10.285268,
+                  "lng" : -5.518916
+               }
+            }
+         },
+         "place_id" : "ChIJMXX04UyySg4R8iByjFUqD-s",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

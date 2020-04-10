@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

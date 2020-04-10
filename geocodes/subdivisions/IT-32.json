@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trentino-South Tyrol",
+               "short_name" : "Trentino-South Tyrol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trentino-South Tyrol, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0917942,
+                  "lng" : 12.4775863
+               },
+               "southwest" : {
+                  "lat" : 45.6730636,
+                  "lng" : 10.3817891
+               }
+            },
+            "location" : {
+               "lat" : 46.4336662,
+               "lng" : 11.1693296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0917942,
+                  "lng" : 12.4775863
+               },
+               "southwest" : {
+                  "lat" : 45.6730636,
+                  "lng" : 10.3817891
+               }
+            }
+         },
+         "place_id" : "ChIJ5bTpZ5F5eEcRYHyQFYcJBwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

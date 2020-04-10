@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Andrew Parish",
+               "short_name" : "St. Andrew Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "JM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Andrew Parish, Jamaica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.1721401,
+                  "lng" : -76.621582
+               },
+               "southwest" : {
+                  "lat" : 17.9359631,
+                  "lng" : -76.89805500000001
+               }
+            },
+            "location" : {
+               "lat" : 18.0391345,
+               "lng" : -76.7567368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1721401,
+                  "lng" : -76.621582
+               },
+               "southwest" : {
+                  "lat" : 17.9359631,
+                  "lng" : -76.89805500000001
+               }
+            }
+         },
+         "place_id" : "ChIJyfSroZE-244RvCjo_JQDBdA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rennell and Bellona Province",
+               "short_name" : "Rennell and Bellona Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Solomon Islands",
+               "short_name" : "SB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rennell and Bellona Province, Solomon Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.27247,
+                  "lng" : 160.5826109
+               },
+               "southwest" : {
+                  "lat" : -11.8505741,
+                  "lng" : 159.751185
+               }
+            },
+            "location" : {
+               "lat" : -11.6131435,
+               "lng" : 160.1693949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.27247,
+                  "lng" : 160.5826109
+               },
+               "southwest" : {
+                  "lat" : -11.8505741,
+                  "lng" : 159.751185
+               }
+            }
+         },
+         "place_id" : "ChIJd8YB1hK70G4RH5foXBoPk1U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

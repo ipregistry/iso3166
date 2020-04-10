@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cabilan Islands",
+               "short_name" : "Cabilan Islands",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Bayan ng Dinagat",
+               "short_name" : "Bayan ng Dinagat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lalawigan ng Dinagat Islands",
+               "short_name" : "Lalawigan ng Dinagat Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Caraga",
+               "short_name" : "Caraga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cabilan Islands, Bayan ng Dinagat, Lalawigan ng Dinagat Islands, Philippines",
+         "geometry" : {
+            "location" : {
+               "lat" : 9.944722199999999,
+               "lng" : 125.5452778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.955712399999999,
+                  "lng" : 125.5612852
+               },
+               "southwest" : {
+                  "lat" : 9.933731699999999,
+                  "lng" : 125.5292704
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ3W5ovbJBjMRfo1wtMiw0u8",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

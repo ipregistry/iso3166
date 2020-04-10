@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Spezia",
+               "short_name" : "La Spezia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Spezia",
+               "short_name" : "La Spezia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of La Spezia",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Liguria",
+               "short_name" : "Liguria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Spezia, SP, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.1367074,
+                  "lng" : 9.888580299999999
+               },
+               "southwest" : {
+                  "lat" : 44.0777423,
+                  "lng" : 9.7850968
+               }
+            },
+            "location" : {
+               "lat" : 44.1024504,
+               "lng" : 9.824082599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1367074,
+                  "lng" : 9.888580299999999
+               },
+               "southwest" : {
+                  "lat" : 44.0777423,
+                  "lng" : 9.7850968
+               }
+            }
+         },
+         "place_id" : "ChIJrV7xusD81BIRgE9aKK2HMjI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

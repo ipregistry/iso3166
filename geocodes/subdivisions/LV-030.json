@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ērgļi",
+               "short_name" : "Ērgļi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ērgļi parish",
+               "short_name" : "Ērgļi parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4840",
+               "short_name" : "4840",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ērgļi, Ērgļi parish, LV-4840, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.92211099999999,
+                  "lng" : 25.689441
+               },
+               "southwest" : {
+                  "lat" : 56.88317490000001,
+                  "lng" : 25.6171861
+               }
+            },
+            "location" : {
+               "lat" : 56.8992283,
+               "lng" : 25.6402419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.92211099999999,
+                  "lng" : 25.689441
+               },
+               "southwest" : {
+                  "lat" : 56.88317490000001,
+                  "lng" : 25.6171861
+               }
+            }
+         },
+         "place_id" : "ChIJl2Op4oV26UYRMBrzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

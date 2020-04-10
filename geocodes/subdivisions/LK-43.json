@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mannar",
+               "short_name" : "Mannar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mannar",
+               "short_name" : "Mannar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Province",
+               "short_name" : "NP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mannar, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.029034899999999,
+                  "lng" : 79.92742539999999
+               },
+               "southwest" : {
+                  "lat" : 8.962062599999999,
+                  "lng" : 79.8438262
+               }
+            },
+            "location" : {
+               "lat" : 8.980974300000002,
+               "lng" : 79.90441489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.029034899999999,
+                  "lng" : 79.92742539999999
+               },
+               "southwest" : {
+                  "lat" : 8.962062599999999,
+                  "lng" : 79.8438262
+               }
+            }
+         },
+         "place_id" : "ChIJbUbZugF2_joRFX1exJHg38U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puy de Dôme",
+               "short_name" : "Puy de Dôme",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Orcines",
+               "short_name" : "Orcines",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puy-de-Dome",
+               "short_name" : "Puy-de-Dome",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63870",
+               "short_name" : "63870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Puy de Dôme, 63870 Orcines, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7720165,
+               "lng" : 2.9624505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.77979879999999,
+                  "lng" : 2.9784579
+               },
+               "southwest" : {
+                  "lat" : 45.7642331,
+                  "lng" : 2.9464431
+               }
+            }
+         },
+         "place_id" : "ChIJzfpEZT4R90cRL8TRkOExBJQ",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

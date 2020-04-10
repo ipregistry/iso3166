@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Algiers",
+               "short_name" : "Algiers",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sidi M'Hamed",
+               "short_name" : "Sidi M'Hamed",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sidi M'hamed",
+               "short_name" : "Sidi M'hamed",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Algiers Province",
+               "short_name" : "Algiers Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Algiers, Sidi M'Hamed, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.7587844,
+                  "lng" : 3.0616236
+               },
+               "southwest" : {
+                  "lat" : 36.7488675,
+                  "lng" : 3.0540584
+               }
+            },
+            "location" : {
+               "lat" : 36.753768,
+               "lng" : 3.0587561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7587844,
+                  "lng" : 3.0616236
+               },
+               "southwest" : {
+                  "lat" : 36.7488675,
+                  "lng" : 3.0540584
+               }
+            }
+         },
+         "place_id" : "ChIJn2Xqd2myjxIRSW-jOC0QMUI",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ouargla",
+               "short_name" : "Ouargla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ouargla",
+               "short_name" : "Ouargla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ouargla Province",
+               "short_name" : "Ouargla Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ouargla, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4940659,
+                  "lng" : 5.3804949
+               },
+               "southwest" : {
+                  "lat" : 31.8664479,
+                  "lng" : 4.46381
+               }
+            },
+            "location" : {
+               "lat" : 31.9527411,
+               "lng" : 5.3335348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4940659,
+                  "lng" : 5.3804949
+               },
+               "southwest" : {
+                  "lat" : 31.8664479,
+                  "lng" : 4.46381
+               }
+            }
+         },
+         "place_id" : "ChIJqbzEeIVrXRIRHafJ0oI-PAY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Gorje",
+               "short_name" : "Gorje",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zgornje Gorje",
+               "short_name" : "Zgornje Gorje",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Radovljica",
+               "short_name" : "Radovljica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4247",
+               "short_name" : "4247",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gorje, 4247 Zgornje Gorje, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4420611,
+                  "lng" : 14.0957186
+               },
+               "southwest" : {
+                  "lat" : 46.3470629,
+                  "lng" : 13.843129
+               }
+            },
+            "location" : {
+               "lat" : 46.3802458,
+               "lng" : 14.0685339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4420611,
+                  "lng" : 14.0957186
+               },
+               "southwest" : {
+                  "lat" : 46.3470629,
+                  "lng" : 13.843129
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ66Err1SOekcRcPg_ghz4AAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

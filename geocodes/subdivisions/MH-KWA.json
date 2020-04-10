@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kwajalein Atoll",
+               "short_name" : "Kwajalein Atoll",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Kwajalein Atoll",
+               "short_name" : "Kwajalein Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kwajalein Atoll, RMI",
+         "geometry" : {
+            "location" : {
+               "lat" : 8.716666999999999,
+               "lng" : 167.733333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.727696,
+                  "lng" : 167.7493404
+               },
+               "southwest" : {
+                  "lat" : 8.705637700000002,
+                  "lng" : 167.7173256
+               }
+            }
+         },
+         "place_id" : "ChIJpclzm_C5rmURo9KRpmi6t6w",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

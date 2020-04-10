@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uşak",
+               "short_name" : "Uşak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uşak Merkez",
+               "short_name" : "Uşak Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uşak",
+               "short_name" : "Uşak",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uşak, Uşak Merkez/Uşak, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7050247,
+                  "lng" : 29.456464
+               },
+               "southwest" : {
+                  "lat" : 38.6333519,
+                  "lng" : 29.355936
+               }
+            },
+            "location" : {
+               "lat" : 38.6742286,
+               "lng" : 29.4058825
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7050247,
+                  "lng" : 29.456464
+               },
+               "southwest" : {
+                  "lat" : 38.6333519,
+                  "lng" : 29.355936
+               }
+            }
+         },
+         "place_id" : "ChIJMYAOcNl_yBQRo7v5LbfF4ek",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

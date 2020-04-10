@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Magallanes Province",
+               "short_name" : "Magallanes Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Magallanes and Chilean Antarctica",
+               "short_name" : "Magallanes and Chilean Antarctica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Magallanes Province, Magallanes and Chilean Antarctica, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -51.9997243,
+                  "lng" : -68.418611
+               },
+               "southwest" : {
+                  "lat" : -54.5166289,
+                  "lng" : -74.742491
+               }
+            },
+            "location" : {
+               "lat" : -52.3680467,
+               "lng" : -70.98628459999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -51.9997243,
+                  "lng" : -68.418611
+               },
+               "southwest" : {
+                  "lat" : -54.5166289,
+                  "lng" : -74.742491
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ54E0m6RUTbwR0cPF2EM1lVs",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

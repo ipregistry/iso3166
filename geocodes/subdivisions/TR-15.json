@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burdur",
+               "short_name" : "Burdur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burdur Merkez",
+               "short_name" : "Burdur Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Burdur",
+               "short_name" : "Burdur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burdur, Burdur Merkez/Burdur, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.760559,
+                  "lng" : 30.336213
+               },
+               "southwest" : {
+                  "lat" : 37.704594,
+                  "lng" : 30.228626
+               }
+            },
+            "location" : {
+               "lat" : 37.718336,
+               "lng" : 30.282333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.760559,
+                  "lng" : 30.336213
+               },
+               "southwest" : {
+                  "lat" : 37.704594,
+                  "lng" : 30.228626
+               }
+            }
+         },
+         "place_id" : "ChIJ3SsFOBAsxBQRi585F-77M38",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

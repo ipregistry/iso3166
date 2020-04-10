@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Podlehnik",
+               "short_name" : "Podlehnik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Podlehnik",
+               "short_name" : "Podlehnik",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ptuj",
+               "short_name" : "Ptuj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2286",
+               "short_name" : "2286",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2286 Podlehnik, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3526277,
+                  "lng" : 15.9010752
+               },
+               "southwest" : {
+                  "lat" : 46.328792,
+                  "lng" : 15.8628032
+               }
+            },
+            "location" : {
+               "lat" : 46.3358974,
+               "lng" : 15.8787245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3526277,
+                  "lng" : 15.9010752
+               },
+               "southwest" : {
+                  "lat" : 46.328792,
+                  "lng" : 15.8628032
+               }
+            }
+         },
+         "place_id" : "ChIJk55f4iFgb0cR1caF8CayOX4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

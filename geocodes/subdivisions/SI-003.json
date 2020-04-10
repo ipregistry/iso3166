@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bled",
+               "short_name" : "Bled",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bled",
+               "short_name" : "Bled",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Radovljica",
+               "short_name" : "Radovljica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4260",
+               "short_name" : "4260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4260 Bled, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3861596,
+                  "lng" : 14.1353007
+               },
+               "southwest" : {
+                  "lat" : 46.3446751,
+                  "lng" : 14.0565934
+               }
+            },
+            "location" : {
+               "lat" : 46.3683266,
+               "lng" : 14.1145798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3861596,
+                  "lng" : 14.1353007
+               },
+               "southwest" : {
+                  "lat" : 46.3446751,
+                  "lng" : 14.0565934
+               }
+            }
+         },
+         "place_id" : "ChIJYZkT1x2OekcRUOw_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "İzmit, Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.805401,
+                  "lng" : 30.014834
+               },
+               "southwest" : {
+                  "lat" : 40.736827,
+                  "lng" : 29.8541681
+               }
+            },
+            "location" : {
+               "lat" : 40.7654408,
+               "lng" : 29.9408089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.805401,
+                  "lng" : 30.014834
+               },
+               "southwest" : {
+                  "lat" : 40.736827,
+                  "lng" : 29.8541681
+               }
+            }
+         },
+         "place_id" : "ChIJnftLZGZPyxQRuX5rWOcOaYI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

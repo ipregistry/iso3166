@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Ostrobothnia",
+               "short_name" : "Southern Ostrobothnia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Ostrobothnia, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.4983912,
+                  "lng" : 24.5841383
+               },
+               "southwest" : {
+                  "lat" : 61.9799129,
+                  "lng" : 21.5122109
+               }
+            },
+            "location" : {
+               "lat" : 62.9433099,
+               "lng" : 23.5285267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.4983912,
+                  "lng" : 24.5841383
+               },
+               "southwest" : {
+                  "lat" : 61.9799129,
+                  "lng" : 21.5122109
+               }
+            }
+         },
+         "place_id" : "ChIJyegF93E0hkYR3B2BeIKmi1E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

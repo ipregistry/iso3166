@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States Minor Outlying Islands",
+               "short_name" : "UM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States Minor Outlying Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3977184,
+                  "lng" : -159.9849071
+               },
+               "southwest" : {
+                  "lat" : -0.3824678,
+                  "lng" : 166.5989221
+               }
+            },
+            "location" : {
+               "lat" : 19.2823192,
+               "lng" : 166.647047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3977184,
+                  "lng" : -159.9849071
+               },
+               "southwest" : {
+                  "lat" : -0.3824678,
+                  "lng" : 166.5989221
+               }
+            }
+         },
+         "place_id" : "ChIJBQ-2twOlemQREDZxw68t4QQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

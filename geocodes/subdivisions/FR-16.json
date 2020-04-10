@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charente",
+               "short_name" : "Charente",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charente, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.20891570000001,
+                  "lng" : 0.6980917
+               },
+               "southwest" : {
+                  "lat" : 45.5818071,
+                  "lng" : -1.0957376
+               }
+            },
+            "location" : {
+               "lat" : 45.83970799999999,
+               "lng" : 0.023081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.20891570000001,
+                  "lng" : 0.6980917
+               },
+               "southwest" : {
+                  "lat" : 45.5818071,
+                  "lng" : -1.0957376
+               }
+            }
+         },
+         "place_id" : "ChIJ9S9jsysWAUgR8xmt3DAc5Ig",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "الجفرة",
+               "short_name" : "الجفرة",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Houn",
+               "short_name" : "Houn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Jufra District",
+               "short_name" : "Jufra District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "الجفرة, Libya",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.1666667,
+               "lng" : 16
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1764095,
+                  "lng" : 16.0160074
+               },
+               "southwest" : {
+                  "lat" : 29.156923,
+                  "lng" : 15.9839926
+               }
+            }
+         },
+         "place_id" : "ChIJzxjHyMZ3vhMRwSIQfc6cAJk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

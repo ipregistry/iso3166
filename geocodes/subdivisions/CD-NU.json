@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nord-Ubangi",
+               "short_name" : "Nord-Ubangi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Equator",
+               "short_name" : "Equator",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nord-Ubangi, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.1418954,
+                  "lng" : 23.4283447
+               },
+               "southwest" : {
+                  "lat" : 2.788053,
+                  "lng" : 18.9989661
+               }
+            },
+            "location" : {
+               "lat" : 3.7878726,
+               "lng" : 21.4752851
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.1418954,
+                  "lng" : 23.4283447
+               },
+               "southwest" : {
+                  "lat" : 2.788053,
+                  "lng" : 18.9989661
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKcgVKCaethARsFzu7w59FPE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

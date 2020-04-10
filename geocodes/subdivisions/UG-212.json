@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tororo",
+               "short_name" : "Tororo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tororo",
+               "short_name" : "Tororo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tororo, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.7098015999999999,
+                  "lng" : 34.2079068
+               },
+               "southwest" : {
+                  "lat" : 0.6541015,
+                  "lng" : 34.1529751
+               }
+            },
+            "location" : {
+               "lat" : 0.6782273999999999,
+               "lng" : 34.1865669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.7098015999999999,
+                  "lng" : 34.2079068
+               },
+               "southwest" : {
+                  "lat" : 0.6541015,
+                  "lng" : 34.1529751
+               }
+            }
+         },
+         "place_id" : "ChIJRQ1SWT5rfxcRHKUwuxEqdEY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

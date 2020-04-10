@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fontana",
+               "short_name" : "Fontana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fontana, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.041569,
+                  "lng" : 14.2396141
+               },
+               "southwest" : {
+                  "lat" : 36.0320243,
+                  "lng" : 14.2321153
+               }
+            },
+            "location" : {
+               "lat" : 36.0369053,
+               "lng" : 14.2352339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.041569,
+                  "lng" : 14.2396141
+               },
+               "southwest" : {
+                  "lat" : 36.0320243,
+                  "lng" : 14.2321153
+               }
+            }
+         },
+         "place_id" : "ChIJed5yOF60DxMRCht7BLaxZLo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

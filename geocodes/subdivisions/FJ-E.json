@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Division",
+               "short_name" : "Eastern Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Division, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.0019299,
+                  "lng" : -178.213242
+               },
+               "southwest" : {
+                  "lat" : -20.6759701,
+                  "lng" : 177.9528134
+               }
+            },
+            "location" : {
+               "lat" : -17.688972,
+               "lng" : 178.8070886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.0019299,
+                  "lng" : -178.213242
+               },
+               "southwest" : {
+                  "lat" : -20.6759701,
+                  "lng" : 177.9528134
+               }
+            }
+         },
+         "place_id" : "ChIJOxRvQ87uHW4RVFAtoYTjVBI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

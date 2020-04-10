@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amnat Charoen",
+               "short_name" : "Amnat Charoen",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bung",
+               "short_name" : "Bung",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Amnat Charoen District",
+               "short_name" : "Mueang Amnat Charoen District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amnat Charoen",
+               "short_name" : "จ. อำนาจเจริญ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37000",
+               "short_name" : "37000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amnat Charoen, Bung, Mueang Amnat Charoen District, Amnat Charoen 37000, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 15.8581097,
+               "lng" : 104.6297798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.8688427,
+                  "lng" : 104.6457872
+               },
+               "southwest" : {
+                  "lat" : 15.8473761,
+                  "lng" : 104.6137724
+               }
+            }
+         },
+         "place_id" : "ChIJpSMvgsYiFjER7LRNEb680uU",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

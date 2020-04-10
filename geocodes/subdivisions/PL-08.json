@@ -1,0 +1,592 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lubusz Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1239582,
+                  "lng" : 16.4163811
+               },
+               "southwest" : {
+                  "lat" : 51.363138,
+                  "lng" : 14.5342884
+               }
+            },
+            "location" : {
+               "lat" : 52.2274612,
+               "lng" : 15.2559103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1239582,
+                  "lng" : 16.4163811
+               },
+               "southwest" : {
+                  "lat" : 51.363138,
+                  "lng" : 14.5342884
+               }
+            }
+         },
+         "place_id" : "ChIJl-1h9KBdBkcRUMAOrTIOAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zielona Gora",
+               "short_name" : "Zielona Gora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zielona Gora",
+               "short_name" : "Zielona Gora",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65",
+               "short_name" : "65",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Zielona Gora, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9867939,
+                  "lng" : 15.585374
+               },
+               "southwest" : {
+                  "lat" : 51.888703,
+                  "lng" : 15.4381793
+               }
+            },
+            "location" : {
+               "lat" : 51.9356214,
+               "lng" : 15.5061862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9867939,
+                  "lng" : 15.585374
+               },
+               "southwest" : {
+                  "lat" : 51.888703,
+                  "lng" : 15.4381793
+               }
+            }
+         },
+         "place_id" : "ChIJySR0XNkTBkcRPTZYpkOSRQ0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Łagów",
+               "short_name" : "Łagów",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Świebodzin County",
+               "short_name" : "Świebodzin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66",
+               "short_name" : "66",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Łagów, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3498246,
+                  "lng" : 15.3154637
+               },
+               "southwest" : {
+                  "lat" : 52.3190819,
+                  "lng" : 15.2716329
+               }
+            },
+            "location" : {
+               "lat" : 52.3330797,
+               "lng" : 15.2968448
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3498246,
+                  "lng" : 15.3154637
+               },
+               "southwest" : {
+                  "lat" : 52.3190819,
+                  "lng" : 15.2716329
+               }
+            }
+         },
+         "place_id" : "ChIJuUexDD9XBkcRTDXPsKXssG4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "46",
+               "short_name" : "46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Grunwaldzka",
+               "short_name" : "Grunwaldzka",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ośno Lubuskie",
+               "short_name" : "Ośno Lubuskie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Powiat słubicki",
+               "short_name" : "Powiat słubicki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "lubuskie",
+               "short_name" : "lubuskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69-220",
+               "short_name" : "69-220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grunwaldzka 46, 69-220 Ośno Lubuskie, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4634728,
+               "lng" : 14.8638072
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.46482178029149,
+                  "lng" : 14.8651561802915
+               },
+               "southwest" : {
+                  "lat" : 52.46212381970849,
+                  "lng" : 14.8624582197085
+               }
+            }
+         },
+         "place_id" : "ChIJKcMUBhAIB0cRYn6a8A2lDJY",
+         "plus_code" : {
+            "compound_code" : "FV77+9G Ośno Lubuskie, Poland",
+            "global_code" : "9F4PFV77+9G"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "spa" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ośno Lubuskie",
+               "short_name" : "Ośno Lubuskie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Słubice County",
+               "short_name" : "Słubice County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66",
+               "short_name" : "66",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Ośno Lubuskie, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4718622,
+                  "lng" : 14.8978114
+               },
+               "southwest" : {
+                  "lat" : 52.4400479,
+                  "lng" : 14.8453906
+               }
+            },
+            "location" : {
+               "lat" : 52.4530993,
+               "lng" : 14.8755999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4718622,
+                  "lng" : 14.8978114
+               },
+               "southwest" : {
+                  "lat" : 52.4400479,
+                  "lng" : 14.8453906
+               }
+            }
+         },
+         "place_id" : "ChIJOTMN6f0HB0cRUQ2amNqb9pw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Gronów",
+               "short_name" : "Gronów",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Powiat świebodziński",
+               "short_name" : "Powiat świebodziński",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "lubuskie",
+               "short_name" : "lubuskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66-220",
+               "short_name" : "66-220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gronów 23, 66-220, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3097416,
+               "lng" : 15.3028423
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3110905802915,
+                  "lng" : 15.3041912802915
+               },
+               "southwest" : {
+                  "lat" : 52.3083926197085,
+                  "lng" : 15.3014933197085
+               }
+            }
+         },
+         "place_id" : "ChIJxQS0qE5XBkcRPC3p-WtMkzM",
+         "plus_code" : {
+            "compound_code" : "8853+V4 Gronów, Poland",
+            "global_code" : "9F4Q8853+V4"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Slubice",
+               "short_name" : "Slubice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Słubice County",
+               "short_name" : "Słubice County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69",
+               "short_name" : "69",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Slubice, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3876297,
+                  "lng" : 14.6284233
+               },
+               "southwest" : {
+                  "lat" : 52.330354,
+                  "lng" : 14.5497429
+               }
+            },
+            "location" : {
+               "lat" : 52.351065,
+               "lng" : 14.5604649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3876297,
+                  "lng" : 14.6284233
+               },
+               "southwest" : {
+                  "lat" : 52.330354,
+                  "lng" : 14.5497429
+               }
+            }
+         },
+         "place_id" : "ChIJ5Y3i42KiB0cR9xYgmjOfMn4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lubrza",
+               "short_name" : "Lubrza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Świebodzin County",
+               "short_name" : "Świebodzin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66",
+               "short_name" : "66",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Lubrza, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.31282849999999,
+                  "lng" : 15.4513921
+               },
+               "southwest" : {
+                  "lat" : 52.2939784,
+                  "lng" : 15.4338552
+               }
+            },
+            "location" : {
+               "lat" : 52.3046097,
+               "lng" : 15.4425975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.31282849999999,
+                  "lng" : 15.4513921
+               },
+               "southwest" : {
+                  "lat" : 52.2939784,
+                  "lng" : 15.4338552
+               }
+            }
+         },
+         "place_id" : "ChIJyyZhdbpeBkcRX8rBx0VjCYQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marina-Camping",
+               "short_name" : "Marina-Camping",
+               "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zielona",
+               "short_name" : "Zielona",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ostrów",
+               "short_name" : "Ostrów",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Powiat sulęciński",
+               "short_name" : "Powiat sulęciński",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "lubuskie",
+               "short_name" : "lubuskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69-200",
+               "short_name" : "69-200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marina-Camping, Zielona 3, 69-200 Ostrów, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4098374,
+               "lng" : 15.1271739
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4111863802915,
+                  "lng" : 15.1285228802915
+               },
+               "southwest" : {
+                  "lat" : 52.4084884197085,
+                  "lng" : 15.1258249197085
+               }
+            }
+         },
+         "place_id" : "ChIJw8FDDQMAB0cRf0VrUThBSkw",
+         "plus_code" : {
+            "compound_code" : "C45G+WV Ostrów, Poland",
+            "global_code" : "9F4QC45G+WV"
+         },
+         "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorzów Wielkopolski",
+               "short_name" : "Gorzów",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorzów County",
+               "short_name" : "Gorzów County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66",
+               "short_name" : "66",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Gorzów Wielkopolski, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.77814300000001,
+                  "lng" : 15.3128055
+               },
+               "southwest" : {
+                  "lat" : 52.6845128,
+                  "lng" : 15.1236654
+               }
+            },
+            "location" : {
+               "lat" : 52.7325285,
+               "lng" : 15.2369305
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.77814300000001,
+                  "lng" : 15.3128055
+               },
+               "southwest" : {
+                  "lat" : 52.6845128,
+                  "lng" : 15.1236654
+               }
+            }
+         },
+         "place_id" : "ChIJtxhBWgofB0cR3ZlXy_MN0V0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

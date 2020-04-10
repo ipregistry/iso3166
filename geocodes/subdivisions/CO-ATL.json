@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlantico",
+               "short_name" : "Atlantico",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atlantico, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.109264,
+                  "lng" : -74.71544999999999
+               },
+               "southwest" : {
+                  "lat" : 10.2537891,
+                  "lng" : -75.26694909999999
+               }
+            },
+            "location" : {
+               "lat" : 10.6966159,
+               "lng" : -74.8741045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.109264,
+                  "lng" : -74.71544999999999
+               },
+               "southwest" : {
+                  "lat" : 10.2537891,
+                  "lng" : -75.26694909999999
+               }
+            }
+         },
+         "place_id" : "ChIJ89ro1UIt9I4RfwE4srgW80c",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

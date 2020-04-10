@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krong Kampong Chhnang",
+               "short_name" : "Krong Kampong Chhnang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampong Chhnang",
+               "short_name" : "Kampong Chhnang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kampong Chhnang Province",
+               "short_name" : "Kampong Chhnang Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krong Kampong Chhnang, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.3243638,
+                  "lng" : 104.7148133
+               },
+               "southwest" : {
+                  "lat" : 12.2167587,
+                  "lng" : 104.6459342
+               }
+            },
+            "location" : {
+               "lat" : 12.2613926,
+               "lng" : 104.6762738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.3243638,
+                  "lng" : 104.7148133
+               },
+               "southwest" : {
+                  "lat" : 12.2167587,
+                  "lng" : 104.6459342
+               }
+            }
+         },
+         "place_id" : "ChIJc-Wz-S2NDjERVkBD-M9pdHQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

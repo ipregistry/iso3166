@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bunyangabu",
+               "short_name" : "Bunyangabu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kabarole",
+               "short_name" : "Kabarole",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bunyangabu, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.6242342,
+                  "lng" : 30.2949715
+               },
+               "southwest" : {
+                  "lat" : 0.3368835000000001,
+                  "lng" : 29.9820328
+               }
+            },
+            "location" : {
+               "lat" : 0.4870918,
+               "lng" : 30.2051096
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.6242342,
+                  "lng" : 30.2949715
+               },
+               "southwest" : {
+                  "lat" : 0.3368835000000001,
+                  "lng" : 29.9820328
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCbZxCY2AYRcRUe7pc4oEV3I",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balearic Islands",
+               "short_name" : "Balearic Islands",
+               "types" : [ "archipelago", "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Balearic Islands",
+               "short_name" : "Balearic Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Balearic Islands",
+               "short_name" : "PM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Balearic Islands, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1149239,
+                  "lng" : 4.3359635
+               },
+               "southwest" : {
+                  "lat" : 38.6026279,
+                  "lng" : 1.135302
+               }
+            },
+            "location" : {
+               "lat" : 39.3587759,
+               "lng" : 2.7356328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1149239,
+                  "lng" : 4.3359635
+               },
+               "southwest" : {
+                  "lat" : 38.6026279,
+                  "lng" : 1.135302
+               }
+            }
+         },
+         "place_id" : "ChIJS4YE9P-7lxIRxLItx6lridU",
+         "types" : [ "archipelago", "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

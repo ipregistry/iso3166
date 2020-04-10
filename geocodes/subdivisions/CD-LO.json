@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lomami",
+               "short_name" : "Lomami",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kasai Oriental",
+               "short_name" : "Kasai Oriental",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lomami, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.8036279,
+                  "lng" : 26.2463379
+               },
+               "southwest" : {
+                  "lat" : -7.9667576,
+                  "lng" : 22.9387664
+               }
+            },
+            "location" : {
+               "lat" : -6.1453931,
+               "lng" : 24.524264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.8036279,
+                  "lng" : 26.2463379
+               },
+               "southwest" : {
+                  "lat" : -7.9667576,
+                  "lng" : 22.9387664
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC5Ovm9jtjhkRcg4rdDR6yOA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

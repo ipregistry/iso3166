@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pays de la Loire, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.567985,
+                  "lng" : 0.9166388999999999
+               },
+               "southwest" : {
+                  "lat" : 46.26653899999999,
+                  "lng" : -2.559609
+               }
+            },
+            "location" : {
+               "lat" : 47.7632836,
+               "lng" : -0.3299687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.567985,
+                  "lng" : 0.9166388999999999
+               },
+               "southwest" : {
+                  "lat" : 46.26653899999999,
+                  "lng" : -2.559609
+               }
+            }
+         },
+         "place_id" : "ChIJQQUJqjgXBUgRtkcc2Asrls8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

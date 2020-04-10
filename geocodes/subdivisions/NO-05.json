@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oppland",
+               "short_name" : "Oppland",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oppland, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.3784023,
+                  "lng" : 11.1539859
+               },
+               "southwest" : {
+                  "lat" : 60.13160989999999,
+                  "lng" : 7.3425305
+               }
+            },
+            "location" : {
+               "lat" : 61.5422752,
+               "lng" : 9.7166315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.3784023,
+                  "lng" : 11.1539859
+               },
+               "southwest" : {
+                  "lat" : 60.13160989999999,
+                  "lng" : 7.3425305
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ73QxnbXGFEYRuIIFfni9Vj4",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

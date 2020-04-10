@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "An Giang Province",
+               "short_name" : "An Giang Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "An Giang Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.960993,
+                  "lng" : 105.5753289
+               },
+               "southwest" : {
+                  "lat" : 10.1832719,
+                  "lng" : 104.775528
+               }
+            },
+            "location" : {
+               "lat" : 10.5215836,
+               "lng" : 105.1258955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.960993,
+                  "lng" : 105.5753289
+               },
+               "southwest" : {
+                  "lat" : 10.1832719,
+                  "lng" : 104.775528
+               }
+            }
+         },
+         "place_id" : "ChIJjSriTooZCjERuojAUiywHNw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

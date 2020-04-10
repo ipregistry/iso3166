@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Angus council",
+               "short_name" : "Angus council",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Angus council, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.9868164,
+                  "lng" : -2.4203653
+               },
+               "southwest" : {
+                  "lat" : 56.4616486,
+                  "lng" : -3.4070219
+               }
+            },
+            "location" : {
+               "lat" : 56.6979538,
+               "lng" : -2.9124057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.9868164,
+                  "lng" : -2.4203653
+               },
+               "southwest" : {
+                  "lat" : 56.4616486,
+                  "lng" : -3.4070219
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG0UKe3kqhEgRsxEd27rxlSg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

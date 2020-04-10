@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Java",
+               "short_name" : "West Java",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Java, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.9147008,
+                  "lng" : 108.839768
+               },
+               "southwest" : {
+                  "lat" : -7.820987000000001,
+                  "lng" : 106.370506
+               }
+            },
+            "location" : {
+               "lat" : -7.090910999999999,
+               "lng" : 107.668887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.9147008,
+                  "lng" : 108.839768
+               },
+               "southwest" : {
+                  "lat" : -7.820987000000001,
+                  "lng" : 106.370506
+               }
+            }
+         },
+         "place_id" : "ChIJf0dSgjnmaC4Rfp2O_FSkGLw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

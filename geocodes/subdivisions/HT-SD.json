@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sud Department",
+               "short_name" : "Sud Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Haiti",
+               "short_name" : "HT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sud Department, Haiti",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.423093,
+                  "lng" : -72.98867009999999
+               },
+               "southwest" : {
+                  "lat" : 18.0210319,
+                  "lng" : -74.45050189999999
+               }
+            },
+            "location" : {
+               "lat" : 18.3320005,
+               "lng" : -73.7007088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.423093,
+                  "lng" : -72.98867009999999
+               },
+               "southwest" : {
+                  "lat" : 18.0210319,
+                  "lng" : -74.45050189999999
+               }
+            }
+         },
+         "place_id" : "ChIJdQey26mex44RdC41WGddg9U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

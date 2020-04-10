@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portalegre",
+               "short_name" : "Portalegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portalegre District",
+               "short_name" : "Portalegre District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7300",
+               "short_name" : "7300",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "7300 Portalegre, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3153866,
+                  "lng" : -7.3995175
+               },
+               "southwest" : {
+                  "lat" : 39.262495,
+                  "lng" : -7.4664739
+               }
+            },
+            "location" : {
+               "lat" : 39.2967086,
+               "lng" : -7.4284755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3153866,
+                  "lng" : -7.3995175
+               },
+               "southwest" : {
+                  "lat" : 39.262495,
+                  "lng" : -7.4664739
+               }
+            }
+         },
+         "place_id" : "ChIJ3yw5BoK9Fw0RQFO9yvJNwb8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

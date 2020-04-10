@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Şirvan",
+               "short_name" : "Şirvan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Şirvan, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9942459,
+                  "lng" : 48.9480939
+               },
+               "southwest" : {
+                  "lat" : 39.902288,
+                  "lng" : 48.87461589999999
+               }
+            },
+            "location" : {
+               "lat" : 39.9469707,
+               "lng" : 48.9223919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9942459,
+                  "lng" : 48.9480939
+               },
+               "southwest" : {
+                  "lat" : 39.902288,
+                  "lng" : 48.87461589999999
+               }
+            }
+         },
+         "place_id" : "ChIJ4xbDue8FO0AR2hzXSLul38s",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

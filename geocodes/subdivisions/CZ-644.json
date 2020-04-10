@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breclav",
+               "short_name" : "Breclav",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Břeclav District",
+               "short_name" : "Břeclav District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Moravian Region",
+               "short_name" : "South Moravian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Breclav, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8105527,
+                  "lng" : 16.9443357
+               },
+               "southwest" : {
+                  "lat" : 48.6726152,
+                  "lng" : 16.794818
+               }
+            },
+            "location" : {
+               "lat" : 48.75313999999999,
+               "lng" : 16.8825169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8105527,
+                  "lng" : 16.9443357
+               },
+               "southwest" : {
+                  "lat" : 48.6726152,
+                  "lng" : 16.794818
+               }
+            }
+         },
+         "place_id" : "ChIJFTTtBFvVbEcRBWd7ZkUAayM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

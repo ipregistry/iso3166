@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eschen",
+               "short_name" : "Eschen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eschen",
+               "short_name" : "Eschen",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liechtenstein",
+               "short_name" : "LI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eschen, Liechtenstein",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.22884,
+                  "lng" : 9.545110000000001
+               },
+               "southwest" : {
+                  "lat" : 47.1915773,
+                  "lng" : 9.506039899999999
+               }
+            },
+            "location" : {
+               "lat" : 47.2095037,
+               "lng" : 9.521990899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.22884,
+                  "lng" : 9.545110000000001
+               },
+               "southwest" : {
+                  "lat" : 47.1915773,
+                  "lng" : 9.506039899999999
+               }
+            }
+         },
+         "place_id" : "ChIJeyKXUn4wm0cREg2ykQPIOe0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

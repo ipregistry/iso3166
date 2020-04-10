@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cochabamba",
+               "short_name" : "Cochabamba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cercado",
+               "short_name" : "Cercado",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cochabamba Department",
+               "short_name" : "Cochabamba Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bolivia",
+               "short_name" : "BO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cochabamba, Bolivia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.3232136,
+                  "lng" : -66.10552179999999
+               },
+               "southwest" : {
+                  "lat" : -17.4649046,
+                  "lng" : -66.2222293
+               }
+            },
+            "location" : {
+               "lat" : -17.4139766,
+               "lng" : -66.16532239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.3232136,
+                  "lng" : -66.10552179999999
+               },
+               "southwest" : {
+                  "lat" : -17.4649046,
+                  "lng" : -66.2222293
+               }
+            }
+         },
+         "place_id" : "ChIJJ6vk2eBz45MRZT4sU-macaI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

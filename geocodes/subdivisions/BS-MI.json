@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moore's Island",
+               "short_name" : "Moore's Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Moore's Island",
+               "short_name" : "Moore's Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moore's Island, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.3338416,
+                  "lng" : -77.53377909999999
+               },
+               "southwest" : {
+                  "lat" : 26.2553954,
+                  "lng" : -77.58235929999999
+               }
+            },
+            "location" : {
+               "lat" : 26.304823,
+               "lng" : -77.55620999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.3338416,
+                  "lng" : -77.53377909999999
+               },
+               "southwest" : {
+                  "lat" : 26.2553954,
+                  "lng" : -77.58235929999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-f5zadRqJIkR825N-zKdLG0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

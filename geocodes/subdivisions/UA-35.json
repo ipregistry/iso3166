@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirovohrad Oblast",
+               "short_name" : "Kirovohrad Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirovohrad Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.246173,
+                  "lng" : 33.8937029
+               },
+               "southwest" : {
+                  "lat" : 47.749134,
+                  "lng" : 29.749174
+               }
+            },
+            "location" : {
+               "lat" : 48.50793300000001,
+               "lng" : 32.262317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.246173,
+                  "lng" : 33.8937029
+               },
+               "southwest" : {
+                  "lat" : 47.749134,
+                  "lng" : 29.749174
+               }
+            }
+         },
+         "place_id" : "ChIJ_Y7vgK9C0EARlBkNFDXFp9g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

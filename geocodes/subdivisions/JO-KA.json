@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kerak",
+               "short_name" : "Kerak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karak Qasabah District",
+               "short_name" : "Karak Qasabah District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karak Governorate",
+               "short_name" : "Karak Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kerak, Jordan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.2487479,
+                  "lng" : 35.7703388
+               },
+               "southwest" : {
+                  "lat" : 31.124182,
+                  "lng" : 35.6195114
+               }
+            },
+            "location" : {
+               "lat" : 31.1853497,
+               "lng" : 35.7047733
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2487479,
+                  "lng" : 35.7703388
+               },
+               "southwest" : {
+                  "lat" : 31.124182,
+                  "lng" : 35.6195114
+               }
+            }
+         },
+         "place_id" : "ChIJqYcajh96AxUR1JWb9AYUvZg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

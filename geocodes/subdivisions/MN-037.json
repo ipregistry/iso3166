@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darkhan",
+               "short_name" : "Darkhan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darkhan",
+               "short_name" : "Darkhan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Darkhan-Uul",
+               "short_name" : "Darkhan-Uul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Darkhan, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5345674,
+                  "lng" : 106.0367775
+               },
+               "southwest" : {
+                  "lat" : 49.4087952,
+                  "lng" : 105.8838271
+               }
+            },
+            "location" : {
+               "lat" : 49.4648434,
+               "lng" : 105.9745919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5345674,
+                  "lng" : 106.0367775
+               },
+               "southwest" : {
+                  "lat" : 49.4087952,
+                  "lng" : 105.8838271
+               }
+            }
+         },
+         "place_id" : "ChIJuyFoYO_dol0RjSJObsgGAF8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

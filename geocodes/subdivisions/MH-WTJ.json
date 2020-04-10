@@ -1,0 +1,93 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wotje Atoll",
+               "short_name" : "Wotje Atoll",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Wotje Atoll",
+               "short_name" : "Wotje Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wotje Atoll, RMI",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.5631728,
+                  "lng" : 170.2480887
+               },
+               "southwest" : {
+                  "lat" : 9.3363529,
+                  "lng" : 169.7973919
+               }
+            },
+            "location" : {
+               "lat" : 9.448085299999999,
+               "lng" : 170.0534923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.5631728,
+                  "lng" : 170.2480887
+               },
+               "southwest" : {
+                  "lat" : 9.3363529,
+                  "lng" : 169.7973919
+               }
+            }
+         },
+         "place_id" : "ChIJ3dd-qifhAGUR_m9FJkzzd9w",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wotje",
+               "short_name" : "Wotje",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Wotje Atoll",
+               "short_name" : "Wotje Atoll",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wotje, Wotje Atoll, RMI",
+         "geometry" : {
+            "location" : {
+               "lat" : 9.459166699999999,
+               "lng" : 170.2452778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.4701728,
+                  "lng" : 170.2612852
+               },
+               "southwest" : {
+                  "lat" : 9.4481603,
+                  "lng" : 170.2292704
+               }
+            }
+         },
+         "place_id" : "ChIJOQvziLEZAWURr8vsF1xq-9c",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soufriere",
+               "short_name" : "Soufriere",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Soufriere",
+               "short_name" : "Soufriere",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saint Lucia",
+               "short_name" : "LC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Soufriere, St Lucia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8606637,
+                  "lng" : -61.05042460000001
+               },
+               "southwest" : {
+                  "lat" : 13.8507471,
+                  "lng" : -61.06304170000001
+               }
+            },
+            "location" : {
+               "lat" : 13.8570986,
+               "lng" : -61.05732479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8606637,
+                  "lng" : -61.05042460000001
+               },
+               "southwest" : {
+                  "lat" : 13.8507471,
+                  "lng" : -61.06304170000001
+               }
+            }
+         },
+         "place_id" : "ChIJs4DJb4GJQIwRxkd7UIByA0Y",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

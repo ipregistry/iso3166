@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yaroslavl Oblast",
+               "short_name" : "Yaroslavl Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yaroslavl Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.95245300000001,
+                  "lng" : 41.194019
+               },
+               "southwest" : {
+                  "lat" : 56.534684,
+                  "lng" : 37.3294408
+               }
+            },
+            "location" : {
+               "lat" : 57.8991523,
+               "lng" : 38.8388633
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.95245300000001,
+                  "lng" : 41.194019
+               },
+               "southwest" : {
+                  "lat" : 56.534684,
+                  "lng" : 37.3294408
+               }
+            }
+         },
+         "place_id" : "ChIJXyfDUqZgskYRJA-YkhpiTE8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

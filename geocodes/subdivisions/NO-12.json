@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hordaland",
+               "short_name" : "Hordaland",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Vestland",
+               "short_name" : "Vestland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hordaland, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.03523749999999,
+                  "lng" : 7.732114699999999
+               },
+               "southwest" : {
+                  "lat" : 59.47542,
+                  "lng" : 4.184772199999999
+               }
+            },
+            "location" : {
+               "lat" : 60.2733674,
+               "lng" : 5.7220194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.03523749999999,
+                  "lng" : 7.732114699999999
+               },
+               "southwest" : {
+                  "lat" : 59.47542,
+                  "lng" : 4.184772199999999
+               }
+            }
+         },
+         "place_id" : "ChIJU9YJbagwPEYR0ByzKCZ3AQM",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

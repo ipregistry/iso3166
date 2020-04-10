@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Peninsula Region",
+               "short_name" : "Southern Peninsula Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Peninsula Region, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.082954,
+                  "lng" : -21.711943
+               },
+               "southwest" : {
+                  "lat" : 63.79832800000001,
+                  "lng" : -22.7691669
+               }
+            },
+            "location" : {
+               "lat" : 63.91548030000001,
+               "lng" : -22.3649667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.082954,
+                  "lng" : -21.711943
+               },
+               "southwest" : {
+                  "lat" : 63.79832800000001,
+                  "lng" : -22.7691669
+               }
+            }
+         },
+         "place_id" : "ChIJd5Fb_dsC1kgRb4sTba20Ye8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antisiranana",
+               "short_name" : "Antisiranana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antsiranana Urban",
+               "short_name" : "Antsiranana Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Antsiranana Province",
+               "short_name" : "Antsiranana Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Madagascar",
+               "short_name" : "MG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antisiranana, Madagascar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.2660376,
+                  "lng" : 49.31453699999999
+               },
+               "southwest" : {
+                  "lat" : -12.3658257,
+                  "lng" : 49.2728233
+               }
+            },
+            "location" : {
+               "lat" : -12.3231349,
+               "lng" : 49.2942833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.2660376,
+                  "lng" : 49.31453699999999
+               },
+               "southwest" : {
+                  "lat" : -12.3658257,
+                  "lng" : 49.2728233
+               }
+            }
+         },
+         "place_id" : "ChIJNdCNdnwcayIRCsyYT-rRPrE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

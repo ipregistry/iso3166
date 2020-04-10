@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Cape Mount",
+               "short_name" : "Grand Cape Mount",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Cape Mount, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.527846999999999,
+                  "lng" : -10.5165701
+               },
+               "southwest" : {
+                  "lat" : 6.577183,
+                  "lng" : -11.4920828
+               }
+            },
+            "location" : {
+               "lat" : 7.0467758,
+               "lng" : -11.0711758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.527846999999999,
+                  "lng" : -10.5165701
+               },
+               "southwest" : {
+                  "lat" : 6.577183,
+                  "lng" : -11.4920828
+               }
+            }
+         },
+         "place_id" : "ChIJZUJX6Rs3CA8RiDaapAvaJO0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

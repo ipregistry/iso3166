@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pointe La Rue",
+               "short_name" : "Pointe La Rue",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Seychelles",
+               "short_name" : "SC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pointe La Rue, Seychelles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.6647789,
+                  "lng" : 55.5340941
+               },
+               "southwest" : {
+                  "lat" : -4.686879999999999,
+                  "lng" : 55.50524799999999
+               }
+            },
+            "location" : {
+               "lat" : -4.680489,
+               "lng" : 55.51918569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.6647789,
+                  "lng" : 55.5340941
+               },
+               "southwest" : {
+                  "lat" : -4.686879999999999,
+                  "lng" : 55.50524799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVdUz377VHyMRaQTzX3rsVb4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

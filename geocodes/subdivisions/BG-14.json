@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pernik",
+               "short_name" : "Pernik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pernik",
+               "short_name" : "Pernik",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pernik, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6243972,
+                  "lng" : 23.1273676
+               },
+               "southwest" : {
+                  "lat" : 42.5681881,
+                  "lng" : 22.9755276
+               }
+            },
+            "location" : {
+               "lat" : 42.6051862,
+               "lng" : 23.0378368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6243972,
+                  "lng" : 23.1273676
+               },
+               "southwest" : {
+                  "lat" : 42.5681881,
+                  "lng" : 22.9755276
+               }
+            }
+         },
+         "place_id" : "ChIJz0npQUnLqhQRgFW_aRKgAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

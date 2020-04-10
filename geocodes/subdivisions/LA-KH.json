@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khammouane Province",
+               "short_name" : "Khammouane Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Laos",
+               "short_name" : "LA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khammouane Province, Laos",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.26511,
+                  "lng" : 106.4278179
+               },
+               "southwest" : {
+                  "lat" : 16.9009419,
+                  "lng" : 104.2698848
+               }
+            },
+            "location" : {
+               "lat" : 17.6384066,
+               "lng" : 105.2194808
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.26511,
+                  "lng" : 106.4278179
+               },
+               "southwest" : {
+                  "lat" : 16.9009419,
+                  "lng" : 104.2698848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMxUEK5FOOTER4dG2ZFKkw_Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

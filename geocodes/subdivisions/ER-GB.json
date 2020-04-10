@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gash-Barka",
+               "short_name" : "Gash-Barka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Eritrea",
+               "short_name" : "ER",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gash-Barka, Eritrea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.285809,
+                  "lng" : 38.7686061
+               },
+               "southwest" : {
+                  "lat" : 14.1839531,
+                  "lng" : 36.4387661
+               }
+            },
+            "location" : {
+               "lat" : 15.4068825,
+               "lng" : 37.6386622
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.285809,
+                  "lng" : 38.7686061
+               },
+               "southwest" : {
+                  "lat" : 14.1839531,
+                  "lng" : 36.4387661
+               }
+            }
+         },
+         "place_id" : "ChIJs7b8KTyZbxYRl4TIPyvt0FM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

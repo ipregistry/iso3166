@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salta",
+               "short_name" : "Salta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital Department",
+               "short_name" : "Capital Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Salta Province",
+               "short_name" : "Salta Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salta, Salta Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -24.7094636,
+                  "lng" : -65.3554771
+               },
+               "southwest" : {
+                  "lat" : -24.882706,
+                  "lng" : -65.5057802
+               }
+            },
+            "location" : {
+               "lat" : -24.7821269,
+               "lng" : -65.42319759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -24.7094636,
+                  "lng" : -65.3554771
+               },
+               "southwest" : {
+                  "lat" : -24.882706,
+                  "lng" : -65.5057802
+               }
+            }
+         },
+         "place_id" : "ChIJ-bdRUaPDG5QRBvKH1SyZzaU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

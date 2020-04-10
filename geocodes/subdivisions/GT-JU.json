@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jutiapa",
+               "short_name" : "Jutiapa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jutiapa Department",
+               "short_name" : "Jutiapa Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jutiapa, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.3246006,
+                  "lng" : -89.83949659999999
+               },
+               "southwest" : {
+                  "lat" : 14.2331868,
+                  "lng" : -89.9115944
+               }
+            },
+            "location" : {
+               "lat" : 14.2744501,
+               "lng" : -89.87857650000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.3246006,
+                  "lng" : -89.83949659999999
+               },
+               "southwest" : {
+                  "lat" : 14.2331868,
+                  "lng" : -89.9115944
+               }
+            }
+         },
+         "place_id" : "ChIJA5qSwo6HYo8RLly_TXtsO9Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

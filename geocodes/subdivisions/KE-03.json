@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bungoma",
+               "short_name" : "Bungoma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bungoma County",
+               "short_name" : "Bungoma County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bungoma, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.6053097,
+                  "lng" : 34.5709705
+               },
+               "southwest" : {
+                  "lat" : 0.5419267999999999,
+                  "lng" : 34.5354367
+               }
+            },
+            "location" : {
+               "lat" : 0.5695252,
+               "lng" : 34.5583766
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.6053097,
+                  "lng" : 34.5709705
+               },
+               "southwest" : {
+                  "lat" : 0.5419267999999999,
+                  "lng" : 34.5354367
+               }
+            }
+         },
+         "place_id" : "ChIJt7ffLYvWgRcRdSSKeFABuYI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

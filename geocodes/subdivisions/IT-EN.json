@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enna",
+               "short_name" : "Enna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Enna",
+               "short_name" : "EN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicily",
+               "short_name" : "Sicily",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94100",
+               "short_name" : "94100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "94100 Enna, Province of Enna, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.678978,
+                  "lng" : 14.4993984
+               },
+               "southwest" : {
+                  "lat" : 37.4246778,
+                  "lng" : 14.0865807
+               }
+            },
+            "location" : {
+               "lat" : 37.5099321,
+               "lng" : 14.262851
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.678978,
+                  "lng" : 14.4993984
+               },
+               "southwest" : {
+                  "lat" : 37.4246778,
+                  "lng" : 14.0865807
+               }
+            }
+         },
+         "place_id" : "ChIJ_7xAoYXYEBMRfa6cA63nThk",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

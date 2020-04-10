@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Debarca",
+               "short_name" : "Municipality of Debarca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Debarca, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4288619,
+                  "lng" : 21.0247269
+               },
+               "southwest" : {
+                  "lat" : 41.169818,
+                  "lng" : 20.6818601
+               }
+            },
+            "location" : {
+               "lat" : 41.3584077,
+               "lng" : 20.8552919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4288619,
+                  "lng" : 21.0247269
+               },
+               "southwest" : {
+                  "lat" : 41.169818,
+                  "lng" : 20.6818601
+               }
+            }
+         },
+         "place_id" : "ChIJF5A4gpkmURMRlM4Z631azj4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

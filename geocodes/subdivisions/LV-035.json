@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ikšķile Municipality",
+               "short_name" : "Ikšķile Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ikšķile Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.9067389,
+                  "lng" : 24.7684339
+               },
+               "southwest" : {
+                  "lat" : 56.805808,
+                  "lng" : 24.432979
+               }
+            },
+            "location" : {
+               "lat" : 56.8373667,
+               "lng" : 24.4974745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.9067389,
+                  "lng" : 24.7684339
+               },
+               "southwest" : {
+                  "lat" : 56.805808,
+                  "lng" : 24.432979
+               }
+            }
+         },
+         "place_id" : "ChIJexGGLhAw6UYR0ADzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

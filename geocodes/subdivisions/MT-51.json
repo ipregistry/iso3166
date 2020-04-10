@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Pawl il-Baħar",
+               "short_name" : "San Pawl il-Baħar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saint Paul's Bay",
+               "short_name" : "St Paul's Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Pawl il-Baħar, St Paul's Bay, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9506444,
+                  "lng" : 14.4070521
+               },
+               "southwest" : {
+                  "lat" : 35.9439847,
+                  "lng" : 14.3895524
+               }
+            },
+            "location" : {
+               "lat" : 35.9478693,
+               "lng" : 14.4046476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9506444,
+                  "lng" : 14.4070521
+               },
+               "southwest" : {
+                  "lat" : 35.9439847,
+                  "lng" : 14.3895524
+               }
+            }
+         },
+         "place_id" : "ChIJT3aqOWFODhMRquXZ81Jd2vg",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

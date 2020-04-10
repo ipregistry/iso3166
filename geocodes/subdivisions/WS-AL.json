@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aiga-i-le-Tai",
+               "short_name" : "Aiga-i-le-Tai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Samoa",
+               "short_name" : "WS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aiga-i-le-Tai, Samoa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.809802,
+                  "lng" : -172.00878
+               },
+               "southwest" : {
+                  "lat" : -13.8878389,
+                  "lng" : -172.1294711
+               }
+            },
+            "location" : {
+               "lat" : -13.8513791,
+               "lng" : -172.0325401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.809802,
+                  "lng" : -172.00878
+               },
+               "southwest" : {
+                  "lat" : -13.8878389,
+                  "lng" : -172.1294711
+               }
+            }
+         },
+         "place_id" : "ChIJ5fwD8uU2pXERUgRKAx1JUWM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hautes-Alpes",
+               "short_name" : "Hautes-Alpes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hautes-Alpes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.077154999999999
+               },
+               "southwest" : {
+                  "lat" : 44.186442,
+                  "lng" : 5.4183639
+               }
+            },
+            "location" : {
+               "lat" : 44.6008723,
+               "lng" : 6.322607199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.077154999999999
+               },
+               "southwest" : {
+                  "lat" : 44.186442,
+                  "lng" : 5.4183639
+               }
+            }
+         },
+         "place_id" : "ChIJD9NgVc9ayxIRwCWP_aUZCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Brunswick",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Brunswick, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1735157,
+                  "lng" : -63.6473413
+               },
+               "southwest" : {
+                  "lat" : 44.2235811,
+                  "lng" : -69.05347209999999
+               }
+            },
+            "location" : {
+               "lat" : 46.5653163,
+               "lng" : -66.46191639999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1735157,
+                  "lng" : -63.6473413
+               },
+               "southwest" : {
+                  "lat" : 44.2235811,
+                  "lng" : -69.05347209999999
+               }
+            }
+         },
+         "place_id" : "ChIJzQ41MtD9o0wRzAVoAlrJbeY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

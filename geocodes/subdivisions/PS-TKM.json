@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tulkarm",
+               "short_name" : "Tulkarm",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Tulkarm",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3213843,
+                  "lng" : 35.0446387
+               },
+               "southwest" : {
+                  "lat" : 32.2944761,
+                  "lng" : 35.0126184
+               }
+            },
+            "location" : {
+               "lat" : 32.3194054,
+               "lng" : 35.0239857
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3213843,
+                  "lng" : 35.0446387
+               },
+               "southwest" : {
+                  "lat" : 32.2944761,
+                  "lng" : 35.0126184
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWdQhXZ0XHRURpgHAcVpCx2s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

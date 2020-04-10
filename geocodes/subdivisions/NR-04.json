@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anibare",
+               "short_name" : "Anibare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anibare",
+               "short_name" : "Anibare",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nauru",
+               "short_name" : "NR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anibare, Nauru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.5239032,
+                  "lng" : 166.9558812
+               },
+               "southwest" : {
+                  "lat" : -0.5332155,
+                  "lng" : 166.9478989
+               }
+            },
+            "location" : {
+               "lat" : -0.5294757999999999,
+               "lng" : 166.9513432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.5239032,
+                  "lng" : 166.9558812
+               },
+               "southwest" : {
+                  "lat" : -0.5332155,
+                  "lng" : 166.9478989
+               }
+            }
+         },
+         "place_id" : "ChIJi3V2Y2gcfW8RbhxKpcvCLQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sagaing",
+               "short_name" : "Sagaing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagaing",
+               "short_name" : "Sagaing",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sagaing Region",
+               "short_name" : "Sagaing Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sagaing, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.9659415,
+                  "lng" : 96.0088348
+               },
+               "southwest" : {
+                  "lat" : 21.8696635,
+                  "lng" : 95.8791447
+               }
+            },
+            "location" : {
+               "lat" : 21.9159702,
+               "lng" : 95.9621106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.9659415,
+                  "lng" : 96.0088348
+               },
+               "southwest" : {
+                  "lat" : 21.8696635,
+                  "lng" : 95.8791447
+               }
+            }
+         },
+         "place_id" : "ChIJC5mkq5IOyzAR8nC-PvMwS3Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

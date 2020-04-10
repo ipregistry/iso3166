@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chhukha",
+               "short_name" : "Chhukha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chukha",
+               "short_name" : "Chukha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chhukha, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0611895,
+                  "lng" : 89.58063129999999
+               },
+               "southwest" : {
+                  "lat" : 27.0483479,
+                  "lng" : 89.5604609
+               }
+            },
+            "location" : {
+               "lat" : 27.0522919,
+               "lng" : 89.5756987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0611895,
+                  "lng" : 89.58063129999999
+               },
+               "southwest" : {
+                  "lat" : 27.0483479,
+                  "lng" : 89.5604609
+               }
+            }
+         },
+         "place_id" : "ChIJY16VZb8l4jkRXvxEPb6d5rU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

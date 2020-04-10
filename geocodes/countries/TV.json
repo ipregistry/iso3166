@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tuvalu",
+               "short_name" : "TV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tuvalu",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.4300853,
+                  "lng" : 179.9999999
+               },
+               "southwest" : {
+                  "lat" : -11.1891797,
+                  "lng" : 175.5615234
+               }
+            },
+            "location" : {
+               "lat" : -7.109534999999999,
+               "lng" : 177.64933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.4300853,
+                  "lng" : 179.9999999
+               },
+               "southwest" : {
+                  "lat" : -11.1891797,
+                  "lng" : 175.5615234
+               }
+            }
+         },
+         "place_id" : "ChIJTaCxWbmcwW8RLhIHB2hUZ48",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

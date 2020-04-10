@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Žabljak",
+               "short_name" : "Žabljak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Žabljak Municipality",
+               "short_name" : "Žabljak Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Žabljak, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1686245,
+                  "lng" : 19.1503287
+               },
+               "southwest" : {
+                  "lat" : 43.1471842,
+                  "lng" : 19.1090442
+               }
+            },
+            "location" : {
+               "lat" : 43.1555152,
+               "lng" : 19.1226018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1686245,
+                  "lng" : 19.1503287
+               },
+               "southwest" : {
+                  "lat" : 43.1471842,
+                  "lng" : 19.1090442
+               }
+            }
+         },
+         "place_id" : "ChIJT3DV8zM5TRMRlVS4y79AH7A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

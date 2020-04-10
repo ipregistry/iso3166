@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newfoundland and Labrador, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.37774399999999,
+                  "lng" : -51.99999589999999
+               },
+               "southwest" : {
+                  "lat" : 45.7675001,
+                  "lng" : -67.82168489999999
+               }
+            },
+            "location" : {
+               "lat" : 53.1355091,
+               "lng" : -57.6604364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.37774399999999,
+                  "lng" : -51.99999589999999
+               },
+               "southwest" : {
+                  "lat" : 45.7675001,
+                  "lng" : -67.82168489999999
+               }
+            }
+         },
+         "place_id" : "ChIJD_AvfcKjDEsRqDl21bOd7GQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

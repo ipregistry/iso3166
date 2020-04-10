@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Black Point",
+               "short_name" : "Black Point",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Black Point",
+               "short_name" : "Black Point",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Black Point, The Bahamas",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.081843,
+               "lng" : -76.396467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.0920294,
+                  "lng" : -76.38045959999999
+               },
+               "southwest" : {
+                  "lat" : 24.0716558,
+                  "lng" : -76.41247439999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC3BiQsbZMYkRZ0rN8jDtT0E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

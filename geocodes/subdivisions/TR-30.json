@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hakkâri",
+               "short_name" : "Hakkâri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hakkâri Merkez",
+               "short_name" : "Hakkâri Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hakkari",
+               "short_name" : "Hakkari",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hakkâri, Hakkâri Merkez/Hakkari, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.592381,
+                  "lng" : 43.7545941
+               },
+               "southwest" : {
+                  "lat" : 37.55617489999999,
+                  "lng" : 43.71499
+               }
+            },
+            "location" : {
+               "lat" : 37.577427,
+               "lng" : 43.736782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.592381,
+                  "lng" : 43.7545941
+               },
+               "southwest" : {
+                  "lat" : 37.55617489999999,
+                  "lng" : 43.71499
+               }
+            }
+         },
+         "place_id" : "ChIJ2YgEoTkAD0ARFY4hBArBe20",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Municipality of Grad",
+               "short_name" : "Municipality of Grad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grad",
+               "short_name" : "Grad",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Murska Sobota",
+               "short_name" : "Murska Sobota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9264",
+               "short_name" : "9264",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Municipality of Grad, 9264 Grad, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8309741,
+                  "lng" : 16.1395906
+               },
+               "southwest" : {
+                  "lat" : 46.7583793,
+                  "lng" : 16.0502874
+               }
+            },
+            "location" : {
+               "lat" : 46.7896457,
+               "lng" : 16.0987002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8309741,
+                  "lng" : 16.1395906
+               },
+               "southwest" : {
+                  "lat" : 46.7583793,
+                  "lng" : 16.0502874
+               }
+            }
+         },
+         "place_id" : "ChIJy-Q3WqUZb0cRhc887Ma_-E0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

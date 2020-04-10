@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phetchabun",
+               "short_name" : "จ.เพชรบูรณ์",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phetchabun, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.1781399,
+                  "lng" : 101.7940183
+               },
+               "southwest" : {
+                  "lat" : 15.3182319,
+                  "lng" : 100.6343118
+               }
+            },
+            "location" : {
+               "lat" : 16.301669,
+               "lng" : 101.1192804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.1781399,
+                  "lng" : 101.7940183
+               },
+               "southwest" : {
+                  "lat" : 15.3182319,
+                  "lng" : 100.6343118
+               }
+            }
+         },
+         "place_id" : "ChIJWYy2wcMnIDERp4HHBBHdZkQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

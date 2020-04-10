@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medvode",
+               "short_name" : "Medvode",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Medvode",
+               "short_name" : "Medvode",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1215",
+               "short_name" : "1215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1215 Medvode, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1553266,
+                  "lng" : 14.4318996
+               },
+               "southwest" : {
+                  "lat" : 46.12268359999999,
+                  "lng" : 14.3930647
+               }
+            },
+            "location" : {
+               "lat" : 46.1413926,
+               "lng" : 14.4113469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1553266,
+                  "lng" : 14.4318996
+               },
+               "southwest" : {
+                  "lat" : 46.12268359999999,
+                  "lng" : 14.3930647
+               }
+            }
+         },
+         "place_id" : "ChIJ942O9gHMekcRr-JJv1YnszU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bururi",
+               "short_name" : "Bururi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bururi",
+               "short_name" : "Bururi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bururi",
+               "short_name" : "Bururi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burundi",
+               "short_name" : "BI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bururi, Burundi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.9389683,
+                  "lng" : 29.6364892
+               },
+               "southwest" : {
+                  "lat" : -3.9569072,
+                  "lng" : 29.61484909999999
+               }
+            },
+            "location" : {
+               "lat" : -3.9479261,
+               "lng" : 29.6238368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.9389683,
+                  "lng" : 29.6364892
+               },
+               "southwest" : {
+                  "lat" : -3.9569072,
+                  "lng" : 29.61484909999999
+               }
+            }
+         },
+         "place_id" : "ChIJy7IlLUjlwBkRQDOvPk1ZIGo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

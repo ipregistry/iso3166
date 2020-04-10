@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Macenta",
+               "short_name" : "Macenta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Macenta Prefecture",
+               "short_name" : "Macenta Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nzérékoré",
+               "short_name" : "Nzérékoré",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Macenta, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.563367899999999,
+                  "lng" : -9.4360541
+               },
+               "southwest" : {
+                  "lat" : 8.516344799999999,
+                  "lng" : -9.496479000000001
+               }
+            },
+            "location" : {
+               "lat" : 8.538294,
+               "lng" : -9.4728244
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.563367899999999,
+                  "lng" : -9.4360541
+               },
+               "southwest" : {
+                  "lat" : 8.516344799999999,
+                  "lng" : -9.496479000000001
+               }
+            }
+         },
+         "place_id" : "ChIJpSTKGq48qQ8RmR1Li2QDI4M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

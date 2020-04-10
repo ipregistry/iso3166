@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sud-Ouest Region",
+               "short_name" : "Sud-Ouest Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sud-Ouest Region, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.348253,
+                  "lng" : -2.6235329
+               },
+               "southwest" : {
+                  "lat" : 9.4104717,
+                  "lng" : -3.960880999999999
+               }
+            },
+            "location" : {
+               "lat" : 10.4231493,
+               "lng" : -3.2583626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.348253,
+                  "lng" : -2.6235329
+               },
+               "southwest" : {
+                  "lat" : 9.4104717,
+                  "lng" : -3.960880999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-WpTsoLPzA8RyVn4DAUtnso",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

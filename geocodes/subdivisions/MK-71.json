@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staro Nagorichane",
+               "short_name" : "Staro Nagorichane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Staro Nagorichane",
+               "short_name" : "Municipality of Staro Nagorichane",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Staro Nagorichane, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2047782,
+                  "lng" : 21.8368701
+               },
+               "southwest" : {
+                  "lat" : 42.1955399,
+                  "lng" : 21.8216873
+               }
+            },
+            "location" : {
+               "lat" : 42.2002198,
+               "lng" : 21.8285391
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2047782,
+                  "lng" : 21.8368701
+               },
+               "southwest" : {
+                  "lat" : 42.1955399,
+                  "lng" : 21.8216873
+               }
+            }
+         },
+         "place_id" : "ChIJC_xh4J5UVBMRUOZBmIIGELs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

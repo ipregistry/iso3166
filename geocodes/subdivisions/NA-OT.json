@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oshikoto Region",
+               "short_name" : "Oshikoto Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oshikoto Region, Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.6955739,
+                  "lng" : 18.2046669
+               },
+               "southwest" : {
+                  "lat" : -19.520187,
+                  "lng" : 15.841694
+               }
+            },
+            "location" : {
+               "lat" : -18.4152575,
+               "lng" : 16.912251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.6955739,
+                  "lng" : 18.2046669
+               },
+               "southwest" : {
+                  "lat" : -19.520187,
+                  "lng" : 15.841694
+               }
+            }
+         },
+         "place_id" : "ChIJM6s7YUpk7RsR83RcPyC3lVs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

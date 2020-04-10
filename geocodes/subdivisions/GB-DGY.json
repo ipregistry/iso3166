@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "Dumfries and Galloway",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Dumfries",
+               "short_name" : "Dumfries",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "Dumfries and Galloway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG1 2DA",
+               "short_name" : "DG1 2DA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dumfries and Galloway, Dumfries DG1 2DA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.069,
+               "lng" : -3.607999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.07538839999999,
+                  "lng" : -3.5919926
+               },
+               "southwest" : {
+                  "lat" : 55.0626105,
+                  "lng" : -3.6240074
+               }
+            }
+         },
+         "place_id" : "ChIJfX05aGzKYkgRYqtuJkcYGoA",
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

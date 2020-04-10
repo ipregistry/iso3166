@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Radviliškis",
+               "short_name" : "Radviliškis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Radviliškis District Municipality",
+               "short_name" : "Radviliškis District Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Šiauliai County",
+               "short_name" : "Šiauliai County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Radviliškis, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8363163,
+                  "lng" : 23.594952
+               },
+               "southwest" : {
+                  "lat" : 55.78865889999999,
+                  "lng" : 23.497885
+               }
+            },
+            "location" : {
+               "lat" : 55.8108399,
+               "lng" : 23.546487
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8363163,
+                  "lng" : 23.594952
+               },
+               "southwest" : {
+                  "lat" : 55.78865889999999,
+                  "lng" : 23.497885
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJD-xUQdAN5kYRZvGqeh4WAMY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trarza",
+               "short_name" : "Trarza",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritania",
+               "short_name" : "MR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trarza, Mauritania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9968821,
+                  "lng" : -12.711503
+               },
+               "southwest" : {
+                  "lat" : 16.0581875,
+                  "lng" : -16.5152361
+               }
+            },
+            "location" : {
+               "lat" : 17.8664964,
+               "lng" : -14.6587821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9968821,
+                  "lng" : -12.711503
+               },
+               "southwest" : {
+                  "lat" : 16.0581875,
+                  "lng" : -16.5152361
+               }
+            }
+         },
+         "place_id" : "ChIJWV6Os1pgkQ4RFuSTl688XF4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rhineland-Palatinate, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9423053,
+                  "lng" : 8.5083135
+               },
+               "southwest" : {
+                  "lat" : 48.966765,
+                  "lng" : 6.112340000000001
+               }
+            },
+            "location" : {
+               "lat" : 50.118346,
+               "lng" : 7.3089527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9423053,
+                  "lng" : 8.5083135
+               },
+               "southwest" : {
+                  "lat" : 48.966765,
+                  "lng" : 6.112340000000001
+               }
+            }
+         },
+         "place_id" : "ChIJY4Hac2nMl0cR_M8OuHuSeBc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mogila",
+               "short_name" : "Mogila",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mogila, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1192271,
+                  "lng" : 21.3925414
+               },
+               "southwest" : {
+                  "lat" : 41.1013039,
+                  "lng" : 21.3631968
+               }
+            },
+            "location" : {
+               "lat" : 41.1119436,
+               "lng" : 21.3769118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1192271,
+                  "lng" : 21.3925414
+               },
+               "southwest" : {
+                  "lat" : 41.1013039,
+                  "lng" : 21.3631968
+               }
+            }
+         },
+         "place_id" : "ChIJ3aZMFSsnVxMRjMKTRcTRKpc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

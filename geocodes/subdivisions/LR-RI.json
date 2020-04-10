@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "River Cess Town",
+               "short_name" : "River Cess Town",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zarflahn",
+               "short_name" : "Zarflahn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "River Cess",
+               "short_name" : "River Cess",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "River Cess Town, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.4827176,
+                  "lng" : -9.5701217
+               },
+               "southwest" : {
+                  "lat" : 5.4475159,
+                  "lng" : -9.598531599999999
+               }
+            },
+            "location" : {
+               "lat" : 5.461411399999999,
+               "lng" : -9.575693399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.4827176,
+                  "lng" : -9.5701217
+               },
+               "southwest" : {
+                  "lat" : 5.4475159,
+                  "lng" : -9.598531599999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3aOw9CG9oQ8RdB5JTc3yWcw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

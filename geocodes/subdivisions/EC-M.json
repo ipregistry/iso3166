@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manabí Province",
+               "short_name" : "Manabí Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manabí Province, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3740315,
+                  "lng" : -79.3986458
+               },
+               "southwest" : {
+                  "lat" : -1.9471437,
+                  "lng" : -81.0836838
+               }
+            },
+            "location" : {
+               "lat" : -1.0543434,
+               "lng" : -80.45264399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3740315,
+                  "lng" : -79.3986458
+               },
+               "southwest" : {
+                  "lat" : -1.9471437,
+                  "lng" : -81.0836838
+               }
+            }
+         },
+         "place_id" : "ChIJU0L8Mk-mK5ARERhXWyvmJ7M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quebec City",
+               "short_name" : "Quebec City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Québec",
+               "short_name" : "Communauté-Urbaine-de-Québec",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quebec City, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9819379,
+                  "lng" : -71.13394
+               },
+               "southwest" : {
+                  "lat" : 46.7307989,
+                  "lng" : -71.54944499999999
+               }
+            },
+            "location" : {
+               "lat" : 46.8138783,
+               "lng" : -71.2079809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9819379,
+                  "lng" : -71.13394
+               },
+               "southwest" : {
+                  "lat" : 46.7307989,
+                  "lng" : -71.54944499999999
+               }
+            }
+         },
+         "place_id" : "ChIJk4jbBYqWuEwRAzro8GMtxY8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

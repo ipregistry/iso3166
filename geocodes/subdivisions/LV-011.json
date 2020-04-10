@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ādaži Municipality",
+               "short_name" : "Ādaži Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ādažu novads",
+               "short_name" : "Ādažu novads",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ādaži Municipality, Ādažu novads, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.188405,
+                  "lng" : 24.507597
+               },
+               "southwest" : {
+                  "lat" : 57.0265679,
+                  "lng" : 24.2416704
+               }
+            },
+            "location" : {
+               "lat" : 57.0996586,
+               "lng" : 24.3990679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.188405,
+                  "lng" : 24.507597
+               },
+               "southwest" : {
+                  "lat" : 57.0265679,
+                  "lng" : 24.2416704
+               }
+            }
+         },
+         "place_id" : "ChIJaY5J1d217kYR0AHzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

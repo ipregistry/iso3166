@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorontalo",
+               "short_name" : "Gorontalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorontalo City",
+               "short_name" : "Gorontalo City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gorontalo",
+               "short_name" : "Gorontalo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gorontalo, Gorontalo City, Gorontalo, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.58895,
+                  "lng" : 123.0841351
+               },
+               "southwest" : {
+                  "lat" : 0.5088942,
+                  "lng" : 122.9959061
+               }
+            },
+            "location" : {
+               "lat" : 0.5435441999999999,
+               "lng" : 123.0567693
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.58895,
+                  "lng" : 123.0841351
+               },
+               "southwest" : {
+                  "lat" : 0.5088942,
+                  "lng" : 122.9959061
+               }
+            }
+         },
+         "place_id" : "ChIJXeflmUcreTIRZ1kVIwlNzG0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

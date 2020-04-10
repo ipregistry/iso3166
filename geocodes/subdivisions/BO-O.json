@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oruro",
+               "short_name" : "Oruro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cercado",
+               "short_name" : "Cercado",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oruro Department",
+               "short_name" : "Oruro Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bolivia",
+               "short_name" : "BO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oruro, Bolivia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.9058956,
+                  "lng" : -67.02750209999999
+               },
+               "southwest" : {
+                  "lat" : -18.0166098,
+                  "lng" : -67.14740759999999
+               }
+            },
+            "location" : {
+               "lat" : -17.9716723,
+               "lng" : -67.09313779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.9058956,
+                  "lng" : -67.02750209999999
+               },
+               "southwest" : {
+                  "lat" : -18.0166098,
+                  "lng" : -67.14740759999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9Yb__aGw4pMR1eptVnluWP4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

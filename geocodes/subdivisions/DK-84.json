@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capital Region of Denmark",
+               "short_name" : "Capital Region of Denmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Capital Region of Denmark, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.200283,
+                  "lng" : 15.1572181
+               },
+               "southwest" : {
+                  "lat" : 54.9863569,
+                  "lng" : 11.694833
+               }
+            },
+            "location" : {
+               "lat" : 55.6751812,
+               "lng" : 12.5493261
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.200283,
+                  "lng" : 15.1572181
+               },
+               "southwest" : {
+                  "lat" : 54.9863569,
+                  "lng" : 11.694833
+               }
+            }
+         },
+         "place_id" : "ChIJb8pj4aWGU0YRUFSorMmvAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

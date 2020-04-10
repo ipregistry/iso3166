@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newry",
+               "short_name" : "Newry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newry",
+               "short_name" : "Newry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Newry, Mourne And Down",
+               "short_name" : "Newry, Mourne And Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newry, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1962338,
+                  "lng" : -6.3058757
+               },
+               "southwest" : {
+                  "lat" : 54.1437927,
+                  "lng" : -6.3611794
+               }
+            },
+            "location" : {
+               "lat" : 54.1751024,
+               "lng" : -6.34023
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1962338,
+                  "lng" : -6.3058757
+               },
+               "southwest" : {
+                  "lat" : 54.1437927,
+                  "lng" : -6.3611794
+               }
+            }
+         },
+         "place_id" : "ChIJCyeEvSQzYEgRB2ctrkJAUlY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

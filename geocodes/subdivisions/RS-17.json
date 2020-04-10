@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moravica District",
+               "short_name" : "Moravica District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moravica District, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.263937,
+                  "lng" : 20.659205
+               },
+               "southwest" : {
+                  "lat" : 43.2809341,
+                  "lng" : 19.9163909
+               }
+            },
+            "location" : {
+               "lat" : 43.84147,
+               "lng" : 20.2904987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.263937,
+                  "lng" : 20.659205
+               },
+               "southwest" : {
+                  "lat" : 43.2809341,
+                  "lng" : 19.9163909
+               }
+            }
+         },
+         "place_id" : "ChIJ9aECN3F1V0cR4fLWMmpAHmk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

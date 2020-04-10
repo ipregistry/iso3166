@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matagalpa",
+               "short_name" : "Matagalpa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matagalpa",
+               "short_name" : "Matagalpa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matagalpa, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9567171,
+                  "lng" : -85.89645609999999
+               },
+               "southwest" : {
+                  "lat" : 12.9025089,
+                  "lng" : -85.9465599
+               }
+            },
+            "location" : {
+               "lat" : 12.9290069,
+               "lng" : -85.91512109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9567171,
+                  "lng" : -85.89645609999999
+               },
+               "southwest" : {
+                  "lat" : 12.9025089,
+                  "lng" : -85.9465599
+               }
+            }
+         },
+         "place_id" : "ChIJLx1W-TBIco8RmdvMt22kkxc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

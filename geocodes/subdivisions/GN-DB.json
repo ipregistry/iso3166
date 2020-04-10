@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dabola",
+               "short_name" : "Dabola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dabola Prefecture",
+               "short_name" : "Dabola Prefecture",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Faranah",
+               "short_name" : "Faranah",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea",
+               "short_name" : "GN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dabola, Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.7523239,
+                  "lng" : -11.0782528
+               },
+               "southwest" : {
+                  "lat" : 10.7100748,
+                  "lng" : -11.142025
+               }
+            },
+            "location" : {
+               "lat" : 10.7297806,
+               "lng" : -11.1107854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.7523239,
+                  "lng" : -11.0782528
+               },
+               "southwest" : {
+                  "lat" : 10.7100748,
+                  "lng" : -11.142025
+               }
+            }
+         },
+         "place_id" : "ChIJxegvEg_H_w4R7KELhb3YDpE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

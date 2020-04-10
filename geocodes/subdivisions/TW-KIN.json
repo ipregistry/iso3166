@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kinmen Islands",
+               "short_name" : "Kinmen Islands",
+               "types" : [ "archipelago", "establishment", "natural_feature" ]
+            }
+         ],
+         "formatted_address" : "Kinmen Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.5425401,
+                  "lng" : 118.5097517
+               },
+               "southwest" : {
+                  "lat" : 24.1550182,
+                  "lng" : 118.1473771
+               }
+            },
+            "location" : {
+               "lat" : 24.3487792,
+               "lng" : 118.3285644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.5425401,
+                  "lng" : 118.5097517
+               },
+               "southwest" : {
+                  "lat" : 24.1550182,
+                  "lng" : 118.1473771
+               }
+            }
+         },
+         "place_id" : "ChIJI0WZm4qdazQRz9u9fiyNIhw",
+         "types" : [ "archipelago", "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

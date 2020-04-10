@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yasothon",
+               "short_name" : "Yasothon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nai Mueang",
+               "short_name" : "Nai Mueang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Yasothon District",
+               "short_name" : "Mueang Yasothon District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yasothon",
+               "short_name" : "จ.ยโสธร",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35000",
+               "short_name" : "35000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yasothon, Nai Mueang, Mueang Yasothon District, Yasothon 35000, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 15.795426,
+               "lng" : 104.1418709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.8061624,
+                  "lng" : 104.1578783
+               },
+               "southwest" : {
+                  "lat" : 15.7846891,
+                  "lng" : 104.1258635
+               }
+            }
+         },
+         "place_id" : "ChIJO3SopCjPFzER5H9Hjlp4v10",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

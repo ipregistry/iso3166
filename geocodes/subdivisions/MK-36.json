@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kavadartsi",
+               "short_name" : "Kavadartsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Kavadarci",
+               "short_name" : "Municipality of Kavadarci",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kavadartsi, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4443026,
+                  "lng" : 22.026397
+               },
+               "southwest" : {
+                  "lat" : 41.4218808,
+                  "lng" : 21.9955194
+               }
+            },
+            "location" : {
+               "lat" : 41.4329364,
+               "lng" : 22.0088861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4443026,
+                  "lng" : 22.026397
+               },
+               "southwest" : {
+                  "lat" : 41.4218808,
+                  "lng" : 21.9955194
+               }
+            }
+         },
+         "place_id" : "ChIJ4d6156tlVhMRqOHm0Fla52I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

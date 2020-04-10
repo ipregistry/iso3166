@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inchiri",
+               "short_name" : "Inchiri",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritania",
+               "short_name" : "MR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Inchiri, Mauritania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.333933,
+                  "lng" : -14.1486749
+               },
+               "southwest" : {
+                  "lat" : 18.9205759,
+                  "lng" : -16.472452
+               }
+            },
+            "location" : {
+               "lat" : 20.0280561,
+               "lng" : -15.4068079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.333933,
+                  "lng" : -14.1486749
+               },
+               "southwest" : {
+                  "lat" : 18.9205759,
+                  "lng" : -16.472452
+               }
+            }
+         },
+         "place_id" : "ChIJ1_9KdbKsmw4RzbUagLJieHg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

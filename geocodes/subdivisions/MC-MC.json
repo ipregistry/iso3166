@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monte Carlo",
+               "short_name" : "Monte Carlo",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Monaco",
+               "short_name" : "Monaco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monaco",
+               "short_name" : "MC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monte Carlo, Monaco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.746362,
+                  "lng" : 7.430814900000001
+               },
+               "southwest" : {
+                  "lat" : 43.735744,
+                  "lng" : 7.421125999999999
+               }
+            },
+            "location" : {
+               "lat" : 43.7400718,
+               "lng" : 7.426643599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.746362,
+                  "lng" : 7.430814900000001
+               },
+               "southwest" : {
+                  "lat" : 43.735744,
+                  "lng" : 7.421125999999999
+               }
+            }
+         },
+         "place_id" : "ChIJza3f3ofCzRIRbGhb2W4pFe4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

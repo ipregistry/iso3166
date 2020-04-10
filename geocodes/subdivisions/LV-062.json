@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mārupe Municipality",
+               "short_name" : "Mārupe Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mārupes novads",
+               "short_name" : "Mārupes novads",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mārupe Municipality, Mārupes novads, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.939091,
+                  "lng" : 24.0817397
+               },
+               "southwest" : {
+                  "lat" : 56.83016689999999,
+                  "lng" : 23.834338
+               }
+            },
+            "location" : {
+               "lat" : 56.8965717,
+               "lng" : 24.0460049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.939091,
+                  "lng" : 24.0817397
+               },
+               "southwest" : {
+                  "lat" : 56.83016689999999,
+                  "lng" : 23.834338
+               }
+            }
+         },
+         "place_id" : "ChIJrwZxoATa7kYRMALzaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

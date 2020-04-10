@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pasco",
+               "short_name" : "Pasco",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pasco, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.4457039,
+                  "lng" : -74.1320339
+               },
+               "southwest" : {
+                  "lat" : -11.1557699,
+                  "lng" : -76.7302409
+               }
+            },
+            "location" : {
+               "lat" : -10.4475753,
+               "lng" : -75.1545381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.4457039,
+                  "lng" : -74.1320339
+               },
+               "southwest" : {
+                  "lat" : -11.1557699,
+                  "lng" : -76.7302409
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqcfoXlptCJERuz2Oilq9d0o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

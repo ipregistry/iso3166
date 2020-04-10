@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barda",
+               "short_name" : "Barda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barda",
+               "short_name" : "Barda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barda, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.405915,
+                  "lng" : 47.1718597
+               },
+               "southwest" : {
+                  "lat" : 40.3447124,
+                  "lng" : 47.09220879999999
+               }
+            },
+            "location" : {
+               "lat" : 40.3706555,
+               "lng" : 47.1378909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.405915,
+                  "lng" : 47.1718597
+               },
+               "southwest" : {
+                  "lat" : 40.3447124,
+                  "lng" : 47.09220879999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3RBiNjDTPkARmdQbBnE1xC0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gilan Province",
+               "short_name" : "Gilan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gilan Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.483889,
+                  "lng" : 50.60126899999999
+               },
+               "southwest" : {
+                  "lat" : 36.577453,
+                  "lng" : 48.525495
+               }
+            },
+            "location" : {
+               "lat" : 37.2809455,
+               "lng" : 49.5924134
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.483889,
+                  "lng" : 50.60126899999999
+               },
+               "southwest" : {
+                  "lat" : 36.577453,
+                  "lng" : 48.525495
+               }
+            }
+         },
+         "place_id" : "ChIJH6Zx053XH0ARC3sLDw-QeEo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

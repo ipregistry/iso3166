@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elektrėnai",
+               "short_name" : "Elektrėnai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Elektrėnai Municipality",
+               "short_name" : "Elektrėnai Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilnius County",
+               "short_name" : "Vilnius County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Elektrėnai, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7913769,
+                  "lng" : 24.7152999
+               },
+               "southwest" : {
+                  "lat" : 54.71607600000001,
+                  "lng" : 24.627115
+               }
+            },
+            "location" : {
+               "lat" : 54.7858116,
+               "lng" : 24.6624699
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7913769,
+                  "lng" : 24.7152999
+               },
+               "southwest" : {
+                  "lat" : 54.71607600000001,
+                  "lng" : 24.627115
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC4TmS91g50YRMNzpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

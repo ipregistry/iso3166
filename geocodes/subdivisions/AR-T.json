@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Miguel de Tucumán",
+               "short_name" : "San Miguel de Tucumán",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital Department",
+               "short_name" : "Capital Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tucumán",
+               "short_name" : "Tucumán",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Miguel de Tucumán, Tucumán, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.7636022,
+                  "lng" : -65.1622514
+               },
+               "southwest" : {
+                  "lat" : -26.9021156,
+                  "lng" : -65.2829359
+               }
+            },
+            "location" : {
+               "lat" : -26.8082848,
+               "lng" : -65.2175903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.7636022,
+                  "lng" : -65.1622514
+               },
+               "southwest" : {
+                  "lat" : -26.9021156,
+                  "lng" : -65.2829359
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJA2nF1pI3IpQRJ2XFtZJbjfg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

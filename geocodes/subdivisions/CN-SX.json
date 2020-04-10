@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shanxi",
+               "short_name" : "Shanxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shanxi, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7373522,
+                  "lng" : 114.5689221
+               },
+               "southwest" : {
+                  "lat" : 34.5819347,
+                  "lng" : 110.2302478
+               }
+            },
+            "location" : {
+               "lat" : 37.2425649,
+               "lng" : 111.8568586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7373522,
+                  "lng" : 114.5689221
+               },
+               "southwest" : {
+                  "lat" : 34.5819347,
+                  "lng" : 110.2302478
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAZbireuoCjYRL-LvlMM8zpw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

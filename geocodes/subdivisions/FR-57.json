@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moselle",
+               "short_name" : "Moselle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moselle, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.515124,
+                  "lng" : 7.640046900000001
+               },
+               "southwest" : {
+                  "lat" : 48.5267229,
+                  "lng" : 5.891857099999999
+               }
+            },
+            "location" : {
+               "lat" : 49.0983839,
+               "lng" : 6.5527641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.515124,
+                  "lng" : 7.640046900000001
+               },
+               "southwest" : {
+                  "lat" : 48.5267229,
+                  "lng" : 5.891857099999999
+               }
+            }
+         },
+         "place_id" : "ChIJv8tu0pNQlEcRECk3mrlfCgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

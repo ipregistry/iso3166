@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.3615,
+                  "lng" : 51.6138
+               },
+               "southwest" : {
+                  "lat" : -1.8673,
+                  "lng" : 40.994373
+               }
+            },
+            "location" : {
+               "lat" : 5.152149,
+               "lng" : 46.199616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.3615,
+                  "lng" : 51.6138
+               },
+               "southwest" : {
+                  "lat" : -1.8673,
+                  "lng" : 40.994373
+               }
+            }
+         },
+         "place_id" : "ChIJg1vR7KcuHRgRvuXpXM46OZ4",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

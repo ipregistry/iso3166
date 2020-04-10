@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rayong",
+               "short_name" : "Rayong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Rayong District",
+               "short_name" : "Mueang Rayong District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rayong",
+               "short_name" : "จ.ระยอง",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rayong, Mueang Rayong District, Rayong, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.7215273,
+                  "lng" : 101.3271059
+               },
+               "southwest" : {
+                  "lat" : 12.6440057,
+                  "lng" : 101.1707056
+               }
+            },
+            "location" : {
+               "lat" : 12.6813957,
+               "lng" : 101.2816261
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.7215273,
+                  "lng" : 101.3271059
+               },
+               "southwest" : {
+                  "lat" : 12.6440057,
+                  "lng" : 101.1707056
+               }
+            }
+         },
+         "place_id" : "ChIJSWR1g_T7AjERjPpFLQCUb-c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

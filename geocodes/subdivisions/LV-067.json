@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ogre",
+               "short_name" : "Ogre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ogres pilsēta",
+               "short_name" : "Ogres pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ogre, Ogres pilsēta, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.8321234,
+                  "lng" : 24.656615
+               },
+               "southwest" : {
+                  "lat" : 56.78883700000001,
+                  "lng" : 24.5549409
+               }
+            },
+            "location" : {
+               "lat" : 56.8147355,
+               "lng" : 24.6044555
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.8321234,
+                  "lng" : 24.656615
+               },
+               "southwest" : {
+                  "lat" : 56.78883700000001,
+                  "lng" : 24.5549409
+               }
+            }
+         },
+         "place_id" : "ChIJm3MEy24l6UYRYBrzaM3PAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

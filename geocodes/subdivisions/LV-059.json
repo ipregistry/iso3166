@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madona Municipality",
+               "short_name" : "Madona Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madona Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.101867,
+                  "lng" : 26.9422061
+               },
+               "southwest" : {
+                  "lat" : 56.58392509999999,
+                  "lng" : 25.7254058
+               }
+            },
+            "location" : {
+               "lat" : 56.8598923,
+               "lng" : 26.2276201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.101867,
+                  "lng" : 26.9422061
+               },
+               "southwest" : {
+                  "lat" : 56.58392509999999,
+                  "lng" : 25.7254058
+               }
+            }
+         },
+         "place_id" : "ChIJxz3NtByT6UYRyVYQ5PVr8tU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

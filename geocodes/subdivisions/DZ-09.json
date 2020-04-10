@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blida",
+               "short_name" : "Blida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blida",
+               "short_name" : "Blida",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Blida Province",
+               "short_name" : "Blida Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blida, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.519254,
+                  "lng" : 2.8685629
+               },
+               "southwest" : {
+                  "lat" : 36.4432649,
+                  "lng" : 2.7318188
+               }
+            },
+            "location" : {
+               "lat" : 36.4735715,
+               "lng" : 2.8323153
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.519254,
+                  "lng" : 2.8685629
+               },
+               "southwest" : {
+                  "lat" : 36.4432649,
+                  "lng" : 2.7318188
+               }
+            }
+         },
+         "place_id" : "ChIJ0UxahmYMjxIR_m1kc8D5_Mw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jaunpiebalga Municipality",
+               "short_name" : "Jaunpiebalga Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jaunpiebalga Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.2183449,
+                  "lng" : 26.16608
+               },
+               "southwest" : {
+                  "lat" : 57.07730309999999,
+                  "lng" : 25.7561731
+               }
+            },
+            "location" : {
+               "lat" : 57.1433471,
+               "lng" : 25.9951888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.2183449,
+                  "lng" : 26.16608
+               },
+               "southwest" : {
+                  "lat" : 57.07730309999999,
+                  "lng" : 25.7561731
+               }
+            }
+         },
+         "place_id" : "ChIJh64R_rQq6kYRAP7yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

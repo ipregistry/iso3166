@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mid And East Antrim",
+               "short_name" : "Mid And East Antrim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mid And East Antrim, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0503955,
+                  "lng" : -5.6872124
+               },
+               "southwest" : {
+                  "lat" : 54.6846719,
+                  "lng" : -6.5046775
+               }
+            },
+            "location" : {
+               "lat" : 54.93993409999999,
+               "lng" : -6.113742299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0503955,
+                  "lng" : -5.6872124
+               },
+               "southwest" : {
+                  "lat" : 54.6846719,
+                  "lng" : -6.5046775
+               }
+            }
+         },
+         "place_id" : "ChIJrXNHHSKzYUgR1MZ2Fi03uzo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

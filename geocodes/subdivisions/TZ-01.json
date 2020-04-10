@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arusha",
+               "short_name" : "Arusha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arusha Urban",
+               "short_name" : "Arusha Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arusha Region",
+               "short_name" : "Arusha Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arusha, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.3338411,
+                  "lng" : 36.7436028
+               },
+               "southwest" : {
+                  "lat" : -3.4624464,
+                  "lng" : 36.6108228
+               }
+            },
+            "location" : {
+               "lat" : -3.3869254,
+               "lng" : 36.6829927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.3338411,
+                  "lng" : 36.7436028
+               },
+               "southwest" : {
+                  "lat" : -3.4624464,
+                  "lng" : 36.6108228
+               }
+            }
+         },
+         "place_id" : "ChIJg3M48ogcNxgRUnFJ7PcHGbw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

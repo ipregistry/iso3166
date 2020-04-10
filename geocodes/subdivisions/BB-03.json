@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint George",
+               "short_name" : "Saint George",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Barbados",
+               "short_name" : "BB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint George, Barbados",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.1815211,
+                  "lng" : -59.50622000000001
+               },
+               "southwest" : {
+                  "lat" : 13.099258,
+                  "lng" : -59.5823159
+               }
+            },
+            "location" : {
+               "lat" : 13.1401378,
+               "lng" : -59.54611249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.1815211,
+                  "lng" : -59.50622000000001
+               },
+               "southwest" : {
+                  "lat" : 13.099258,
+                  "lng" : -59.5823159
+               }
+            }
+         },
+         "place_id" : "ChIJr4g6f8HzQ4wRdXFEYOrwlDY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

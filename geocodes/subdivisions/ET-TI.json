@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tigray",
+               "short_name" : "Tigray",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tigray, Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.8942141,
+                  "lng" : 39.989845
+               },
+               "southwest" : {
+                  "lat" : 12.246681,
+                  "lng" : 36.452255
+               }
+            },
+            "location" : {
+               "lat" : 14.0323336,
+               "lng" : 38.3165725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.8942141,
+                  "lng" : 39.989845
+               },
+               "southwest" : {
+                  "lat" : 12.246681,
+                  "lng" : 36.452255
+               }
+            }
+         },
+         "place_id" : "ChIJ8aurk-r8axYRxkgyze1EHlg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

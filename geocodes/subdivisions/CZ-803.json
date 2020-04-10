@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karvina",
+               "short_name" : "Karvina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karviná District",
+               "short_name" : "Karviná District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moravian-Silesian Region",
+               "short_name" : "Moravian-Silesian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karvina, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.89357529999999,
+                  "lng" : 18.605731
+               },
+               "southwest" : {
+                  "lat" : 49.7801368,
+                  "lng" : 18.4498276
+               }
+            },
+            "location" : {
+               "lat" : 49.85665239999999,
+               "lng" : 18.5432186
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.89357529999999,
+                  "lng" : 18.605731
+               },
+               "southwest" : {
+                  "lat" : 49.7801368,
+                  "lng" : 18.4498276
+               }
+            }
+         },
+         "place_id" : "ChIJl2CZz09VEUcRVfTGDS1u4nU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

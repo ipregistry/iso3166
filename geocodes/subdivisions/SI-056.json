@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuzma",
+               "short_name" : "Kuzma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuzma",
+               "short_name" : "Kuzma",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Murska Sobota",
+               "short_name" : "Murska Sobota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9263",
+               "short_name" : "9263",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9263 Kuzma, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8532224,
+                  "lng" : 16.0919423
+               },
+               "southwest" : {
+                  "lat" : 46.8209718,
+                  "lng" : 16.0643504
+               }
+            },
+            "location" : {
+               "lat" : 46.8351038,
+               "lng" : 16.08071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8532224,
+                  "lng" : 16.0919423
+               },
+               "southwest" : {
+                  "lat" : 46.8209718,
+                  "lng" : 16.0643504
+               }
+            }
+         },
+         "place_id" : "ChIJDwFDVNkbb0cRkboTVIBTuDQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calabarzon",
+               "short_name" : "Calabarzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calabarzon, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.216003,
+                  "lng" : 122.792628
+               },
+               "southwest" : {
+                  "lat" : 13.1620479,
+                  "lng" : 120.485326
+               }
+            },
+            "location" : {
+               "lat" : 14.1007803,
+               "lng" : 121.0793705
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.216003,
+                  "lng" : 122.792628
+               },
+               "southwest" : {
+                  "lat" : 13.1620479,
+                  "lng" : 120.485326
+               }
+            }
+         },
+         "place_id" : "ChIJfTlj-wQCmDMRzJLM6XtvvTU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

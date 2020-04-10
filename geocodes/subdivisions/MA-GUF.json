@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guercif",
+               "short_name" : "Guercif",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taza Province",
+               "short_name" : "Taza Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oriental",
+               "short_name" : "Oriental",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guercif, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2598412,
+                  "lng" : -3.3043098
+               },
+               "southwest" : {
+                  "lat" : 34.209176,
+                  "lng" : -3.3882523
+               }
+            },
+            "location" : {
+               "lat" : 34.2299391,
+               "lng" : -3.3489671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2598412,
+                  "lng" : -3.3043098
+               },
+               "southwest" : {
+                  "lat" : 34.209176,
+                  "lng" : -3.3882523
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCaTA9M6TnQ0RRLUsCNyUOMU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

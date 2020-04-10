@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7399809,
+                  "lng" : 0.5144548
+               },
+               "southwest" : {
+                  "lat" : 52.005779,
+                  "lng" : -0.4999075
+               }
+            },
+            "location" : {
+               "lat" : 52.2052973,
+               "lng" : 0.1218195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7399809,
+                  "lng" : 0.5144548
+               },
+               "southwest" : {
+                  "lat" : 52.005779,
+                  "lng" : -0.4999075
+               }
+            }
+         },
+         "place_id" : "ChIJofUImRD210cR-iJr8SWphk4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

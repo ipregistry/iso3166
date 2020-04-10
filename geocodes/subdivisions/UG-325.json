@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kole",
+               "short_name" : "Kole",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Apac",
+               "short_name" : "Apac",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Region",
+               "short_name" : "Northern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kole, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.5204299,
+                  "lng" : 32.923708
+               },
+               "southwest" : {
+                  "lat" : 2.0829093,
+                  "lng" : 32.5772954
+               }
+            },
+            "location" : {
+               "lat" : 2.3701097,
+               "lng" : 32.7633036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.5204299,
+                  "lng" : 32.923708
+               },
+               "southwest" : {
+                  "lat" : 2.0829093,
+                  "lng" : 32.5772954
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJddrmDE2-cBcRAOnCJB6b_JM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Littoral Department",
+               "short_name" : "Littoral Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Benin",
+               "short_name" : "BJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Littoral Department, Benin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.429864999999999,
+                  "lng" : 2.5465271
+               },
+               "southwest" : {
+                  "lat" : 6.339180000000001,
+                  "lng" : 2.327578
+               }
+            },
+            "location" : {
+               "lat" : 6.3806973,
+               "lng" : 2.4406387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.429864999999999,
+                  "lng" : 2.5465271
+               },
+               "southwest" : {
+                  "lat" : 6.339180000000001,
+                  "lng" : 2.327578
+               }
+            }
+         },
+         "place_id" : "ChIJyU68autVIxAReN45SVdFJiU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

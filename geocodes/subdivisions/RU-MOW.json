@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moscow, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0214609,
+                  "lng" : 37.9678221
+               },
+               "southwest" : {
+                  "lat" : 55.142591,
+                  "lng" : 36.8032249
+               }
+            },
+            "location" : {
+               "lat" : 55.755826,
+               "lng" : 37.6172999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0214609,
+                  "lng" : 37.9678221
+               },
+               "southwest" : {
+                  "lat" : 55.142591,
+                  "lng" : 36.8032249
+               }
+            }
+         },
+         "place_id" : "ChIJybDUc_xKtUYRTM9XV8zWRD0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

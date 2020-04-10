@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khanty-Mansi Autonomous Okrug",
+               "short_name" : "ХМАО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khanty-Mansi Autonomous Okrug, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.71807489999999,
+                  "lng" : 85.97577099999999
+               },
+               "southwest" : {
+                  "lat" : 58.57968109999999,
+                  "lng" : 59.2047618
+               }
+            },
+            "location" : {
+               "lat" : 62.2287062,
+               "lng" : 70.64100569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.71807489999999,
+                  "lng" : 85.97577099999999
+               },
+               "southwest" : {
+                  "lat" : 58.57968109999999,
+                  "lng" : 59.2047618
+               }
+            }
+         },
+         "place_id" : "ChIJH39VhUk4cUMRja3IWYUvaQM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guidimaka",
+               "short_name" : "Guidimaka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritania",
+               "short_name" : "MR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guidimaka, Mauritania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.141872,
+                  "lng" : -11.596648
+               },
+               "southwest" : {
+                  "lat" : 14.721273,
+                  "lng" : -12.7529132
+               }
+            },
+            "location" : {
+               "lat" : 15.2557331,
+               "lng" : -12.2547919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.141872,
+                  "lng" : -11.596648
+               },
+               "southwest" : {
+                  "lat" : 14.721273,
+                  "lng" : -12.7529132
+               }
+            }
+         },
+         "place_id" : "ChIJC3riPhuM8w4R9w51YpTvyRk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

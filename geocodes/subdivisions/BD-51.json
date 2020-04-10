@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patuakhali",
+               "short_name" : "Patuakhali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Patuakhali District",
+               "short_name" : "Patuakhali District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Barisal Division",
+               "short_name" : "Barisal Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Patuakhali, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.3680152,
+                  "lng" : 90.3635359
+               },
+               "southwest" : {
+                  "lat" : 22.3336427,
+                  "lng" : 90.30542860000001
+               }
+            },
+            "location" : {
+               "lat" : 22.3586174,
+               "lng" : 90.3317203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.3680152,
+                  "lng" : 90.3635359
+               },
+               "southwest" : {
+                  "lat" : 22.3336427,
+                  "lng" : 90.30542860000001
+               }
+            }
+         },
+         "place_id" : "ChIJoYG7akC5qjARfckRaO155OE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

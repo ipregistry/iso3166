@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Great Exuma Island",
+               "short_name" : "Great Exuma Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Exuma",
+               "short_name" : "Exuma",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Great Exuma Island, The Bahamas",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.5333333,
+               "lng" : -75.83333329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.5435629,
+                  "lng" : -75.8173259
+               },
+               "southwest" : {
+                  "lat" : 23.5231029,
+                  "lng" : -75.8493407
+               }
+            }
+         },
+         "place_id" : "ChIJPa6S_B6HMYkRkWzjwABodFE",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

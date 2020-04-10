@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dar es Salaam",
+               "short_name" : "DSM",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kinondoni",
+               "short_name" : "Kinondoni",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dar es Salam",
+               "short_name" : "Dar es Salam",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dar es Salaam, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.5888991,
+                  "lng" : 39.4817113
+               },
+               "southwest" : {
+                  "lat" : -6.9502833,
+                  "lng" : 39.0268707
+               }
+            },
+            "location" : {
+               "lat" : -6.792354,
+               "lng" : 39.2083284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.5888991,
+                  "lng" : 39.4817113
+               },
+               "southwest" : {
+                  "lat" : -6.9502833,
+                  "lng" : 39.0268707
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8dabFq5LXBgR3aGGoCZrD5Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niassa Province",
+               "short_name" : "Niassa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mozambique",
+               "short_name" : "MZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niassa Province, Mozambique",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.2606299,
+                  "lng" : 38.4838371
+               },
+               "southwest" : {
+                  "lat" : -15.5072889,
+                  "lng" : 34.4092918
+               }
+            },
+            "location" : {
+               "lat" : -12.7826202,
+               "lng" : 36.6093926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.2606299,
+                  "lng" : 38.4838371
+               },
+               "southwest" : {
+                  "lat" : -15.5072889,
+                  "lng" : 34.4092918
+               }
+            }
+         },
+         "place_id" : "ChIJF0qQHTn14BgRJufSkh7J66k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

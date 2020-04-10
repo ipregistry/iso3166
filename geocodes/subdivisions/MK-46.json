@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krushevo",
+               "short_name" : "Krushevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Kruševo",
+               "short_name" : "Municipality of Kruševo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krushevo, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3780081,
+                  "lng" : 21.2554337
+               },
+               "southwest" : {
+                  "lat" : 41.363725,
+                  "lng" : 21.2426232
+               }
+            },
+            "location" : {
+               "lat" : 41.3705595,
+               "lng" : 21.2502223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3780081,
+                  "lng" : 21.2554337
+               },
+               "southwest" : {
+                  "lat" : 41.363725,
+                  "lng" : 21.2426232
+               }
+            }
+         },
+         "place_id" : "ChIJS9wug0DPVhMRsewM1kRhFMU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Škofja Loka",
+               "short_name" : "Škofja Loka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Škofja Loka",
+               "short_name" : "Škofja Loka",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Škofja Loka",
+               "short_name" : "Škofja Loka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4220",
+               "short_name" : "4220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4220 Škofja Loka, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1796641,
+                  "lng" : 14.3454528
+               },
+               "southwest" : {
+                  "lat" : 46.1543495,
+                  "lng" : 14.2863019
+               }
+            },
+            "location" : {
+               "lat" : 46.1671294,
+               "lng" : 14.3058337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1796641,
+                  "lng" : 14.3454528
+               },
+               "southwest" : {
+                  "lat" : 46.1543495,
+                  "lng" : 14.2863019
+               }
+            }
+         },
+         "place_id" : "ChIJGzkqCBDGekcRlSh5e85X2kc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phôngsali",
+               "short_name" : "Phôngsali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Phongsaly Province",
+               "short_name" : "Phongsaly Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Laos",
+               "short_name" : "LA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phôngsali, Laos",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.6996212,
+                  "lng" : 102.1256446
+               },
+               "southwest" : {
+                  "lat" : 21.6663623,
+                  "lng" : 102.0874929
+               }
+            },
+            "location" : {
+               "lat" : 21.6818943,
+               "lng" : 102.1089679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.6996212,
+                  "lng" : 102.1256446
+               },
+               "southwest" : {
+                  "lat" : 21.6663623,
+                  "lng" : 102.0874929
+               }
+            }
+         },
+         "place_id" : "ChIJVxxfTNCdLDERtXdrF4J3CFk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

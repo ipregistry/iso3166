@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Auckland, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.660571,
+                  "lng" : 175.2871371
+               },
+               "southwest" : {
+                  "lat" : -37.0654751,
+                  "lng" : 174.4438016
+               }
+            },
+            "location" : {
+               "lat" : -36.8484597,
+               "lng" : 174.7633315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.660571,
+                  "lng" : 175.2871371
+               },
+               "southwest" : {
+                  "lat" : -37.0654751,
+                  "lng" : 174.4438016
+               }
+            }
+         },
+         "place_id" : "ChIJ--acWvtHDW0RF5miQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

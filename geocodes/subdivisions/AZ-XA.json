@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xankəndi",
+               "short_name" : "Xankəndi",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Xankendi, Xankəndi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.85321039999999,
+                  "lng" : 46.797829
+               },
+               "southwest" : {
+                  "lat" : 39.7995519,
+                  "lng" : 46.7298317
+               }
+            },
+            "location" : {
+               "lat" : 39.8265268,
+               "lng" : 46.765562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.85321039999999,
+                  "lng" : 46.797829
+               },
+               "southwest" : {
+                  "lat" : 39.7995519,
+                  "lng" : 46.7298317
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmRe24Z98PkAR_hTzm4yoN5o",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

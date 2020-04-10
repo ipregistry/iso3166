@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blansko",
+               "short_name" : "Blansko",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blansko District",
+               "short_name" : "Blansko District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Moravian Region",
+               "short_name" : "South Moravian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "678 01",
+               "short_name" : "678 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "678 01 Blansko, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3974784,
+                  "lng" : 16.7409157
+               },
+               "southwest" : {
+                  "lat" : 49.3240278,
+                  "lng" : 16.5810198
+               }
+            },
+            "location" : {
+               "lat" : 49.3648502,
+               "lng" : 16.6477552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3974784,
+                  "lng" : 16.7409157
+               },
+               "southwest" : {
+                  "lat" : 49.3240278,
+                  "lng" : 16.5810198
+               }
+            }
+         },
+         "place_id" : "ChIJo9C_KSGMEkcRIL4UZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

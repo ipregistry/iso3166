@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panevėžys",
+               "short_name" : "Panevėžys",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panevėžio miesto savivaldybė",
+               "short_name" : "Panevėžio m. sav.",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Panevėžys County",
+               "short_name" : "Panevėžys County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Panevėžys, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.77187079999999,
+                  "lng" : 24.4332758
+               },
+               "southwest" : {
+                  "lat" : 55.68899099999999,
+                  "lng" : 24.235199
+               }
+            },
+            "location" : {
+               "lat" : 55.7347915,
+               "lng" : 24.3574774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.77187079999999,
+                  "lng" : 24.4332758
+               },
+               "southwest" : {
+                  "lat" : 55.68899099999999,
+                  "lng" : 24.235199
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT7EPU4sx5kYRgNrpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

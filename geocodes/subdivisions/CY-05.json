@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paphos",
+               "short_name" : "Paphos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paphos",
+               "short_name" : "Paphos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cyprus",
+               "short_name" : "CY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paphos, Cyprus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8011783,
+                  "lng" : 32.4666024
+               },
+               "southwest" : {
+                  "lat" : 34.7441863,
+                  "lng" : 32.3994188
+               }
+            },
+            "location" : {
+               "lat" : 34.7720133,
+               "lng" : 32.4297369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8011783,
+                  "lng" : 32.4666024
+               },
+               "southwest" : {
+                  "lat" : 34.7441863,
+                  "lng" : 32.3994188
+               }
+            }
+         },
+         "place_id" : "ChIJyeIt9GMG5xQR57X0UP_9BWw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

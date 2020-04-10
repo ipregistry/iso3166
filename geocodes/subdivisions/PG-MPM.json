@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madang",
+               "short_name" : "Madang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madang",
+               "short_name" : "Madang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madang Province",
+               "short_name" : "Madang Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madang, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.2035273,
+                  "lng" : 145.8168125
+               },
+               "southwest" : {
+                  "lat" : -5.2559225,
+                  "lng" : 145.7496071
+               }
+            },
+            "location" : {
+               "lat" : -5.2218841,
+               "lng" : 145.7856324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.2035273,
+                  "lng" : 145.8168125
+               },
+               "southwest" : {
+                  "lat" : -5.2559225,
+                  "lng" : 145.7496071
+               }
+            }
+         },
+         "place_id" : "ChIJV-UGScnm9WgRUbC3_OU_oPs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

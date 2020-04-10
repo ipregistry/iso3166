@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chaguanas",
+               "short_name" : "Chaguanas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chaguanas Borough Corporation",
+               "short_name" : "Chaguanas Borough Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chaguanas, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.5251973,
+                  "lng" : -61.4072602
+               },
+               "southwest" : {
+                  "lat" : 10.500756,
+                  "lng" : -61.43182410000001
+               }
+            },
+            "location" : {
+               "lat" : 10.5168387,
+               "lng" : -61.4114482
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.5251973,
+                  "lng" : -61.4072602
+               },
+               "southwest" : {
+                  "lat" : 10.500756,
+                  "lng" : -61.43182410000001
+               }
+            }
+         },
+         "place_id" : "ChIJax_hyHv5NYwRDC9CAYfTwcI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northwestern Province",
+               "short_name" : "Northwestern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northwestern Province, Zambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.885152,
+                  "lng" : 27.6016581
+               },
+               "southwest" : {
+                  "lat" : -14.72759,
+                  "lng" : 21.999899
+               }
+            },
+            "location" : {
+               "lat" : -13.0050258,
+               "lng" : 24.9042208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.885152,
+                  "lng" : 27.6016581
+               },
+               "southwest" : {
+                  "lat" : -14.72759,
+                  "lng" : 21.999899
+               }
+            }
+         },
+         "place_id" : "ChIJFd4FqkdDZBkRM1MvApyhKpc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

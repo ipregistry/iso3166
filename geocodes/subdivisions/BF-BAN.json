@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banwa",
+               "short_name" : "Banwa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Boucle du Mouhoun Region",
+               "short_name" : "Boucle du Mouhoun Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banwa, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.731423,
+                  "lng" : -3.5671951
+               },
+               "southwest" : {
+                  "lat" : 11.687353,
+                  "lng" : -4.646695999999999
+               }
+            },
+            "location" : {
+               "lat" : 12.1323053,
+               "lng" : -4.1513764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.731423,
+                  "lng" : -3.5671951
+               },
+               "southwest" : {
+                  "lat" : 11.687353,
+                  "lng" : -4.646695999999999
+               }
+            }
+         },
+         "place_id" : "ChIJXZQWl5SQNg4RUniUMK7pw-M",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

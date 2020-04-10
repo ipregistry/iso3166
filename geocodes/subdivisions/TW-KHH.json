@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaohsiung",
+               "short_name" : "Kaohsiung",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Gushan District",
+               "short_name" : "Gushan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kaohsiung City",
+               "short_name" : "Kaohsiung City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaohsiung, Gushan District, Kaohsiung City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.9170965,
+                  "lng" : 120.4856613
+               },
+               "southwest" : {
+                  "lat" : 22.4822129,
+                  "lng" : 120.1765147
+               }
+            },
+            "location" : {
+               "lat" : 22.6350591,
+               "lng" : 120.3355193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9170965,
+                  "lng" : 120.4856613
+               },
+               "southwest" : {
+                  "lat" : 22.4822129,
+                  "lng" : 120.1765147
+               }
+            }
+         },
+         "place_id" : "ChIJNUifIP0EbjQRCXzIhn0eUVQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

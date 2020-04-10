@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ermera",
+               "short_name" : "Ermera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ermera",
+               "short_name" : "Ermera",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ermera, Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.7455862,
+                  "lng" : 125.4051295
+               },
+               "southwest" : {
+                  "lat" : -8.756429299999999,
+                  "lng" : 125.3915809
+               }
+            },
+            "location" : {
+               "lat" : -8.752480199999999,
+               "lng" : 125.3987294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.7455862,
+                  "lng" : 125.4051295
+               },
+               "southwest" : {
+                  "lat" : -8.756429299999999,
+                  "lng" : 125.3915809
+               }
+            }
+         },
+         "place_id" : "ChIJT3vtyxsm_iwREeo6AEBdOAY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

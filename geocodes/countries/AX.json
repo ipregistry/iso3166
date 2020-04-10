@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Åland Islands",
+               "short_name" : "AX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Åland Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8400009,
+                  "lng" : 21.4866841
+               },
+               "southwest" : {
+                  "lat" : 59.6872001,
+                  "lng" : 19.2095998
+               }
+            },
+            "location" : {
+               "lat" : 60.1785247,
+               "lng" : 19.9156105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8400009,
+                  "lng" : 21.4866841
+               },
+               "southwest" : {
+                  "lat" : 59.6872001,
+                  "lng" : 19.2095998
+               }
+            }
+         },
+         "place_id" : "ChIJGevhxGjkikYR7Y5Cc4P2Q80",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

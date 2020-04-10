@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Bahr el Ghazal",
+               "short_name" : "Northern Bahr el Ghazal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Sudan",
+               "short_name" : "SS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Bahr el Ghazal, South Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.9102859,
+                  "lng" : 28.0412139
+               },
+               "southwest" : {
+                  "lat" : 7.897152999999999,
+                  "lng" : 26.136269
+               }
+            },
+            "location" : {
+               "lat" : 8.536044900000002,
+               "lng" : 26.7967849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.9102859,
+                  "lng" : 28.0412139
+               },
+               "southwest" : {
+                  "lat" : 7.897152999999999,
+                  "lng" : 26.136269
+               }
+            }
+         },
+         "place_id" : "ChIJOzn5yOLXJhcR4Sf2Vpwy76g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

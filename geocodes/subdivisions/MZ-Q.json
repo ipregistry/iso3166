@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mopeia",
+               "short_name" : "Mopeia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mopela",
+               "short_name" : "Mopela",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zambezia Province",
+               "short_name" : "Zambezia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mozambique",
+               "short_name" : "MZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mopeia, Mozambique",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.9649355,
+                  "lng" : 35.7274532
+               },
+               "southwest" : {
+                  "lat" : -17.9882847,
+                  "lng" : 35.6871128
+               }
+            },
+            "location" : {
+               "lat" : -17.97391,
+               "lng" : 35.7133849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.9649355,
+                  "lng" : 35.7274532
+               },
+               "southwest" : {
+                  "lat" : -17.9882847,
+                  "lng" : 35.6871128
+               }
+            }
+         },
+         "place_id" : "ChIJAx6GcnJj1BgRkIviN-eqKdU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

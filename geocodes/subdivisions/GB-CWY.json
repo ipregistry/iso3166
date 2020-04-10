@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Conwy",
+               "short_name" : "Conwy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Conwy Principal Area",
+               "short_name" : "Conwy Principal Area",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Conwy, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2933317,
+                  "lng" : -3.8198164
+               },
+               "southwest" : {
+                  "lat" : 53.2549437,
+                  "lng" : -3.861234699999999
+               }
+            },
+            "location" : {
+               "lat" : 53.282872,
+               "lng" : -3.82948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2933317,
+                  "lng" : -3.8198164
+               },
+               "southwest" : {
+                  "lat" : 53.2549437,
+                  "lng" : -3.861234699999999
+               }
+            }
+         },
+         "place_id" : "ChIJH7kfCmAZZUgRgGVicLG8qNU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

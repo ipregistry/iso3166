@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zhejiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.1787819,
+                  "lng" : 122.9495085
+               },
+               "southwest" : {
+                  "lat" : 27.0413557,
+                  "lng" : 118.0282788
+               }
+            },
+            "location" : {
+               "lat" : 29.1416432,
+               "lng" : 119.7889248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1787819,
+                  "lng" : 122.9495085
+               },
+               "southwest" : {
+                  "lat" : 27.0413557,
+                  "lng" : 118.0282788
+               }
+            }
+         },
+         "place_id" : "ChIJv8wKpTQSSTQRt3wYNsVx74E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

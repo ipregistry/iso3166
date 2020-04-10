@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penghu",
+               "short_name" : "Penghu",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Magong City",
+               "short_name" : "Magong City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Penghu County",
+               "short_name" : "Penghu County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "880",
+               "short_name" : "880",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Penghu, Magong City, Penghu County, Taiwan 880",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.583333,
+               "lng" : 119.583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.5935587,
+                  "lng" : 119.5993404
+               },
+               "southwest" : {
+                  "lat" : 23.5731065,
+                  "lng" : 119.5673256
+               }
+            }
+         },
+         "place_id" : "ChIJqUBshyBbbDQRf1vw1phNUno",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

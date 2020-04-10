@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oum El Bouaghi",
+               "short_name" : "Oum El Bouaghi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oum El Bouaghi",
+               "short_name" : "Oum El Bouaghi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oum El Bouaghi Province",
+               "short_name" : "Oum El Bouaghi Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oum El Bouaghi, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.960463,
+                  "lng" : 7.260072
+               },
+               "southwest" : {
+                  "lat" : 35.7146039,
+                  "lng" : 6.928499899999999
+               }
+            },
+            "location" : {
+               "lat" : 35.8688789,
+               "lng" : 7.110826599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.960463,
+                  "lng" : 7.260072
+               },
+               "southwest" : {
+                  "lat" : 35.7146039,
+                  "lng" : 6.928499899999999
+               }
+            }
+         },
+         "place_id" : "ChIJjciXcYzX8BIRMixhUFCfmTg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

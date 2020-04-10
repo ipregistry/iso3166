@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chattogram",
+               "short_name" : "Chattogram",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittagong District",
+               "short_name" : "Chittagong District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chattogram, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4306091,
+                  "lng" : 91.89192229999999
+               },
+               "southwest" : {
+                  "lat" : 22.2212596,
+                  "lng" : 91.7478132
+               }
+            },
+            "location" : {
+               "lat" : 22.356851,
+               "lng" : 91.7831819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4306091,
+                  "lng" : 91.89192229999999
+               },
+               "southwest" : {
+                  "lat" : 22.2212596,
+                  "lng" : 91.7478132
+               }
+            }
+         },
+         "place_id" : "ChIJ09-VQKbYrDAR2QVpy1vMFVA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

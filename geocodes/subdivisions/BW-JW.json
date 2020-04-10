@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jwaneng",
+               "short_name" : "Jwaneng",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jwaneng District",
+               "short_name" : "Jwaneng District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Southern District",
+               "short_name" : "Southern District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Botswana",
+               "short_name" : "BW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jwaneng, Botswana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -24.5793633,
+                  "lng" : 24.7536564
+               },
+               "southwest" : {
+                  "lat" : -24.6192422,
+                  "lng" : 24.6757221
+               }
+            },
+            "location" : {
+               "lat" : -24.6059582,
+               "lng" : 24.7202287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -24.5793633,
+                  "lng" : 24.7536564
+               },
+               "southwest" : {
+                  "lat" : -24.6192422,
+                  "lng" : 24.6757221
+               }
+            }
+         },
+         "place_id" : "ChIJO45HM9VcpB4R_ZkvJSKJ7x4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Polzela",
+               "short_name" : "Polzela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polzela",
+               "short_name" : "Polzela",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Žalec",
+               "short_name" : "Žalec",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3313",
+               "short_name" : "3313",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3313 Polzela, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3021933,
+                  "lng" : 15.0857564
+               },
+               "southwest" : {
+                  "lat" : 46.2686365,
+                  "lng" : 15.0597401
+               }
+            },
+            "location" : {
+               "lat" : 46.280897,
+               "lng" : 15.0737321
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3021933,
+                  "lng" : 15.0857564
+               },
+               "southwest" : {
+                  "lat" : 46.2686365,
+                  "lng" : 15.0597401
+               }
+            }
+         },
+         "place_id" : "ChIJ6xm2P4doZUcREq3ULzAix6Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

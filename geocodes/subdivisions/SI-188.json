@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veržej",
+               "short_name" : "Veržej",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Veržej",
+               "short_name" : "Veržej",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ljutomer",
+               "short_name" : "Ljutomer",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9241",
+               "short_name" : "9241",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9241 Veržej, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5977089,
+                  "lng" : 16.2007696
+               },
+               "southwest" : {
+                  "lat" : 46.5649081,
+                  "lng" : 16.1504664
+               }
+            },
+            "location" : {
+               "lat" : 46.5832778,
+               "lng" : 16.1640173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5977089,
+                  "lng" : 16.2007696
+               },
+               "southwest" : {
+                  "lat" : 46.5649081,
+                  "lng" : 16.1504664
+               }
+            }
+         },
+         "place_id" : "ChIJm2s0PztHb0cRIC3inSdKHu4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

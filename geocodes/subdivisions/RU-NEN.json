@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nenets Autonomous Okrug",
+               "short_name" : "Ненецкий Аутономус Область",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zapolyarny District",
+               "short_name" : "Zapolyarny District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nenets Autonomous Okrug, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 70.46619099999999,
+                  "lng" : 65.6728189
+               },
+               "southwest" : {
+                  "lat" : 65.8200909,
+                  "lng" : 43.2670159
+               }
+            },
+            "location" : {
+               "lat" : 67.6078337,
+               "lng" : 57.63383309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70.46619099999999,
+                  "lng" : 65.6728189
+               },
+               "southwest" : {
+                  "lat" : 65.8200909,
+                  "lng" : 43.2670159
+               }
+            }
+         },
+         "place_id" : "ChIJxzP62zhN-EQRIo8epQT1_dk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+    }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Esch-sur-Alzette",
+               "short_name" : "Esch-sur-Alzette",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Esch-sur-Alzette",
+               "short_name" : "Esch-sur-Alzette",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg District",
+               "short_name" : "Luxembourg District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Esch-sur-Alzette, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5174899,
+                  "lng" : 6.0049601
+               },
+               "southwest" : {
+                  "lat" : 49.4608871,
+                  "lng" : 5.9418906
+               }
+            },
+            "location" : {
+               "lat" : 49.5008805,
+               "lng" : 5.9860925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5174899,
+                  "lng" : 6.0049601
+               },
+               "southwest" : {
+                  "lat" : 49.4608871,
+                  "lng" : 5.9418906
+               }
+            }
+         },
+         "place_id" : "ChIJyZalbhw1lUcRZ7DYmEjWMhk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+    }
+   ],
+   "status" : "OK"
+}

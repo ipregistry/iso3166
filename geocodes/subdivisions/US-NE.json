@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nebraska, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.00170689999999,
+                  "lng" : -95.30829000000001
+               },
+               "southwest" : {
+                  "lat" : 39.999932,
+                  "lng" : -104.053514
+               }
+            },
+            "location" : {
+               "lat" : 41.4925374,
+               "lng" : -99.9018131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.00170689999999,
+                  "lng" : -95.30829000000001
+               },
+               "southwest" : {
+                  "lat" : 39.999932,
+                  "lng" : -104.053514
+               }
+            }
+         },
+         "place_id" : "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

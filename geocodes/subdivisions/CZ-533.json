@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Svitavy",
+               "short_name" : "Svitavy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Svitavy District",
+               "short_name" : "Svitavy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pardubice Region",
+               "short_name" : "Pardubice Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "568 02",
+               "short_name" : "568 02",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "568 02 Svitavy, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7980076,
+                  "lng" : 16.5134215
+               },
+               "southwest" : {
+                  "lat" : 49.7328451,
+                  "lng" : 16.4294275
+               }
+            },
+            "location" : {
+               "lat" : 49.75516289999999,
+               "lng" : 16.4691861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7980076,
+                  "lng" : 16.5134215
+               },
+               "southwest" : {
+                  "lat" : 49.7328451,
+                  "lng" : 16.4294275
+               }
+            }
+         },
+         "place_id" : "ChIJb96DScmLDUcRQPgVZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

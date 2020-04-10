@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ida-Viru County",
+               "short_name" : "Ida-Viru County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ida-Viru County, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.4701392,
+                  "lng" : 28.208962
+               },
+               "southwest" : {
+                  "lat" : 58.97224209999999,
+                  "lng" : 26.702286
+               }
+            },
+            "location" : {
+               "lat" : 59.25926629999999,
+               "lng" : 27.4136535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.4701392,
+                  "lng" : 28.208962
+               },
+               "southwest" : {
+                  "lat" : 58.97224209999999,
+                  "lng" : 26.702286
+               }
+            }
+         },
+         "place_id" : "ChIJe13Sj0NglEYRQGD8GG2zAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

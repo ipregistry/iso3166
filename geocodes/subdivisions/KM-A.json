@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nzwani",
+               "short_name" : "Nzwani",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Comoros",
+               "short_name" : "KM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nzwani, Comoros",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.069215,
+                  "lng" : 44.5383429
+               },
+               "southwest" : {
+                  "lat" : -12.383372,
+                  "lng" : 44.203657
+               }
+            },
+            "location" : {
+               "lat" : -12.2138145,
+               "lng" : 44.4370606
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.069215,
+                  "lng" : 44.5383429
+               },
+               "southwest" : {
+                  "lat" : -12.383372,
+                  "lng" : 44.203657
+               }
+            }
+         },
+         "place_id" : "ChIJjdDdjAc1oBgRIWRjktKP_DY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

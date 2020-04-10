@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pitcairn Islands",
+               "short_name" : "PN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pitcairn Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.7928845,
+                  "lng" : -124.5410156
+               },
+               "southwest" : {
+                  "lat" : -25.1776023,
+                  "lng" : -130.9268188
+               }
+            },
+            "location" : {
+               "lat" : -24.3767537,
+               "lng" : -128.3242376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.7928845,
+                  "lng" : -124.5410156
+               },
+               "southwest" : {
+                  "lat" : -25.1776023,
+                  "lng" : -130.9268188
+               }
+            }
+         },
+         "place_id" : "ChIJiweo3H8POJ4RyJoVGceMnEY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jonglei",
+               "short_name" : "Jonglei",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Akobo",
+               "short_name" : "Akobo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jonglei",
+               "short_name" : "Jonglei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Sudan",
+               "short_name" : "SS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jonglei, South Sudan",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.837966,
+               "lng" : 31.28277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.8490445,
+                  "lng" : 31.2987774
+               },
+               "southwest" : {
+                  "lat" : 6.8268873,
+                  "lng" : 31.2667626
+               }
+            }
+         },
+         "place_id" : "ChIJwZJriGy9GhcRjkZZjKWY6V4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

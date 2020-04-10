@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "Eastern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sierra Leone",
+               "short_name" : "SL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Province, Sierra Leone",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.069967999999999,
+                  "lng" : -10.2842381
+               },
+               "southwest" : {
+                  "lat" : 7.341372000000001,
+                  "lng" : -11.5805801
+               }
+            },
+            "location" : {
+               "lat" : 8.247377499999999,
+               "lng" : -10.8903099
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.069967999999999,
+                  "lng" : -10.2842381
+               },
+               "southwest" : {
+                  "lat" : 7.341372000000001,
+                  "lng" : -11.5805801
+               }
+            }
+         },
+         "place_id" : "ChIJaxLkGt6YBw8R6wcKfwnftvg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,196 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Couva-Tabaquite-Talparo Regional Corporation",
+               "short_name" : "Couva-Tabaquite-Talparo Regional Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Couva-Tabaquite-Talparo Regional Corporation, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.592795,
+                  "lng" : -61.1990929
+               },
+               "southwest" : {
+                  "lat" : 10.3083459,
+                  "lng" : -61.5027405
+               }
+            },
+            "location" : {
+               "lat" : 10.4297145,
+               "lng" : -61.373521
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.592795,
+                  "lng" : -61.1990929
+               },
+               "southwest" : {
+                  "lat" : 10.3083459,
+                  "lng" : -61.5027405
+               }
+            }
+         },
+         "place_id" : "ChIJHz8XdNv3NYwRtP7y_sR2rH4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Couva",
+               "short_name" : "Couva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Couva-Tabaquite-Talparo Regional Corporation",
+               "short_name" : "Couva-Tabaquite-Talparo Regional Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Couva, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4656991,
+                  "lng" : -61.4136988
+               },
+               "southwest" : {
+                  "lat" : 10.4109364,
+                  "lng" : -61.49811750000001
+               }
+            },
+            "location" : {
+               "lat" : 10.4432986,
+               "lng" : -61.4501987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4656991,
+                  "lng" : -61.4136988
+               },
+               "southwest" : {
+                  "lat" : 10.4109364,
+                  "lng" : -61.49811750000001
+               }
+            }
+         },
+         "place_id" : "ChIJEefBqqDxNYwRXjfmYrQunx4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tabaquite",
+               "short_name" : "Tabaquite",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Couva-Tabaquite-Talparo Regional Corporation",
+               "short_name" : "Couva-Tabaquite-Talparo Regional Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tabaquite, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.3861815,
+                  "lng" : -61.2938404
+               },
+               "southwest" : {
+                  "lat" : 10.3799342,
+                  "lng" : -61.3024235
+               }
+            },
+            "location" : {
+               "lat" : 10.3826543,
+               "lng" : -61.2984221
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.3861815,
+                  "lng" : -61.2938404
+               },
+               "southwest" : {
+                  "lat" : 10.3799342,
+                  "lng" : -61.3024235
+               }
+            }
+         },
+         "place_id" : "ChIJGcKfHY0JSowRVXO6KzETVn8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talparo",
+               "short_name" : "Talparo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Couva-Tabaquite-Talparo Regional Corporation",
+               "short_name" : "Couva-Tabaquite-Talparo Regional Corporation",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Talparo, Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.5197548,
+                  "lng" : -61.2606668
+               },
+               "southwest" : {
+                  "lat" : 10.5058295,
+                  "lng" : -61.2780905
+               }
+            },
+            "location" : {
+               "lat" : 10.5132236,
+               "lng" : -61.2714535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.5197548,
+                  "lng" : -61.2606668
+               },
+               "southwest" : {
+                  "lat" : 10.5058295,
+                  "lng" : -61.2780905
+               }
+            }
+         },
+         "place_id" : "ChIJYy0y3_EGSowRzqCZgx7Dkls",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

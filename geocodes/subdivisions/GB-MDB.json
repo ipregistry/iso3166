@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Middlesbrough, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5915173,
+                  "lng" : -1.1666256
+               },
+               "southwest" : {
+                  "lat" : 54.51755199999999,
+                  "lng" : -1.2794683
+               }
+            },
+            "location" : {
+               "lat" : 54.574227,
+               "lng" : -1.234956
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5915173,
+                  "lng" : -1.1666256
+               },
+               "southwest" : {
+                  "lat" : 54.51755199999999,
+                  "lng" : -1.2794683
+               }
+            }
+         },
+         "place_id" : "ChIJGZCZYVWTfkgRnPrB4yCfg28",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

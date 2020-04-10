@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Svalbard and Jan Mayen",
+               "short_name" : "SJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Svalbard and Jan Mayen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 80.92842569999999,
+                  "lng" : 34.8046879
+               },
+               "southwest" : {
+                  "lat" : 70.4662074,
+                  "lng" : -10.5468752
+               }
+            },
+            "location" : {
+               "lat" : 77.55360399999999,
+               "lng" : 23.6702719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 80.92842569999999,
+                  "lng" : 34.8046879
+               },
+               "southwest" : {
+                  "lat" : 70.4662074,
+                  "lng" : -10.5468752
+               }
+            }
+         },
+         "place_id" : "ChIJgQmY0JVjd0URQdKkzJ42A4U",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

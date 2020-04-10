@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uige",
+               "short_name" : "Uige",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uige",
+               "short_name" : "Uige",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uíge Province",
+               "short_name" : "Uíge Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Angola",
+               "short_name" : "AO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uige, Angola",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.5901119,
+                  "lng" : 15.0770187
+               },
+               "southwest" : {
+                  "lat" : -7.6323089,
+                  "lng" : 15.0356484
+               }
+            },
+            "location" : {
+               "lat" : -7.6102105,
+               "lng" : 15.0615865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.5901119,
+                  "lng" : 15.0770187
+               },
+               "southwest" : {
+                  "lat" : -7.6323089,
+                  "lng" : 15.0356484
+               }
+            }
+         },
+         "place_id" : "ChIJ8dECpZisSBoR-ipPKpsEJ-c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

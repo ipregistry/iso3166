@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pinar del Río",
+               "short_name" : "Pinar del Río",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pinar del Rio",
+               "short_name" : "Pinar del Rio",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pinar del Rio",
+               "short_name" : "Pinar del Rio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pinar del Río, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4633914,
+                  "lng" : -83.6413955
+               },
+               "southwest" : {
+                  "lat" : 22.3613422,
+                  "lng" : -83.74414449999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4133651,
+               "lng" : -83.6880257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4633914,
+                  "lng" : -83.6413955
+               },
+               "southwest" : {
+                  "lat" : 22.3613422,
+                  "lng" : -83.74414449999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1zhQAvqrNI8RHGekflBTeFs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

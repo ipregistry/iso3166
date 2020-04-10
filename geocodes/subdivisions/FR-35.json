@@ -1,0 +1,98 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ille-et-Vilaine",
+               "short_name" : "Ille-et-Vilaine",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ille-et-Vilaine, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.721737,
+                  "lng" : -1.0156211
+               },
+               "southwest" : {
+                  "lat" : 47.631614,
+                  "lng" : -2.289611
+               }
+            },
+            "location" : {
+               "lat" : 48.2292016,
+               "lng" : -1.5300695
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.721737,
+                  "lng" : -1.0156211
+               },
+               "southwest" : {
+                  "lat" : 47.631614,
+                  "lng" : -2.289611
+               }
+            }
+         },
+         "place_id" : "ChIJDaUlkkvcDkgRsCffNs2lDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vilaine",
+               "short_name" : "Vilaine",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vilaine, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1069347,
+                  "lng" : -1.7272818
+               },
+               "southwest" : {
+                  "lat" : 47.48318920000001,
+                  "lng" : -2.3891387
+               }
+            },
+            "location" : {
+               "lat" : 47.672163,
+               "lng" : -2.0345399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1069347,
+                  "lng" : -1.7272818
+               },
+               "southwest" : {
+                  "lat" : 47.48318920000001,
+                  "lng" : -2.3891387
+               }
+            }
+         },
+         "place_id" : "ChIJt45XwfSbD0gRKwLDzr6hnt4",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

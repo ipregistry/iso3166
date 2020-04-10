@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Bačka District",
+               "short_name" : "West Bačka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vojvodina",
+               "short_name" : "Vojvodina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Bačka District, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0410499,
+                  "lng" : 19.6157879
+               },
+               "southwest" : {
+                  "lat" : 45.436847,
+                  "lng" : 18.8493741
+               }
+            },
+            "location" : {
+               "lat" : 45.7355385,
+               "lng" : 19.1897364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0410499,
+                  "lng" : 19.6157879
+               },
+               "southwest" : {
+                  "lat" : 45.436847,
+                  "lng" : 18.8493741
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJObsHLIW1XEcRFPnzgF088b0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arad",
+               "short_name" : "Arad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arad",
+               "short_name" : "Arad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arad County",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arad, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2217118,
+                  "lng" : 21.3823449
+               },
+               "southwest" : {
+                  "lat" : 46.1286903,
+                  "lng" : 21.230371
+               }
+            },
+            "location" : {
+               "lat" : 46.1865606,
+               "lng" : 21.3122677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2217118,
+                  "lng" : 21.3823449
+               },
+               "southwest" : {
+                  "lat" : 46.1286903,
+                  "lng" : 21.230371
+               }
+            }
+         },
+         "place_id" : "ChIJw1lco0uYRUcRkYRVPkoHcA8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

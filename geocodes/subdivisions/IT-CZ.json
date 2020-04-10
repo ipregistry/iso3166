@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catanzaro",
+               "short_name" : "Catanzaro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Catanzaro",
+               "short_name" : "Catanzaro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Catanzaro",
+               "short_name" : "CZ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "88100",
+               "short_name" : "88100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "88100 Catanzaro, Province of Catanzaro, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9497221,
+                  "lng" : 16.6484891
+               },
+               "southwest" : {
+                  "lat" : 38.8153388,
+                  "lng" : 16.5536698
+               }
+            },
+            "location" : {
+               "lat" : 38.90979189999999,
+               "lng" : 16.5876516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9497221,
+                  "lng" : 16.6484891
+               },
+               "southwest" : {
+                  "lat" : 38.8153388,
+                  "lng" : 16.5536698
+               }
+            }
+         },
+         "place_id" : "ChIJD-sUyMIGQBMReDIi44mp3dA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

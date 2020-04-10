@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Armagh",
+               "short_name" : "Armagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Armagh",
+               "short_name" : "Armagh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Armagh City, Banbridge And Craigavon",
+               "short_name" : "Armagh City, Banbridge And Craigavon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Armagh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.36631999999999,
+                  "lng" : -6.62102
+               },
+               "southwest" : {
+                  "lat" : 54.32772000000001,
+                  "lng" : -6.6760899
+               }
+            },
+            "location" : {
+               "lat" : 54.3502798,
+               "lng" : -6.652792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.36631999999999,
+                  "lng" : -6.62102
+               },
+               "southwest" : {
+                  "lat" : 54.32772000000001,
+                  "lng" : -6.6760899
+               }
+            }
+         },
+         "place_id" : "ChIJjRbLfVWNYEgRSBjJzX1jLrk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

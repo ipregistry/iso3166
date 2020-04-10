@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taoudenni",
+               "short_name" : "Taoudenni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tombouctou",
+               "short_name" : "Tombouctou",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tombouctou Region",
+               "short_name" : "Tombouctou Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mali",
+               "short_name" : "ML",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taoudenni, Mali",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6808663,
+                  "lng" : -3.9766646
+               },
+               "southwest" : {
+                  "lat" : 22.6726892,
+                  "lng" : -3.9838635
+               }
+            },
+            "location" : {
+               "lat" : 22.6764132,
+               "lng" : -3.9789143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6808663,
+                  "lng" : -3.9766646
+               },
+               "southwest" : {
+                  "lat" : 22.6726892,
+                  "lng" : -3.9838635
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2bdsPA7k4Q0R0ihl8eLpUMA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

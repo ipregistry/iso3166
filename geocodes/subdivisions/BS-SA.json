@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Andros",
+               "short_name" : "South Andros",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Andros, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.2143591,
+                  "lng" : -77.15807289999999
+               },
+               "southwest" : {
+                  "lat" : 23.6795769,
+                  "lng" : -77.84392489999999
+               }
+            },
+            "location" : {
+               "lat" : 23.9713556,
+               "lng" : -77.6077865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.2143591,
+                  "lng" : -77.15807289999999
+               },
+               "southwest" : {
+                  "lat" : 23.6795769,
+                  "lng" : -77.84392489999999
+               }
+            }
+         },
+         "place_id" : "ChIJqQGyMC-5LokRrasf7PcpNd0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

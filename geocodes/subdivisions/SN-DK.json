@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dakar",
+               "short_name" : "Dakar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guediawaye",
+               "short_name" : "Guediawaye",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dakar Region",
+               "short_name" : "Dakar Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dakar, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.7801142,
+                  "lng" : -17.395069
+               },
+               "southwest" : {
+                  "lat" : 14.6419347,
+                  "lng" : -17.536581
+               }
+            },
+            "location" : {
+               "lat" : 14.716677,
+               "lng" : -17.4676861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.7801142,
+                  "lng" : -17.395069
+               },
+               "southwest" : {
+                  "lat" : 14.6419347,
+                  "lng" : -17.536581
+               }
+            }
+         },
+         "place_id" : "ChIJcbvFs_VywQ4RH7JdLdkXfLE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

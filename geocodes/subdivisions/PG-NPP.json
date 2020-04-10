@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Province",
+               "short_name" : "Northern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Province, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.002542999999999,
+                  "lng" : 149.439636
+               },
+               "southwest" : {
+                  "lat" : -9.977337,
+                  "lng" : 147.0030289
+               }
+            },
+            "location" : {
+               "lat" : -8.8988063,
+               "lng" : 148.1892921
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.002542999999999,
+                  "lng" : 149.439636
+               },
+               "southwest" : {
+                  "lat" : -9.977337,
+                  "lng" : 147.0030289
+               }
+            }
+         },
+         "place_id" : "ChIJ4ZsR731R_WgRon2IfPAy6Xo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

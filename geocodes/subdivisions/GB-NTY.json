@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Shields",
+               "short_name" : "North Shields",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "Tyne and Wear",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Shields, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0387847,
+                  "lng" : -1.426743
+               },
+               "southwest" : {
+                  "lat" : 54.9874537,
+                  "lng" : -1.4975592
+               }
+            },
+            "location" : {
+               "lat" : 55.010762,
+               "lng" : -1.449138
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0387847,
+                  "lng" : -1.426743
+               },
+               "southwest" : {
+                  "lat" : 54.9874537,
+                  "lng" : -1.4975592
+               }
+            }
+         },
+         "place_id" : "ChIJ4VnkDRFufkgRAkgbSvII-k4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

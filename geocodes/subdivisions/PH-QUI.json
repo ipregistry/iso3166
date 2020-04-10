@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quirino",
+               "short_name" : "Quirino",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cagayan Valley",
+               "short_name" : "Cagayan Valley",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quirino, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.6407419,
+                  "lng" : 122.0788
+               },
+               "southwest" : {
+                  "lat" : 15.919651,
+                  "lng" : 121.2916789
+               }
+            },
+            "location" : {
+               "lat" : 16.2700424,
+               "lng" : 121.5370003
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.6407419,
+                  "lng" : 122.0788
+               },
+               "southwest" : {
+                  "lat" : 15.919651,
+                  "lng" : 121.2916789
+               }
+            }
+         },
+         "place_id" : "ChIJEcgKsNeDmjMRq_t8udiSKfE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

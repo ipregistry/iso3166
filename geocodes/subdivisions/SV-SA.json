@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Ana",
+               "short_name" : "Santa Ana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Ana",
+               "short_name" : "Santa Ana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santa Ana Department",
+               "short_name" : "Santa Ana Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "El Salvador",
+               "short_name" : "SV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Ana, El Salvador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.0113614,
+                  "lng" : -89.53943249999999
+               },
+               "southwest" : {
+                  "lat" : 13.9562252,
+                  "lng" : -89.58621029999999
+               }
+            },
+            "location" : {
+               "lat" : 13.9778279,
+               "lng" : -89.56391190000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.0113614,
+                  "lng" : -89.53943249999999
+               },
+               "southwest" : {
+                  "lat" : 13.9562252,
+                  "lng" : -89.58621029999999
+               }
+            }
+         },
+         "place_id" : "ChIJEcZ0j6joYo8RzWeCoc3tTTM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

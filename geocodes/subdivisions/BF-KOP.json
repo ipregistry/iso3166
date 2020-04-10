@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koulpelogo",
+               "short_name" : "Koulpelogo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Est Region",
+               "short_name" : "Centre-Est Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Koulpelogo, Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.7926739,
+                  "lng" : 0.558619
+               },
+               "southwest" : {
+                  "lat" : 11.028617,
+                  "lng" : -0.197487
+               }
+            },
+            "location" : {
+               "lat" : 11.5247674,
+               "lng" : 0.1494988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.7926739,
+                  "lng" : 0.558619
+               },
+               "southwest" : {
+                  "lat" : 11.028617,
+                  "lng" : -0.197487
+               }
+            }
+         },
+         "place_id" : "ChIJ3eDnR0Kc1RERJNTc8TiPXKk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qubadlı",
+               "short_name" : "Qubadlı",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Qubadlı",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3514895,
+                  "lng" : 46.5982533
+               },
+               "southwest" : {
+                  "lat" : 39.3273929,
+                  "lng" : 46.57379150000001
+               }
+            },
+            "location" : {
+               "lat" : 39.3452799,
+               "lng" : 46.5788748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3514895,
+                  "lng" : 46.5982533
+               },
+               "southwest" : {
+                  "lat" : 39.3273929,
+                  "lng" : 46.57379150000001
+               }
+            }
+         },
+         "place_id" : "ChIJW2eNS4j1PUARwBlBLrXo9pA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

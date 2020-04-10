@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lào Cai",
+               "short_name" : "Lào Cai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lao Cai",
+               "short_name" : "Lao Cai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lào Cai, Lao Cai, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.52624,
+                  "lng" : 104.0627539
+               },
+               "southwest" : {
+                  "lat" : 22.31066,
+                  "lng" : 103.8962191
+               }
+            },
+            "location" : {
+               "lat" : 22.4809431,
+               "lng" : 103.9754959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.52624,
+                  "lng" : 104.0627539
+               },
+               "southwest" : {
+                  "lat" : 22.31066,
+                  "lng" : 103.8962191
+               }
+            }
+         },
+         "place_id" : "ChIJE6kSQrUVzTYRBZZqt1iccP4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

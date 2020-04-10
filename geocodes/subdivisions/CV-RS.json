@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ribeira Grande de Santiago",
+               "short_name" : "Ribeira Grande de Santiago",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ribeira Grande de Santiago",
+               "short_name" : "Ribeira Grande de Santiago",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cape Verde",
+               "short_name" : "CV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ribeira Grande de Santiago, Cape Verde",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.0608518,
+                  "lng" : -23.5680772
+               },
+               "southwest" : {
+                  "lat" : 14.9058054,
+                  "lng" : -23.7145042
+               }
+            },
+            "location" : {
+               "lat" : 14.9611932,
+               "lng" : -23.6561725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.0608518,
+                  "lng" : -23.5680772
+               },
+               "southwest" : {
+                  "lat" : 14.9058054,
+                  "lng" : -23.7145042
+               }
+            }
+         },
+         "place_id" : "ChIJ25YCYBKRNQkRYnR-u284ZTc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,88 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolívar",
+               "short_name" : "Bolívar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bolívar, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.481802,
+                  "lng" : -60.272464
+               },
+               "southwest" : {
+                  "lat" : 3.55043,
+                  "lng" : -67.4398899
+               }
+            },
+            "location" : {
+               "lat" : 6.3585216,
+               "lng" : -63.580611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.481802,
+                  "lng" : -60.272464
+               },
+               "southwest" : {
+                  "lat" : 3.55043,
+                  "lng" : -67.4398899
+               }
+            }
+         },
+         "place_id" : "ChIJTyc9aJBTto0RBlSa-c3ZGPw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.6886,
+                  "lng" : -59.805666
+               },
+               "southwest" : {
+                  "lat" : 0.6475291,
+                  "lng" : -73.36703899999999
+               }
+            },
+            "location" : {
+               "lat" : 6.42375,
+               "lng" : -66.58973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.6886,
+                  "lng" : -59.805666
+               },
+               "southwest" : {
+                  "lat" : 0.6475291,
+                  "lng" : -73.36703899999999
+               }
+            }
+         },
+         "place_id" : "ChIJAdjLNstTKIwR003VfFjyoNw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

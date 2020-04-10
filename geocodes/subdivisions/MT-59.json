@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarxien",
+               "short_name" : "Tarxien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarxien, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8737554,
+                  "lng" : 14.5204097
+               },
+               "southwest" : {
+                  "lat" : 35.8615915,
+                  "lng" : 14.5054303
+               }
+            },
+            "location" : {
+               "lat" : 35.8672552,
+               "lng" : 14.5116405
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8737554,
+                  "lng" : 14.5204097
+               },
+               "southwest" : {
+                  "lat" : 35.8615915,
+                  "lng" : 14.5054303
+               }
+            }
+         },
+         "place_id" : "ChIJOypCCORaDhMRFuQTpcNk5hA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tekirdağ",
+               "short_name" : "Tekirdağ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Süleymanpaşa",
+               "short_name" : "Süleymanpaşa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tekirdağ",
+               "short_name" : "Tekirdağ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tekirdağ, Süleymanpaşa/Tekirdağ, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9995439,
+                  "lng" : 27.6462521
+               },
+               "southwest" : {
+                  "lat" : 40.920071,
+                  "lng" : 27.4698089
+               }
+            },
+            "location" : {
+               "lat" : 40.9780919,
+               "lng" : 27.511674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9995439,
+                  "lng" : 27.6462521
+               },
+               "southwest" : {
+                  "lat" : 40.920071,
+                  "lng" : 27.4698089
+               }
+            }
+         },
+         "place_id" : "ChIJ5eQYTB1gtBQRG8tXDBwuVww",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

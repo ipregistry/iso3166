@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkuk",
+               "short_name" : "Kirkuk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kirkuk",
+               "short_name" : "Kirkuk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kirkuk Governorate",
+               "short_name" : "Kirkuk Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirkuk, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5421091,
+                  "lng" : 44.4445038
+               },
+               "southwest" : {
+                  "lat" : 35.3787634,
+                  "lng" : 44.28897860000001
+               }
+            },
+            "location" : {
+               "lat" : 35.4666329,
+               "lng" : 44.3798895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5421091,
+                  "lng" : 44.4445038
+               },
+               "southwest" : {
+                  "lat" : 35.3787634,
+                  "lng" : 44.28897860000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJye13RQPWVBURdaSdXFXEkFg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

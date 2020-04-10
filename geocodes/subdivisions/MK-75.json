@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Teartse",
+               "short_name" : "Teartse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Tearce",
+               "short_name" : "Municipality of Tearce",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "North Macedonia",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Teartse, North Macedonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0861885,
+                  "lng" : 21.0603228
+               },
+               "southwest" : {
+                  "lat" : 42.0697506,
+                  "lng" : 21.0445913
+               }
+            },
+            "location" : {
+               "lat" : 42.0777511,
+               "lng" : 21.0534923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0861885,
+                  "lng" : 21.0603228
+               },
+               "southwest" : {
+                  "lat" : 42.0697506,
+                  "lng" : 21.0445913
+               }
+            }
+         },
+         "place_id" : "ChIJpRs2n671UxMRxrGaAig8MtU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

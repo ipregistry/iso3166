@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Extremadura",
+               "short_name" : "EX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Extremadura, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.48665130000001,
+                  "lng" : -4.6475773
+               },
+               "southwest" : {
+                  "lat" : 37.941026,
+                  "lng" : -7.54168
+               }
+            },
+            "location" : {
+               "lat" : 39.4937392,
+               "lng" : -6.0679194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.48665130000001,
+                  "lng" : -4.6475773
+               },
+               "southwest" : {
+                  "lat" : 37.941026,
+                  "lng" : -7.54168
+               }
+            }
+         },
+         "place_id" : "ChIJly2BrUTKFQ0RMMifjP1jBAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

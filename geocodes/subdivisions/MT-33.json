@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mqabba",
+               "short_name" : "Mqabba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mqabba, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.852657,
+                  "lng" : 14.4819117
+               },
+               "southwest" : {
+                  "lat" : 35.8387596,
+                  "lng" : 14.4505619
+               }
+            },
+            "location" : {
+               "lat" : 35.8444143,
+               "lng" : 14.4694186
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.852657,
+                  "lng" : 14.4819117
+               },
+               "southwest" : {
+                  "lat" : 35.8387596,
+                  "lng" : 14.4505619
+               }
+            }
+         },
+         "place_id" : "ChIJefoNUINQDhMR7ttCy-D1zFQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

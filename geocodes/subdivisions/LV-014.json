@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baltinava Municipality",
+               "short_name" : "Baltinava Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Baltinavas novads",
+               "short_name" : "Baltinavas novads",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4594",
+               "short_name" : "4594",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baltinava Municipality, Baltinavas novads, LV-4594, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.012469,
+                  "lng" : 27.7698728
+               },
+               "southwest" : {
+                  "lat" : 56.8317789,
+                  "lng" : 27.4029589
+               }
+            },
+            "location" : {
+               "lat" : 56.94584680000001,
+               "lng" : 27.6441066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.012469,
+                  "lng" : 27.7698728
+               },
+               "southwest" : {
+                  "lat" : 56.8317789,
+                  "lng" : 27.4029589
+               }
+            }
+         },
+         "place_id" : "ChIJZ30s8cbxwUYRcP3yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

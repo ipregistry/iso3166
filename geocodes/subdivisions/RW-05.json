@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Province",
+               "short_name" : "Southern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Rwanda",
+               "short_name" : "RW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Province, Rwanda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.7311776,
+                  "lng" : 30.0208101
+               },
+               "southwest" : {
+                  "lat" : -2.8399727,
+                  "lng" : 29.2646534
+               }
+            },
+            "location" : {
+               "lat" : -2.5546618,
+               "lng" : 29.6035495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.7311776,
+                  "lng" : 30.0208101
+               },
+               "southwest" : {
+                  "lat" : -2.8399727,
+                  "lng" : 29.2646534
+               }
+            }
+         },
+         "place_id" : "ChIJGx6PxyW73BkR9BK5YFta4dw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

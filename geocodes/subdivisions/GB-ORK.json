@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orkney",
+               "short_name" : "Orkney",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orkney, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.3997353,
+                  "lng" : -2.3680246
+               },
+               "southwest" : {
+                  "lat" : 58.6729917,
+                  "lng" : -4.507253700000001
+               }
+            },
+            "location" : {
+               "lat" : 58.9809401,
+               "lng" : -2.9605206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3997353,
+                  "lng" : -2.3680246
+               },
+               "southwest" : {
+                  "lat" : 58.6729917,
+                  "lng" : -4.507253700000001
+               }
+            }
+         },
+         "place_id" : "ChIJHxJB75Ofm0gRULBCBhpoDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

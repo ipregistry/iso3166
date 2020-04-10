@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Macclesfield",
+               "short_name" : "Macclesfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Macclesfield",
+               "short_name" : "Macclesfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Macclesfield, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2864766,
+                  "lng" : -2.0696756
+               },
+               "southwest" : {
+                  "lat" : 53.2358092,
+                  "lng" : -2.1857651
+               }
+            },
+            "location" : {
+               "lat" : 53.258663,
+               "lng" : -2.119287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2864766,
+                  "lng" : -2.0696756
+               },
+               "southwest" : {
+                  "lat" : 53.2358092,
+                  "lng" : -2.1857651
+               }
+            }
+         },
+         "place_id" : "ChIJEWdikwg2ekgRmY4Hn5Jk4sE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

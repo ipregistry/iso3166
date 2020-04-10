@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balaka",
+               "short_name" : "Balaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Balaka",
+               "short_name" : "Balaka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Southern Region",
+               "short_name" : "Southern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malawi",
+               "short_name" : "MW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Balaka, Malawi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.9766781,
+                  "lng" : 34.9850202
+               },
+               "southwest" : {
+                  "lat" : -15.0083795,
+                  "lng" : 34.9307894
+               }
+            },
+            "location" : {
+               "lat" : -14.9876054,
+               "lng" : 34.9561748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.9766781,
+                  "lng" : 34.9850202
+               },
+               "southwest" : {
+                  "lat" : -15.0083795,
+                  "lng" : 34.9307894
+               }
+            }
+         },
+         "place_id" : "ChIJCdH_i33M2BgRGd5g-efXJhY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

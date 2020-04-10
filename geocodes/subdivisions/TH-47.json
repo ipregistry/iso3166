@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sakhon Nakhon",
+               "short_name" : "Sakhon Nakhon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "That Choeng Chum",
+               "short_name" : "ต.ธาตุเชิงชุม",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mueang Sakon Nakhon District",
+               "short_name" : "Mueang Sakon Nakhon District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sakon Nakhon",
+               "short_name" : "จ.สกลนคร",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47000",
+               "short_name" : "47000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sakhon Nakhon, That Choeng Chum, Mueang Sakon Nakhon District, Sakon Nakhon 47000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.1913109,
+                  "lng" : 104.1895558
+               },
+               "southwest" : {
+                  "lat" : 17.1523371,
+                  "lng" : 104.1334662
+               }
+            },
+            "location" : {
+               "lat" : 17.1664211,
+               "lng" : 104.1486055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.1913109,
+                  "lng" : 104.1895558
+               },
+               "southwest" : {
+                  "lat" : 17.1523371,
+                  "lng" : 104.1334662
+               }
+            }
+         },
+         "place_id" : "ChIJe5VDXSvzPDERsihN-jOlAow",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

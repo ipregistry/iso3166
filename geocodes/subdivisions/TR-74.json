@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bartın",
+               "short_name" : "Bartın",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bartın Merkez",
+               "short_name" : "Bartın Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bartın",
+               "short_name" : "Bartın",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bartın, Bartın Merkez/Bartın, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.654625,
+                  "lng" : 32.371593
+               },
+               "southwest" : {
+                  "lat" : 41.604933,
+                  "lng" : 32.3046409
+               }
+            },
+            "location" : {
+               "lat" : 41.637602,
+               "lng" : 32.333811
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.654625,
+                  "lng" : 32.371593
+               },
+               "southwest" : {
+                  "lat" : 41.604933,
+                  "lng" : 32.3046409
+               }
+            }
+         },
+         "place_id" : "ChIJTfuoXjNym0ARr32x03SgIHg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

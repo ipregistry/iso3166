@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Province of Pesaro and Urbino",
+               "short_name" : "PU",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marche",
+               "short_name" : "Marche",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Province of Pesaro and Urbino, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9695639,
+                  "lng" : 13.1733907
+               },
+               "southwest" : {
+                  "lat" : 43.4165762,
+                  "lng" : 12.1854509
+               }
+            },
+            "location" : {
+               "lat" : 43.6130118,
+               "lng" : 12.7135121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9695639,
+                  "lng" : 13.1733907
+               },
+               "southwest" : {
+                  "lat" : 43.4165762,
+                  "lng" : 12.1854509
+               }
+            }
+         },
+         "place_id" : "ChIJNdnoR-NXLBMR8H_k45AsCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Urbino",
+               "short_name" : "Urbino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Urbino",
+               "short_name" : "Urbino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Pesaro and Urbino",
+               "short_name" : "PU",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marche",
+               "short_name" : "Marche",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61029",
+               "short_name" : "61029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "61029 Urbino, Province of Pesaro and Urbino, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7470408,
+                  "lng" : 12.6467963
+               },
+               "southwest" : {
+                  "lat" : 43.71142680000001,
+                  "lng" : 12.6140442
+               }
+            },
+            "location" : {
+               "lat" : 43.7262567,
+               "lng" : 12.6365633
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7470408,
+                  "lng" : 12.6467963
+               },
+               "southwest" : {
+                  "lat" : 43.71142680000001,
+                  "lng" : 12.6140442
+               }
+            }
+         },
+         "place_id" : "ChIJ49nU2S_4LBMRHCpL26R1Wts",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

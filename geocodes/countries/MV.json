@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maldives",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.5149809,
+                  "lng" : 74.7290038
+               },
+               "southwest" : {
+                  "lat" : -1.2907844,
+                  "lng" : 71.75170899999999
+               }
+            },
+            "location" : {
+               "lat" : 3.202778,
+               "lng" : 73.22068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.5149809,
+                  "lng" : 74.7290038
+               },
+               "southwest" : {
+                  "lat" : -1.2907844,
+                  "lng" : 71.75170899999999
+               }
+            }
+         },
+         "place_id" : "ChIJvXv7qr-ZtSQRiWKVgeEJRUE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

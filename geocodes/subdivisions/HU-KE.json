@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Komárom",
+               "short_name" : "Komárom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Komárom, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.75665499999999,
+                  "lng" : 18.2301799
+               },
+               "southwest" : {
+                  "lat" : 47.68579099999999,
+                  "lng" : 18.016753
+               }
+            },
+            "location" : {
+               "lat" : 47.7390852,
+               "lng" : 18.1267006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.75665499999999,
+                  "lng" : 18.2301799
+               },
+               "southwest" : {
+                  "lat" : 47.68579099999999,
+                  "lng" : 18.016753
+               }
+            }
+         },
+         "place_id" : "ChIJdSzwQy9NakcRIBkeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

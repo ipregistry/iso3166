@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yalova",
+               "short_name" : "Yalova",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yalova Merkez",
+               "short_name" : "Yalova Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yalova",
+               "short_name" : "Yalova",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yalova, Yalova Merkez/Yalova, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.66774710000001,
+                  "lng" : 29.3222531
+               },
+               "southwest" : {
+                  "lat" : 40.619459,
+                  "lng" : 29.2101229
+               }
+            },
+            "location" : {
+               "lat" : 40.654895,
+               "lng" : 29.284186
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.66774710000001,
+                  "lng" : 29.3222531
+               },
+               "southwest" : {
+                  "lat" : 40.619459,
+                  "lng" : 29.2101229
+               }
+            }
+         },
+         "place_id" : "ChIJsUxrKMz6yhQR0NHF-Jm1CrY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Noonu Atoll",
+               "short_name" : "Noonu Atoll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Province",
+               "short_name" : "North Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Maldives",
+               "short_name" : "MV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Noonu Atoll, Maldives",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.017227000000001,
+                  "lng" : 73.5071181
+               },
+               "southwest" : {
+                  "lat" : 5.6204277,
+                  "lng" : 73.102684
+               }
+            },
+            "location" : {
+               "lat" : 5.855127599999999,
+               "lng" : 73.323708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.017227000000001,
+                  "lng" : 73.5071181
+               },
+               "southwest" : {
+                  "lat" : 5.6204277,
+                  "lng" : 73.102684
+               }
+            }
+         },
+         "place_id" : "ChIJjZycRrlPazsR8osMF18nWFo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

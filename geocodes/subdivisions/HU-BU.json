@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budapest, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6130119,
+                  "lng" : 19.3345049
+               },
+               "southwest" : {
+                  "lat" : 47.349415,
+                  "lng" : 18.9261011
+               }
+            },
+            "location" : {
+               "lat" : 47.4763392,
+               "lng" : 19.0652774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6130119,
+                  "lng" : 19.3345049
+               },
+               "southwest" : {
+                  "lat" : 47.349415,
+                  "lng" : 18.9261011
+               }
+            }
+         },
+         "place_id" : "ChIJyc_U0TTDQUcRYBAeDCnEAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

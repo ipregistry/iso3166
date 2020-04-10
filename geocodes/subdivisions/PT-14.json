@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santarem",
+               "short_name" : "Santarem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santarém District",
+               "short_name" : "Santarém District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santarem, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2869109,
+                  "lng" : -8.6244768
+               },
+               "southwest" : {
+                  "lat" : 39.1687465,
+                  "lng" : -8.749491799999999
+               }
+            },
+            "location" : {
+               "lat" : 39.2366618,
+               "lng" : -8.686011900000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2869109,
+                  "lng" : -8.6244768
+               },
+               "southwest" : {
+                  "lat" : 39.1687465,
+                  "lng" : -8.749491799999999
+               }
+            }
+         },
+         "place_id" : "ChIJm9eOSHLuGA0Rkp3ZqNatBvQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nasarawa",
+               "short_name" : "Nasarawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nassarawa",
+               "short_name" : "Nassarawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nasarawa",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nasarawa, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.5643004,
+                  "lng" : 7.727334699999999
+               },
+               "southwest" : {
+                  "lat" : 8.526872000000001,
+                  "lng" : 7.700268500000001
+               }
+            },
+            "location" : {
+               "lat" : 8.5474692,
+               "lng" : 7.7118003
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.5643004,
+                  "lng" : 7.727334699999999
+               },
+               "southwest" : {
+                  "lat" : 8.526872000000001,
+                  "lng" : 7.700268500000001
+               }
+            }
+         },
+         "place_id" : "ChIJcS391hIpThARh73sTTt9xg8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

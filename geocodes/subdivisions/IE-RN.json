@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roscommon",
+               "short_name" : "Roscommon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Roscommon",
+               "short_name" : "County Roscommon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Roscommon, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.63941999999999,
+                  "lng" : -8.16418
+               },
+               "southwest" : {
+                  "lat" : 53.6117699,
+                  "lng" : -8.207129999999999
+               }
+            },
+            "location" : {
+               "lat" : 53.6275906,
+               "lng" : -8.189095499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.63941999999999,
+                  "lng" : -8.16418
+               },
+               "southwest" : {
+                  "lat" : 53.6117699,
+                  "lng" : -8.207129999999999
+               }
+            }
+         },
+         "place_id" : "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

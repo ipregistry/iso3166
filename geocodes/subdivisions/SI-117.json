@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šenčur",
+               "short_name" : "Šenčur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Šenčur",
+               "short_name" : "Šenčur",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4208",
+               "short_name" : "4208",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4208 Šenčur, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.25425420000001,
+                  "lng" : 14.4447634
+               },
+               "southwest" : {
+                  "lat" : 46.2210118,
+                  "lng" : 14.396405
+               }
+            },
+            "location" : {
+               "lat" : 46.2433699,
+               "lng" : 14.4192223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.25425420000001,
+                  "lng" : 14.4447634
+               },
+               "southwest" : {
+                  "lat" : 46.2210118,
+                  "lng" : 14.396405
+               }
+            }
+         },
+         "place_id" : "ChIJRyjUCze2ekcRYpvVPV6849s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

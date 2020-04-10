@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Salvador",
+               "short_name" : "San Salvador",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Salvador, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.125347,
+                  "lng" : -74.4290041
+               },
+               "southwest" : {
+                  "lat" : 23.9416628,
+                  "lng" : -74.5691329
+               }
+            },
+            "location" : {
+               "lat" : 24.0775546,
+               "lng" : -74.4760088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.125347,
+                  "lng" : -74.4290041
+               },
+               "southwest" : {
+                  "lat" : 23.9416628,
+                  "lng" : -74.5691329
+               }
+            }
+         },
+         "place_id" : "ChIJTfSeBuDjNokRQg3aoIA5h0s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

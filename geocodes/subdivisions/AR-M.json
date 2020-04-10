@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mendoza",
+               "short_name" : "Mendoza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital Department",
+               "short_name" : "Capital Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mendoza Province",
+               "short_name" : "Mendoza Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mendoza, Capital Department, Mendoza Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.86214,
+                  "lng" : -68.81727000000001
+               },
+               "southwest" : {
+                  "lat" : -32.9045304,
+                  "lng" : -68.8997682
+               }
+            },
+            "location" : {
+               "lat" : -32.8894587,
+               "lng" : -68.84583859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.86214,
+                  "lng" : -68.81727000000001
+               },
+               "southwest" : {
+                  "lat" : -32.9045304,
+                  "lng" : -68.8997682
+               }
+            }
+         },
+         "place_id" : "ChIJv3lRxD4JfpYROvoO0vZ4WiA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

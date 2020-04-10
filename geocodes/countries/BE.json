@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5051449,
+                  "lng" : 6.408124099999999
+               },
+               "southwest" : {
+                  "lat" : 49.497013,
+                  "lng" : 2.5240999
+               }
+            },
+            "location" : {
+               "lat" : 50.503887,
+               "lng" : 4.469936
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5051449,
+                  "lng" : 6.408124099999999
+               },
+               "southwest" : {
+                  "lat" : 49.497013,
+                  "lng" : 2.5240999
+               }
+            }
+         },
+         "place_id" : "ChIJl5fz7WR9wUcR8g_mObTy60c",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brčko District",
+               "short_name" : "Brčko District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brčko District, Bosnia and Herzegovina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.96617029999999,
+                  "lng" : 19.0243675
+               },
+               "southwest" : {
+                  "lat" : 44.7224865,
+                  "lng" : 18.5134666
+               }
+            },
+            "location" : {
+               "lat" : 44.8405944,
+               "lng" : 18.742153
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96617029999999,
+                  "lng" : 19.0243675
+               },
+               "southwest" : {
+                  "lat" : 44.7224865,
+                  "lng" : 18.5134666
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQduwW0YJXEcRj9QJvVfpCpc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

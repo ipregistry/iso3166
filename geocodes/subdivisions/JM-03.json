@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Thomas Parish",
+               "short_name" : "Saint Thomas Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "JM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Thomas Parish, Jamaica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.087991,
+                  "lng" : -76.18032099999999
+               },
+               "southwest" : {
+                  "lat" : 17.846258,
+                  "lng" : -76.665054
+               }
+            },
+            "location" : {
+               "lat" : 17.9700261,
+               "lng" : -76.4331698
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.087991,
+                  "lng" : -76.18032099999999
+               },
+               "southwest" : {
+                  "lat" : 17.846258,
+                  "lng" : -76.665054
+               }
+            }
+         },
+         "place_id" : "ChIJNbJCife2xI4RWMDyana3RrQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

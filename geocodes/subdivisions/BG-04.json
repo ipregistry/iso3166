@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veliko Tarnovo",
+               "short_name" : "Veliko Tarnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Veliko Tarnovo Province",
+               "short_name" : "Veliko Tarnovo Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Veliko Tarnovo, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1103064,
+                  "lng" : 25.6943964
+               },
+               "southwest" : {
+                  "lat" : 43.0578391,
+                  "lng" : 25.5718485
+               }
+            },
+            "location" : {
+               "lat" : 43.0756739,
+               "lng" : 25.6171514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1103064,
+                  "lng" : 25.6943964
+               },
+               "southwest" : {
+                  "lat" : 43.0578391,
+                  "lng" : 25.5718485
+               }
+            }
+         },
+         "place_id" : "ChIJ3ZGUPUshqUARwF2_aRKgAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

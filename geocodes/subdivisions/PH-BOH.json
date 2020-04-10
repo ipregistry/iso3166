@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bohol",
+               "short_name" : "Bohol",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Bohol",
+               "short_name" : "Bohol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Visayas",
+               "short_name" : "Central Visayas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bohol, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.1734323,
+                  "lng" : 124.5974167
+               },
+               "southwest" : {
+                  "lat" : 9.588040099999999,
+                  "lng" : 123.7834366
+               }
+            },
+            "location" : {
+               "lat" : 9.88904,
+               "lng" : 124.218078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.1734323,
+                  "lng" : 124.5974167
+               },
+               "southwest" : {
+                  "lat" : 9.588040099999999,
+                  "lng" : 123.7834366
+               }
+            }
+         },
+         "place_id" : "ChIJUSH3P-gXqjMRCTUB7nEO318",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,39 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haʻapai",
+               "short_name" : "Haʻapai",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Tonga",
+               "short_name" : "TO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haʻapai, Tonga",
+         "geometry" : {
+            "location" : {
+               "lat" : -19.75,
+               "lng" : -174.366667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.739498,
+                  "lng" : -174.3506596
+               },
+               "southwest" : {
+                  "lat" : -19.7605013,
+                  "lng" : -174.3826744
+               }
+            }
+         },
+         "place_id" : "ChIJhXb7uUVxjXERZa4bw-jrzSA",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

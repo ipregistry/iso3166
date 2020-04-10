@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Benešov",
+               "short_name" : "Benešov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benešov District",
+               "short_name" : "Benešov District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "256 01",
+               "short_name" : "256 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "256 01 Benešov, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8293244,
+                  "lng" : 14.7720711
+               },
+               "southwest" : {
+                  "lat" : 49.7512045,
+                  "lng" : 14.6168796
+               }
+            },
+            "location" : {
+               "lat" : 49.7837821,
+               "lng" : 14.6873699
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8293244,
+                  "lng" : 14.7720711
+               },
+               "southwest" : {
+                  "lat" : 49.7512045,
+                  "lng" : 14.6168796
+               }
+            }
+         },
+         "place_id" : "ChIJJ9er2Q5_DEcRYLkUZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

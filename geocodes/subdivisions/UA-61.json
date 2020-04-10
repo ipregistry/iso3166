@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ternopil Oblast",
+               "short_name" : "Ternopil Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ternopil Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.267215,
+                  "lng" : 26.4434051
+               },
+               "southwest" : {
+                  "lat" : 48.507534,
+                  "lng" : 24.718486
+               }
+            },
+            "location" : {
+               "lat" : 49.553517,
+               "lng" : 25.594767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.267215,
+                  "lng" : 26.4434051
+               },
+               "southwest" : {
+                  "lat" : 48.507534,
+                  "lng" : 24.718486
+               }
+            }
+         },
+         "place_id" : "ChIJZdKe1ltLMEcRUED2iIQGAQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

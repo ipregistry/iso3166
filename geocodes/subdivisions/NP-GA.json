@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tanahun",
+               "short_name" : "Tanahun",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Development Region",
+               "short_name" : "Western Development Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tanahun, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1313387,
+                  "lng" : 84.5586776
+               },
+               "southwest" : {
+                  "lat" : 27.7412768,
+                  "lng" : 83.9362335
+               }
+            },
+            "location" : {
+               "lat" : 27.944705,
+               "lng" : 84.22787959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1313387,
+                  "lng" : 84.5586776
+               },
+               "southwest" : {
+                  "lat" : 27.7412768,
+                  "lng" : 83.9362335
+               }
+            }
+         },
+         "place_id" : "ChIJtWaW1gqplTkRSG6PDk48588",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

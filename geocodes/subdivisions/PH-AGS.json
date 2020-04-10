@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agusan River",
+               "short_name" : "Agusan River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Caraga",
+               "short_name" : "Caraga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Agusan River, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.0218478,
+                  "lng" : 126.0458437
+               },
+               "southwest" : {
+                  "lat" : 7.997188299999999,
+                  "lng" : 125.5110513
+               }
+            },
+            "location" : {
+               "lat" : 8.507677599999999,
+               "lng" : 125.7336489
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.0218478,
+                  "lng" : 126.0458437
+               },
+               "southwest" : {
+                  "lat" : 7.997188299999999,
+                  "lng" : 125.5110513
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz6tZ2D11_jIRWDvd6shCNsg",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

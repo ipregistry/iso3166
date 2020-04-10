@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antrim And Newtownabbey",
+               "short_name" : "Antrim And Newtownabbey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antrim And Newtownabbey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.809323,
+                  "lng" : -5.8795448
+               },
+               "southwest" : {
+                  "lat" : 54.57335579999999,
+                  "lng" : -6.488803
+               }
+            },
+            "location" : {
+               "lat" : 54.6722244,
+               "lng" : -6.1703968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.809323,
+                  "lng" : -5.8795448
+               },
+               "southwest" : {
+                  "lat" : 54.57335579999999,
+                  "lng" : -6.488803
+               }
+            }
+         },
+         "place_id" : "ChIJ-QsErn2rYUgR-WEb8k5G8Bw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

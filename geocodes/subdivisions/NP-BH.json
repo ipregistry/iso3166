@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Development Region",
+               "short_name" : "Mid-Western Development Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bheri, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.135872,
+                  "lng" : 82.45864910000002
+               },
+               "southwest" : {
+                  "lat" : 27.85854,
+                  "lng" : 80.98443600000002
+               }
+            },
+            "location" : {
+               "lat" : 28.517456,
+               "lng" : 81.77870209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.135872,
+                  "lng" : 82.45864910000002
+               },
+               "southwest" : {
+                  "lat" : 27.85854,
+                  "lng" : 80.98443600000002
+               }
+            }
+         },
+         "place_id" : "ChIJo8oaeJOUojkRbjX5RtNK0jA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

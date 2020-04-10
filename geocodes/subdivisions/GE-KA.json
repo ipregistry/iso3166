@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kakheti",
+               "short_name" : "Kakheti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kakheti, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.564198,
+                  "lng" : 46.7213589
+               },
+               "southwest" : {
+                  "lat" : 41.054942,
+                  "lng" : 45.0147509
+               }
+            },
+            "location" : {
+               "lat" : 41.6481602,
+               "lng" : 45.6905554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.564198,
+                  "lng" : 46.7213589
+               },
+               "southwest" : {
+                  "lat" : 41.054942,
+                  "lng" : 45.0147509
+               }
+            }
+         },
+         "place_id" : "ChIJjz_Er0aHRkARtNzn412bT_0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

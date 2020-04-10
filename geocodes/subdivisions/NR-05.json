@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baiti",
+               "short_name" : "Baiti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nauru",
+               "short_name" : "NR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baiti, Nauru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.506023,
+                  "lng" : 166.941229
+               },
+               "southwest" : {
+                  "lat" : -0.5243401,
+                  "lng" : 166.92586
+               }
+            },
+            "location" : {
+               "lat" : -0.5133158,
+               "lng" : 166.9311761
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.506023,
+                  "lng" : 166.941229
+               },
+               "southwest" : {
+                  "lat" : -0.5243401,
+                  "lng" : 166.92586
+               }
+            }
+         },
+         "place_id" : "ChIJjd7MHvYbfW8RaVtmDJj90Sw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

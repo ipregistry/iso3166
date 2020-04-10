@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balkan",
+               "short_name" : "Balkan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkmenistan",
+               "short_name" : "TM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Balkan, Turkmenistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3434979,
+                  "lng" : 57.19972600000001
+               },
+               "southwest" : {
+                  "lat" : 37.320029,
+                  "lng" : 52.4453767
+               }
+            },
+            "location" : {
+               "lat" : 40.9468884,
+               "lng" : 54.4952433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3434979,
+                  "lng" : 57.19972600000001
+               },
+               "southwest" : {
+                  "lat" : 37.320029,
+                  "lng" : 52.4453767
+               }
+            }
+         },
+         "place_id" : "ChIJaeolWIv_KkARdJtx7a_WlxM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

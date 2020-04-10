@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Eritrea",
+               "short_name" : "ER",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central, Eritrea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.587143,
+                  "lng" : 39.0490999
+               },
+               "southwest" : {
+                  "lat" : 15.116929,
+                  "lng" : 38.693163
+               }
+            },
+            "location" : {
+               "lat" : 15.3551409,
+               "lng" : 38.8623683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.587143,
+                  "lng" : 39.0490999
+               },
+               "southwest" : {
+                  "lat" : 15.116929,
+                  "lng" : 38.693163
+               }
+            }
+         },
+         "place_id" : "ChIJt647nC7wbRYRhv6VS8odU6A",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

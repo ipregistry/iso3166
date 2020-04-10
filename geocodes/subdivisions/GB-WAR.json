@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warwickshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warwickshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6872436,
+                  "lng" : -1.1721404
+               },
+               "southwest" : {
+                  "lat" : 51.95539369999999,
+                  "lng" : -1.9620066
+               }
+            },
+            "location" : {
+               "lat" : 52.2671353,
+               "lng" : -1.4675216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6872436,
+                  "lng" : -1.1721404
+               },
+               "southwest" : {
+                  "lat" : 51.95539369999999,
+                  "lng" : -1.9620066
+               }
+            }
+         },
+         "place_id" : "ChIJc3FBGy2UcEgRInoraUpRIAo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

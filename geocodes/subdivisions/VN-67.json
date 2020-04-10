@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nam Định",
+               "short_name" : "Nam Định",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nam Dinh",
+               "short_name" : "Nam Dinh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nam Định, Nam Dinh, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.459585,
+                  "lng" : 106.2161637
+               },
+               "southwest" : {
+                  "lat" : 20.3759291,
+                  "lng" : 106.11763
+               }
+            },
+            "location" : {
+               "lat" : 20.4388225,
+               "lng" : 106.1621053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.459585,
+                  "lng" : 106.2161637
+               },
+               "southwest" : {
+                  "lat" : 20.3759291,
+                  "lng" : 106.11763
+               }
+            }
+         },
+         "place_id" : "ChIJzfHVuK3gNTERYnTmALq69LU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

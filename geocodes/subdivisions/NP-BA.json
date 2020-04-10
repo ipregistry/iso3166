@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rasuwa",
+               "short_name" : "Rasuwa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Development Region",
+               "short_name" : "Central Development Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rasuwa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3486548,
+                  "lng" : 85.72485929999999
+               },
+               "southwest" : {
+                  "lat" : 27.9724206,
+                  "lng" : 85.0249958
+               }
+            },
+            "location" : {
+               "lat" : 28.1727326,
+               "lng" : 85.31362179999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3486548,
+                  "lng" : 85.72485929999999
+               },
+               "southwest" : {
+                  "lat" : 27.9724206,
+                  "lng" : 85.0249958
+               }
+            }
+         },
+         "place_id" : "ChIJD3qnHGrs6jkR6BjPvGH8sO8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anambra",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anambra, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.753428899999999,
+                  "lng" : 7.339062900000001
+               },
+               "southwest" : {
+                  "lat" : 5.721829,
+                  "lng" : 6.6336201
+               }
+            },
+            "location" : {
+               "lat" : 6.220899699999999,
+               "lng" : 6.9369559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.753428899999999,
+                  "lng" : 7.339062900000001
+               },
+               "southwest" : {
+                  "lat" : 5.721829,
+                  "lng" : 6.6336201
+               }
+            }
+         },
+         "place_id" : "ChIJ-cKEFhqFQxAR0LT76AGtYs8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

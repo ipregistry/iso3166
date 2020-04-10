@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osilnica",
+               "short_name" : "Osilnica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osilnica",
+               "short_name" : "Osilnica",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kočevje",
+               "short_name" : "Kočevje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1337",
+               "short_name" : "1337",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1337 Osilnica, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5413028,
+                  "lng" : 14.7123838
+               },
+               "southwest" : {
+                  "lat" : 45.5253378,
+                  "lng" : 14.6939524
+               }
+            },
+            "location" : {
+               "lat" : 45.5291637,
+               "lng" : 14.6984205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5413028,
+                  "lng" : 14.7123838
+               },
+               "southwest" : {
+                  "lat" : 45.5253378,
+                  "lng" : 14.6939524
+               }
+            }
+         },
+         "place_id" : "ChIJARIp5I2UZEcRvhU781EAmVY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

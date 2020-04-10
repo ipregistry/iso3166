@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akmola Province",
+               "short_name" : "Akmola Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akmola Province, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.708545,
+                  "lng" : 74.19755889999999
+               },
+               "southwest" : {
+                  "lat" : 50.111386,
+                  "lng" : 65.2571501
+               }
+            },
+            "location" : {
+               "lat" : 51.916532,
+               "lng" : 69.4110494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.708545,
+                  "lng" : 74.19755889999999
+               },
+               "southwest" : {
+                  "lat" : 50.111386,
+                  "lng" : 65.2571501
+               }
+            }
+         },
+         "place_id" : "ChIJEeO49_o5SUIRLq2115NPy_E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

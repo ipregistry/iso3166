@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Milan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milan, Metropolitan City of Milan, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.535689,
+                  "lng" : 9.2903463
+               },
+               "southwest" : {
+                  "lat" : 45.3897787,
+                  "lng" : 9.065118199999999
+               }
+            },
+            "location" : {
+               "lat" : 45.4642035,
+               "lng" : 9.189982000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.535689,
+                  "lng" : 9.2903463
+               },
+               "southwest" : {
+                  "lat" : 45.3897787,
+                  "lng" : 9.065118199999999
+               }
+            }
+         },
+         "place_id" : "ChIJ53USP0nBhkcRjQ50xhPN_zw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

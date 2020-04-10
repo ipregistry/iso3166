@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Camarines Norte",
+               "short_name" : "Camarines Norte",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bicol",
+               "short_name" : "Bicol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Camarines Norte, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.50116,
+                  "lng" : 123.135621
+               },
+               "southwest" : {
+                  "lat" : 13.837452,
+                  "lng" : 122.299146
+               }
+            },
+            "location" : {
+               "lat" : 14.1390265,
+               "lng" : 122.7633036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.50116,
+                  "lng" : 123.135621
+               },
+               "southwest" : {
+                  "lat" : 13.837452,
+                  "lng" : 122.299146
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkdZKSgqYmDMRh2ji-qiRr24",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osun River",
+               "short_name" : "Osun River",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Osun River, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.805013099999999,
+                  "lng" : 4.6553679
+               },
+               "southwest" : {
+                  "lat" : 6.5618972,
+                  "lng" : 4.028678
+               }
+            },
+            "location" : {
+               "lat" : 7.2604383,
+               "lng" : 4.125039399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.805013099999999,
+                  "lng" : 4.6553679
+               },
+               "southwest" : {
+                  "lat" : 6.5618972,
+                  "lng" : 4.028678
+               }
+            }
+         },
+         "place_id" : "ChIJ_ZYaHq6uORAR-msSOQGI3uY",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

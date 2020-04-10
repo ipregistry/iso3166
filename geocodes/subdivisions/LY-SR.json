@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sirte",
+               "short_name" : "Sirte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sirte District",
+               "short_name" : "Sirte District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sirte, Libya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.2135519,
+                  "lng" : 16.6286411
+               },
+               "southwest" : {
+                  "lat" : 31.156979,
+                  "lng" : 16.5155527
+               }
+            },
+            "location" : {
+               "lat" : 31.189689,
+               "lng" : 16.5701927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2135519,
+                  "lng" : 16.6286411
+               },
+               "southwest" : {
+                  "lat" : 31.156979,
+                  "lng" : 16.5155527
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJddDo-uB-mBMRVm01wfSqpXc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

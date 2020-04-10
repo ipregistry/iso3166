@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Namosi",
+               "short_name" : "Namosi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Namosi",
+               "short_name" : "Namosi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Division",
+               "short_name" : "Central Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Namosi, Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -18.0383608,
+                  "lng" : 178.1346846
+               },
+               "southwest" : {
+                  "lat" : -18.0440734,
+                  "lng" : 178.1288051
+               }
+            },
+            "location" : {
+               "lat" : -18.0412529,
+               "lng" : 178.1309689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -18.0383608,
+                  "lng" : 178.1346846
+               },
+               "southwest" : {
+                  "lat" : -18.0440734,
+                  "lng" : 178.1288051
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkcl71oaAGW4Rb-umXoNUXZg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

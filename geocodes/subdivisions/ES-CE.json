@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ceuta",
+               "short_name" : "CE",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ceuta",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ceuta, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9070527,
+                  "lng" : -5.2783392
+               },
+               "southwest" : {
+                  "lat" : 35.8710601,
+                  "lng" : -5.3587124
+               }
+            },
+            "location" : {
+               "lat" : 35.8893874,
+               "lng" : -5.3213455
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9070527,
+                  "lng" : -5.2783392
+               },
+               "southwest" : {
+                  "lat" : 35.8710601,
+                  "lng" : -5.3587124
+               }
+            }
+         },
+         "place_id" : "ChIJ76wp6eejDA0RQMahjP1jBAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

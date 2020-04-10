@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Övörkhangai",
+               "short_name" : "Övörkhangai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Övörkhangai, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.414307,
+                  "lng" : 104.655877
+               },
+               "southwest" : {
+                  "lat" : 44.056532,
+                  "lng" : 101.1333329
+               }
+            },
+            "location" : {
+               "lat" : 45.7624392,
+               "lng" : 103.0917032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.414307,
+                  "lng" : 104.655877
+               },
+               "southwest" : {
+                  "lat" : 44.056532,
+                  "lng" : 101.1333329
+               }
+            }
+         },
+         "place_id" : "ChIJsXmcS5GDgV0RRLropw6Rq88",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

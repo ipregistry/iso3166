@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#02-01",
+               "short_name" : "#02-01",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "SIMEI MRT STATION",
+               "short_name" : "SIMEI MRT STATION",
+               "types" : [ "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Simei Street 3",
+               "short_name" : "Simei Street 3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tampines",
+               "short_name" : "Tampines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "529888",
+               "short_name" : "529888",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "30 Simei Street 3, #02-01 SIMEI MRT STATION, Singapore 529888",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.342977,
+               "lng" : 103.953583
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.344325980291502,
+                  "lng" : 103.9549319802915
+               },
+               "southwest" : {
+                  "lat" : 1.341628019708498,
+                  "lng" : 103.9522340197085
+               }
+            }
+         },
+         "place_id" : "ChIJv-YWayI92jERuXnhy641dH0",
+         "plus_code" : {
+            "compound_code" : "8XV3+5C Singapore",
+            "global_code" : "6PH58XV3+5C"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

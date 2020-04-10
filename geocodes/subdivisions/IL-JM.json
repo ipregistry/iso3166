@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jerusalem",
+               "short_name" : "Jerusalem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jerusalem District",
+               "short_name" : "Jerusalem District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jerusalem, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8829601,
+                  "lng" : 35.2652869
+               },
+               "southwest" : {
+                  "lat" : 31.7096771,
+                  "lng" : 35.0854311
+               }
+            },
+            "location" : {
+               "lat" : 31.768319,
+               "lng" : 35.21371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8829601,
+                  "lng" : 35.2652869
+               },
+               "southwest" : {
+                  "lat" : 31.7096771,
+                  "lng" : 35.0854311
+               }
+            }
+         },
+         "place_id" : "ChIJS_zBNNbXAhURy-FuRT5ib9k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

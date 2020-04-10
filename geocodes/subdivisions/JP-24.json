@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mie",
+               "short_name" : "Mie",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Yokkaichi",
+               "short_name" : "Yokkaichi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mie",
+               "short_name" : "Mie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "512-0912",
+               "short_name" : "512-0912",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mie, Yokkaichi, Mie 512-0912, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.994103,
+                  "lng" : 136.592253
+               },
+               "southwest" : {
+                  "lat" : 34.985193,
+                  "lng" : 136.5811488
+               }
+            },
+            "location" : {
+               "lat" : 34.9893495,
+               "lng" : 136.5861072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.994103,
+                  "lng" : 136.592253
+               },
+               "southwest" : {
+                  "lat" : 34.985193,
+                  "lng" : 136.5811488
+               }
+            }
+         },
+         "place_id" : "ChIJNXgMqPuNA2ARrvp_0MIBUTM",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      }
+   ],
+   "status" : "OK"
+}

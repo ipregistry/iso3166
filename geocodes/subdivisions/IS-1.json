@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capital Region",
+               "short_name" : "Capital Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Capital Region, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.386078,
+                  "lng" : -21.133402
+               },
+               "southwest" : {
+                  "lat" : 63.82967000000001,
+                  "lng" : -22.1301709
+               }
+            },
+            "location" : {
+               "lat" : 64.1846369,
+               "lng" : -21.6131425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.386078,
+                  "lng" : -21.133402
+               },
+               "southwest" : {
+                  "lat" : 63.82967000000001,
+                  "lng" : -22.1301709
+               }
+            }
+         },
+         "place_id" : "ChIJc3giTtJ11kgRVMM-zEDpM9E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

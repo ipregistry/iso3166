@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anuradhapura",
+               "short_name" : "Anuradhapura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Central Province",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anuradhapura, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.922032999999999,
+                  "lng" : 80.99344289999999
+               },
+               "southwest" : {
+                  "lat" : 7.816926,
+                  "lng" : 79.95178799999999
+               }
+            },
+            "location" : {
+               "lat" : 8.331830499999999,
+               "lng" : 80.4029017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.922032999999999,
+                  "lng" : 80.99344289999999
+               },
+               "southwest" : {
+                  "lat" : 7.816926,
+                  "lng" : 79.95178799999999
+               }
+            }
+         },
+         "place_id" : "ChIJewNAF097_DoRTI0tiRZzF_0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+       "place_id" : "ChIJWeFgk_n0_DoRDs9tvJ7-EcE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

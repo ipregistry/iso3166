@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khmelnytskyi Oblast",
+               "short_name" : "Khmelnytskyi Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khmelnytskyi Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.594764,
+                  "lng" : 27.8984479
+               },
+               "southwest" : {
+                  "lat" : 48.4516599,
+                  "lng" : 26.132999
+               }
+            },
+            "location" : {
+               "lat" : 49.422983,
+               "lng" : 26.9871331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.594764,
+                  "lng" : 27.8984479
+               },
+               "southwest" : {
+                  "lat" : 48.4516599,
+                  "lng" : 26.132999
+               }
+            }
+         },
+         "place_id" : "ChIJtbpfwCz5LUcRkED2iIQGAQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

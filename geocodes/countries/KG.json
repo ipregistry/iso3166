@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2653569,
+                  "lng" : 80.2281514
+               },
+               "southwest" : {
+                  "lat" : 39.180254,
+                  "lng" : 69.250998
+               }
+            },
+            "location" : {
+               "lat" : 41.20438,
+               "lng" : 74.766098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2653569,
+                  "lng" : 80.2281514
+               },
+               "southwest" : {
+                  "lat" : 39.180254,
+                  "lng" : 69.250998
+               }
+            }
+         },
+         "place_id" : "ChIJ8yfp_B04lzgRM8SITrdYECg",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

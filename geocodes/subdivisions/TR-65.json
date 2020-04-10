@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Van",
+               "short_name" : "Van",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Van",
+               "short_name" : "Van",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Van, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.580314,
+                  "lng" : 43.4475848
+               },
+               "southwest" : {
+                  "lat" : 38.425492,
+                  "lng" : 43.26952379999999
+               }
+            },
+            "location" : {
+               "lat" : 38.5012085,
+               "lng" : 43.3729793
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.580314,
+                  "lng" : 43.4475848
+               },
+               "southwest" : {
+                  "lat" : 38.425492,
+                  "lng" : 43.26952379999999
+               }
+            }
+         },
+         "place_id" : "ChIJfTCP_nhwEkARu9rikCdekIw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

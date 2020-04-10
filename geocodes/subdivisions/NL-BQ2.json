@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saba",
+               "short_name" : "Saba",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Caribbean Netherlands",
+               "short_name" : "BQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saba, Caribbean Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.65048,
+                  "lng" : -63.2150291
+               },
+               "southwest" : {
+                  "lat" : 17.614258,
+                  "lng" : -63.2587899
+               }
+            },
+            "location" : {
+               "lat" : 17.6354642,
+               "lng" : -63.2326763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.65048,
+                  "lng" : -63.2150291
+               },
+               "southwest" : {
+                  "lat" : 17.614258,
+                  "lng" : -63.2587899
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ8xh6UIgDowRvrW3lGIYA6o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

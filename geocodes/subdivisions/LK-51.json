@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Batticaloa",
+               "short_name" : "Batticaloa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Batticaloa",
+               "short_name" : "Batticaloa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "EP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Batticaloa, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.771041899999998,
+                  "lng" : 81.7061499
+               },
+               "southwest" : {
+                  "lat" : 7.6971701,
+                  "lng" : 81.6508393
+               }
+            },
+            "location" : {
+               "lat" : 7.730997100000001,
+               "lng" : 81.6747295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.771041899999998,
+                  "lng" : 81.7061499
+               },
+               "southwest" : {
+                  "lat" : 7.6971701,
+                  "lng" : 81.6508393
+               }
+            }
+         },
+         "place_id" : "ChIJS3lOjVrN-joRZKUVeFRIW0Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pointe Noire",
+               "short_name" : "Pointe Noire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Republic of the Congo",
+               "short_name" : "CG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pointe Noire, Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.7656279,
+                  "lng" : 11.9103389
+               },
+               "southwest" : {
+                  "lat" : -4.849928999999999,
+                  "lng" : 11.8188791
+               }
+            },
+            "location" : {
+               "lat" : -4.7994395,
+               "lng" : 11.8777664
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.7656279,
+                  "lng" : 11.9103389
+               },
+               "southwest" : {
+                  "lat" : -4.849928999999999,
+                  "lng" : 11.8188791
+               }
+            }
+         },
+         "place_id" : "ChIJQ726M0elYBoR83mw5F035NA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

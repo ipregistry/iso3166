@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Red Sea",
+               "short_name" : "Northern Red Sea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Eritrea",
+               "short_name" : "ER",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Red Sea, Eritrea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.003086,
+                  "lng" : 41.2974091
+               },
+               "southwest" : {
+                  "lat" : 14.337765,
+                  "lng" : 37.9696809
+               }
+            },
+            "location" : {
+               "lat" : 16.2583997,
+               "lng" : 38.8205454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.003086,
+                  "lng" : 41.2974091
+               },
+               "southwest" : {
+                  "lat" : 14.337765,
+                  "lng" : 37.9696809
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv9X1EEWvcxYR4Jaed04qV8I",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

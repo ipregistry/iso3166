@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kisii",
+               "short_name" : "Kisii",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kisii County",
+               "short_name" : "Kisii County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kisii, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.6629786000000001,
+                  "lng" : 34.7955037
+               },
+               "southwest" : {
+                  "lat" : -0.6977696999999999,
+                  "lng" : 34.759592
+               }
+            },
+            "location" : {
+               "lat" : -0.677334,
+               "lng" : 34.779603
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.6629786000000001,
+                  "lng" : 34.7955037
+               },
+               "southwest" : {
+                  "lat" : -0.6977696999999999,
+                  "lng" : 34.759592
+               }
+            }
+         },
+         "place_id" : "ChIJYUFfsuw7KxgRsS2Lx5BqUUQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

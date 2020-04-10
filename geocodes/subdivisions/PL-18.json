@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Podkarpackie Voivodeship",
+               "short_name" : "Podkarpackie Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Podkarpackie Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8181161,
+                  "lng" : 23.5476409
+               },
+               "southwest" : {
+                  "lat" : 49.0020252,
+                  "lng" : 21.1423458
+               }
+            },
+            "location" : {
+               "lat" : 50.0574749,
+               "lng" : 22.0895691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8181161,
+                  "lng" : 23.5476409
+               },
+               "southwest" : {
+                  "lat" : 49.0020252,
+                  "lng" : 21.1423458
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtWGj2--LPEcRoMDkxa18AQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

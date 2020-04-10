@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shymkent",
+               "short_name" : "Shymkent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sayram District",
+               "short_name" : "Sayram District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Kazakhstan Province",
+               "short_name" : "South Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shymkent, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4134451,
+                  "lng" : 69.7352028
+               },
+               "southwest" : {
+                  "lat" : 42.2701957,
+                  "lng" : 69.4444084
+               }
+            },
+            "location" : {
+               "lat" : 42.34168469999999,
+               "lng" : 69.59010099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4134451,
+                  "lng" : 69.7352028
+               },
+               "southwest" : {
+                  "lat" : 42.2701957,
+                  "lng" : 69.4444084
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJu4FmVFbyqDgRmzZb54K1Z6E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

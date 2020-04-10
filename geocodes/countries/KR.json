@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#1250",
+               "short_name" : "#1250",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1990",
+               "short_name" : "1990",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Post Oak Boulevard",
+               "short_name" : "Post Oak Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westside",
+               "short_name" : "Westside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77056",
+               "short_name" : "77056",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3887",
+               "short_name" : "3887",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1990 Post Oak Blvd #1250, Houston, TX 77056, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.745424,
+               "lng" : -95.46264499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7467729802915,
+                  "lng" : -95.46129601970848
+               },
+               "southwest" : {
+                  "lat" : 29.7440750197085,
+                  "lng" : -95.46399398029149
+               }
+            }
+         },
+         "place_id" : "ChIJ3aHZ5mnBQIYRAEY5MHLFTu4",
+         "plus_code" : {
+            "compound_code" : "PGWP+5W Westside, Houston, TX, United States",
+            "global_code" : "76X6PGWP+5W"
+         },
+         "types" : [ "embassy", "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sila",
+               "short_name" : "Sila",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sila, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0778039,
+                  "lng" : 22.9856255
+               },
+               "southwest" : {
+                  "lat" : 10.9352781,
+                  "lng" : 19.846718
+               }
+            },
+            "location" : {
+               "lat" : 12.13074,
+               "lng" : 21.2845025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0778039,
+                  "lng" : 22.9856255
+               },
+               "southwest" : {
+                  "lat" : 10.9352781,
+                  "lng" : 19.846718
+               }
+            }
+         },
+         "place_id" : "ChIJv7HwVWPILRERokw_yDGsF4k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

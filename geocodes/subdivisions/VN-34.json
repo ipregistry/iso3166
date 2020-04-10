@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khanh Hoa Province",
+               "short_name" : "Khanh Hoa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khanh Hoa Province, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.868734,
+                  "lng" : 109.469278
+               },
+               "southwest" : {
+                  "lat" : 11.768696,
+                  "lng" : 108.669095
+               }
+            },
+            "location" : {
+               "lat" : 12.2585098,
+               "lng" : 109.0526076
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.868734,
+                  "lng" : 109.469278
+               },
+               "southwest" : {
+                  "lat" : 11.768696,
+                  "lng" : 108.669095
+               }
+            }
+         },
+         "place_id" : "ChIJldPcqIwbcDERzggjMicIwmk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

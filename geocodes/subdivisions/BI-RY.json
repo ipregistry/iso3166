@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ruyigi",
+               "short_name" : "Ruyigi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ruyigi",
+               "short_name" : "Ruyigi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ruyigi",
+               "short_name" : "Ruyigi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Burundi",
+               "short_name" : "BI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ruyigi, Burundi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.4652736,
+                  "lng" : 30.253687
+               },
+               "southwest" : {
+                  "lat" : -3.4831793,
+                  "lng" : 30.2396965
+               }
+            },
+            "location" : {
+               "lat" : -3.4750027,
+               "lng" : 30.2483881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.4652736,
+                  "lng" : 30.253687
+               },
+               "southwest" : {
+                  "lat" : -3.4831793,
+                  "lng" : 30.2396965
+               }
+            }
+         },
+         "place_id" : "ChIJyTBQxCy0xhkRnppV6keJiXw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

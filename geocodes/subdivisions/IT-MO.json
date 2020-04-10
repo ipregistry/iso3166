@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Modena",
+               "short_name" : "Modena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Modena",
+               "short_name" : "Modena",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Modena",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Modena, Province of Modena, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.6941981,
+                  "lng" : 10.990284
+               },
+               "southwest" : {
+                  "lat" : 44.60615620000001,
+                  "lng" : 10.8531802
+               }
+            },
+            "location" : {
+               "lat" : 44.647128,
+               "lng" : 10.9252269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6941981,
+                  "lng" : 10.990284
+               },
+               "southwest" : {
+                  "lat" : 44.60615620000001,
+                  "lng" : 10.8531802
+               }
+            }
+         },
+         "place_id" : "ChIJ4WRJ3RLvf0cRKH8rSX0edZY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

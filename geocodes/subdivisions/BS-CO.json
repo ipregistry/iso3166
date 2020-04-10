@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Abaco",
+               "short_name" : "Central Abaco",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Abaco, The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.695778,
+                  "lng" : -76.996056
+               },
+               "southwest" : {
+                  "lat" : 26.2610509,
+                  "lng" : -77.447716
+               }
+            },
+            "location" : {
+               "lat" : 26.3555029,
+               "lng" : -77.1485163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.695778,
+                  "lng" : -76.996056
+               },
+               "southwest" : {
+                  "lat" : 26.2610509,
+                  "lng" : -77.447716
+               }
+            }
+         },
+         "place_id" : "ChIJPZAfH_l9JIkR_SrjoQQJPUw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

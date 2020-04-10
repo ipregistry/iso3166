@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Masaka",
+               "short_name" : "Masaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Masaka",
+               "short_name" : "Masaka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Masaka, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.3013382,
+                  "lng" : 31.791172
+               },
+               "southwest" : {
+                  "lat" : -0.3747893,
+                  "lng" : 31.71462159999999
+               }
+            },
+            "location" : {
+               "lat" : -0.3267383,
+               "lng" : 31.7537404
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3013382,
+                  "lng" : 31.791172
+               },
+               "southwest" : {
+                  "lat" : -0.3747893,
+                  "lng" : 31.71462159999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0wz6EJeO1xkRDkvRQzoPNz8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

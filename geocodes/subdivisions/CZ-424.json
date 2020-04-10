@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Louny",
+               "short_name" : "Louny",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Louny District",
+               "short_name" : "Louny District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem Region",
+               "short_name" : "Ústí nad Labem Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Louny, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4001246,
+                  "lng" : 13.8456911
+               },
+               "southwest" : {
+                  "lat" : 50.3072415,
+                  "lng" : 13.7505389
+               }
+            },
+            "location" : {
+               "lat" : 50.35398120000001,
+               "lng" : 13.8033551
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4001246,
+                  "lng" : 13.8456911
+               },
+               "southwest" : {
+                  "lat" : 50.3072415,
+                  "lng" : 13.7505389
+               }
+            }
+         },
+         "place_id" : "ChIJyRIjQxwwCkcRWfjnDNnROp8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

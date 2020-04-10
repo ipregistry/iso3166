@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oudomxay Province",
+               "short_name" : "Oudomxay Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Laos",
+               "short_name" : "LA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oudomxay Province, Laos",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.2146209,
+                  "lng" : 102.35669
+               },
+               "southwest" : {
+                  "lat" : 19.817,
+                  "lng" : 100.7239439
+               }
+            },
+            "location" : {
+               "lat" : 20.4921929,
+               "lng" : 101.8891721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.2146209,
+                  "lng" : 102.35669
+               },
+               "southwest" : {
+                  "lat" : 19.817,
+                  "lng" : 100.7239439
+               }
+            }
+         },
+         "place_id" : "ChIJrclKjDImKTERmqgMk489bcI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

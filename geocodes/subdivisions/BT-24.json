@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wangdue Phodrang",
+               "short_name" : "Wangdue Phodrang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wangdue Phodrang",
+               "short_name" : "Wangdue Phodrang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wangdue Phodrang, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4991359,
+                  "lng" : 89.9055432
+               },
+               "southwest" : {
+                  "lat" : 27.474542,
+                  "lng" : 89.89266859999999
+               }
+            },
+            "location" : {
+               "lat" : 27.4879018,
+               "lng" : 89.89961959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4991359,
+                  "lng" : 89.9055432
+               },
+               "southwest" : {
+                  "lat" : 27.474542,
+                  "lng" : 89.89266859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ92VdW-7m4TkRgXp97YuzyGg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nakhchivan",
+               "short_name" : "Nakhchivan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nakhchivan Autonomous Republic",
+               "short_name" : "Nakhchivan Autonomous Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nakhchivan, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.228264,
+                  "lng" : 45.4377366
+               },
+               "southwest" : {
+                  "lat" : 39.1708288,
+                  "lng" : 45.3697586
+               }
+            },
+            "location" : {
+               "lat" : 39.2009126,
+               "lng" : 45.4082269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.228264,
+                  "lng" : 45.4377366
+               },
+               "southwest" : {
+                  "lat" : 39.1708288,
+                  "lng" : 45.3697586
+               }
+            }
+         },
+         "place_id" : "ChIJpQ7RB3MuFEARvbKafcBP17w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

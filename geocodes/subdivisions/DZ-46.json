@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ain Temouchent",
+               "short_name" : "Ain Temouchent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ain Temouchent",
+               "short_name" : "Ain Temouchent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aïn Témouchent Province",
+               "short_name" : "Aïn Témouchent Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ain Temouchent, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3224099,
+                  "lng" : -1.0696258
+               },
+               "southwest" : {
+                  "lat" : 35.209086,
+                  "lng" : -1.2146918
+               }
+            },
+            "location" : {
+               "lat" : 35.2992698,
+               "lng" : -1.1392792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3224099,
+                  "lng" : -1.0696258
+               },
+               "southwest" : {
+                  "lat" : 35.209086,
+                  "lng" : -1.2146918
+               }
+            }
+         },
+         "place_id" : "ChIJN3n2_fnTfg0RARG0YJF1ysY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

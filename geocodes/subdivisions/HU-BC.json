@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Békéscsaba",
+               "short_name" : "Csaba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Békéscsaba, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7476239,
+                  "lng" : 21.2357529
+               },
+               "southwest" : {
+                  "lat" : 46.61125999999999,
+                  "lng" : 20.930035
+               }
+            },
+            "location" : {
+               "lat" : 46.6735939,
+               "lng" : 21.0877309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7476239,
+                  "lng" : 21.2357529
+               },
+               "southwest" : {
+                  "lat" : 46.61125999999999,
+                  "lng" : 20.930035
+               }
+            }
+         },
+         "place_id" : "ChIJ-_Zx65QrREcRwBEeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

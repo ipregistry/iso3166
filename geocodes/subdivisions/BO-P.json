@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Potosi",
+               "short_name" : "Potosi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tomas Frias",
+               "short_name" : "Tomas Frias",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Potosi Department",
+               "short_name" : "Potosi Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bolivia",
+               "short_name" : "BO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Potosi, Bolivia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.5315718,
+                  "lng" : -65.70968959999999
+               },
+               "southwest" : {
+                  "lat" : -19.610703,
+                  "lng" : -65.79208729999999
+               }
+            },
+            "location" : {
+               "lat" : -19.5722805,
+               "lng" : -65.75500630000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.5315718,
+                  "lng" : -65.70968959999999
+               },
+               "southwest" : {
+                  "lat" : -19.610703,
+                  "lng" : -65.79208729999999
+               }
+            }
+         },
+         "place_id" : "ChIJI9Tlcg5O-ZMR6PTxDin06Ko",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

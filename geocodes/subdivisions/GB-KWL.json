@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Knowsley",
+               "short_name" : "Knowsley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Merseyside",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Knowsley, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.467191,
+                  "lng" : -2.7951111
+               },
+               "southwest" : {
+                  "lat" : 53.4296819,
+                  "lng" : -2.8915896
+               }
+            },
+            "location" : {
+               "lat" : 53.454594,
+               "lng" : -2.852907
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.467191,
+                  "lng" : -2.7951111
+               },
+               "southwest" : {
+                  "lat" : 53.4296819,
+                  "lng" : -2.8915896
+               }
+            }
+         },
+         "place_id" : "ChIJFXsxq8QYe0gRvXSmpC6d_k4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

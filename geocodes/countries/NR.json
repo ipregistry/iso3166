@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nauru",
+               "short_name" : "NR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nauru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.4978976000000001,
+                  "lng" : 166.9631767
+               },
+               "southwest" : {
+                  "lat" : -0.5580623,
+                  "lng" : 166.9071293
+               }
+            },
+            "location" : {
+               "lat" : -0.522778,
+               "lng" : 166.931503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.4978976000000001,
+                  "lng" : 166.9631767
+               },
+               "southwest" : {
+                  "lat" : -0.5580623,
+                  "lng" : 166.9071293
+               }
+            }
+         },
+         "place_id" : "ChIJTVvkHR8cfW8RgQrUxfSd2Vk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

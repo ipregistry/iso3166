@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taraba",
+               "short_name" : "TR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taraba, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.6153531,
+                  "lng" : 11.8861731
+               },
+               "southwest" : {
+                  "lat" : 6.5009539,
+                  "lng" : 9.115717
+               }
+            },
+            "location" : {
+               "lat" : 7.9993616,
+               "lng" : 10.7739863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.6153531,
+                  "lng" : 11.8861731
+               },
+               "southwest" : {
+                  "lat" : 6.5009539,
+                  "lng" : 9.115717
+               }
+            }
+         },
+         "place_id" : "ChIJF1m99TzgVxARhJ1qwN8zYaI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ribnica na Pohorju",
+               "short_name" : "Ribnica na Pohorju",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ribnica na Pohorju",
+               "short_name" : "Ribnica na Pohorju",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Radlje ob Dravi",
+               "short_name" : "Radlje ob Dravi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2364",
+               "short_name" : "2364",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2364 Ribnica na Pohorju, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.54968059999999,
+                  "lng" : 15.3026023
+               },
+               "southwest" : {
+                  "lat" : 46.52034339999999,
+                  "lng" : 15.2533516
+               }
+            },
+            "location" : {
+               "lat" : 46.5356403,
+               "lng" : 15.2675136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.54968059999999,
+                  "lng" : 15.3026023
+               },
+               "southwest" : {
+                  "lat" : 46.52034339999999,
+                  "lng" : 15.2533516
+               }
+            }
+         },
+         "place_id" : "ChIJgeObPYmOb0cRd6YvEt9eOgo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

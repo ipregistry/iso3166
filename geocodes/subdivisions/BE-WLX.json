@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LX",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wallonia",
+               "short_name" : "Wallonia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luxembourg, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4306101,
+                  "lng" : 6.034400000000001
+               },
+               "southwest" : {
+                  "lat" : 49.49701,
+                  "lng" : 4.9683901
+               }
+            },
+            "location" : {
+               "lat" : 50.0546886,
+               "lng" : 5.467698299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4306101,
+                  "lng" : 6.034400000000001
+               },
+               "southwest" : {
+                  "lat" : 49.49701,
+                  "lng" : 4.9683901
+               }
+            }
+         },
+         "place_id" : "ChIJXemZE4cmwEcR8IBML6uZAAI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

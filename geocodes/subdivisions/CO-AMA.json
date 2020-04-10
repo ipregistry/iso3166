@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amazonas Department",
+               "short_name" : "Amazonas Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amazonas Department, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.1090809,
+                  "lng" : -69.3954808
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -74.3859152
+               }
+            },
+            "location" : {
+               "lat" : -1.4429123,
+               "lng" : -71.5723953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.1090809,
+                  "lng" : -69.3954808
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -74.3859152
+               }
+            }
+         },
+         "place_id" : "ChIJuR67ovBG5JERmc75jvwzR3U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

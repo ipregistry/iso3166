@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midlothian",
+               "short_name" : "Midlothian",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Gorebridge",
+               "short_name" : "Gorebridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Midlothian",
+               "short_name" : "Midlothian",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH23 4LT",
+               "short_name" : "EH23 4LT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Midlothian, Gorebridge EH23 4LT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.821667,
+               "lng" : -3.107778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8279347,
+                  "lng" : -3.0917706
+               },
+               "southwest" : {
+                  "lat" : 55.8153983,
+                  "lng" : -3.1237854
+               }
+            }
+         },
+         "place_id" : "ChIJG7EEVcy_h0gRINY75IMCRS4",
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

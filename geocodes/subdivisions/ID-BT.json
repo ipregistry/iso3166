@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banten",
+               "short_name" : "Banten",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Kasemen",
+               "short_name" : "Kasemen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Serang City",
+               "short_name" : "Serang City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Banten",
+               "short_name" : "Banten",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banten, Kasemen, Serang City, Banten, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.9805999,
+                  "lng" : 106.188319
+               },
+               "southwest" : {
+                  "lat" : -6.043089999999999,
+                  "lng" : 106.14657
+               }
+            },
+            "location" : {
+               "lat" : -6.035432399999999,
+               "lng" : 106.1632389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.9805999,
+                  "lng" : 106.188319
+               },
+               "southwest" : {
+                  "lat" : -6.043089999999999,
+                  "lng" : 106.14657
+               }
+            }
+         },
+         "place_id" : "ChIJWQIytrfyQS4RNz1xuJg0hMc",
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

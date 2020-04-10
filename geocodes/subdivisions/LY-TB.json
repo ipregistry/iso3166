@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tripoli",
+               "short_name" : "Tripoli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tripoli District",
+               "short_name" : "Tripoli District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tripoli, Libya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9019297,
+                  "lng" : 13.2234836
+               },
+               "southwest" : {
+                  "lat" : 32.8639441,
+                  "lng" : 13.1531881
+               }
+            },
+            "location" : {
+               "lat" : 32.8872094,
+               "lng" : 13.1913383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9019297,
+                  "lng" : 13.2234836
+               },
+               "southwest" : {
+                  "lat" : 32.8639441,
+                  "lng" : 13.1531881
+               }
+            }
+         },
+         "place_id" : "ChIJ2UMcwcSSqBMRhuxce5TYmY0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

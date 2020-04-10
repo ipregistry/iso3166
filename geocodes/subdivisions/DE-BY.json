@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bavaria, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            },
+            "location" : {
+               "lat" : 48.7904472,
+               "lng" : 11.4978895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            }
+         },
+         "place_id" : "ChIJqVPfD0wEn0cRYHk4CaQlHQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

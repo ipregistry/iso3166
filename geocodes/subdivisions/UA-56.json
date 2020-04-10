@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rivne Oblast",
+               "short_name" : "Rivne Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rivne Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9498591,
+                  "lng" : 27.729513
+               },
+               "southwest" : {
+                  "lat" : 50.0043561,
+                  "lng" : 25.0837821
+               }
+            },
+            "location" : {
+               "lat" : 50.6199,
+               "lng" : 26.251617
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9498591,
+                  "lng" : 27.729513
+               },
+               "southwest" : {
+                  "lat" : 50.0043561,
+                  "lng" : 25.0837821
+               }
+            }
+         },
+         "place_id" : "ChIJERyljUNML0cRIED2iIQGAQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

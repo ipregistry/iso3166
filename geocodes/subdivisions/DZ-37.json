@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tindouf",
+               "short_name" : "Tindouf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tindouf",
+               "short_name" : "Tindouf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tindouf Province",
+               "short_name" : "Tindouf Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tindouf, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.925463,
+                  "lng" : -3.9904619
+               },
+               "southwest" : {
+                  "lat" : 25.5173479,
+                  "lng" : -8.67578
+               }
+            },
+            "location" : {
+               "lat" : 27.6719159,
+               "lng" : -8.139800299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.925463,
+                  "lng" : -3.9904619
+               },
+               "southwest" : {
+                  "lat" : 25.5173479,
+                  "lng" : -8.67578
+               }
+            }
+         },
+         "place_id" : "ChIJ-9UtpEP1yA0Rl_R5PxN_8Hc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

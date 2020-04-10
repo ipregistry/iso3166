@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mueang Chiang Rai",
+               "short_name" : "Mueang Chiang Rai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Chiang Rai District",
+               "short_name" : "อ.เมืองเชียงราย",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chiang Rai",
+               "short_name" : "จ.เชียงราย",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mueang Chiang Rai, Mueang Chiang Rai District, Chiang Rai, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.0192785,
+                  "lng" : 99.9832242
+               },
+               "southwest" : {
+                  "lat" : 19.8240382,
+                  "lng" : 99.77422469999999
+               }
+            },
+            "location" : {
+               "lat" : 19.9104798,
+               "lng" : 99.840576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.0192785,
+                  "lng" : 99.9832242
+               },
+               "southwest" : {
+                  "lat" : 19.8240382,
+                  "lng" : 99.77422469999999
+               }
+            }
+         },
+         "place_id" : "ChIJZYPDE2cG1zARNwa2sbtUFXE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

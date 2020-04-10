@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banyuwangi Regency",
+               "short_name" : "Banyuwangi Regency",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "East Java",
+               "short_name" : "East Java",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banyuwangi Regency, East Java, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.884665900000001,
+                  "lng" : 114.6055719
+               },
+               "southwest" : {
+                  "lat" : -8.780560999999999,
+                  "lng" : 113.837441
+               }
+            },
+            "location" : {
+               "lat" : -8.219094399999999,
+               "lng" : 114.3691416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.884665900000001,
+                  "lng" : 114.6055719
+               },
+               "southwest" : {
+                  "lat" : -8.780560999999999,
+                  "lng" : 113.837441
+               }
+            }
+         },
+         "place_id" : "ChIJ76wUlxZU0S0R4LxS43Z6AgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

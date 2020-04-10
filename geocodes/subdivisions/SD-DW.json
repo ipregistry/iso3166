@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gharb Darfur",
+               "short_name" : "Gharb Darfur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sudan",
+               "short_name" : "SD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gharb Darfur, Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.972213,
+                  "lng" : 24.720192
+               },
+               "southwest" : {
+                  "lat" : 10.694536,
+                  "lng" : 21.838947
+               }
+            },
+            "location" : {
+               "lat" : 12.8463561,
+               "lng" : 23.0011989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.972213,
+                  "lng" : 24.720192
+               },
+               "southwest" : {
+                  "lat" : 10.694536,
+                  "lng" : 21.838947
+               }
+            }
+         },
+         "place_id" : "ChIJ99S9B-RwzRYReY5PHT43gAI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koulikoro",
+               "short_name" : "Koulikoro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koulikoro",
+               "short_name" : "Koulikoro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Koulikoro Region",
+               "short_name" : "Koulikoro Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mali",
+               "short_name" : "ML",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Koulikoro, Mali",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.8789565,
+                  "lng" : -7.5457191
+               },
+               "southwest" : {
+                  "lat" : 12.8513625,
+                  "lng" : -7.571923199999999
+               }
+            },
+            "location" : {
+               "lat" : 12.8662046,
+               "lng" : -7.5599321
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8789565,
+                  "lng" : -7.5457191
+               },
+               "southwest" : {
+                  "lat" : 12.8513625,
+                  "lng" : -7.571923199999999
+               }
+            }
+         },
+         "place_id" : "ChIJnZnlt3fPTw4RBfCmRrnHjpE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ħal Għaxaq",
+               "short_name" : "Ħal Għaxaq",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ħal Għaxaq, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8620777,
+                  "lng" : 14.5271337
+               },
+               "southwest" : {
+                  "lat" : 35.8315472,
+                  "lng" : 14.5022537
+               }
+            },
+            "location" : {
+               "lat" : 35.8440359,
+               "lng" : 14.516009
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8620777,
+                  "lng" : 14.5271337
+               },
+               "southwest" : {
+                  "lat" : 35.8315472,
+                  "lng" : 14.5022537
+               }
+            }
+         },
+         "place_id" : "ChIJ45NhilNaDhMRAVj96S4zsdc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

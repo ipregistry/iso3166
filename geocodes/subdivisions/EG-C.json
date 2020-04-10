@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cairo",
+               "short_name" : "Cairo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cairo, Cairo Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1106024,
+                  "lng" : 31.3019729
+               },
+               "southwest" : {
+                  "lat" : 30.0083745,
+                  "lng" : 31.2149558
+               }
+            },
+            "location" : {
+               "lat" : 30.0444196,
+               "lng" : 31.2357116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1106024,
+                  "lng" : 31.3019729
+               },
+               "southwest" : {
+                  "lat" : 30.0083745,
+                  "lng" : 31.2149558
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ674hC6Y_WBQRujtC6Jay33k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

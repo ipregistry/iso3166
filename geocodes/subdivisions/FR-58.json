@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nièvre",
+               "short_name" : "Nièvre",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Nièvre",
+               "short_name" : "Nièvre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bourgogne-Franche-Comté",
+               "short_name" : "Bourgogne-Franche-Comté",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nièvre, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.3239116,
+                  "lng" : 3.3709458
+               },
+               "southwest" : {
+                  "lat" : 46.9749419,
+                  "lng" : 3.1518824
+               }
+            },
+            "location" : {
+               "lat" : 47.154123,
+               "lng" : 3.223339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3239116,
+                  "lng" : 3.3709458
+               },
+               "southwest" : {
+                  "lat" : 46.9749419,
+                  "lng" : 3.1518824
+               }
+            }
+         },
+         "place_id" : "ChIJlwZdlUBP8EcRfN8vOAyn9LA",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

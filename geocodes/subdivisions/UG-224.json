@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Namutumba",
+               "short_name" : "Namutumba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Namutumba",
+               "short_name" : "Namutumba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Namutumba, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.8400807,
+                  "lng" : 33.6882877
+               },
+               "southwest" : {
+                  "lat" : 0.8321851,
+                  "lng" : 33.6810781
+               }
+            },
+            "location" : {
+               "lat" : 0.8360898,
+               "lng" : 33.6860965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8400807,
+                  "lng" : 33.6882877
+               },
+               "southwest" : {
+                  "lat" : 0.8321851,
+                  "lng" : 33.6810781
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJX_iC6brbfhcR4XxNHbaKei8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bukedea",
+               "short_name" : "Bukedea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bukedea, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.560575,
+                  "lng" : 34.274906
+               },
+               "southwest" : {
+                  "lat" : 1.1657279,
+                  "lng" : 33.9214169
+               }
+            },
+            "location" : {
+               "lat" : 1.3556898,
+               "lng" : 34.1086793
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.560575,
+                  "lng" : 34.274906
+               },
+               "southwest" : {
+                  "lat" : 1.1657279,
+                  "lng" : 33.9214169
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpy8OWhnteBcRjN_SM1v-ehc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

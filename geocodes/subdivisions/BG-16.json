@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plovdiv",
+               "short_name" : "Plovdiv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plovdiv Province",
+               "short_name" : "Plovdiv Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Plovdiv, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1982332,
+                  "lng" : 24.8240283
+               },
+               "southwest" : {
+                  "lat" : 42.0900086,
+                  "lng" : 24.6577202
+               }
+            },
+            "location" : {
+               "lat" : 42.1354079,
+               "lng" : 24.7452904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1982332,
+                  "lng" : 24.8240283
+               },
+               "southwest" : {
+                  "lat" : 42.0900086,
+                  "lng" : 24.6577202
+               }
+            }
+         },
+         "place_id" : "ChIJPXZIogjRrBQRoDgTb_rRcGQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

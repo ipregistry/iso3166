@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aloja",
+               "short_name" : "Aloja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alojas pilsēta",
+               "short_name" : "Alojas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4064",
+               "short_name" : "4064",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aloja, Alojas pilsēta, LV-4064, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.77733479999999,
+                  "lng" : 24.8932589
+               },
+               "southwest" : {
+                  "lat" : 57.758975,
+                  "lng" : 24.8612461
+               }
+            },
+            "location" : {
+               "lat" : 57.76713600000001,
+               "lng" : 24.8770839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.77733479999999,
+                  "lng" : 24.8932589
+               },
+               "southwest" : {
+                  "lat" : 57.758975,
+                  "lng" : 24.8612461
+               }
+            }
+         },
+         "place_id" : "ChIJb0QlEqNy7EYR1lmSAfRbEOk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

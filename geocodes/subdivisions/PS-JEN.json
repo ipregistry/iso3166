@@ -1,0 +1,45 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jenin",
+               "short_name" : "Jenin",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Jenin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4754108,
+                  "lng" : 35.3296164
+               },
+               "southwest" : {
+                  "lat" : 32.4390882,
+                  "lng" : 35.2748117
+               }
+            },
+            "location" : {
+               "lat" : 32.4646353,
+               "lng" : 35.2938591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4754108,
+                  "lng" : 35.3296164
+               },
+               "southwest" : {
+                  "lat" : 32.4390882,
+                  "lng" : 35.2748117
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp1lUUtX-HBURpOkjwfjq8oo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

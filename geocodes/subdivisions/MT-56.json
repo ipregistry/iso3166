@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sliema",
+               "short_name" : "Sliema",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sliema, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9190991,
+                  "lng" : 14.5151404
+               },
+               "southwest" : {
+                  "lat" : 35.9053452,
+                  "lng" : 14.4929891
+               }
+            },
+            "location" : {
+               "lat" : 35.9110081,
+               "lng" : 14.502904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9190991,
+                  "lng" : 14.5151404
+               },
+               "southwest" : {
+                  "lat" : 35.9053452,
+                  "lng" : 14.4929891
+               }
+            }
+         },
+         "place_id" : "ChIJZbjcgDlFDhMRSVkUH3JNNac",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

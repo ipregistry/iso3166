@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velenje",
+               "short_name" : "Velenje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Velenje",
+               "short_name" : "Velenje",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Velenje",
+               "short_name" : "Velenje",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3320",
+               "short_name" : "3320",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3320 Velenje, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3809067,
+                  "lng" : 15.1443209
+               },
+               "southwest" : {
+                  "lat" : 46.346456,
+                  "lng" : 15.0634323
+               }
+            },
+            "location" : {
+               "lat" : 46.3622743,
+               "lng" : 15.1106582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3809067,
+                  "lng" : 15.1443209
+               },
+               "southwest" : {
+                  "lat" : 46.346456,
+                  "lng" : 15.0634323
+               }
+            }
+         },
+         "place_id" : "ChIJA0bfEDthZUcRYPI_ghz4AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

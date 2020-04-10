@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guimaras Island",
+               "short_name" : "Guimaras Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Guimaras",
+               "short_name" : "Guimaras",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Visayas",
+               "short_name" : "Western Visayas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guimaras Island, Guimaras, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.7542783,
+                  "lng" : 122.7267789
+               },
+               "southwest" : {
+                  "lat" : 10.4053268,
+                  "lng" : 122.4742845
+               }
+            },
+            "location" : {
+               "lat" : 10.5843552,
+               "lng" : 122.6051351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.7542783,
+                  "lng" : 122.7267789
+               },
+               "southwest" : {
+                  "lat" : 10.4053268,
+                  "lng" : 122.4742845
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk1kVDUPsrjMRQ9ySpxb5Zks",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guimaras",
+               "short_name" : "Guimaras",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Visayas",
+               "short_name" : "Western Visayas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guimaras, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.7682659,
+                  "lng" : 122.743651
+               },
+               "southwest" : {
+                  "lat" : 10.327536,
+                  "lng" : 122.474211
+               }
+            },
+            "location" : {
+               "lat" : 10.5928661,
+               "lng" : 122.6325081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.7682659,
+                  "lng" : 122.743651
+               },
+               "southwest" : {
+                  "lat" : 10.327536,
+                  "lng" : 122.474211
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0SCN80PsrjMR_N5Wa1eJuSQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

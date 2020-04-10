@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doncaster",
+               "short_name" : "Doncaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doncaster",
+               "short_name" : "Doncaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Doncaster, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5671532,
+                  "lng" : -1.0472957
+               },
+               "southwest" : {
+                  "lat" : 53.4705407,
+                  "lng" : -1.1927515
+               }
+            },
+            "location" : {
+               "lat" : 53.52282,
+               "lng" : -1.128462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5671532,
+                  "lng" : -1.0472957
+               },
+               "southwest" : {
+                  "lat" : 53.4705407,
+                  "lng" : -1.1927515
+               }
+            }
+         },
+         "place_id" : "ChIJL-13sqjieEgRSHAduOS8nII",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

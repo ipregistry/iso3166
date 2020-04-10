@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yevlakh",
+               "short_name" : "Yevlakh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yevlakh",
+               "short_name" : "Yevlakh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yevlakh, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.62812599999999,
+                  "lng" : 47.181878
+               },
+               "southwest" : {
+                  "lat" : 40.59576200000001,
+                  "lng" : 47.10858
+               }
+            },
+            "location" : {
+               "lat" : 40.6095176,
+               "lng" : 47.1390016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.62812599999999,
+                  "lng" : 47.181878
+               },
+               "southwest" : {
+                  "lat" : 40.59576200000001,
+                  "lng" : 47.10858
+               }
+            }
+         },
+         "place_id" : "ChIJnc-z8rS4OEARGg31DnpGZ2o",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amhara",
+               "short_name" : "Amhara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amhara, Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7641961,
+                  "lng" : 40.206138
+               },
+               "southwest" : {
+                  "lat" : 8.728584,
+                  "lng" : 35.2634496
+               }
+            },
+            "location" : {
+               "lat" : 11.3494247,
+               "lng" : 37.9784585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7641961,
+                  "lng" : 40.206138
+               },
+               "southwest" : {
+                  "lat" : 8.728584,
+                  "lng" : 35.2634496
+               }
+            }
+         },
+         "place_id" : "ChIJwUlH0KAeRRYRs_SC8PmLjtI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "At-Tafilah",
+               "short_name" : "At-Tafilah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tafiela Qasabah District",
+               "short_name" : "Tafiela Qasabah District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tafilah Governorate",
+               "short_name" : "Tafilah Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "At-Tafilah, Jordan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.8622788,
+                  "lng" : 35.6354527
+               },
+               "southwest" : {
+                  "lat" : 30.7521061,
+                  "lng" : 35.5502443
+               }
+            },
+            "location" : {
+               "lat" : 30.8337059,
+               "lng" : 35.6160558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8622788,
+                  "lng" : 35.6354527
+               },
+               "southwest" : {
+                  "lat" : 30.7521061,
+                  "lng" : 35.5502443
+               }
+            }
+         },
+         "place_id" : "ChIJD5RLweGUAxURCJebj7lFIXU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

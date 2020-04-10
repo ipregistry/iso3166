@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rio Piauí",
+               "short_name" : "Rio Piauí",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Piauí",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rio Piauí, Piauí, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.9115978,
+                  "lng" : -42.0781796
+               },
+               "southwest" : {
+                  "lat" : -8.8017372,
+                  "lng" : -42.7076107
+               }
+            },
+            "location" : {
+               "lat" : -7.854342899999999,
+               "lng" : -42.6421546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.9115978,
+                  "lng" : -42.0781796
+               },
+               "southwest" : {
+                  "lat" : -8.8017372,
+                  "lng" : -42.7076107
+               }
+            }
+         },
+         "place_id" : "ChIJlzuARXiLdwcRjQLal8dKbHk",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

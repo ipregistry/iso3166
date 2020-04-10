@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plzeň-South District",
+               "short_name" : "Plzeň-South District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Plzeň Region",
+               "short_name" : "Plzeň Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Plzeň-South District, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7016824,
+                  "lng" : 13.7893852
+               },
+               "southwest" : {
+                  "lat" : 49.4031193,
+                  "lng" : 13.0002623
+               }
+            },
+            "location" : {
+               "lat" : 49.5904885,
+               "lng" : 13.5715861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7016824,
+                  "lng" : 13.7893852
+               },
+               "southwest" : {
+                  "lat" : 49.4031193,
+                  "lng" : 13.0002623
+               }
+            }
+         },
+         "place_id" : "ChIJBzUkRP7nCkcRcKoUZg-vAAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

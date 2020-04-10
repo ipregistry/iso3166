@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aknīste Municipality",
+               "short_name" : "Aknīste Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aknīste Municipality, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.241573,
+                  "lng" : 26.010657
+               },
+               "southwest" : {
+                  "lat" : 56.051434,
+                  "lng" : 25.6406469
+               }
+            },
+            "location" : {
+               "lat" : 56.1613037,
+               "lng" : 25.7484827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.241573,
+                  "lng" : 26.010657
+               },
+               "southwest" : {
+                  "lat" : 56.051434,
+                  "lng" : 25.6406469
+               }
+            }
+         },
+         "place_id" : "ChIJ6V1W6FI66EYR4P7yaM3PAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

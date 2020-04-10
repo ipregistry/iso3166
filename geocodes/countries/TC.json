@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turks and Caicos Islands",
+               "short_name" : "TC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TKCA 1ZZ",
+               "short_name" : "TKCA 1ZZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "TKCA 1ZZ, Turks and Caicos Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.0016285,
+                  "lng" : -71.05949989999999
+               },
+               "southwest" : {
+                  "lat" : 21.1459922,
+                  "lng" : -72.52069999999999
+               }
+            },
+            "location" : {
+               "lat" : 21.694025,
+               "lng" : -71.797928
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.0016285,
+                  "lng" : -71.05949989999999
+               },
+               "southwest" : {
+                  "lat" : 21.1459922,
+                  "lng" : -72.52069999999999
+               }
+            }
+         },
+         "place_id" : "ChIJdWu7vlVfS4kR3sGNAoDHEX4",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

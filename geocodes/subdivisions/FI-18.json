@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uusimaa",
+               "short_name" : "Uusimaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uusimaa, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 26.5905075
+               },
+               "southwest" : {
+                  "lat" : 59.7366942,
+                  "lng" : 22.7612088
+               }
+            },
+            "location" : {
+               "lat" : 60.21872,
+               "lng" : 25.271621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 26.5905075
+               },
+               "southwest" : {
+                  "lat" : 59.7366942,
+                  "lng" : 22.7612088
+               }
+            }
+         },
+         "place_id" : "ChIJjxx_x8PzjUYRoPTt2ZDEppc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

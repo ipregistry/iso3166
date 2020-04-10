@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Croydon",
+               "short_name" : "Croydon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Croydon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.40585189999999,
+                  "lng" : -0.0106914
+               },
+               "southwest" : {
+                  "lat" : 51.3298043,
+                  "lng" : -0.1537876
+               }
+            },
+            "location" : {
+               "lat" : 51.376165,
+               "lng" : -0.098234
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.40585189999999,
+                  "lng" : -0.0106914
+               },
+               "southwest" : {
+                  "lat" : 51.3298043,
+                  "lng" : -0.1537876
+               }
+            }
+         },
+         "place_id" : "ChIJcxZChCr-dUgRRUkMxV3ydNU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

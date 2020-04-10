@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tombali",
+               "short_name" : "Tombali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Catio",
+               "short_name" : "Catio",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tombali Region",
+               "short_name" : "Tombali Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guinea-Bissau",
+               "short_name" : "GW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tombali, Guinea-Bissau",
+         "geometry" : {
+            "location" : {
+               "lat" : 11.300838,
+               "lng" : -15.409939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.3117794,
+                  "lng" : -15.3939316
+               },
+               "southwest" : {
+                  "lat" : 11.2898961,
+                  "lng" : -15.4259464
+               }
+            }
+         },
+         "place_id" : "ChIJ6Q_k5fw_4Q4R5-qtp7-TMy4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

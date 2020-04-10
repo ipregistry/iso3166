@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baħar iċ-Ċagħaq",
+               "short_name" : "Baħar iċ-Ċagħaq",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sprachcaffe Village",
+               "short_name" : "Sprachcaffe Village",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Naxxar",
+               "short_name" : "Naxxar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baħar iċ-Ċagħaq, Naxxar, Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.94729969999999,
+                  "lng" : 14.4641018
+               },
+               "southwest" : {
+                  "lat" : 35.9300657,
+                  "lng" : 14.4463348
+               }
+            },
+            "location" : {
+               "lat" : 35.9372576,
+               "lng" : 14.4519509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.94729969999999,
+                  "lng" : 14.4641018
+               },
+               "southwest" : {
+                  "lat" : 35.9300657,
+                  "lng" : 14.4463348
+               }
+            }
+         },
+         "place_id" : "ChIJCSoKEZlPDhMRyaVCEfeViVA",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

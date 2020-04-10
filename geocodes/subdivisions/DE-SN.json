@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saxony, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.684871,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 50.1713633,
+                  "lng" : 11.8714358
+               }
+            },
+            "location" : {
+               "lat" : 51.1045407,
+               "lng" : 13.2017384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.684871,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 50.1713633,
+                  "lng" : 11.8714358
+               }
+            }
+         },
+         "place_id" : "ChIJR0Kum3LeCUcRsHmIQsuxIQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

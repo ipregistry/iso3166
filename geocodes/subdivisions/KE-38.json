@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siaya",
+               "short_name" : "Siaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Siaya",
+               "short_name" : "Siaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Siaya, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.08874889999999999,
+                  "lng" : 34.3150235
+               },
+               "southwest" : {
+                  "lat" : 0.0399971,
+                  "lng" : 34.2643833
+               }
+            },
+            "location" : {
+               "lat" : 0.0626293,
+               "lng" : 34.2878084
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.08874889999999999,
+                  "lng" : 34.3150235
+               },
+               "southwest" : {
+                  "lat" : 0.0399971,
+                  "lng" : 34.2643833
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ46ygyDHjfxcRNdI6FroevbE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
