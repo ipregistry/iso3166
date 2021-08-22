@@ -1,0 +1,348 @@
+#country_code,alpha2_code,alpha3_code,short_name
+AD,ca,cat,Andorra
+AE,ar,ara,Al Imārāt
+AF,fa,fas,Afghānistān
+AF,ps,pus,Afghānistān
+AG,en,eng,Antigua and Barbuda
+AI,en,eng,Anguilla
+AL,sq,sqi,Shqipëria; Shqipëri
+AM,hy,hye,Hayastan
+AO,pt,por,Angola
+AR,es,spa,Argentina
+AS,en,eng,American Samoa
+AT,de,deu,Österreich
+AU,en,eng,Australia
+AW,nl,nld,Aruba
+AW,,pap,Aruba
+AX,sv,swe,Åland
+AZ,az,aze,Azərbaycan
+BA,bs,bos,Bosna i Hercegovina
+BA,hr,hrv,Bosna i Hercegovina
+BA,sr,srp,Bosna i Hercegovina
+BB,en,eng,Barbados
+BD,bn,ben,Bāṁlādesh
+BE,de,deu,Belgien
+BE,fr,fra,Belgique
+BE,nl,nld,België
+BF,fr,fra,Burkina Faso
+BG,bg,bul,Bulgaria
+BH,ar,ara,Al Baḩrayn
+BI,fr,fra,Burundi
+BI,rn,run,Burundi
+BJ,fr,fra,Bénin
+BL,fr,fra,Saint-Barthélemy
+BM,en,eng,Bermuda
+BN,en,eng,Brunei Darussalam
+BN,ms,msa,Negara Brunei Darussalam
+BO,es,spa,Bolivia
+BQ,en,eng,Bonaire
+BQ,nl,nld,Bonaire
+BQ,,pap,Boneiru
+BR,pt,por,Brasil
+BS,en,eng,Bahamas
+BT,dz,dzo,Druk-Yul
+BV,nn,nno,Bouvetøya
+BV,nb,nob,Bouvetøya
+BW,en,eng,Botswana
+BY,be,bel,Bielaruś
+BY,ru,rus,Belarus'
+BZ,en,eng,Belize
+CA,en,eng,Canada
+CA,fr,fra,Canada
+CC,en,eng,Cocos
+CD,fr,fra,Congo
+CF,fr,fra,République centrafricaine
+CF,sg,sag,Ködörösêse tî Bêafrîka
+CG,fr,fra,Congo
+CH,de,deu,Schweiz
+CH,fr,fra,Suisse
+CH,it,ita,Svizzera
+CH,rm,roh,Svizra
+CI,fr,fra,Côte d'Ivoire
+CK,en,eng,Cook Islands
+CL,es,spa,Chile
+CM,en,eng,Cameroon
+CM,fr,fra,Cameroun
+CN,zh,zho,Zhongguo
+CO,es,spa,Colombia
+CR,es,spa,Costa Rica
+CU,es,spa,Cuba
+CV,pt,por,Cabo Verde
+CW,en,eng,Curaçao
+CW,nl,nld,Curaçao
+CW,,pap,Kòrsou
+CX,en,eng,Christmas Island
+CY,el,ell,Kýpros
+CY,tr,tur,Kıbrıs
+CZ,cs,ces,Česko
+DE,de,deu,Deutschland
+DJ,ar,ara,Jībūtī
+DJ,fr,fra,Djibouti
+DK,da,dan,Danmark
+DM,en,eng,Dominica
+DO,es,spa,República Dominicana
+DZ,ar,ara,Al Jazā'ir
+EC,es,spa,Ecuador
+EE,et,est,Eesti
+EG,ar,ara,Mişr
+EH,ar,ara,Aş Şaḩrā' al Gharbīyah
+ER,ar,ara,Irītrīyā
+ER,en,eng,Eritrea
+ER,ti,tir,Iertra
+ES,es,spa,España
+ET,am,amh,Ītyop'iya
+FI,fi,fin,Suomi
+FI,sv,swe,Finland
+FJ,en,eng,Fiji
+FJ,fj,fij,Viti
+FK,en,eng,Falkland Islands
+FM,en,eng,Micronesia
+FO,da,dan,Færøerne
+FO,fo,fao,Føroyar
+FR,fr,fra,France
+GA,fr,fra,Gabon
+GB,en,eng,United Kingdom of Great Britain and Northern Ireland
+GD,en,eng,Grenada
+GE,ka,kat,Sakartvelo
+GF,fr,fra,Guyane française
+GG,en,eng,Guernsey
+GG,fr,fra,Guernesey
+GH,en,eng,Ghana
+GI,en,eng,Gibraltar
+GL,da,dan,Grønland
+GL,kl,kal,Kalaallit Nunaat
+GM,en,eng,Gambia
+GN,fr,fra,Guinée
+GP,fr,fra,Guadeloupe
+GQ,fr,fra,Guinée équatoriale
+GQ,pt,por,Guiné Equatorial
+GQ,es,spa,Guinea Ecuatorial
+GR,el,ell,Elláda
+GS,en,eng,South Georgia and the South Sandwich Islands
+GT,es,spa,Guatemala
+GU,en,eng,Guam
+GW,pt,por,Guiné-Bissau
+GY,en,eng,Guyana
+HK,en,eng,Hong Kong
+HK,zh,zho,Xianggang
+HM,en,eng,Heard Island and McDonald Islands
+HN,es,spa,Honduras
+HR,hr,hrv,Hrvatska
+HT,fr,fra,Haïti
+HT,ht,hat,Ayiti
+HU,hu,hun,Magyarország
+ID,id,ind,Indonesia
+IE,en,eng,Ireland
+IE,ga,gle,Éire
+IL,ar,ara,Isrā'īl
+IL,he,heb,Yisra'el
+IM,en,eng,Isle of Man
+IN,en,eng,India
+IN,hi,hin,Bhārat
+IO,en,eng,British Indian Ocean Territory
+IQ,ar,ara,Al ‘Irāq
+IQ,ku,kur,‘Êraq
+IR,fa,fas,Jomhūrī-ye Eslāmī-ye Īrān
+IS,is,isl,Ísland
+IT,it,ita,Italia
+JE,en,eng,Jersey
+JE,fr,fra,Jersey
+JM,en,eng,Jamaica
+JO,ar,ara,Al Urdun
+JP,ja,jpn,Nihon/Nippon
+KE,en,eng,Kenya
+KE,sw,swa,Kenya
+KG,ky,kir,Kyrgyzstan
+KG,ru,rus,Kyrgyzstan
+KH,km,khm,Kâmpŭchéa
+KI,en,eng,Kiribati
+KI,,gil,Kiribati
+KM,,002,Komori
+KM,ar,ara,Al Qamar
+KM,fr,fra,Comores
+KN,en,eng,Saint Kitts and Nevis
+KP,ko,kor,Chosŏn
+KR,ko,kor,Hanguk
+KW,ar,ara,Al Kuwayt
+KY,en,eng,Cayman Islands
+KZ,kk,kaz,Qazaqstan
+KZ,ru,rus,Kazahstan
+LA,lo,lao,Sathalanalat Paxathipatai Paxaxôn Lao
+LB,ar,ara,Lubnān
+LC,en,eng,Saint Lucia
+LI,de,deu,Liechtenstein
+LK,en,eng,Sri Lanka
+LK,si,sin,Shrī Laṁkā
+LK,ta,tam,Ilaṅkai
+LR,en,eng,Liberia
+LS,en,eng,Lesotho
+LS,st,sot,Lesotho
+LT,lt,lit,Lietuva
+LU,de,deu,Luxemburg
+LU,fr,fra,Luxembourg
+LU,lb,ltz,Lëtzebuerg
+LV,lv,lav,Latvija
+LY,ar,ara,Lībiyā
+MA,ar,ara,Al Maghrib
+MC,fr,fra,Monaco
+MD,ro,ron,Republica Moldova
+ME,,cnr,Crna Gora
+MF,fr,fra,Saint-Martin
+MG,en,eng,Madagascar
+MG,fr,fra,Madagascar
+MG,mg,mlg,Madagasikara
+MH,en,eng,Marshall Islands
+MH,mh,mah,Aelōn̄ in M̧ajeļ
+MK,mk,mkd,Severna Makedonija
+ML,fr,fra,Mali
+MM,my,mya,Myanma
+MN,mn,mon,Mongol
+MO,pt,por,Macau
+MO,zh,zho,Aomen
+MP,en,eng,Northern Mariana Islands
+MQ,fr,fra,Martinique
+MR,ar,ara,Mūrītāniyā
+MS,en,eng,Montserrat
+MT,en,eng,Malta
+MT,mt,mlt,Malta
+MU,en,eng,Mauritius
+MV,dv,div,Dhivehi Raajje
+MW,en,eng,Malawi
+MW,ny,nya,Malaŵi
+MX,es,spa,México
+MY,ms,msa,Malaysia
+MZ,pt,por,Moçambique
+NA,en,eng,Namibia
+NC,fr,fra,Nouvelle-Calédonie
+NE,fr,fra,Niger
+NF,en,eng,Norfolk Island
+NG,en,eng,Nigeria
+NI,es,spa,Nicaragua
+NL,nl,nld,Nederland
+NO,nn,nno,Noreg
+NO,nb,nob,Norge
+NP,ne,nep,Nepāl
+NR,en,eng,Nauru
+NR,na,nau,Naoero
+NU,en,eng,Niue
+NU,,niu,Niue
+NZ,en,eng,New Zealand
+NZ,mi,mri,Aotearoa
+OM,ar,ara,‘Umān
+PA,es,spa,Panamá
+PE,ay,aym,Perú
+PE,qu,que,Perú
+PE,es,spa,Perú
+PF,fr,fra,Polynésie française
+PG,en,eng,Papua New Guinea
+PG,ho,hmo,Papuaniugini
+PG,,tpi,Papuaniugini
+PH,en,eng,Philippines
+PH,tl,tgl,Pilipinas
+PK,en,eng,Pakistan
+PK,ur,urd,Pākistān
+PL,pl,pol,Polska
+PM,fr,fra,Saint-Pierre-et-Miquelon
+PN,en,eng,Pitcairn
+PR,en,eng,Puerto Rico
+PR,es,spa,Puerto Rico
+PS,ar,ara,Dawlat Filasţīn
+PT,pt,por,Portugal
+PW,en,eng,Palau
+PW,,pau,Belau
+PY,gn,grn,Paraguay
+PY,es,spa,Paraguay
+QA,ar,ara,Qaţar
+RE,fr,fra,Réunion
+RO,ro,ron,România
+RS,sr,srp,Srbija
+RU,ru,rus,Rossijskaja Federacija
+RW,en,eng,Rwanda
+RW,fr,fra,Rwanda
+RW,rw,kin,Rwanda
+SA,ar,ara,As Su‘ūdīyah
+SB,en,eng,Solomon Islands
+SC,,crs,Sesel
+SC,en,eng,Seychelles
+SC,fr,fra,Seychelles
+SD,ar,ara,As Sūdān
+SE,sv,swe,Sverige
+SG,en,eng,Singapore
+SG,ms,msa,Singapura
+SG,ta,tam,Chiṅkappūr
+SG,zh,zho,Xinjiapo
+SH,en,eng,Saint Helena
+SI,sl,slv,Slovenija
+SJ,nn,nno,Svalbard og Jan Mayen
+SJ,nb,nob,Svalbard og Jan Mayen
+SK,sk,slk,Slovensko
+SL,en,eng,Sierra Leone
+SM,it,ita,San Marino
+SN,fr,fra,Sénégal
+SO,ar,ara,Aş Şūmāl
+SO,so,som,Soomaaliya
+SR,nl,nld,Suriname
+SS,en,eng,South Sudan
+ST,pt,por,São Tomé e Príncipe
+SV,es,spa,El Salvador
+SX,en,eng,Sint Maarten
+SX,nl,nld,Sint Maarten
+SY,ar,ara,Al Jumhūrīyah al ‘Arabīyah as Sūrīyah
+SZ,en,eng,Eswatini
+SZ,ss,ssw,eSwatini
+TC,en,eng,Turks and Caicos Islands
+TD,ar,ara,Tshād
+TD,fr,fra,Tchad
+TF,fr,fra,Terres australes françaises
+TG,fr,fra,Togo
+TH,th,tha,Prathet Thai
+TJ,tg,tgk,Tojikiston
+TK,en,eng,Tokelau
+TK,,tkl,Tokelau
+TL,pt,por,Timor-Leste
+TL,,tet,Timor Lorosa'e
+TM,tk,tuk,Türkmenistan
+TN,ar,ara,Tūnis
+TO,en,eng,Tonga
+TO,to,ton,Tonga
+TR,tr,tur,Türkiye
+TT,en,eng,Trinidad and Tobago
+TV,en,eng,Tuvalu
+TV,,tvl,Tuvalu
+TW,zh,zho,Taiwan
+TZ,en,eng,Tanzania
+TZ,sw,swa,Jamhuri ya Muungano wa Tanzania
+UA,uk,ukr,Ukraina
+UG,en,eng,Uganda
+UM,en,eng,United States Minor Outlying Islands
+US,en,eng,United States of America
+UY,es,spa,Uruguay
+UZ,uz,uzb,O‘zbekiston
+VA,it,ita,Santa Sede
+VA,la,lat,Sancta Sedes
+VC,en,eng,Saint Vincent and the Grenadines
+VE,es,spa,Venezuela
+VG,en,eng,Virgin Islands
+VI,en,eng,Virgin Islands
+VN,vi,vie,Việt Nam
+VU,bi,bis,Vanuatu
+VU,en,eng,Vanuatu
+VU,fr,fra,Vanuatu
+WF,fr,fra,Wallis-et-Futuna
+WS,en,eng,Samoa
+WS,sm,smo,Samoa
+YE,ar,ara,Al Yaman
+YT,fr,fra,Mayotte
+ZA,af,afr,Suid-Afrika
+ZA,en,eng,South Africa
+ZA,nr,nbl,Sewula Afrika
+ZA,,nso,Afrika-Borwa
+ZA,st,sot,Afrika-Borwa
+ZA,ss,ssw,Ningizimu Afrika
+ZA,tn,tsn,Afrika-Borwa
+ZA,ts,tso,Afrika-Dzonga
+ZA,ve,ven,Afrika Tshipembe
+ZA,xh,xho,Mzantsi Afrika
+ZA,zu,zul,Ningizimu Afrika
+ZM,en,eng,Zambia
+ZW,en,eng,Zimbabwe
