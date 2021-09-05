@@ -75,7 +75,7 @@ FM,FSM,583,Micronesia,Micronesia (Federated States of)
 FO,FRO,234,Faroe Islands,Faroe Islands (the)
 FR,FRA,250,France,France
 GA,GAB,266,Gabon,Gabon
-GB,GBR,826,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland (the)
+GB,GBR,826,United Kingdom,United Kingdom of Great Britain and Northern Ireland (the)
 GD,GRD,308,Grenada,Grenada
 GE,GEO,268,Georgia,Georgia
 GF,GUF,254,French Guiana,French Guiana
@@ -231,14 +231,14 @@ TZ,TZA,834,Tanzania,"Tanzania, the United Republic of"
 UA,UKR,804,Ukraine,Ukraine
 UG,UGA,800,Uganda,Uganda
 UM,UMI,581,United States Minor Outlying Islands,United States Minor Outlying Islands (the)
-US,USA,840,United States of America,United States of America (the)
+US,USA,840,United States,United States of America (the)
 UY,URY,858,Uruguay,Uruguay
 UZ,UZB,860,Uzbekistan,Uzbekistan
 VA,VAT,336,Holy See,Holy See (the)
 VC,VCT,670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines
 VE,VEN,862,Venezuela,Venezuela (Bolivarian Republic of)
-VG,VGB,92,Virgin Islands,Virgin Islands (British)
-VI,VIR,850,Virgin Islands,Virgin Islands (U.S.)
+VG,VGB,92,Virgin Islands (British),Virgin Islands (United Kingdom)
+VI,VIR,850,Virgin Islands (U.S.),Virgin Islands (United States)
 VN,VNM,704,Viet Nam,Viet Nam
 VU,VUT,548,Vanuatu,Vanuatu
 WF,WLF,876,Wallis and Futuna,Wallis and Futuna
