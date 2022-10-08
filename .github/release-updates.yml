@@ -1,0 +1,32 @@
+name: Commit changes
+on:
+  repository_dispatch:
+    types: [ run-commit-changes ]
+  schedule:
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          ref: master
+      - name: Check out my other private repo
+        uses: actions/checkout@master
+        with:
+          path: private
+          repository: ipregistry/ipregistry-iso3166
+          token: ${{ secrets.GH_ACCESS_TOKEN }}
+      - name: Commit and push changes if needed
+        run: |
+          cp private/output/*.csv .
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add *.csv
+            git commit -m "Automatic update for ISO data on $(date '+%B %d, %Y')"
+            git push
+          fi
