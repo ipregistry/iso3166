@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          ref: master
+          ref: main
       - name: Checkout Private Repository
         uses: actions/checkout@v4
         with:
