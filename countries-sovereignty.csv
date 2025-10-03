@@ -24,6 +24,7 @@ BG,true,
 BH,true,
 BI,true,
 BJ,true,
+BL,false,FR
 BM,false,GB
 BN,true,
 BO,true,
@@ -77,6 +78,7 @@ GA,true,
 GB,true,
 GD,true,
 GE,true,
+GF,false,FR
 GG,false,GB
 GH,true,
 GI,false,GB
